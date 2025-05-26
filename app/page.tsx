@@ -85,11 +85,74 @@ const lectures: Lecture[] = [
     description: "Lecture 10: The Future of Startups and Entrepreneurship",
   },
   {
-    title: "Lecture 11 - The Future of Startups (Sam Altman)",
+    title: "Lecture 11 - Hiring and Culture, Part 2 (Patrick and John Collison, Ben Silbermann)",
     src: "/lectures/lecture-11/lecture.mp4",
     subs: "/lectures/lecture-11/subs.vtt",
     poster: "/lectures/lecture-11/poster.png",
     description: "Lecture 11: Wrap-up and Key Takeaways",
+  },
+  {
+    title: "Lecture 12 - Building for the Enterprise (Aaron Levie)",
+    src: "/lectures/lecture-12/lecture.mp4",
+    subs: "/lectures/lecture-12/subs.vtt",
+    poster: "/lectures/lecture-12/poster.png",
+    description: "Lecture 12: Final Thoughts and Resources",
+  },
+  {
+    title: "Lecture 13 - How to be a Great Founder (Reid Hoffman)",
+    src: "/lectures/lecture-13/lecture.mp4",
+    subs: "/lectures/lecture-13/subs.vtt",
+    poster: "/lectures/lecture-13/poster.png",
+    description: "Lecture 13: How to Start a Startup - Recap and Future Directions",
+  },
+  {
+    title: "Lecture 14 - How to Start a Startup (Sam Altman, Dustin Moskovitz)",
+    src: "/lectures/lecture-14/lecture.mp4",
+    subs: "/lectures/lecture-14/subs.vtt",
+    poster: "/lectures/lecture-14/poster.png",
+    description: "Lecture 14: How to Start a Startup - Final Recap and Resources",
+  },
+  {
+    title: "Lecture 15 - How to Start a Startup (Sam Altman, Dustin Moskovitz)",
+    src: "/lectures/lecture-15/lecture.mp4",
+    subs: "/lectures/lecture-15/subs.vtt",
+    poster: "/lectures/lecture-15/poster.png",
+    description: "Lecture 15: How to Start a Startup - Conclusion and Next Steps",
+  },
+  {
+    title: "Lecture 16 - How to Start a Startup (Sam Altman, Dustin Moskovitz)",
+    src: "/lectures/lecture-16/lecture.mp4",
+    subs: "/lectures/lecture-16/subs.vtt",
+    poster: "/lectures/lecture-16/poster.png",
+    description: "Lecture 16: How to Start a Startup - Final Thoughts and Resources",
+  },
+  {
+    title: "Lecture 17 - How to Start a Startup (Sam Altman, Dustin Moskovitz)",
+    src: "/lectures/lecture-17/lecture.mp4",
+    subs: "/lectures/lecture-17/subs.vtt",
+    poster: "/lectures/lecture-17/poster.png",
+    description: "Lecture 17: How to Start a Startup - Final Recap and Resources",
+  },
+  {
+    title: "Lecture 18 - How to Start a Startup (Sam Altman, Dustin Moskovitz)",
+    src: "/lectures/lecture-18/lecture.mp4",
+    subs: "/lectures/lecture-18/subs.vtt",
+    poster: "/lectures/lecture-18/poster.png",
+    description: "Lecture 18: How to Start a Startup - Conclusion and Next Steps",
+  },
+  {
+    title: "Lecture 19 - How to Start a Startup (Sam Altman, Dustin Moskovitz)",
+    src: "/lectures/lecture-19/lecture.mp4",
+    subs: "/lectures/lecture-19/subs.vtt",
+    poster: "/lectures/lecture-19/poster.png",
+    description: "Lecture 19: How to Start a Startup - Final Thoughts and Resources",
+  },
+  {
+    title: "Lecture 20 - How to Start a Startup (Sam Altman, Dustin Moskovitz)",
+    src: "/lectures/lecture-20/lecture.mp4",
+    subs: "/lectures/lecture-20/subs.vtt",
+    poster: "/lectures/lecture-20/poster.png",
+    description: "Lecture 20: How to Start a Startup - Final Recap and Resources",
   },
 ];
 
@@ -119,6 +182,7 @@ export default function Home() {
       <div className="flex flex-col lg:flex-row gap-5">
         {activeLecture ? (
           <LocalVideo
+            key={activeLecture.title}
             className="lg:w-1/2 w-full aspect-video border"
             src={activeLecture.src}
             subs={activeLecture.subs}
@@ -141,7 +205,9 @@ export default function Home() {
         )}
 
         <div className="flex-col p-2 gap-2 flex">
-          <h2 className="text-2xl font-semibold">How to Start a Startup</h2>
+          <h2 className="text-2xl font-semibold">
+            {activeLecture ? activeLecture.title : "How to Start a Startup"}
+          </h2>
           <p>Click on any of the videos below to watch.</p>
 
           <p>
@@ -161,6 +227,7 @@ export default function Home() {
           >
             <Image
               src={lecture.poster}
+              className="object-cover h-full w-auto"
               width={1280}
               height={720}
               alt={lecture.title + " thumbnail"}
