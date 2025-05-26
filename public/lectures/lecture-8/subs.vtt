@@ -1,0 +1,4769 @@
+WEBVTT
+
+00:00:00.455 --> 00:00:01.805
+Yeah.
+
+00:00:01.805 --> 00:00:03.219
+Thanks for having me, Sam.
+I'm Stanley.
+
+00:00:03.219 --> 00:00:08.112
+I'm the founder of DoorDash
+and it's really amazing to
+
+00:00:08.112 --> 00:00:12.379
+be here because it wasn't
+actually that long ago
+
+00:00:12.379 --> 00:00:17.080
+where I sat in your seats I
+was class of 2014.
+
+00:00:17.080 --> 00:00:19.632
+Graduated in CS, as well as
+my co-founder, Andy.
+
+00:00:19.632 --> 00:00:22.640
+And, for those of you who
+don't know what Doordash is,
+
+00:00:22.640 --> 00:00:25.456
+we're building an on-demand
+delivery network for
+
+00:00:25.456 --> 00:00:26.930
+local cities.
+
+00:00:26.930 --> 00:00:29.730
+And I wanna start off with
+this photo that I
+
+00:00:29.730 --> 00:00:32.670
+took just a few months ago,
+and I think
+
+00:00:32.670 --> 00:00:37.070
+this was the night when we
+just raised our series A.
+
+00:00:37.070 --> 00:00:40.080
+And I took this photo as I
+was walking back
+
+00:00:40.080 --> 00:00:41.480
+to where I lived.
+
+00:00:41.480 --> 00:00:44.570
+I actually lived in Robly at
+the time, on campus.
+
+00:00:44.570 --> 00:00:47.583
+And, I took this photo
+because I realized just how
+
+00:00:47.583 --> 00:00:50.886
+ridiculous the combinations
+of things I was holding in
+
+00:00:50.886 --> 00:00:52.391
+my hand at that time, and
+
+00:00:52.391 --> 00:00:54.640
+I was holding my CS 247
+homework.
+
+00:00:55.720 --> 00:00:57.660
+And then, I had my tax
+forms,
+
+00:00:57.660 --> 00:01:00.530
+since it was April and I had
+to fill out taxes.
+
+00:01:00.530 --> 00:01:02.452
+And then also that yellow
+speeding ticket,
+
+00:01:02.452 --> 00:01:07.020
+and then right below that
+was a $15 million
+
+00:01:07.020 --> 00:01:10.740
+dollar piece of paper I just
+signed from Sequoia.
+
+00:01:10.740 --> 00:01:15.210
+And that kind of summarizes
+just how ridiculous our
+
+00:01:15.210 --> 00:01:18.060
+journey has been, you know,
+starting at Stanford.
+
+00:01:18.060 --> 00:01:20.260
+Doing this while I was at
+Stanford, and
+
+00:01:20.260 --> 00:01:23.980
+then transitioning this into
+an actual startup, and
+
+00:01:23.980 --> 00:01:25.740
+I want to share that story
+with you today.
+
+00:01:27.640 --> 00:01:29.590
+It all began two years ago,
+actually,
+
+00:01:29.590 --> 00:01:34.270
+in a macaron store, it was
+my junior year at Stanford.
+
+00:01:34.270 --> 00:01:36.230
+This was fall quarter, and
+
+00:01:36.230 --> 00:01:39.370
+at that time, I was really
+passionate about, you know,
+
+00:01:39.370 --> 00:01:41.850
+how do you build technology
+for small business owners?
+
+00:01:41.850 --> 00:01:44.100
+And I sat down Chloe, the
+owner of,
+
+00:01:44.100 --> 00:01:45.932
+you know, Chantal Guillon,
+
+00:01:45.932 --> 00:01:48.470
+a macaron store in Palo Alto
+at that time.
+
+00:01:48.470 --> 00:01:50.000
+Just interviewing her, you
+know,
+
+00:01:50.000 --> 00:01:53.400
+trying to get feedback on
+this product prototype we'd
+
+00:01:53.400 --> 00:01:54.010
+been working on.
+
+00:01:54.010 --> 00:01:55.020
+And also just learning
+about,
+
+00:01:55.020 --> 00:01:57.870
+you know, what her problems
+were in general.
+
+00:01:57.870 --> 00:02:01.820
+And it was during this
+meeting when Chloe first
+
+00:02:01.820 --> 00:02:03.902
+brought up this problem of
+delivery.
+
+00:02:03.902 --> 00:02:06.580
+You know, I remember she
+took out this really,
+
+00:02:06.580 --> 00:02:07.980
+really thick booklet.
+
+00:02:07.980 --> 00:02:12.530
+And she showed me pages and
+pages of delivery orders.
+
+00:02:12.530 --> 00:02:15.510
+And a lot of these orders
+she had to turn down because
+
+00:02:15.510 --> 00:02:17.440
+there's no way she could
+have fulfilled them,
+
+00:02:17.440 --> 00:02:20.720
+as she had no drivers and
+she was the one who ended up
+
+00:02:20.720 --> 00:02:23.480
+having to personally deliver
+all these orders.
+
+00:02:25.760 --> 00:02:27.800
+And that was a very
+interesting moment for us.
+
+00:02:27.800 --> 00:02:31.260
+And then we felt next, over
+the next course of,
+
+00:02:31.260 --> 00:02:33.200
+over the course of the next
+few weeks, we talked to,
+
+00:02:33.200 --> 00:02:35.040
+you know, around another
+150,
+
+00:02:35.040 --> 00:02:38.760
+200 small business owners,
+and when we brought up
+
+00:02:38.760 --> 00:02:41.990
+this idea of delivery, they
+kept, you know, they kept,
+
+00:02:41.990 --> 00:02:43.310
+you know, agreeing with us,
+saying yeah,
+
+00:02:43.310 --> 00:02:45.400
+this is a really big problem
+for us, you know.
+
+00:02:45.400 --> 00:02:47.960
+We don't have a delivery
+infrastructure.
+
+00:02:47.960 --> 00:02:49.430
+It's such a huge pain for
+us.
+
+00:02:49.430 --> 00:02:51.720
+There's not any good
+solutions out there.
+
+00:02:51.720 --> 00:02:54.120
+And which led us to wonder,
+you know,
+
+00:02:54.120 --> 00:02:55.260
+delivery is such a common
+thing.
+
+00:02:55.260 --> 00:02:56.950
+You know, it's such an
+obvious thing.
+
+00:02:56.950 --> 00:02:59.700
+Why hasn't anyone solved
+this before, right?
+
+00:02:59.700 --> 00:03:01.180
+Like, we must be missing
+something here.
+
+00:03:01.180 --> 00:03:04.609
+So, we thought maybe because
+people have tried this in
+
+00:03:04.609 --> 00:03:05.808
+the past, right.
+
+00:03:05.808 --> 00:03:09.183
+But they failed because
+there wasn't consumer demand
+
+00:03:09.183 --> 00:03:09.849
+for this.
+
+00:03:09.849 --> 00:03:13.297
+So we thought, okay, how can
+we test this hypothesis?
+
+00:03:13.297 --> 00:03:16.025
+You know, we were just a
+bunch of college kids at
+
+00:03:16.025 --> 00:03:16.716
+that time.
+
+00:03:16.716 --> 00:03:18.354
+You know, we didn't own
+trucks or
+
+00:03:18.354 --> 00:03:21.302
+delivery infrastructures, or
+anything like that, right.
+
+00:03:21.302 --> 00:03:25.270
+We can't just spin up a
+delivery company overnight.
+
+00:03:25.270 --> 00:03:28.250
+So, how can we test this
+assumption we had?
+
+00:03:28.250 --> 00:03:31.400
+So we decided to create a
+simple experiment
+
+00:03:32.940 --> 00:03:34.360
+with restaurant delivery.
+
+00:03:34.360 --> 00:03:37.630
+We spent about an afternoon
+just putting
+
+00:03:37.630 --> 00:03:39.820
+together a really quick
+landing page.
+
+00:03:39.820 --> 00:03:42.930
+And, when I went on the
+internet,
+
+00:03:42.930 --> 00:03:45.720
+I found some PDF menus of,
+you know,
+
+00:03:45.720 --> 00:03:49.390
+restaurants in Palo Alto
+stuck it up there and
+
+00:03:49.390 --> 00:03:51.740
+then had a phone number at
+the bottom, and
+
+00:03:51.740 --> 00:03:54.160
+which was our personal phone
+number, actually.
+
+00:03:54.160 --> 00:03:56.620
+And that was it, we put up
+the landing page,
+
+00:03:56.620 --> 00:03:59.220
+we called it
+PaloAltoDelivery.com.
+
+00:03:59.220 --> 00:04:01.930
+And this is actually what it
+looked like.
+
+00:04:01.930 --> 00:04:06.080
+You know, super, super, you
+know, simple, ugly,
+
+00:04:06.080 --> 00:04:09.080
+like honestly, we weren't
+really expecting anything.
+
+00:04:09.080 --> 00:04:10.720
+We just launched it.
+
+00:04:10.720 --> 00:04:14.210
+And all we wanted to see
+was, you know,
+
+00:04:14.210 --> 00:04:16.490
+would we get phone calls
+from this?
+
+00:04:16.490 --> 00:04:20.500
+And if we got enough phone
+calls, then maybe
+
+00:04:20.500 --> 00:04:23.360
+this delivery idea was
+something worth pursuing.
+
+00:04:23.360 --> 00:04:24.480
+So we put it up there,
+
+00:04:24.480 --> 00:04:25.890
+we weren't really expecting
+anything, and
+
+00:04:25.890 --> 00:04:27.790
+we were driving back home.
+
+00:04:27.790 --> 00:04:30.540
+And all of a sudden we got a
+phone call, you know?
+
+00:04:30.540 --> 00:04:34.240
+Someone called, they wanted
+to order Thai food.
+
+00:04:34.240 --> 00:04:36.560
+And we're like, oh wow, this
+is a real order.
+
+00:04:36.560 --> 00:04:37.630
+Like, you know,
+
+00:04:37.630 --> 00:04:40.392
+we have to do something
+about it, right?
+
+00:04:40.392 --> 00:04:45.960
+So, so we were in our cars,
+and we're, like,
+
+00:04:45.960 --> 00:04:48.160
+okay, like, we're not doing
+anything right now.
+
+00:04:48.160 --> 00:04:49.890
+Might as well just, let's
+just swing by, you know,
+
+00:04:49.890 --> 00:04:52.360
+Siam Royal, pick up some Pad
+Thai and
+
+00:04:52.360 --> 00:04:54.550
+let's just deliver it to
+this person, and
+
+00:04:54.550 --> 00:04:57.330
+let's try to learn how this
+whole delivery thing works.
+
+00:04:57.330 --> 00:04:57.850
+And we did.
+We
+
+00:04:57.850 --> 00:05:00.800
+delivered to this guy up in
+Alpine Road.
+
+00:05:00.800 --> 00:05:04.523
+I remember, he told us, I
+was asking, oh,
+
+00:05:04.523 --> 00:05:06.751
+how did you hear about us?
+
+00:05:06.751 --> 00:05:07.910
+What do you do?
+
+00:05:07.910 --> 00:05:10.140
+And he told us he was a
+scholar.
+
+00:05:10.140 --> 00:05:12.740
+And then he handed me his
+business card, and it
+
+00:05:12.740 --> 00:05:16.830
+said he was the author of a
+book called Weed the People.
+
+00:05:16.830 --> 00:05:19.640
+And that was like our first
+ever delivery, right?
+
+00:05:20.740 --> 00:05:22.215
+It was like the best
+delivery, first
+
+00:05:22.215 --> 00:05:26.350
+delivery/worst delivery you
+could have asked for.
+
+00:05:26.350 --> 00:05:27.530
+You couldn't make this stuff
+up.
+
+00:05:29.440 --> 00:05:30.630
+And, again, in the next day,
+
+00:05:30.630 --> 00:05:33.640
+we got, you know, two more
+phone calls.
+
+00:05:33.640 --> 00:05:35.230
+But yet, the day after that,
+we got five, and
+
+00:05:35.230 --> 00:05:37.270
+then it became seven, and
+then it became ten.
+
+00:05:37.270 --> 00:05:40.590
+And then, soon, we started
+gaining traction on campus
+
+00:05:40.590 --> 00:05:46.110
+with paloaltodelivery.com
+which was pretty crazy.
+
+00:05:46.110 --> 00:05:46.910
+Because think about it,
+
+00:05:46.910 --> 00:05:49.960
+right, this was a landing
+page.
+
+00:05:49.960 --> 00:05:53.320
+You have to look up PDF
+menus to place your order,
+
+00:05:53.320 --> 00:05:54.440
+and they have to call in.
+
+00:05:55.550 --> 00:05:58.580
+This isn't exactly the most
+professional looking site,
+
+00:05:58.580 --> 00:06:01.570
+yet people were still, we
+kept getting phone calls.
+
+00:06:01.570 --> 00:06:03.310
+We kept getting orders.
+
+00:06:03.310 --> 00:06:06.970
+And, that's kind of we knew
+we were on to something,
+
+00:06:06.970 --> 00:06:08.500
+when people were willing.
+
+00:06:09.730 --> 00:06:10.280
+All right.
+We
+
+00:06:10.280 --> 00:06:11.880
+knew we found a need people
+wanted,
+
+00:06:11.880 --> 00:06:14.610
+when people are willing to
+put up with all this.
+
+00:06:14.610 --> 00:06:17.930
+So I think another key point
+to remember is
+
+00:06:19.010 --> 00:06:21.330
+we launched this in about an
+hour, right.
+
+00:06:21.330 --> 00:06:22.700
+Like we didn't spend, you
+know.
+
+00:06:22.700 --> 00:06:24.320
+We didn't have any drivers.
+
+00:06:24.320 --> 00:06:26.520
+We didn't have any
+algorithms.
+
+00:06:26.520 --> 00:06:27.809
+We didn't spend, you know.
+
+00:06:28.850 --> 00:06:29.610
+We didn't have a back-end.
+
+00:06:29.610 --> 00:06:30.570
+We didn't spend 6 months
+
+00:06:30.570 --> 00:06:33.530
+building like a fancy
+dispatch system.
+
+00:06:33.530 --> 00:06:34.800
+We didn't have any of that.
+
+00:06:34.800 --> 00:06:36.840
+We just launched.
+
+00:06:36.840 --> 00:06:37.990
+Because at the beginning,
+
+00:06:37.990 --> 00:06:39.650
+none of that is necessary,
+right?
+
+00:06:39.650 --> 00:06:42.710
+At the beginning, it's all
+about testing your idea,
+
+00:06:42.710 --> 00:06:44.680
+trying to get this thing off
+the ground.
+
+00:06:44.680 --> 00:06:45.780
+And figuring out whether
+this was
+
+00:06:45.780 --> 00:06:48.640
+something people even
+wanted.
+
+00:06:48.640 --> 00:06:51.560
+And it's okay to hack things
+together at the beginning.
+
+00:06:52.820 --> 00:06:55.610
+At YC there's a mantra, we
+like to
+
+00:06:55.610 --> 00:06:57.860
+talk about is doing things
+that don't scale.
+
+00:06:57.860 --> 00:07:00.540
+So at the beginning we were
+the delivery drivers.
+
+00:07:02.240 --> 00:07:04.140
+Now, we would, you know, go
+to class and
+
+00:07:04.140 --> 00:07:07.260
+then after class we'll go,
+you know, deliver food.
+
+00:07:07.260 --> 00:07:09.860
+We were the, you know,
+custom support.
+
+00:07:09.860 --> 00:07:11.270
+Like, I sometimes had to
+
+00:07:11.270 --> 00:07:12.660
+take phone calls during
+lecture.
+
+00:07:15.280 --> 00:07:18.430
+We spent afternoons just
+going down University Avenue
+
+00:07:18.430 --> 00:07:21.130
+passing out flyers about,
+kinda promote DoorDash.
+
+00:07:22.890 --> 00:07:24.360
+I mean, we didn't have any
+dispatch systems.
+
+00:07:24.360 --> 00:07:26.030
+So what we had to do was,
+you know,
+
+00:07:26.030 --> 00:07:29.540
+we used Square to charge all
+of our customers.
+
+00:07:29.540 --> 00:07:32.960
+We used Google Docs to keep
+track of our orders.
+
+00:07:34.420 --> 00:07:37.400
+we used Apple's Find My
+Friends to keep track of
+
+00:07:37.400 --> 00:07:38.990
+where all of our drivers
+were.
+
+00:07:38.990 --> 00:07:40.970
+You know, stuff like that.
+
+00:07:40.970 --> 00:07:42.940
+Just figuring out like
+what's,
+
+00:07:42.940 --> 00:07:44.280
+just hacking together
+solutions,
+
+00:07:44.280 --> 00:07:47.050
+just trying to get this
+thing off the ground.
+
+00:07:47.050 --> 00:07:50.160
+In fact, at one point we
+were growing so fast that
+
+00:07:50.160 --> 00:07:52.810
+Square actually shut our
+account down because we
+
+00:07:52.810 --> 00:07:56.150
+were under suspicions for
+money laundering.
+
+00:07:56.150 --> 00:07:58.440
+>> Think about it, we were
+getting small chunks of
+
+00:07:58.440 --> 00:08:02.290
+like $15, $20 orders coming
+in at a rapid pace.
+
+00:08:02.290 --> 00:08:04.078
+It was, yeah.
+
+00:08:04.078 --> 00:08:06.965
+Luckily, my co-founder Tony
+worked at Square, so he just
+
+00:08:06.965 --> 00:08:13.267
+e-mailed some buddies there
+and everything was solved.
+
+00:08:13.267 --> 00:08:16.530
+>> Yeah, and another thing
+about doing
+
+00:08:16.530 --> 00:08:19.450
+things that don't scale, is
+that it also allows you to
+
+00:08:19.450 --> 00:08:21.850
+become an expert in your
+business.
+
+00:08:21.850 --> 00:08:22.910
+Right?
+Like driving,
+
+00:08:22.910 --> 00:08:25.230
+helps us understand how the
+delivery process worked,
+
+00:08:25.230 --> 00:08:25.880
+you know.
+
+00:08:25.880 --> 00:08:28.630
+We used that as an
+opportunity to talk to
+
+00:08:28.630 --> 00:08:30.560
+customers, talk to our
+restaurants.
+
+00:08:32.250 --> 00:08:34.850
+We did dispatching which
+helped us figure out,
+
+00:08:34.850 --> 00:08:38.990
+you know, how we manually
+dispatched every driver.
+
+00:08:38.990 --> 00:08:40.300
+And that helped us figure
+out, you know,
+
+00:08:40.300 --> 00:08:43.290
+what our driver assignment
+algorithm should look like.
+
+00:08:43.290 --> 00:08:45.670
+We did customer support
+ourselves, you know?
+
+00:08:45.670 --> 00:08:49.230
+Getting real time feedback
+from our customers.
+
+00:08:49.230 --> 00:08:50.910
+I remember, you know, for
+
+00:08:50.910 --> 00:08:53.170
+the first few months when we
+got started,
+
+00:08:53.170 --> 00:08:55.780
+we would manually e-mail
+every single one of our
+
+00:08:55.780 --> 00:08:57.550
+new customers.
+
+00:08:57.550 --> 00:08:59.930
+And at the end of every
+night, and
+
+00:08:59.930 --> 00:09:01.060
+just asking them oh,
+
+00:09:01.060 --> 00:09:04.200
+how was your first delivery,
+how did you hear about us?
+
+00:09:04.200 --> 00:09:06.760
+And we would personalize all
+these e-mails, right?
+
+00:09:06.760 --> 00:09:09.610
+Like if I see someone order
+chicken skewers from
+
+00:09:09.610 --> 00:09:11.570
+Oren's Hummus, I would say
+oh,
+
+00:09:11.570 --> 00:09:13.450
+like, I love Oren's hummus.
+
+00:09:13.450 --> 00:09:16.680
+You know, how were your
+chicken skewers?
+
+00:09:18.100 --> 00:09:19.300
+How did the first delivery
+went?
+
+00:09:19.300 --> 00:09:22.420
+You know, just feedback like
+that was really valuable and
+
+00:09:22.420 --> 00:09:24.413
+customers really, really
+appreciated that.
+
+00:09:24.413 --> 00:09:30.451
+And I remember one time,
+
+00:09:30.451 --> 00:09:35.170
+this is during YC, we were
+out of, we just came out of
+
+00:09:35.170 --> 00:09:37.110
+a meeting with one of our
+restaurant partners, and,
+
+00:09:37.110 --> 00:09:40.310
+you know, we wanted, we
+heard about this ice
+
+00:09:40.310 --> 00:09:42.410
+cream store that just opened
+up, you know,
+
+00:09:42.410 --> 00:09:44.490
+on University Avenue, called
+Cream, and
+
+00:09:44.490 --> 00:09:46.200
+we wanted to go try it out.
+
+00:09:46.200 --> 00:09:49.410
+And then, all of a sudden,
+our co founder back at our,
+
+00:09:49.410 --> 00:09:53.150
+you know, office/house
+texted us saying, oh we need
+
+00:09:53.150 --> 00:09:57.600
+drivers on the road, we, we
+got a huge spike and demand.
+
+00:09:57.600 --> 00:09:59.430
+So we debated for maybe, you
+know,
+
+00:09:59.430 --> 00:10:01.490
+ten seconds like should we
+go get ice cream or
+
+00:10:01.490 --> 00:10:04.500
+should we go deliver?
+
+00:10:04.500 --> 00:10:06.480
+Obviously, we went and
+delivered.
+
+00:10:06.480 --> 00:10:08.490
+But that kinda became our
+motivation on,
+
+00:10:08.490 --> 00:10:09.910
+you know, scaling, right.
+
+00:10:09.910 --> 00:10:12.080
+Like if we can scale then,
+
+00:10:12.080 --> 00:10:13.340
+you could go get ice cream
+next time.
+
+00:10:16.018 --> 00:10:18.800
+So yeah, I think that kinda,
+and now,
+
+00:10:18.800 --> 00:10:21.860
+of course, we've scaled up
+across different cites.
+
+00:10:21.860 --> 00:10:23.180
+Now you have to worry about
+building out
+
+00:10:23.180 --> 00:10:25.420
+automated solutions and
+dispatch systems, and
+
+00:10:25.420 --> 00:10:27.720
+figuring out how do you
+match demand and
+
+00:10:27.720 --> 00:10:31.070
+supply, and all that fancy
+technology stuff.
+
+00:10:31.070 --> 00:10:33.280
+But none of that mattered at
+the beginning.
+
+00:10:33.280 --> 00:10:34.130
+Because at the beginning,
+
+00:10:34.130 --> 00:10:36.490
+it's all about getting this
+thing off the ground and
+
+00:10:36.490 --> 00:10:39.030
+trying to find product
+market fit.
+
+00:10:39.030 --> 00:10:41.010
+So, just to summarize.
+
+00:10:43.270 --> 00:10:47.220
+So the three things I would
+say that I learned from
+
+00:10:47.220 --> 00:10:49.810
+doing DoorDash is first,
+test your hypothesis,
+
+00:10:49.810 --> 00:10:53.140
+you wanna treat your startup
+ideas like experiments.
+
+00:10:53.140 --> 00:10:54.960
+T he second thing is launch
+fast.
+
+00:10:54.960 --> 00:10:56.740
+We launched in, you know,
+less than an hour,
+
+00:10:56.740 --> 00:10:59.260
+where we released a full
+landing page.
+
+00:10:59.260 --> 00:11:02.750
+And finally, it's okay to do
+things that don't scale.
+
+00:11:02.750 --> 00:11:04.850
+Doing things that don't
+scale is one of your biggest
+
+00:11:04.850 --> 00:11:07.820
+competitive advantages when
+you're starting out.
+
+00:11:07.820 --> 00:11:09.090
+And you can figure out how
+to
+
+00:11:09.090 --> 00:11:11.180
+scale once you have the
+demand.
+
+00:11:11.180 --> 00:11:12.560
+And, maybe once you've
+scaled,
+
+00:11:13.680 --> 00:11:14.816
+then you go get that ice
+cream.
+
+00:11:14.816 --> 00:11:16.098
+Thanks.
+
+00:11:20.817 --> 00:11:21.680
+>> Sure.
+
+00:11:21.680 --> 00:11:29.927
+>> How did your first
+customer hear about you?
+
+00:11:29.927 --> 00:11:32.010
+>> Yeah.
+So the question was,
+
+00:11:32.010 --> 00:11:34.440
+how did our first customer
+hear about us?
+
+00:11:34.440 --> 00:11:36.220
+Our very first one, I have
+no idea.
+
+00:11:36.220 --> 00:11:39.730
+We just launched
+PaloAltodelivery.com.
+
+00:11:39.730 --> 00:11:41.660
+We didn't do any marketing.
+
+00:11:41.660 --> 00:11:43.010
+So I assume he just must
+have
+
+00:11:43.010 --> 00:11:46.980
+typed in Palo Alto delivery
+into the web browser.
+
+00:11:46.980 --> 00:11:47.620
+And then after that,
+
+00:11:47.620 --> 00:11:50.620
+we didn't do, we did barely
+any marketing.
+
+00:11:50.620 --> 00:11:53.000
+I think I sent out like one
+email to my dorm.
+
+00:11:53.000 --> 00:11:54.028
+And that was about it.
+
+00:11:54.028 --> 00:11:56.680
+It was all through word of
+mouth and
+
+00:11:56.680 --> 00:11:58.059
+that kind of just validates.
+
+00:11:59.150 --> 00:12:00.790
+You know, just how strong of
+a need you found.
+
+00:12:00.790 --> 00:12:03.330
+You know, when people just
+start talking about you and
+
+00:12:03.330 --> 00:12:06.930
+they're willing to put up
+with all this, you know,
+
+00:12:06.930 --> 00:12:08.710
+terrible user experience,
+terrible design, and
+
+00:12:08.710 --> 00:12:09.380
+stuff like that.
+
+00:12:11.440 --> 00:12:14.340
+>> When you started, it
+seemed so obvious that you
+
+00:12:14.340 --> 00:12:15.690
+were wondering why no one's
+done this.
+
+00:12:15.690 --> 00:12:17.150
+What's your answer now?
+
+00:12:17.150 --> 00:12:17.850
+With that.
+
+00:12:17.850 --> 00:12:19.220
+>> Yeah, I mean, looking
+back, I think,
+
+00:12:21.020 --> 00:12:25.660
+I think the biggest thing is
+mobile.
+
+00:12:27.490 --> 00:12:29.160
+The fact that now everyone
+has one of
+
+00:12:29.160 --> 00:12:30.470
+those in their pocket.
+
+00:12:30.470 --> 00:12:34.010
+And we kinda saw that trend
+and thought, you now,
+
+00:12:34.010 --> 00:12:37.330
+what if you can design, you
+know, a delivery system
+
+00:12:37.330 --> 00:12:40.600
+that's entirely based off
+mobile, where you don't have
+
+00:12:40.600 --> 00:12:44.590
+to have any infrastructure
+or delivery fleets.
+
+00:12:44.590 --> 00:12:46.470
+Instead, you could, you
+know,
+
+00:12:46.470 --> 00:12:47.910
+instead of hiring drivers
+full time,
+
+00:12:47.910 --> 00:12:51.140
+purchasing vehicles, what if
+you can tap into a more
+
+00:12:51.140 --> 00:12:54.170
+on demand pool of
+independent contractors, and
+
+00:12:54.170 --> 00:12:58.930
+only send orders to them
+when they have time.
+
+00:12:58.930 --> 00:13:00.630
+So, that's kind of the, the
+insight we had,
+
+00:13:00.630 --> 00:13:02.450
+we, everything was done
+through mobile.
+
+00:13:06.400 --> 00:13:07.150
+Yeah.
+
+00:13:07.150 --> 00:13:08.870
+>> Did you know you were
+gonna be a startup, or
+
+00:13:08.870 --> 00:13:12.240
+just making some money on a
+website, at first?
+
+00:13:12.240 --> 00:13:13.920
+>> Yeah, I mean, at the time
+we just wanted, we're all
+
+00:13:13.920 --> 00:13:16.100
+really passionate about
+building technology for
+
+00:13:16.100 --> 00:13:17.110
+small business owners.
+
+00:13:19.200 --> 00:13:20.850
+And honestly, this delivery
+things came out of
+
+00:13:20.850 --> 00:13:23.060
+an experiment, right, with
+the landing page.
+
+00:13:23.060 --> 00:13:25.240
+Like it was literally an
+experiment.
+
+00:13:25.240 --> 00:13:27.880
+We didn't, we weren't
+expecting anything and
+
+00:13:27.880 --> 00:13:30.350
+it just took off, and we
+went with it.
+
+00:13:30.350 --> 00:13:32.610
+And logistics was always
+something we were
+
+00:13:32.610 --> 00:13:33.820
+really passionate about as
+well.
+
+00:13:33.820 --> 00:13:35.940
+You know like logistics,
+transportation.
+
+00:13:35.940 --> 00:13:39.420
+It was kind of the perfect
+fusion of, you know,
+
+00:13:39.420 --> 00:13:41.550
+how do you help small
+business owners do delivery?
+
+00:13:44.890 --> 00:13:45.600
+Back there.
+
+00:13:45.600 --> 00:13:49.160
+>> Do you launch the mobile
+app first or the website?
+
+00:13:49.160 --> 00:13:52.183
+And how long did it take
+from idea to
+
+00:13:52.183 --> 00:13:54.440
+your first launch?
+
+00:13:54.440 --> 00:13:55.590
+>> Yeah, we started with
+
+00:13:55.590 --> 00:13:58.390
+this landing page right
+here.
+
+00:13:58.390 --> 00:14:00.670
+Took us an hour to launch.
+
+00:14:05.290 --> 00:14:08.390
+>> How does DoorDash stand
+out in
+
+00:14:08.390 --> 00:14:13.612
+a space filled with and
+other companies.
+
+00:14:13.612 --> 00:14:17.150
+>> Yeah, the question was
+how does DoorDash stand out
+
+00:14:17.150 --> 00:14:18.890
+among a very competitive
+space.
+
+00:14:18.890 --> 00:14:22.940
+I mean, at the beginning, I
+mean for us, consumer demand
+
+00:14:22.940 --> 00:14:25.080
+has never been the problem,
+even up until now.
+
+00:14:25.080 --> 00:14:29.350
+So, for us it's just about,
+you know, finding a need and
+
+00:14:29.350 --> 00:14:32.140
+just focusing on serving
+that demand.
+
+00:14:32.140 --> 00:14:34.446
+So, in the beginning,
+competition doesn't really
+
+00:14:34.446 --> 00:14:36.144
+matter when you're getting
+started.
+
+00:14:44.829 --> 00:14:46.579
+>> Yeah, question was how
+long it took for
+
+00:14:46.579 --> 00:14:48.640
+us to incorporate into a
+company?
+
+00:14:48.640 --> 00:14:49.451
+When we went through YC.
+
+00:14:49.451 --> 00:14:52.053
+So, we launched in January
+2013, and
+
+00:14:52.053 --> 00:14:54.941
+then we did YC that very
+summer, and we, when we
+
+00:14:54.941 --> 00:14:58.439
+decided to take this idea
+through YC, we incorporated.
+
+00:15:01.404 --> 00:15:06.209
+>> One more?
+
+00:15:06.209 --> 00:15:07.550
+Yeah you.
+>> What do
+
+00:15:07.550 --> 00:15:09.660
+you plan to do next, or
+where do you plan to go
+
+00:15:09.660 --> 00:15:12.560
+with this besides like food
+delivery?
+
+00:15:12.560 --> 00:15:14.490
+>> Yeah I mean, the question
+was where do we plan to
+
+00:15:14.490 --> 00:15:15.930
+go beyond food delivery?
+
+00:15:15.930 --> 00:15:19.120
+I mean for us, when we
+started door dash it
+
+00:15:19.120 --> 00:15:21.320
+was always like I said
+about.
+
+00:15:23.010 --> 00:15:24.750
+Helping small business
+owners and
+
+00:15:24.750 --> 00:15:27.990
+figuring out, how do you
+service for
+
+00:15:27.990 --> 00:15:30.530
+any local merchant, whether
+you are a Macaron store or
+
+00:15:30.530 --> 00:15:33.840
+a restaurant or a furniture
+shop.
+
+00:15:35.270 --> 00:15:37.130
+I mean, that's still our
+focus,
+
+00:15:37.130 --> 00:15:39.360
+that's like the long-term
+vision.
+
+00:15:39.360 --> 00:15:40.870
+For now we're just focused
+on rush on
+
+00:15:40.870 --> 00:15:43.240
+delivery as a way to scale,
+but
+
+00:15:43.240 --> 00:15:45.256
+ultimately that's where we
+want it end up in.
+
+00:15:45.256 --> 00:15:45.952
+>> Cool.
+
+00:15:45.952 --> 00:15:46.988
+>> Thanks.
+
+00:15:54.097 --> 00:15:57.388
+>> Okay, next is Walker
+Williams from Teespring,
+
+00:15:57.388 --> 00:16:00.222
+Teespring at the YC, you're
+in Africa?
+
+00:16:00.222 --> 00:16:01.530
+>> Yeah.
+>> I almost rejected them.
+
+00:16:02.930 --> 00:16:04.030
+Sounds like a dumb idea but
+
+00:16:04.030 --> 00:16:05.980
+now they're doing hundreds
+of millions of
+
+00:16:05.980 --> 00:16:08.450
+dollars a year of revenue so
+very lucky to have him.
+
+00:16:08.450 --> 00:16:10.355
+And Walker's gonna talk also
+
+00:16:10.355 --> 00:16:12.520
+about doing things
+non-scale.
+
+00:16:12.520 --> 00:16:15.500
+>> All right.
+
+00:16:15.500 --> 00:16:16.980
+Thank you guys for having
+me.
+
+00:16:16.980 --> 00:16:18.000
+My name is Walker.
+
+00:16:18.000 --> 00:16:20.620
+I'm the CEO and founder of
+Teespring, for
+
+00:16:20.620 --> 00:16:23.156
+those of you guys who don't
+know what Teespring is.
+
+00:16:23.156 --> 00:16:26.160
+We're an e-commerce platform
+that allows entrepreneurs to
+
+00:16:26.160 --> 00:16:27.850
+launch products and
+
+00:16:27.850 --> 00:16:31.830
+apparel brands without
+risks, costs or compromise.
+
+00:16:31.830 --> 00:16:34.680
+Today the company is about
+180 folks and
+
+00:16:34.680 --> 00:16:36.460
+we ship tens of thousands of
+products each day,
+
+00:16:37.510 --> 00:16:40.720
+and I wanna talk to you
+about one of the most
+
+00:16:40.720 --> 00:16:44.135
+fundamental advantages you
+have as a start-up and
+
+00:16:44.135 --> 00:16:48.020
+that's you're able to do
+things that don't scale, and
+
+00:16:48.020 --> 00:16:51.410
+I define things that don't
+scale as things that
+
+00:16:51.410 --> 00:16:53.420
+are sort of fundamentally
+unsustainable.
+
+00:16:53.420 --> 00:16:54.380
+They will not last,
+
+00:16:54.380 --> 00:16:57.200
+they will not bring in the
+millionth user and
+
+00:16:57.200 --> 00:16:59.400
+where they break, it's
+usually time, but
+
+00:16:59.400 --> 00:17:00.670
+it could be a number of
+other things.
+
+00:17:00.670 --> 00:17:01.480
+But it's really growth
+
+00:17:01.480 --> 00:17:06.130
+strategies that won't take
+you to a million users and
+
+00:17:06.130 --> 00:17:08.450
+there's three real places I
+wanna focus on today.
+
+00:17:08.450 --> 00:17:10.820
+First one is finding your
+first users.
+
+00:17:10.820 --> 00:17:14.090
+The second one is turning
+those users into champions,
+
+00:17:14.090 --> 00:17:16.460
+and the third one is finding
+your product and market fit.
+
+00:17:18.270 --> 00:17:22.050
+So finding your first users,
+the first thing you have to
+
+00:17:22.050 --> 00:17:24.790
+understand is that there is
+no silver bullet for
+
+00:17:24.790 --> 00:17:25.670
+user acquisition.
+
+00:17:25.670 --> 00:17:29.280
+Everybody and this includes
+me when we got started,
+
+00:17:29.280 --> 00:17:31.400
+you look for that, that
+dream solution,
+
+00:17:31.400 --> 00:17:35.330
+that pay-per-click campaign
+that has tremendous ROI.
+
+00:17:35.330 --> 00:17:37.200
+Some accelerating
+partnership that's gonna
+
+00:17:37.200 --> 00:17:40.030
+springboard you into the
+stratosphere, an affiliate
+
+00:17:40.030 --> 00:17:42.490
+agreement, something that
+solves it for you.
+
+00:17:42.490 --> 00:17:43.810
+But the reality is for
+
+00:17:43.810 --> 00:17:45.240
+the vast majority of
+companies and
+
+00:17:45.240 --> 00:17:48.110
+in fact, for every company
+that I've had the chance to
+
+00:17:48.110 --> 00:17:50.900
+speak to CEO of, that's just
+not possible.
+
+00:17:50.900 --> 00:17:52.290
+Those are unicorns and
+
+00:17:52.290 --> 00:17:54.620
+most of the companies that
+from the outside look
+
+00:17:54.620 --> 00:17:57.260
+like they've had this dream
+growth curve.
+
+00:17:57.260 --> 00:18:00.810
+The reality is that those
+first users were impossibly
+
+00:18:00.810 --> 00:18:04.485
+hard to get and let me tell
+you about
+
+00:18:04.485 --> 00:18:08.280
+the story of a ridiculously
+unsustainable business.
+
+00:18:08.280 --> 00:18:10.490
+So, this is teespring in
+2012.
+
+00:18:10.490 --> 00:18:16.070
+When we first got, when we
+first launched the business
+
+00:18:16.070 --> 00:18:19.270
+couldn't have looked worse
+it took days of meetings.
+
+00:18:19.270 --> 00:18:21.330
+We had to offer free design
+and
+
+00:18:21.330 --> 00:18:23.000
+days of revisions back and
+forth.
+
+00:18:23.000 --> 00:18:24.870
+We'd have to launch the
+product ourselves.
+
+00:18:24.870 --> 00:18:26.770
+We'd have to do the social
+media.
+
+00:18:26.770 --> 00:18:30.124
+All the sell like 50 shirts
+for a local non-profit, and
+
+00:18:30.124 --> 00:18:32.247
+generate $1,000 of revenue,
+
+00:18:32.247 --> 00:18:34.880
+anybody looking in would
+have said.
+
+00:18:34.880 --> 00:18:38.330
+You guys need to give up,
+this is a terrible idea.
+
+00:18:38.330 --> 00:18:41.450
+But as time went on, those
+users started to
+
+00:18:41.450 --> 00:18:44.100
+add up and I think something
+you have to
+
+00:18:44.100 --> 00:18:46.940
+understand is that when you
+first launch a company,
+
+00:18:46.940 --> 00:18:49.900
+just by virtue of the fact
+that it's a new product,
+
+00:18:49.900 --> 00:18:51.570
+you're gonna be bad at
+selling it, right?
+
+00:18:51.570 --> 00:18:54.610
+You've got no idea what the
+paying points of customers
+
+00:18:54.610 --> 00:18:56.260
+really are.
+
+00:18:56.260 --> 00:18:57.550
+You've never sold it before.
+
+00:18:57.550 --> 00:18:59.610
+You don't have any success
+stories to point to or
+
+00:18:59.610 --> 00:19:00.880
+testimonials.
+
+00:19:00.880 --> 00:19:04.650
+Those first users are always
+going to be the hardest, and
+
+00:19:04.650 --> 00:19:08.660
+so it's your responsibility
+as a founder to do
+
+00:19:08.660 --> 00:19:12.290
+whatever it takes to bring
+in your first users and
+
+00:19:12.290 --> 00:19:14.548
+it's gonna be different for
+every company.
+
+00:19:14.548 --> 00:19:18.110
+The common thread that I
+hear is founders need to
+
+00:19:18.110 --> 00:19:19.890
+spend personal time and
+effort.
+
+00:19:19.890 --> 00:19:21.320
+A lot of their personal time
+and
+
+00:19:21.320 --> 00:19:23.675
+effort to bring those users
+in themselves,
+
+00:19:23.675 --> 00:19:25.900
+it can mean a number of
+thing.
+
+00:19:25.900 --> 00:19:29.830
+Everything from sending 100
+emails a day, getting on
+
+00:19:29.830 --> 00:19:32.770
+the phone and just calling
+as many people as you can,
+
+00:19:32.770 --> 00:19:33.870
+going through a network,
+
+00:19:33.870 --> 00:19:37.150
+if you have a network like
+Standford or Y Combinator.
+
+00:19:37.150 --> 00:19:41.820
+Anything you can do to get
+that first user and I really
+
+00:19:41.820 --> 00:19:45.730
+equate it to pushing a
+boulder up a hill and
+
+00:19:45.730 --> 00:19:48.820
+if you think of like a very
+sort of smooth hill,
+
+00:19:48.820 --> 00:19:50.010
+when you get started.
+
+00:19:50.010 --> 00:19:52.380
+The incline is the steepest
+in those first inches are
+
+00:19:52.380 --> 00:19:55.770
+the hardest and over time as
+you get farther and farther.
+
+00:19:55.770 --> 00:19:58.020
+The incline stays out, it
+gets easier and
+
+00:19:58.020 --> 00:20:00.220
+hopefully, eventually you
+reached a point where you're
+
+00:20:00.220 --> 00:20:02.280
+at the top of the hill and
+the boulder starts to
+
+00:20:02.280 --> 00:20:05.710
+roll on its own, and so
+those first users,
+
+00:20:05.710 --> 00:20:09.330
+you just cannot focus on ROI
+in the sense of time.
+
+00:20:09.330 --> 00:20:11.880
+Do not expect to spend an
+hour and
+
+00:20:11.880 --> 00:20:13.230
+return thousands of dollars.
+
+00:20:13.230 --> 00:20:15.190
+Maybe Stanley is one of
+those unicorns that was
+
+00:20:15.190 --> 00:20:16.560
+a pretty incredible story.
+
+00:20:16.560 --> 00:20:20.090
+But for most of us those
+first users
+
+00:20:20.090 --> 00:20:22.910
+are going to take a lot of a
+hand holding, a lot of
+
+00:20:22.910 --> 00:20:26.450
+personal love and that's
+okay, that's essential for
+
+00:20:26.450 --> 00:20:30.150
+building a company, and the
+one sort of caveat of that
+
+00:20:30.150 --> 00:20:33.670
+is that I don't recommend
+giving away your product for
+
+00:20:33.670 --> 00:20:36.460
+free and there's plenty of
+exceptions to this rule.
+
+00:20:36.460 --> 00:20:41.270
+But in general cutting costs
+or giving the product away
+
+00:20:41.270 --> 00:20:43.730
+is an unsustainable strategy
+I wouldn't recommend.
+
+00:20:43.730 --> 00:20:48.040
+You need to make sure that
+users value your product and
+
+00:20:48.040 --> 00:20:52.990
+people have a different,
+they treat products that
+
+00:20:52.990 --> 00:20:55.910
+are free in a much different
+way than a paid product and
+
+00:20:55.910 --> 00:20:58.980
+often times it can give you
+a false sense of security if
+
+00:20:58.980 --> 00:21:00.620
+oh, we're getting all these
+users surely we
+
+00:21:00.620 --> 00:21:01.810
+can convert them over to
+paid.
+
+00:21:03.130 --> 00:21:05.580
+The second aspect is what
+happens when you get those
+
+00:21:05.580 --> 00:21:08.580
+users, how do you turn those
+users into champions and
+
+00:21:08.580 --> 00:21:11.870
+a champion is a user who
+talks about and
+
+00:21:11.870 --> 00:21:13.540
+advocates for your product.
+
+00:21:13.540 --> 00:21:17.050
+And I'm a firm believer that
+every company with a great
+
+00:21:17.050 --> 00:21:20.950
+growth strategy has users
+who are champions and so
+
+00:21:20.950 --> 00:21:23.370
+really the easiest way to
+build.
+
+00:21:23.370 --> 00:21:27.180
+Turn a user in to a champion
+is to delight them with
+
+00:21:27.180 --> 00:21:28.910
+an experience their gonna
+remember so
+
+00:21:28.910 --> 00:21:30.920
+something that's unusual or
+
+00:21:30.920 --> 00:21:34.970
+out of the ordinary an
+exceptional experience and
+
+00:21:34.970 --> 00:21:37.290
+the easiest way to do this
+early and
+
+00:21:37.290 --> 00:21:39.570
+again something that is
+completely unsustainable,
+
+00:21:39.570 --> 00:21:43.140
+it's not gonna scale forever
+is to just talk to
+
+00:21:43.140 --> 00:21:46.450
+those users and people will
+say this all the time,
+
+00:21:46.450 --> 00:21:46.960
+and you hear it.
+
+00:21:46.960 --> 00:21:48.775
+It's one of the sort of core
+tenants of why
+
+00:21:48.775 --> 00:21:52.740
+combinators talk to users
+but I cannot stress
+
+00:21:52.740 --> 00:21:56.620
+how important it is that you
+spend a large chunk of your
+
+00:21:56.620 --> 00:22:01.400
+time talking to users, and
+you should do it constantly,
+
+00:22:01.400 --> 00:22:04.800
+every single day and as long
+as possible.
+
+00:22:04.800 --> 00:22:05.800
+Today at Teespring,
+
+00:22:05.800 --> 00:22:07.840
+I'm still the catch all
+email address, so
+
+00:22:07.840 --> 00:22:11.400
+anytime somebody misspells
+support or writes an email
+
+00:22:11.400 --> 00:22:14.030
+address that doesn't exist,
+I get that email, and so
+
+00:22:14.030 --> 00:22:17.770
+I still do about 12 to 20
+customer service tickets
+
+00:22:17.770 --> 00:22:18.910
+every single day.
+
+00:22:18.910 --> 00:22:21.740
+I spend hours each night
+reading every single tweet,
+
+00:22:21.740 --> 00:22:24.600
+probably a little bit OCD,
+but that's okay.
+
+00:22:24.600 --> 00:22:26.920
+I read through all the
+Teespring communities.
+
+00:22:26.920 --> 00:22:29.110
+You're never gonna get a
+better sense for
+
+00:22:29.110 --> 00:22:33.230
+your product than actually
+listening to real users, and
+
+00:22:33.230 --> 00:22:36.010
+especially in the early
+days, you're just,
+
+00:22:36.010 --> 00:22:37.440
+the products you launch
+with, and
+
+00:22:37.440 --> 00:22:40.400
+the features set you launch
+with, is almost certainly
+
+00:22:40.400 --> 00:22:44.370
+not going to be the feature
+set that you scale with and
+
+00:22:44.370 --> 00:22:46.080
+the quicker you talk to
+users and
+
+00:22:46.080 --> 00:22:48.010
+learn what they actually
+need,.
+
+00:22:48.010 --> 00:22:49.480
+The faster you can get to
+that point.
+
+00:22:50.560 --> 00:22:53.550
+So there's three ways to
+talk to your customers,
+
+00:22:53.550 --> 00:22:55.540
+you can run customer service
+yourself,
+
+00:22:55.540 --> 00:23:01.110
+up until Teespring was doing
+about $130-$140,000 a month
+
+00:23:01.110 --> 00:23:02.580
+my co-founder Evan and
+
+00:23:02.580 --> 00:23:05.360
+I did everything in customer
+service.
+
+00:23:05.360 --> 00:23:07.660
+This is one that there's
+gonna be an instinct to
+
+00:23:07.660 --> 00:23:11.000
+quickly pass off and that's
+because it's painful.
+
+00:23:11.000 --> 00:23:13.990
+Even today, when I open our
+customer service
+
+00:23:13.990 --> 00:23:17.590
+portal, I have like an
+emotional reaction where my
+
+00:23:17.590 --> 00:23:21.060
+stomach sinks because it
+sucks talking to users
+
+00:23:21.060 --> 00:23:23.830
+who have had a terrible
+experience and it's painful.
+
+00:23:23.830 --> 00:23:25.790
+It's something that you love
+and you put so
+
+00:23:25.790 --> 00:23:29.260
+much effort into and you've
+gotten it wrong or
+
+00:23:29.260 --> 00:23:30.800
+they've had a terrible
+experience or
+
+00:23:30.800 --> 00:23:33.000
+somebody didn't treat them
+right.
+
+00:23:33.000 --> 00:23:36.010
+But it's so important that
+you go through that and
+
+00:23:36.010 --> 00:23:39.620
+learn what you need to
+build, what you need to fix.
+
+00:23:39.620 --> 00:23:42.160
+The second step is to
+proactively reach out
+
+00:23:42.160 --> 00:23:44.030
+to current and churned
+customers and
+
+00:23:44.030 --> 00:23:46.630
+churned customers are
+customers who have left, and
+
+00:23:46.630 --> 00:23:50.330
+this is one that often falls
+by the wayside in sort of.
+
+00:23:50.330 --> 00:23:54.850
+The pursuit of new customers
+but you wanna make sure that
+
+00:23:54.850 --> 00:23:58.190
+your customers are having a
+consistent, good experience.
+
+00:23:58.190 --> 00:24:00.300
+You don't wanna just leave
+those current users as
+
+00:24:00.300 --> 00:24:03.400
+sort of, you don't want take
+them for granted and
+
+00:24:03.400 --> 00:24:06.290
+then when a user actually
+leaves your service,.
+
+00:24:06.290 --> 00:24:07.170
+You wanna reach out and
+
+00:24:07.170 --> 00:24:10.750
+find out why both because
+that personal outreach can
+
+00:24:10.750 --> 00:24:13.210
+make the difference between
+leaving and staying.
+
+00:24:13.210 --> 00:24:15.880
+Sometimes people just need
+to know that you care and
+
+00:24:15.880 --> 00:24:17.648
+it's going to get better and
+
+00:24:17.648 --> 00:24:21.460
+because even if you can't
+bring them back
+
+00:24:21.460 --> 00:24:23.350
+there's a chance that you
+can learn from the mistake
+
+00:24:23.350 --> 00:24:25.930
+that you made that caused
+them to leave and fix it so
+
+00:24:25.930 --> 00:24:28.840
+you don't churn users out
+the same way in the future.
+
+00:24:28.840 --> 00:24:30.480
+And the final one is, again,
+
+00:24:30.480 --> 00:24:32.810
+the one that I'm probably
+too OCD about, but
+
+00:24:32.810 --> 00:24:34.860
+it's social media and
+communities.
+
+00:24:34.860 --> 00:24:35.630
+You need to know how
+
+00:24:35.630 --> 00:24:37.760
+people are talking about
+your brand.
+
+00:24:37.760 --> 00:24:41.070
+You need to reach out and
+make sure that,
+
+00:24:41.070 --> 00:24:42.830
+when somebody does have a
+bad experience and
+
+00:24:42.830 --> 00:24:44.940
+they're talking about it,
+that you make it right.
+
+00:24:46.650 --> 00:24:48.720
+Problems are inevitable in
+start-ups,
+
+00:24:48.720 --> 00:24:49.610
+there's gonna be issues,
+
+00:24:49.610 --> 00:24:51.120
+you're not gonna have the
+perfect product,
+
+00:24:51.120 --> 00:24:53.770
+things are gonna break,
+things are gonna go wrong.
+
+00:24:53.770 --> 00:24:57.330
+That's not important, what's
+important is to
+
+00:24:57.330 --> 00:25:02.070
+always make it right, to
+always go the extra mile and
+
+00:25:02.070 --> 00:25:03.750
+make that customer happy.
+
+00:25:03.750 --> 00:25:06.430
+One detractor who has had a
+terrible experience on your
+
+00:25:06.430 --> 00:25:09.870
+platform is enough to
+reverse the progress of
+
+00:25:09.870 --> 00:25:11.030
+ten champions.
+
+00:25:11.030 --> 00:25:13.840
+It's all it takes is one
+person out there to say, no.
+
+00:25:13.840 --> 00:25:15.540
+You shouldn't use those guys
+for X, Y, and
+
+00:25:15.540 --> 00:25:18.920
+Z reason, to ruin a ton of
+momentum.
+
+00:25:18.920 --> 00:25:22.680
+So even if it's there's
+examples in the early
+
+00:25:22.680 --> 00:25:25.070
+days where we would mess up
+massive orders.
+
+00:25:25.070 --> 00:25:26.980
+We would print the colors
+slightly wrong,
+
+00:25:26.980 --> 00:25:28.670
+it would be the wrong size
+and
+
+00:25:28.670 --> 00:25:30.260
+it would be like half of our
+GMV for
+
+00:25:30.260 --> 00:25:32.550
+that month and we would know
+we got it wrong.
+
+00:25:32.550 --> 00:25:34.390
+The customer would be
+unhappy and
+
+00:25:34.390 --> 00:25:37.570
+sort of this instinct is
+well, it's only a little bit
+
+00:25:37.570 --> 00:25:40.360
+off or it's not completely
+wrong it'll be fine.
+
+00:25:40.360 --> 00:25:42.190
+But the reality is you've
+just got to bite the bullet
+
+00:25:42.190 --> 00:25:45.050
+and make sure that's it
+right, and those customers,
+
+00:25:45.050 --> 00:25:47.650
+the customers that are often
+originally the most
+
+00:25:47.650 --> 00:25:51.260
+frustrated tend to turn into
+the biggest champions and
+
+00:25:51.260 --> 00:25:52.479
+the longest term users.
+
+00:25:54.810 --> 00:25:55.410
+And the last one I
+
+00:25:55.410 --> 00:25:59.410
+wanna talk about is finding
+product and market fit and
+
+00:25:59.410 --> 00:26:02.790
+what I mean that is that I
+mentioned this earlier.
+
+00:26:02.790 --> 00:26:06.550
+But the product you launch
+with will almost certainly
+
+00:26:06.550 --> 00:26:11.090
+not be the product that
+takes you to scale and so
+
+00:26:11.090 --> 00:26:13.470
+you're job in those early
+moments or
+
+00:26:13.470 --> 00:26:15.450
+those early days of a
+start-up.
+
+00:26:15.450 --> 00:26:20.270
+Is to progress and iterate
+as fast as possible to reach
+
+00:26:20.270 --> 00:26:24.440
+that product that does have
+market fit and as engineers
+
+00:26:24.440 --> 00:26:27.250
+you're instinct is gonna be
+to build a platform with
+
+00:26:27.250 --> 00:26:30.090
+beautiful clean code that
+scales right?
+
+00:26:30.090 --> 00:26:33.239
+You don't wanna write sort
+of duct tape code that's
+
+00:26:33.239 --> 00:26:35.590
+gonna pile on technical
+debt.
+
+00:26:35.590 --> 00:26:39.710
+But you need to optimize for
+speed over scalability and
+
+00:26:39.710 --> 00:26:42.380
+clean code and sort of an
+example of this is,
+
+00:26:42.380 --> 00:26:43.790
+in the early days,
+
+00:26:43.790 --> 00:26:45.870
+we had a couple enterprise
+customers come to us.
+
+00:26:45.870 --> 00:26:47.960
+Sort of bigger non-profits
+and
+
+00:26:47.960 --> 00:26:50.980
+say, hey, we really like
+your service but
+
+00:26:50.980 --> 00:26:52.650
+you're missing these
+fundamental things.
+
+00:26:52.650 --> 00:26:55.740
+So we can't, we're not gonna
+use it and we looked at sort
+
+00:26:55.740 --> 00:26:58.120
+of what it would take to
+build out those features and
+
+00:26:58.120 --> 00:26:59.920
+we weren't sure they were
+gonna work long-term, but
+
+00:26:59.920 --> 00:27:01.378
+we wanted to try it.
+
+00:27:01.378 --> 00:27:05.860
+And my co-founder Evan who
+is our CTO and a million
+
+00:27:05.860 --> 00:27:09.680
+times better developer than
+I am, sort of run the map
+
+00:27:09.680 --> 00:27:12.470
+and figured out that if we
+did it the right way.
+
+00:27:12.470 --> 00:27:14.150
+It was gonna take about a
+month to build out
+
+00:27:14.150 --> 00:27:15.130
+these features and
+
+00:27:15.130 --> 00:27:17.770
+in a start-up, a month you
+live in dog years.
+
+00:27:17.770 --> 00:27:20.240
+A month is a year and that
+just wasn't gonna do.
+
+00:27:20.240 --> 00:27:23.480
+So he actually went out,
+duplicated the code base,
+
+00:27:23.480 --> 00:27:25.970
+duplicated the database and
+was able to
+
+00:27:25.970 --> 00:27:28.840
+basically build a completely
+different product that he
+
+00:27:28.840 --> 00:27:31.280
+didn't have to worry about
+the existing users for,
+
+00:27:31.280 --> 00:27:33.180
+to serve these enterprise
+customers.
+
+00:27:33.180 --> 00:27:34.500
+We gave them the tool,
+
+00:27:34.500 --> 00:27:36.570
+they on-boarded, they
+generate a lot of revenue.
+
+00:27:36.570 --> 00:27:39.210
+Eventually, we learned what
+features were core and
+
+00:27:39.210 --> 00:27:41.290
+we integrated them into the
+core product, but
+
+00:27:41.290 --> 00:27:42.940
+what would have taken a
+month,
+
+00:27:42.940 --> 00:27:45.730
+we were able to do in three
+to four days.
+
+00:27:48.350 --> 00:27:51.748
+A great rule of thumb is to
+only worry about the next
+
+00:27:51.748 --> 00:27:53.930
+order of magnitude.
+
+00:27:53.930 --> 00:27:56.880
+So when you have your tenth
+user, you shouldn't be
+
+00:27:56.880 --> 00:27:59.210
+wondering, well, how are we
+gonna serve a million users.
+
+00:27:59.210 --> 00:28:02.040
+You should be worried about
+how are we gonna get to 100?
+
+00:28:02.040 --> 00:28:04.560
+When you're at 100, you
+should think about 1,000.
+
+00:28:04.560 --> 00:28:07.090
+It's one of those things
+where necessity is
+
+00:28:07.090 --> 00:28:08.830
+the mother of invention of
+all inventions.
+
+00:28:08.830 --> 00:28:11.710
+So, when you hit that
+breaking point, like
+
+00:28:11.710 --> 00:28:15.320
+the Twitter Fail Whale is a
+great example and Teespring.
+
+00:28:15.320 --> 00:28:18.330
+There were months, month
+stretches where
+
+00:28:18.330 --> 00:28:21.630
+every single night, the site
+would crash, every night and
+
+00:28:21.630 --> 00:28:24.660
+during the day and every
+single person on the team
+
+00:28:24.660 --> 00:28:27.830
+would go to sleep with their
+phone on loud under their
+
+00:28:27.830 --> 00:28:31.040
+pillow so that inevitably,
+when the buzzer went off,
+
+00:28:31.040 --> 00:28:32.920
+we could quickly get up,
+restart the servers and
+
+00:28:32.920 --> 00:28:35.260
+go back to sleep and this
+would happen daily.
+
+00:28:35.260 --> 00:28:37.610
+But the reality is that it
+was worth it and
+
+00:28:37.610 --> 00:28:40.230
+you'll end up with these
+huge pain points and
+
+00:28:40.230 --> 00:28:41.955
+all this technical debt and
+regret.
+
+00:28:41.955 --> 00:28:46.400
+But it's worth it, just to
+get to that end goal and
+
+00:28:46.400 --> 00:28:49.970
+that product fit faster, you
+will make it work,
+
+00:28:49.970 --> 00:28:54.490
+you will survive that those
+sort of bumps are just speed
+
+00:28:54.490 --> 00:28:56.810
+bumps and speed is so, so
+important early.
+
+00:28:59.040 --> 00:29:03.470
+So, the lesson that I've
+been learning lately is
+
+00:29:03.470 --> 00:29:06.510
+you want to do these things
+that don't scale as long
+
+00:29:06.510 --> 00:29:07.210
+as possible.
+
+00:29:07.210 --> 00:29:09.090
+There's not some magical
+moment,
+
+00:29:09.090 --> 00:29:12.080
+it's not the series A, it's
+not when you hit a certain
+
+00:29:12.080 --> 00:29:14.810
+revenue milestone that you
+stop doing things that
+
+00:29:14.810 --> 00:29:15.800
+don't scale.
+
+00:29:15.800 --> 00:29:18.620
+This is one of your biggest
+advantages as a company,
+
+00:29:18.620 --> 00:29:20.510
+and the moment you give it
+up.
+
+00:29:20.510 --> 00:29:22.420
+You're giving your
+competitors that are smaller
+
+00:29:22.420 --> 00:29:25.540
+that can still do things,
+that advantage over you.
+
+00:29:25.540 --> 00:29:27.730
+So, as long as humanly
+possible,
+
+00:29:27.730 --> 00:29:30.180
+as long as it is a net
+positive,
+
+00:29:30.180 --> 00:29:32.870
+you need to be spending time
+talking to your users.
+
+00:29:32.870 --> 00:29:34.440
+You need to move fast in
+development,
+
+00:29:34.440 --> 00:29:36.420
+as fast as possible.
+
+00:29:36.420 --> 00:29:39.260
+But don't give it up
+willingly, it should be
+
+00:29:39.260 --> 00:29:42.772
+ripped from you, and so sort
+of trying to practice what I
+
+00:29:42.772 --> 00:29:45.712
+preach I wanna give you guys
+my email address.
+
+00:29:45.712 --> 00:29:47.271
+If you guys have any
+questions,
+
+00:29:47.271 --> 00:29:49.062
+if you wanna learn about
+Teespring,
+
+00:29:49.062 --> 00:29:51.720
+if you wanna print some
+t-shirts, fingers crossed,
+
+00:29:51.720 --> 00:29:52.903
+just shoot me an email.
+
+00:29:52.903 --> 00:29:56.225
+I'd love to help and I'd
+love to speak to you.
+
+00:29:56.225 --> 00:29:59.015
+And the last thing is we've
+created an official how to
+
+00:29:59.015 --> 00:30:01.380
+start a start up tee with
+Sam.
+
+00:30:01.380 --> 00:30:03.140
+And all proceeds are going
+to Watsi.
+
+00:30:03.140 --> 00:30:05.460
+I couldn't miss this
+opportunity to sell.
+
+00:30:05.460 --> 00:30:08.570
+So if you guys wanna grab
+one of the official tees,
+
+00:30:08.570 --> 00:30:11.510
+just go to
+teespring.com/startup and
+
+00:30:11.510 --> 00:30:12.724
+it's supporting a great
+cause.
+
+00:30:12.724 --> 00:30:15.848
+Thank you.
+
+00:30:20.536 --> 00:30:22.100
+Sure.
+
+00:30:22.100 --> 00:30:24.840
+Go ahead.
+
+00:30:24.840 --> 00:30:26.669
+Yep.
+The T-shirt printing
+
+00:30:26.669 --> 00:30:31.468
+business, it seems like it
+has a lot of So what made
+
+00:30:31.468 --> 00:30:33.643
+you, what convinced you, to
+think this is a viable
+
+00:30:33.643 --> 00:30:36.082
+market even with all that's
+going on in the world today?
+
+00:30:36.082 --> 00:30:38.250
+Sure.
+
+00:30:38.250 --> 00:30:41.390
+You know, so the question
+was, the T-shirt printing
+
+00:30:41.390 --> 00:30:43.350
+business has a lot of
+competition.
+
+00:30:43.350 --> 00:30:45.550
+What would convince us to
+get into the market?
+
+00:30:45.550 --> 00:30:47.310
+I think there's two factors
+to it.
+
+00:30:47.310 --> 00:30:49.530
+So first, I completely
+agree.
+
+00:30:49.530 --> 00:30:51.940
+From the outside, people
+have been telling us
+
+00:30:51.940 --> 00:30:54.950
+that this is a silly idea
+since day one.
+
+00:30:54.950 --> 00:30:57.980
+And sort of that every order
+of magnitude we reach,
+
+00:30:57.980 --> 00:31:00.180
+people will come and say
+hey, that's a terrible,
+
+00:31:00.180 --> 00:31:02.370
+terrible idea why are you
+doing that?
+
+00:31:02.370 --> 00:31:05.370
+But the reason that we
+launched Teespring is
+
+00:31:05.370 --> 00:31:09.020
+because we ran into a
+personal pain point where we
+
+00:31:09.020 --> 00:31:11.830
+had a need and we looked at
+the current solutions.
+
+00:31:11.830 --> 00:31:13.090
+I was a student at Brown,
+and
+
+00:31:13.090 --> 00:31:15.770
+I was trying to create a
+remember the bar shirt for
+
+00:31:15.770 --> 00:31:17.720
+a dive bar that got shut
+down.
+
+00:31:17.720 --> 00:31:19.788
+And I realized that nothing
+needed,
+
+00:31:19.788 --> 00:31:21.960
+nothing matched my needs.
+
+00:31:21.960 --> 00:31:25.310
+And so, because I knew that
+I had that pain point.
+
+00:31:25.310 --> 00:31:26.790
+And I knew there was market
+fit and
+
+00:31:26.790 --> 00:31:29.020
+I had seen people adopt the
+product.
+
+00:31:29.020 --> 00:31:30.900
+I knew there was something
+there and
+
+00:31:30.900 --> 00:31:32.720
+it was also one of those
+things where you,
+
+00:31:32.720 --> 00:31:36.050
+you can sort of feel the,
+you can sort of
+
+00:31:36.050 --> 00:31:38.370
+feel the wind on your back
+where people are adopting
+
+00:31:38.370 --> 00:31:41.900
+the product quickly, the
+pain point is clearly there.
+
+00:31:41.900 --> 00:31:43.320
+It's not a met need.
+
+00:31:43.320 --> 00:31:47.100
+So, I would say that
+oftentimes great ideas start
+
+00:31:47.100 --> 00:31:48.850
+by looking like silly ideas.
+
+00:31:48.850 --> 00:31:50.960
+And then you can sort of
+feel out whether or
+
+00:31:50.960 --> 00:31:53.910
+not there's a scalable
+business here by how people
+
+00:31:53.910 --> 00:31:54.980
+are adopting it.
+
+00:31:54.980 --> 00:31:56.988
+Is it possible to bring
+customers aboard?
+
+00:31:56.988 --> 00:31:57.749
+Sure.
+
+00:31:57.749 --> 00:32:02.840
+Are non-profits your biggest
+customer base, like?
+
+00:32:02.840 --> 00:32:04.110
+No.
+You know, today our
+
+00:32:04.110 --> 00:32:07.430
+biggest customer base are
+entrepreneurs who
+
+00:32:07.430 --> 00:32:09.860
+are trying to build brands
+and businesses.
+
+00:32:09.860 --> 00:32:12.510
+You know, we have a little
+over a 1,000 people that
+
+00:32:12.510 --> 00:32:13.710
+make their full time living
+on
+
+00:32:13.710 --> 00:32:16.490
+Teespring today via brands
+they've launched and
+
+00:32:16.490 --> 00:32:18.150
+the other side is
+influencers,
+
+00:32:18.150 --> 00:32:22.990
+so YouTube stars, Reddit
+communities, bloggers who
+
+00:32:22.990 --> 00:32:26.700
+want to add product
+merchandise as a way to sort
+
+00:32:26.700 --> 00:32:28.950
+of create a brand and and
+monetize that affinity.
+
+00:32:28.950 --> 00:32:30.490
+So those are our two biggest
+markets.
+
+00:32:30.490 --> 00:32:33.360
+We still do work with a lot
+of non-profits and
+
+00:32:33.360 --> 00:32:34.780
+love working with them.
+
+00:32:34.780 --> 00:32:35.420
+It's still a part of
+
+00:32:35.420 --> 00:32:37.520
+our business just not the
+majority.
+
+00:32:37.520 --> 00:32:38.200
+Thank you.
+
+00:32:38.200 --> 00:32:38.700
+Yeah.
+
+00:32:44.163 --> 00:32:45.624
+All right, now we'll have
+Justin talk.
+
+00:32:45.624 --> 00:32:48.669
+Justin was the founder of
+KeyCo, and then JustinTV,
+
+00:32:48.669 --> 00:32:52.674
+which Twitch and is now and
+he's going to talk about PR.
+
+00:32:59.591 --> 00:33:00.870
+Cool.
+Well, while I wait for
+
+00:33:00.870 --> 00:33:04.790
+the slide to happen, I
+started a bunch of startups
+
+00:33:04.790 --> 00:33:07.460
+but I think you've heard a
+lot of awesome, you know,
+
+00:33:07.460 --> 00:33:08.900
+kind of how did I get
+started stories.
+
+00:33:08.900 --> 00:33:11.180
+So I'm gonna talk about
+something very specific,
+
+00:33:11.180 --> 00:33:12.770
+that people always have
+questions with,
+
+00:33:12.770 --> 00:33:14.560
+which is press and how do
+you get it.
+
+00:33:14.560 --> 00:33:16.060
+How does it work?
+
+00:33:16.060 --> 00:33:17.980
+It's something, this is kind
+of like an abridged
+
+00:33:17.980 --> 00:33:22.910
+version of what we talked
+about at Y Combinator and
+
+00:33:22.910 --> 00:33:24.620
+hopefully you guys will find
+it helpful.
+
+00:33:24.620 --> 00:33:27.560
+So, you know, a lot of
+people,
+
+00:33:27.560 --> 00:33:28.840
+I think when they first get
+started with
+
+00:33:28.840 --> 00:33:31.090
+entrepreneurship think about
+getting press and being in
+
+00:33:31.090 --> 00:33:33.760
+the press as something that
+happens magically.
+
+00:33:33.760 --> 00:33:35.520
+They think about it as like
+something that,
+
+00:33:35.520 --> 00:33:37.620
+you know, journalists out
+there like,
+
+00:33:37.620 --> 00:33:40.090
+trying to find the best
+stories and
+
+00:33:40.090 --> 00:33:41.910
+really, you know, like,
+discover the,
+
+00:33:41.910 --> 00:33:44.520
+like, it's like a
+meritocracy which is like,
+
+00:33:44.520 --> 00:33:45.909
+absolutely not the case.
+
+00:33:48.000 --> 00:33:50.360
+So before you think about
+press, one of the things you
+
+00:33:50.360 --> 00:33:52.890
+really want to think about
+is who you want to reach and
+
+00:33:52.890 --> 00:33:54.630
+like what's you actual goal.
+
+00:33:54.630 --> 00:33:56.170
+Right?
+A lot of people,
+
+00:33:56.170 --> 00:33:57.470
+like I know when I got
+started I
+
+00:33:57.470 --> 00:33:58.850
+wanted to just be in the
+news because I
+
+00:33:58.850 --> 00:34:01.470
+thought that's what like you
+did as an important company.
+
+00:34:01.470 --> 00:34:04.440
+And it turns out if you
+don't have any goals
+
+00:34:04.440 --> 00:34:05.510
+you're not gonna achieve
+them.
+
+00:34:05.510 --> 00:34:06.600
+Right?
+I mean that's true of
+
+00:34:06.600 --> 00:34:08.570
+pretty much everything and
+with press,
+
+00:34:08.570 --> 00:34:11.930
+if you just like, aimlessly
+want to be covered,
+
+00:34:11.930 --> 00:34:13.910
+it's not really going to do
+anything for your start up.
+
+00:34:13.910 --> 00:34:16.500
+So getting like, in the news
+is nice because you can send
+
+00:34:16.500 --> 00:34:18.890
+it to your mom or your, and
+say hey, I have a real job.
+
+00:34:18.890 --> 00:34:21.420
+You know, look, we're in the
+New York Times.
+
+00:34:21.420 --> 00:34:24.990
+But if you don't have a
+actual goal for
+
+00:34:24.990 --> 00:34:26.320
+your, like a business goal
+with it,
+
+00:34:26.320 --> 00:34:28.550
+it's really just like, not a
+good use of time.
+
+00:34:30.110 --> 00:34:31.940
+So, you know, there's many
+different goals.
+
+00:34:31.940 --> 00:34:34.240
+One example is, you know,
+you might want to,
+
+00:34:34.240 --> 00:34:36.780
+with Social Cam, which is a
+spin off of Justin TV,
+
+00:34:36.780 --> 00:34:39.493
+it was like an app that was
+kind of
+
+00:34:39.493 --> 00:34:40.943
+like video Instagram.
+
+00:34:40.943 --> 00:34:44.390
+And our goal was really to
+be known as a video,
+
+00:34:44.390 --> 00:34:45.600
+like Instagram app, and
+
+00:34:45.600 --> 00:34:47.860
+like be thought of in that
+context when it was,
+
+00:34:47.860 --> 00:34:49.940
+you know, time to pitch to
+our,
+
+00:34:49.940 --> 00:34:52.176
+like Silicon Valley
+investors and influencers.
+
+00:34:52.176 --> 00:34:55.410
+And so, we really wanted to
+get in, like tech press and
+
+00:34:55.410 --> 00:34:59.242
+kind of be positioned as
+this new, hot social app.
+
+00:34:59.242 --> 00:35:04.390
+With Exec, one of my goals
+was a second,
+
+00:35:04.390 --> 00:35:05.430
+like to get customers.
+
+00:35:05.430 --> 00:35:07.580
+So, Exec was like,
+
+00:35:07.580 --> 00:35:09.440
+a cleanings, local cleaning
+service and
+
+00:35:09.440 --> 00:35:12.830
+our goal was to get people
+in San Francisco to use it.
+
+00:35:12.830 --> 00:35:15.394
+It wasn't like useful to get
+the national press because,
+
+00:35:15.394 --> 00:35:17.710
+you know, 99% of those
+people couldn't use it.
+
+00:35:17.710 --> 00:35:19.600
+So, we really targeted
+initially a lot of,
+
+00:35:19.600 --> 00:35:21.430
+you know, like SF Chronicle,
+
+00:35:21.430 --> 00:35:24.720
+and like local San Francisco
+press that would directly
+
+00:35:24.720 --> 00:35:26.632
+talk to people who could
+potentially use our app.
+
+00:35:26.632 --> 00:35:30.360
+For Twitch which is probably
+the thing that you
+
+00:35:30.360 --> 00:35:31.710
+guys mostly know.
+
+00:35:31.710 --> 00:35:34.420
+It was you know, Twitch was
+ESPN for gaming or kind of
+
+00:35:34.420 --> 00:35:37.500
+like a live streaming
+community of gamers.
+
+00:35:37.500 --> 00:35:40.950
+And our goal was to with
+press was like to
+
+00:35:40.950 --> 00:35:42.500
+reach the gaming industry.
+
+00:35:42.500 --> 00:35:45.130
+Cuz like when we started now
+it's like 55 million
+
+00:35:45.130 --> 00:35:45.980
+uniques and
+
+00:35:45.980 --> 00:35:47.780
+like people in the gaming
+industry know about it.
+
+00:35:47.780 --> 00:35:50.810
+But when we started nobody
+really knew that like,
+
+00:35:50.810 --> 00:35:52.170
+it was a place to advertise,
+and
+
+00:35:52.170 --> 00:35:54.600
+like, it wasn't like know as
+like a, you know,
+
+00:35:54.600 --> 00:35:56.350
+we were a very nascent small
+gaming community.
+
+00:35:56.350 --> 00:35:58.190
+And our goal was to like get
+people in
+
+00:35:58.190 --> 00:36:00.060
+the gaming industry, whether
+they were developers or
+
+00:36:00.060 --> 00:36:02.230
+advertisers, to think about
+us as like
+
+00:36:02.230 --> 00:36:04.170
+an important place where
+influences were, so
+
+00:36:04.170 --> 00:36:08.330
+we really targeted industry
+trades and game depth logs.
+
+00:36:08.330 --> 00:36:10.730
+Places where like gamers
+wanna have games speed,
+
+00:36:10.730 --> 00:36:12.560
+stuff like that, the
+industry was reading.
+
+00:36:15.280 --> 00:36:17.100
+So, you know,
+
+00:36:17.100 --> 00:36:19.210
+what's an actual story, I
+think there's, you know,
+
+00:36:19.210 --> 00:36:21.560
+there's a bunch of different
+types of stories but
+
+00:36:21.560 --> 00:36:23.346
+these are usually the ones
+that you see in,
+
+00:36:23.346 --> 00:36:26.030
+you know, start ups.
+
+00:36:26.030 --> 00:36:27.170
+Those are like product
+launches,
+
+00:36:27.170 --> 00:36:29.610
+like you let us launch a new
+version of your app.
+
+00:36:29.610 --> 00:36:30.780
+There's fundraising for
+
+00:36:30.780 --> 00:36:34.000
+whatever reason, you know,
+press loves to write about
+
+00:36:34.000 --> 00:36:36.390
+fundraising even though it's
+not very interesting.
+
+00:36:36.390 --> 00:36:37.660
+So, you know like, if you
+raise a $1 million
+
+00:36:37.660 --> 00:36:41.030
+seaground, pretty much you
+can get that covered.
+
+00:36:41.030 --> 00:36:44.205
+Milestones or metrics like
+you've achieved a $1 million
+
+00:36:44.205 --> 00:36:49.110
+dollars a week in revenue,
+that one of our, the,
+
+00:36:49.110 --> 00:36:51.440
+the company that bought Exec
+just announced that they,
+
+00:36:51.440 --> 00:36:53.390
+they achieved a $1 million
+dollars a week in
+
+00:36:53.390 --> 00:36:55.700
+revenue and was covered
+pretty widely.
+
+00:36:55.700 --> 00:36:58.646
+Business stories which
+generally happen when
+
+00:36:58.646 --> 00:37:01.220
+you're already a successful
+company.
+
+00:37:01.220 --> 00:37:04.355
+Someone like New York Times
+or New Yorker, business
+
+00:37:04.355 --> 00:37:08.530
+magazine will wanna cover
+the story of your start up.
+
+00:37:08.530 --> 00:37:11.030
+Usually don't have to worry
+about that in the beginning.
+
+00:37:11.030 --> 00:37:13.160
+What I like to call stunts,
+which are like,
+
+00:37:13.160 --> 00:37:14.520
+I don't know if you guys
+remember, but
+
+00:37:14.520 --> 00:37:18.320
+a couple of years ago, this
+YC company called WePay
+
+00:37:18.320 --> 00:37:22.120
+dropped a block of ice with
+money frozen in it, outside
+
+00:37:22.120 --> 00:37:24.680
+of the PayPal like, a PayPal
+developers conference.
+
+00:37:24.680 --> 00:37:26.860
+Cuz they were like, PayPal
+was like no, in the news for
+
+00:37:26.860 --> 00:37:31.560
+freezing, you know, like
+various developers accounts.
+
+00:37:31.560 --> 00:37:34.190
+And so that was like, you
+know, widely covered.
+
+00:37:34.190 --> 00:37:34.890
+Because it was just so,
+
+00:37:34.890 --> 00:37:37.125
+you know, kinda of an
+interesting thing and
+
+00:37:37.125 --> 00:37:40.060
+it really, it got them in
+the story, right?
+
+00:37:40.060 --> 00:37:41.180
+They wouldn't have been
+talked about in
+
+00:37:41.180 --> 00:37:43.862
+the context of PayPal, at
+all really.
+
+00:37:43.862 --> 00:37:45.360
+Hiring announcements,
+
+00:37:45.360 --> 00:37:46.350
+if you're a big enough
+company and
+
+00:37:46.350 --> 00:37:47.771
+you hire someone really
+important,
+
+00:37:47.771 --> 00:37:49.200
+people will wanna cover
+that, and
+
+00:37:49.200 --> 00:37:52.180
+then contributed articles
+like you writing some sort
+
+00:37:52.180 --> 00:37:55.240
+of industry overview or some
+opinion piece in like
+
+00:37:55.240 --> 00:37:58.830
+maybe a tech blog or stuff
+like that.
+
+00:37:58.830 --> 00:38:00.610
+So those are like, you know,
+
+00:38:00.610 --> 00:38:02.870
+basically any of those
+things can be stories.
+
+00:38:02.870 --> 00:38:05.620
+One of the things that
+people usually don't
+
+00:38:05.620 --> 00:38:06.740
+think about.
+
+00:38:06.740 --> 00:38:09.180
+Is that, like, you really
+have to think about,
+
+00:38:09.180 --> 00:38:11.090
+like, everything, when you
+start a start up,
+
+00:38:11.090 --> 00:38:13.800
+you think that everything
+you're doing is interesting.
+
+00:38:13.800 --> 00:38:17.370
+But that's not true for,
+like, other people.
+
+00:38:17.370 --> 00:38:19.380
+Right?
+Like, what you really need
+
+00:38:19.380 --> 00:38:21.800
+to think about is, like,
+objectively if I
+
+00:38:21.800 --> 00:38:23.570
+wasn't the founder of this
+company, would I wanna,
+
+00:38:23.570 --> 00:38:25.970
+like, read a story about
+what I'm pitching.
+
+00:38:25.970 --> 00:38:27.250
+Right?
+So, you know,
+
+00:38:27.250 --> 00:38:30.270
+you have incremental feature
+release or 2.01, you know,
+
+00:38:30.270 --> 00:38:32.740
+feature release might not be
+interesting.
+
+00:38:32.740 --> 00:38:33.950
+Just because you added like,
+
+00:38:33.950 --> 00:38:37.070
+you know, find your contacts
+in Facebook or something.
+
+00:38:37.070 --> 00:38:39.510
+Like you have, you really
+want to take a step
+
+00:38:39.510 --> 00:38:41.580
+back before you invest the
+time in like actually trying
+
+00:38:41.580 --> 00:38:43.950
+to pitch a story and think,
+does anyone,
+
+00:38:43.950 --> 00:38:45.880
+will anyone actually wanna
+read this?
+
+00:38:45.880 --> 00:38:47.790
+Because what people are, you
+know, journalist and
+
+00:38:47.790 --> 00:38:48.730
+bloggers are looking for,
+
+00:38:48.730 --> 00:38:50.529
+is things that people
+actually wanna read right?
+
+00:38:51.970 --> 00:38:53.090
+The other thing is like,
+
+00:38:53.090 --> 00:38:54.750
+you don't actually have to
+be very original.
+
+00:38:54.750 --> 00:38:58.630
+Your press in these doesn't
+have to be original.
+
+00:38:58.630 --> 00:39:00.840
+It just has to be like what
+I like to call,
+
+00:39:00.840 --> 00:39:01.820
+original enough, right?
+
+00:39:01.820 --> 00:39:05.386
+So you don't wanna be the
+second cooler company
+
+00:39:05.386 --> 00:39:07.980
+To raise $5 million on
+Kickstarter, right?
+
+00:39:07.980 --> 00:39:08.700
+That's like.
+
+00:39:08.700 --> 00:39:10.780
+That the first guy gets all
+the news.
+
+00:39:10.780 --> 00:39:12.320
+But like if you're there,
+
+00:39:12.320 --> 00:39:15.770
+I think the first video game
+console to
+
+00:39:15.770 --> 00:39:18.080
+raise $10 million on
+Kickstarter like Ouya was,
+
+00:39:18.080 --> 00:39:20.082
+that was like, it was like
+$1 million is 24 hours.
+
+00:39:20.082 --> 00:39:22.050
+That was huge news because
+they
+
+00:39:22.050 --> 00:39:24.240
+were kinda like the first in
+that category, right?
+
+00:39:24.240 --> 00:39:25.500
+Even though other people
+have raised a lot of
+
+00:39:25.500 --> 00:39:26.700
+money on Kickstarter before.
+
+00:39:28.280 --> 00:39:31.150
+So just like think about
+your stories in
+
+00:39:31.150 --> 00:39:33.030
+the context of like where
+they are in
+
+00:39:33.030 --> 00:39:34.970
+the like what else has been
+written about and if
+
+00:39:34.970 --> 00:39:37.630
+they're like kind of novel
+enough and they haven't been
+
+00:39:37.630 --> 00:39:41.183
+something that was like just
+written about in the news.
+
+00:39:41.183 --> 00:39:44.406
+So what are the actual
+mechanics of
+
+00:39:44.406 --> 00:39:46.940
+getting a story?
+
+00:39:46.940 --> 00:39:49.560
+This is like pretty
+tactical,
+
+00:39:49.560 --> 00:39:53.680
+so what if you want to get
+your news in, you know,
+
+00:39:53.680 --> 00:39:57.510
+the press, basically there's
+some easy, simple steps.
+
+00:39:57.510 --> 00:39:59.710
+So it's basically, it's,
+getting press is like,
+
+00:39:59.710 --> 00:40:02.120
+you think of it like a sales
+funnel.
+
+00:40:02.120 --> 00:40:04.600
+So you're gonna talk to a
+lot of people,
+
+00:40:04.600 --> 00:40:06.960
+and not all of them are
+gonna convert.
+
+00:40:06.960 --> 00:40:07.810
+Right?
+And so
+
+00:40:07.810 --> 00:40:08.950
+you shouldn't be upset when
+someone,
+
+00:40:08.950 --> 00:40:11.120
+like one individual person
+or reporter or
+
+00:40:11.120 --> 00:40:12.500
+whatever doesn't write your
+story.
+
+00:40:13.590 --> 00:40:15.210
+The first thing is you have
+to think of a story, right?
+
+00:40:15.210 --> 00:40:16.280
+It's gotta be one of those,
+
+00:40:16.280 --> 00:40:18.370
+probably one of those things
+that I listed up before.
+
+00:40:19.520 --> 00:40:20.450
+The second step is,
+
+00:40:20.450 --> 00:40:24.130
+you wanna get introduced to
+a reporter or multiple
+
+00:40:24.130 --> 00:40:25.791
+reporters who are gonna
+write about your thing.
+
+00:40:25.791 --> 00:40:27.829
+It's like much, much easier,
+
+00:40:27.829 --> 00:40:30.697
+just like any sort of
+business development to
+
+00:40:30.697 --> 00:40:33.883
+actually get in touch with
+them through someone.
+
+00:40:33.883 --> 00:40:37.590
+It's like, you know, rather
+than cold emailing them,
+
+00:40:37.590 --> 00:40:40.520
+the best thing to do I've
+found is like, you wanna
+
+00:40:40.520 --> 00:40:43.130
+go to entrepreneurs who were
+just written about,
+
+00:40:43.130 --> 00:40:44.690
+like your friends who maybe
+started a start up and
+
+00:40:44.690 --> 00:40:45.850
+they were covered on
+TechCrunch,
+
+00:40:45.850 --> 00:40:49.740
+get them to introduce you to
+your, you know,
+
+00:40:49.740 --> 00:40:50.990
+that reporter who wrote
+about them.
+
+00:40:52.010 --> 00:40:53.190
+The reason that's good is
+because like,
+
+00:40:53.190 --> 00:40:54.730
+from the entrepreneur's
+perspective, like
+
+00:40:54.730 --> 00:40:57.880
+the easiest thing to do in
+the world, is introduce you
+
+00:40:57.880 --> 00:41:00.200
+to a reporter who already
+wrote about them, right?
+
+00:41:00.200 --> 00:41:01.480
+They don't, like need
+anything else from
+
+00:41:01.480 --> 00:41:02.700
+that reporter.
+
+00:41:02.700 --> 00:41:04.220
+They're actually doing that
+person a favor for
+
+00:41:04.220 --> 00:41:05.040
+stories interesting.
+
+00:41:05.040 --> 00:41:06.020
+It's not like you're asking
+for
+
+00:41:06.020 --> 00:41:08.710
+interest to investors, or
+potential, you know,
+
+00:41:08.710 --> 00:41:10.421
+people that they would wanna
+hire, employees.
+
+00:41:11.720 --> 00:41:13.130
+And then, from the
+reporter's perspective,
+
+00:41:13.130 --> 00:41:15.790
+they're getting intro to
+someone who, you know,
+
+00:41:15.790 --> 00:41:17.280
+they already vetted as
+interesting.
+
+00:41:17.280 --> 00:41:19.200
+Like, they're getting an
+answer from someone who
+
+00:41:19.200 --> 00:41:19.860
+they know they
+
+00:41:19.860 --> 00:41:21.460
+thought was interesting
+enough to talk about.
+
+00:41:21.460 --> 00:41:24.540
+And so, like by the
+transitive property
+
+00:41:24.540 --> 00:41:26.600
+you're basically gonna,
+they're gonna think you're,
+
+00:41:26.600 --> 00:41:27.650
+you know, probably
+interesting.
+
+00:41:29.780 --> 00:41:31.520
+So you get like an email
+that's like,
+
+00:41:31.520 --> 00:41:33.780
+you know, from this guy that
+introduces you to
+
+00:41:35.060 --> 00:41:36.300
+the reporter, and
+
+00:41:36.300 --> 00:41:39.480
+you want to get in contact
+with them with enough time
+
+00:41:39.480 --> 00:41:43.200
+that you can actually get
+them to like write a story.
+
+00:41:43.200 --> 00:41:44.920
+Probably a week in advance,
+or more.
+
+00:41:46.240 --> 00:41:47.680
+Because they're not gonna,
+like, drop everything their
+
+00:41:47.680 --> 00:41:48.890
+doing to just write about
+your news.
+
+00:41:48.890 --> 00:41:50.755
+So, a lot of people,
+especially first time
+
+00:41:50.755 --> 00:41:51.990
+entrepreneurs will come and
+say,
+
+00:41:51.990 --> 00:41:54.430
+like, Justin I'm watching
+this product tomorrow.
+
+00:41:54.430 --> 00:41:57.210
+Like, can you get me in
+this, you know,
+
+00:41:57.210 --> 00:41:58.120
+TechCrunch or something.
+
+00:41:58.120 --> 00:42:00.090
+And that's, like, probably
+not gonna happen unless you
+
+00:42:00.090 --> 00:42:01.440
+already have a relationship.
+
+00:42:01.440 --> 00:42:03.640
+The best way to do it, so
+the best thing to do is,
+
+00:42:03.640 --> 00:42:04.850
+like, give yourself some
+lead time.
+
+00:42:04.850 --> 00:42:06.562
+Get that intro in advance.
+
+00:42:06.562 --> 00:42:09.725
+And then, so then you
+should,
+
+00:42:09.725 --> 00:42:12.350
+like, once you've set a date
+for your news to go out,
+
+00:42:12.350 --> 00:42:15.100
+you're gonna launch your
+product, like in two weeks,
+
+00:42:15.100 --> 00:42:19.050
+you have this intro, you set
+up some sort of meeting and
+
+00:42:19.050 --> 00:42:22.260
+you really wanna get the
+reporter to,
+
+00:42:22.260 --> 00:42:24.440
+like, invest time and effort
+into you.
+
+00:42:24.440 --> 00:42:25.240
+Because they don't,
+
+00:42:25.240 --> 00:42:28.670
+like there's kind of a
+sunk-cost fallacy at play.
+
+00:42:28.670 --> 00:42:30.210
+Basically if you,
+
+00:42:30.210 --> 00:42:33.090
+the more time they spend
+with you, the more likely
+
+00:42:33.090 --> 00:42:34.400
+they are to like actually
+write something.
+
+00:42:34.400 --> 00:42:36.340
+So you, the best thing to do
+is to get a face to
+
+00:42:36.340 --> 00:42:36.940
+face meeting.
+
+00:42:36.940 --> 00:42:40.170
+Lots of people, report
+bloggers actively don't want
+
+00:42:40.170 --> 00:42:41.702
+to meet you face to face.
+
+00:42:41.702 --> 00:42:44.500
+But like, if not that, then
+get like a phone call,
+
+00:42:44.500 --> 00:42:45.660
+right, and get on the phone
+with them.
+
+00:42:45.660 --> 00:42:46.710
+The worse thing to do is
+like,
+
+00:42:46.710 --> 00:42:48.990
+just have an email exchange,
+right?
+
+00:42:48.990 --> 00:42:49.820
+Because it's very easy for
+
+00:42:49.820 --> 00:42:51.860
+them to like forget about
+it, ignore it.
+
+00:42:51.860 --> 00:42:55.300
+So you wanna like, actually
+try to get in contact with
+
+00:42:55.300 --> 00:42:57.830
+them, set up a meeting.
+
+00:42:57.830 --> 00:42:59.230
+Okay.
+So, then
+
+00:42:59.230 --> 00:43:00.430
+the next step is actually
+pitch them.
+
+00:43:01.760 --> 00:43:04.970
+What I usually do is
+actually write out all
+
+00:43:04.970 --> 00:43:07.940
+my new, like the story that
+I would want to see
+
+00:43:07.940 --> 00:43:10.300
+published like in bullet
+points.
+
+00:43:10.300 --> 00:43:13.020
+And I like, will write out
+the story,
+
+00:43:13.020 --> 00:43:15.130
+like my ideal story and I
+will memorize it.
+
+00:43:15.130 --> 00:43:19.160
+Like the entire like set of
+bullet points and when I
+
+00:43:19.160 --> 00:43:20.670
+have a conversation with
+them, if it's in person,
+
+00:43:20.670 --> 00:43:22.530
+I'll like walk them through
+this, like I'll have
+
+00:43:22.530 --> 00:43:24.560
+a conversation that's like
+structured like my outline.
+
+00:43:24.560 --> 00:43:26.750
+And they'll be like taking
+notes, right?
+
+00:43:26.750 --> 00:43:27.440
+And then they'll go and
+
+00:43:27.440 --> 00:43:29.210
+transcribe those notes into
+a story.
+
+00:43:29.210 --> 00:43:31.970
+And so it's like a tell it,
+like what I wrote will
+
+00:43:31.970 --> 00:43:36.180
+eventually be translated
+into a actual story.
+
+00:43:36.180 --> 00:43:39.810
+And, you know, by preparing
+you can actually you know,
+
+00:43:39.810 --> 00:43:41.660
+much more easily control the
+conversation and
+
+00:43:41.660 --> 00:43:43.890
+not forget critical things
+like, you know,
+
+00:43:43.890 --> 00:43:45.720
+your co-founder, mentioning
+your co-founder's name.
+
+00:43:45.720 --> 00:43:46.760
+Or like,
+
+00:43:46.760 --> 00:43:50.570
+what all the features in
+your awesome app are.
+
+00:43:50.570 --> 00:43:52.880
+If it's, I'm doing this on
+the phone, I will like,
+
+00:43:52.880 --> 00:43:54.490
+have this bullet points in
+front of me and
+
+00:43:54.490 --> 00:43:56.300
+I will make sure to like
+walk through
+
+00:43:56.300 --> 00:43:58.499
+a conversation that includes
+all of those things.
+
+00:44:00.720 --> 00:44:03.090
+So, you know, you do that,
+they,
+
+00:44:03.090 --> 00:44:04.960
+you have a pitch, they, they
+take notes.
+
+00:44:04.960 --> 00:44:06.380
+They're gonna write the
+story of this time.
+
+00:44:06.380 --> 00:44:08.320
+And then, the next thing is
+like, follow up,
+
+00:44:08.320 --> 00:44:11.580
+like a couple days, or day
+before your actual news goes
+
+00:44:11.580 --> 00:44:15.870
+out, you want to send them
+an email that says, like.
+
+00:44:15.870 --> 00:44:18.000
+You know, this is the time
+we're launching the app.
+
+00:44:18.000 --> 00:44:21.655
+Like, thanks for meeting,
+here's like collateral like
+
+00:44:21.655 --> 00:44:23.950
+maybe if you have like a
+video or photos or
+
+00:44:23.950 --> 00:44:26.770
+something you want them to
+include screen shots.
+
+00:44:26.770 --> 00:44:28.330
+Like how to spell your
+co-founders' names and
+
+00:44:28.330 --> 00:44:29.235
+your name.
+
+00:44:29.235 --> 00:44:30.910
+Just like include all the
+information that I
+
+00:44:30.910 --> 00:44:32.570
+really care about and I bold
+it right?
+
+00:44:35.040 --> 00:44:36.210
+And then that's it.
+
+00:44:36.210 --> 00:44:39.570
+Then hopefully the day comes
+you press submit on
+
+00:44:39.570 --> 00:44:41.754
+the release to the app store
+and
+
+00:44:41.754 --> 00:44:44.946
+at the same time they
+release their article on
+
+00:44:44.946 --> 00:44:47.219
+TechCrunch and you are
+famous.
+
+00:44:49.939 --> 00:44:54.930
+Okay, so a lot of people ask
+us about PR firms.
+
+00:44:54.930 --> 00:44:55.795
+so.
+
+00:44:55.795 --> 00:44:57.473
+You know, I think in the
+beginning.
+
+00:44:57.473 --> 00:44:59.741
+It's kind of like everything
+else you do at a start,
+
+00:44:59.741 --> 00:45:00.354
+you want to do it
+
+00:45:00.354 --> 00:45:02.790
+yourself before you hire
+someone else to do it.
+
+00:45:02.790 --> 00:45:04.720
+And it's actually pretty
+easy,
+
+00:45:04.720 --> 00:45:05.800
+especially with tech press
+who,
+
+00:45:05.800 --> 00:45:07.230
+you know, and bloggers who,
+
+00:45:07.230 --> 00:45:09.780
+like, constantly need new
+things to write about.
+
+00:45:09.780 --> 00:45:10.850
+You know.
+
+00:45:10.850 --> 00:45:12.240
+I strongly encourage people
+to, like,
+
+00:45:12.240 --> 00:45:14.470
+try it themselves and kind
+of get started by learning
+
+00:45:14.470 --> 00:45:16.590
+the process themselves
+before they hire anyone.
+
+00:45:16.590 --> 00:45:18.050
+One thing I'll say is that
+like firms can,
+
+00:45:18.050 --> 00:45:20.800
+can only help you with like
+kind of the contacts and
+
+00:45:20.800 --> 00:45:23.560
+the logistics, but it can't
+help you
+
+00:45:23.560 --> 00:45:26.010
+know what's interesting
+about your company or very,
+
+00:45:26.010 --> 00:45:27.990
+you know, I've never had
+anyone whose been able to
+
+00:45:27.990 --> 00:45:29.740
+tell me what the stories
+that I'm producing are.
+
+00:45:29.740 --> 00:45:30.730
+They've only been able to
+tell me,
+
+00:45:30.730 --> 00:45:35.130
+you know, like you're you
+know, like here's a the,
+
+00:45:35.130 --> 00:45:37.000
+here's a list of reporters
+that you might wanna contact
+
+00:45:38.620 --> 00:45:40.260
+So, you know, you really
+have to be responsible for
+
+00:45:40.260 --> 00:45:41.190
+thinking about like,
+
+00:45:41.190 --> 00:45:42.370
+what's interesting about
+your company and
+
+00:45:42.370 --> 00:45:44.130
+what are you doing, you
+know, what's the road map of
+
+00:45:44.130 --> 00:45:46.000
+interesting things that
+you're working on.
+
+00:45:47.450 --> 00:45:49.330
+They're also really
+expensive.
+
+00:45:49.330 --> 00:45:51.437
+You know, I think we were
+spending between $5,000 and
+
+00:45:51.437 --> 00:45:54.760
+$20,000 a month which is
+like a very, for
+
+00:45:54.760 --> 00:45:57.710
+various firms that's a lot
+for a start up, right?
+
+00:45:57.710 --> 00:45:59.900
+You should, it's generally.
+
+00:45:59.900 --> 00:46:01.100
+Not a good use of money, I
+would say.
+
+00:46:01.100 --> 00:46:02.350
+Especially in the very early
+days.
+
+00:46:04.973 --> 00:46:08.410
+You know, getting press is,
+is a lot of work.
+
+00:46:08.410 --> 00:46:10.620
+So you should really make
+sure it's worth it.
+
+00:46:10.620 --> 00:46:12.810
+You know, like I said it
+really,
+
+00:46:12.810 --> 00:46:14.650
+getting press doesn't mean,
+it feels like,
+
+00:46:14.650 --> 00:46:15.740
+it's like a vanity metric.
+
+00:46:15.740 --> 00:46:16.970
+Right?
+It feels like you're being
+
+00:46:16.970 --> 00:46:19.020
+successful because lots of
+succesful companies.
+
+00:46:19.020 --> 00:46:19.720
+You know, like Google and
+
+00:46:19.720 --> 00:46:21.660
+Facebook, are covered in the
+press all the time.
+
+00:46:21.660 --> 00:46:23.100
+But it doesn't actually mean
+you're successful.
+
+00:46:23.100 --> 00:46:26.140
+It doesn't, you know,
+actually give you, you know,
+
+00:46:26.140 --> 00:46:27.670
+mean that you're getting,
+you're making money,
+
+00:46:27.670 --> 00:46:29.550
+you're getting users, you're
+making those users happy.
+
+00:46:31.150 --> 00:46:31.780
+it's, you know,
+
+00:46:31.780 --> 00:46:33.500
+sometimes it's a really good
+strategy for
+
+00:46:33.500 --> 00:46:37.480
+getting your first 100, or
+200, or 1,000 customers.
+
+00:46:37.480 --> 00:46:39.690
+But it's really not a
+scalable user acquisition
+
+00:46:39.690 --> 00:46:41.800
+strategy, so it's something
+that's really just like a,
+
+00:46:41.800 --> 00:46:43.280
+you know, a boot strap.
+
+00:46:43.280 --> 00:46:43.850
+You can't, like,
+
+00:46:43.850 --> 00:46:47.268
+just get, like, infinity
+articles written about you.
+
+00:46:47.268 --> 00:46:48.440
+Like, eventually people are
+going to,
+
+00:46:48.440 --> 00:46:50.470
+like, get tired of hearing
+about your company, and
+
+00:46:50.470 --> 00:46:52.570
+usually that happens pretty,
+pretty quickly, right.
+
+00:46:52.570 --> 00:46:55.120
+The whole point about news
+is that it's new, and so
+
+00:46:55.120 --> 00:46:58.150
+it's, it's pretty, pretty,
+pretty hard, unless your
+
+00:46:58.150 --> 00:47:00.160
+Google, to get covered in
+the press like every week,
+
+00:47:00.160 --> 00:47:00.800
+you know, with something.
+
+00:47:02.730 --> 00:47:04.410
+to, you know, if you decide
+it's worth it though,
+
+00:47:04.410 --> 00:47:07.970
+like you do wanna have like
+a regular heartbeat of news.
+
+00:47:07.970 --> 00:47:09.510
+So that's like something
+where, you know,
+
+00:47:09.510 --> 00:47:11.430
+you're planning out those
+types of the, what,
+
+00:47:11.430 --> 00:47:13.970
+your thing about what your
+doing, that matches those,
+
+00:47:13.970 --> 00:47:17.150
+you know, maybe seven story
+types in the future like,
+
+00:47:17.150 --> 00:47:19.890
+you know, when I was You
+know, working primarily on
+
+00:47:19.890 --> 00:47:22.760
+marketing and, and PR, it
+would be, I would like,
+
+00:47:22.760 --> 00:47:25.070
+make a schedule on like a
+calendar.
+
+00:47:25.070 --> 00:47:27.180
+Have what, when we're gonna
+launch things and like,
+
+00:47:27.180 --> 00:47:29.480
+make sure to space them out,
+but like have them,
+
+00:47:29.480 --> 00:47:32.240
+you know, appear regular, at
+regular intervals so
+
+00:47:32.240 --> 00:47:34.890
+that people like didn't want
+to forget about us.
+
+00:47:34.890 --> 00:47:37.240
+And we could kind of
+maximize our coverage.
+
+00:47:37.240 --> 00:47:39.820
+And, you might really want
+keep your, you know,
+
+00:47:39.820 --> 00:47:40.530
+contacts fresh.
+
+00:47:40.530 --> 00:47:41.990
+It like, really a
+relationships business.
+
+00:47:41.990 --> 00:47:43.140
+So once you, someone writes
+about you,
+
+00:47:43.140 --> 00:47:45.410
+you should keep going back
+to them for, for
+
+00:47:45.410 --> 00:47:47.180
+more, for writing about,
+
+00:47:47.180 --> 00:47:48.680
+you know, to write about you
+in the future.
+
+00:47:48.680 --> 00:47:52.680
+It's kind of like, you know,
+when, when basically people,
+
+00:47:52.680 --> 00:47:54.780
+you know, you're more likely
+to do something for
+
+00:47:54.780 --> 00:47:56.480
+someone you've, like,
+already done something for.
+
+00:47:57.490 --> 00:47:59.880
+Yeah, you really, like,
+it's, if you just, you know,
+
+00:47:59.880 --> 00:48:01.360
+I would try to establish
+good,
+
+00:48:01.360 --> 00:48:04.170
+good relationships with a
+couple reporters over time
+
+00:48:04.170 --> 00:48:06.000
+that you can go to to, you
+know, break news.
+
+00:48:06.000 --> 00:48:06.780
+And it, it will come in
+
+00:48:06.780 --> 00:48:08.800
+handy later if you ever
+have, are in the position,
+
+00:48:08.800 --> 00:48:11.210
+if you're fortunate enough
+to be in the position where
+
+00:48:11.210 --> 00:48:13.720
+people are writing negative
+things about you, you know,
+
+00:48:13.720 --> 00:48:15.680
+having relationships will
+help you, you know, kind of
+
+00:48:15.680 --> 00:48:19.460
+get your side of the story
+out, The last thing is like,
+
+00:48:19.460 --> 00:48:22.580
+you know, it's kind of
+Golden Rule really, or
+
+00:48:22.580 --> 00:48:24.750
+maybe more like a pay it
+forward really applies here.
+
+00:48:24.750 --> 00:48:26.180
+Like, you should really help
+your
+
+00:48:26.180 --> 00:48:27.610
+fellow entrepreneurs get,
+
+00:48:27.610 --> 00:48:30.200
+get coverage because they
+will help you get coverage.
+
+00:48:30.200 --> 00:48:33.130
+The best way to get covered
+is really through these like
+
+00:48:33.130 --> 00:48:34.120
+warm introductions.
+
+00:48:34.120 --> 00:48:37.730
+And so you know, whenever
+I'm meeting with reporters,
+
+00:48:37.730 --> 00:48:39.530
+I always help like.
+
+00:48:39.530 --> 00:48:41.320
+Throwing out the names of
+like other things that I
+
+00:48:41.320 --> 00:48:43.320
+think would be interesting
+stories for them.
+
+00:48:43.320 --> 00:48:44.520
+And usually that comes back.
+
+00:48:44.520 --> 00:48:46.450
+They, the, the reporters
+like it, because they,
+
+00:48:46.450 --> 00:48:48.490
+it's like helping them find
+interesting stories.
+
+00:48:48.490 --> 00:48:51.210
+And you're more likely to
+get, you know, leads
+
+00:48:51.210 --> 00:48:53.070
+back from entrepreneurs that
+you help out.
+
+00:48:53.070 --> 00:48:58.000
+So, if you're interested in
+learning more about press,
+
+00:48:58.000 --> 00:48:59.449
+here's two resources that I
+really liked.
+
+00:49:00.950 --> 00:49:03.380
+Jason Kincaid, who was a
+former TechCruch reporter,
+
+00:49:03.380 --> 00:49:05.620
+just a really, really great
+overview that covers a lot
+
+00:49:05.620 --> 00:49:08.270
+of things I just talked
+about, in more depth and
+
+00:49:08.270 --> 00:49:10.390
+from the, you know, blogger
+side.
+
+00:49:11.730 --> 00:49:12.720
+That was a really great
+book.
+
+00:49:12.720 --> 00:49:16.170
+And then kind of an evil
+resource is this book
+
+00:49:16.170 --> 00:49:17.500
+Trust Me, I'm Lying.
+
+00:49:17.500 --> 00:49:18.980
+Which was written by the,
+
+00:49:18.980 --> 00:49:22.420
+one of the a former marketer
+at American Apparel.
+
+00:49:22.420 --> 00:49:25.560
+And he talks about like a
+lot of ways that he
+
+00:49:25.560 --> 00:49:28.340
+pretty like, evilly actually
+manipulated the press, but
+
+00:49:28.340 --> 00:49:29.440
+I think it's a pretty good
+look
+
+00:49:29.440 --> 00:49:32.470
+into like the psychology of
+like how people, you know,
+
+00:49:32.470 --> 00:49:34.030
+things spread on the
+internet.
+
+00:49:34.030 --> 00:49:35.580
+You know, how stories spread
+on the internet and
+
+00:49:35.580 --> 00:49:37.660
+that, it's a.
+
+00:49:37.660 --> 00:49:38.733
+Might be valuable to take a
+look at.
+
+00:49:38.733 --> 00:49:44.668
+Cool, that's, that's
+basically it.
+
+00:49:47.125 --> 00:49:49.380
+One question?
+
+00:49:49.380 --> 00:49:50.770
+Just 1?
+>> 2, 2.
+
+00:49:50.770 --> 00:49:52.088
+>> 2 que, Okay, 2 questions.
+
+00:49:52.088 --> 00:49:55.829
+Or zero questions.
+
+00:49:57.340 --> 00:50:00.200
+>> When is the right time to
+start worrying about
+
+00:50:00.200 --> 00:50:02.900
+press altogether?
+
+00:50:02.900 --> 00:50:03.720
+>> When is the right time to
+
+00:50:03.720 --> 00:50:05.420
+start worrying about press
+altogether?
+
+00:50:05.420 --> 00:50:06.710
+I think it's a really good
+way.
+
+00:50:06.710 --> 00:50:08.362
+Like if you just.
+
+00:50:08.362 --> 00:50:09.898
+The first time I launched,
+you know,
+
+00:50:09.898 --> 00:50:11.530
+my first products in our
+first startup.
+
+00:50:12.590 --> 00:50:14.570
+For a lot of them we got
+like zero attention.
+
+00:50:14.570 --> 00:50:16.270
+And we didn't really know
+how to even get
+
+00:50:16.270 --> 00:50:16.980
+a hundred users.
+
+00:50:16.980 --> 00:50:18.530
+I think it's a really fine
+way to
+
+00:50:18.530 --> 00:50:20.220
+get a hundred users and a
+lot of.
+
+00:50:20.220 --> 00:50:21.800
+Companies in YC where they
+first launch their
+
+00:50:21.800 --> 00:50:23.340
+product will encourage them
+to get out and
+
+00:50:23.340 --> 00:50:25.290
+just do one TechCrunch story
+to, like, get a few
+
+00:50:25.290 --> 00:50:28.770
+people to see it, and it's
+good to get in the practice.
+
+00:50:28.770 --> 00:50:30.260
+I wouldn't, like, obsess
+over getting, like,
+
+00:50:30.260 --> 00:50:31.490
+coverage in multiple outlets
+or
+
+00:50:31.490 --> 00:50:33.100
+anything like that in the
+very beginning.
+
+00:50:35.590 --> 00:50:37.070
+All right, anything else.
+
+00:50:37.070 --> 00:50:37.930
+There.
+
+00:50:37.930 --> 00:50:39.400
+>> It seems like
+
+00:50:39.400 --> 00:50:41.710
+the biggest story
+>> Yeah.
+
+00:50:41.710 --> 00:50:44.550
+>> Great, so like much of a,
+how much of
+
+00:50:44.550 --> 00:50:47.945
+a role did you guys actually
+play in getting that
+
+00:50:47.945 --> 00:50:51.773
+out
+>> so,
+
+00:50:51.773 --> 00:50:54.610
+Twitch, you know, had this
+thing called Twitch plays
+
+00:50:54.610 --> 00:50:57.025
+Pokemon where developers set
+up like a Pokemon,
+
+00:50:57.025 --> 00:50:59.840
+like Gameboy game that was
+controlled by chat, so
+
+00:50:59.840 --> 00:51:03.240
+millions of people would be
+typing in A or B, and like.
+
+00:51:03.240 --> 00:51:05.580
+The character would wander,
+wander around aimlessly.
+
+00:51:06.640 --> 00:51:10.480
+And that was like a huge
+news story and I think that
+
+00:51:10.480 --> 00:51:13.420
+what we did was you know,
+there's a couple parts.
+
+00:51:13.420 --> 00:51:15.030
+One, we set the stage by
+having other news
+
+00:51:15.030 --> 00:51:17.570
+stories that, so when
+someone from the BBC would
+
+00:51:17.570 --> 00:51:19.330
+Google like Twitch and be
+like what is this
+
+00:51:19.330 --> 00:51:22.090
+crazy thing that everyone on
+Reddit is talking about?
+
+00:51:22.090 --> 00:51:23.637
+They would, like, have some
+context.
+
+00:51:23.637 --> 00:51:24.680
+The other thing is,
+
+00:51:24.680 --> 00:51:26.620
+like, we didn't come up with
+the idea for twit, right?
+
+00:51:26.620 --> 00:51:28.280
+That was, like fortuitous.
+
+00:51:28.280 --> 00:51:31.020
+But we helped, like, give it
+legs by, you know,
+
+00:51:31.020 --> 00:51:34.430
+making the company available
+to talk to the reporters,
+
+00:51:34.430 --> 00:51:37.170
+and, suggesting follow-up
+stories about, like.
+
+00:51:37.170 --> 00:51:38.255
+You know, there were
+stories,
+
+00:51:38.255 --> 00:51:39.541
+not just about Twitch plays
+Pokemon,
+
+00:51:39.541 --> 00:51:41.890
+because a hundred thousand
+people were watching this.
+
+00:51:41.890 --> 00:51:45.590
+Pokemon game, but because
+you know, it finally like,
+
+00:51:45.590 --> 00:51:47.550
+there were stories when they
+beat the game.
+
+00:51:47.550 --> 00:51:49.370
+And there were stories when
+they launched Twitch
+
+00:51:49.370 --> 00:51:51.300
+plays Pokemon, you know,
+Crystal, or
+
+00:51:51.300 --> 00:51:53.200
+whatever the next Pokemon
+version was.
+
+00:51:53.200 --> 00:51:53.900
+And like, and so
+
+00:51:53.900 --> 00:51:56.594
+we kind of gave that story a
+little more legs.
+
+00:51:56.594 --> 00:51:58.260
+But we didn't, you know,
+originate it.
+
+00:51:58.260 --> 00:52:00.896
+It was the community really
+who originated it.
+
+00:52:00.896 --> 00:52:04.479
+All right.
+
+00:52:04.479 --> 00:52:07.970
+I think that's it.
+
+00:52:07.970 --> 00:52:09.010
+Thank you very much.
+
