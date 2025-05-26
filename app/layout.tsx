@@ -22,6 +22,7 @@ export const metadata: Metadata = {
 
 const font = Inter({
   subsets: ["latin"],
+  display: "swap",
 });
 
 export default function RootLayout({
