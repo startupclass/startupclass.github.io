@@ -34,7 +34,7 @@ const lectures = [
     description: "Lecture 5: Competitive Strategy",
   },
   {
-    title: "Lecture 6 - Building a Great Product (Kevin Hale)",
+    title: "Lecture 6 - Growth (Alex Schultz)",
     src: "/lectures/lecture-6/lecture.mp4",
     poster: "/lectures/lecture-6/poster.png",
     description: "Lecture 6: User Experience and Design",
