@@ -6,6 +6,7 @@ const lectures = [
   {
     title: "Lecture 1 - How to Start a Startup (Sam Altman, Dustin Moskovitz)",
     src: "/lectures/lecture-1/lecture.mp4",
+    subs: "/lectures/lecture-1/subs.vtt",
     poster: "/lectures/lecture-1/poster.png",
     description: "Lecture 1: Introduction to Startups",
   },
@@ -78,6 +79,7 @@ export default function Home() {
         <LocalVideo
           className="lg:w-1/2 w-full aspect-video border"
           src={lectures[0].src}
+          subs={lectures[0].subs}
           poster={lectures[0].poster}
         />
         <div className="flex-col p-2 gap-2 flex">

@@ -6,10 +6,12 @@ export default function LocalVideo({
   src,
   poster,
   className,
+  subs,
 }: {
   src: string;
   poster: string;
   className?: string;
+  subs?: string;
 }) {
   const [hover, setHover] = useState(false);
 
@@ -25,8 +27,7 @@ export default function LocalVideo({
       onMouseLeave={() => setHover(false)}
     >
       <source src={src} type="video/mp4" />
-      {/* TODO fix subtitles */}
-      <track src="/path/to/captions.vtt" kind="subtitles" srcLang="en" label="English" />
+      <track src={subs} kind="subtitles" srcLang="en" label="English" />
       Your browser does not support the video tag.
     </video>
   );

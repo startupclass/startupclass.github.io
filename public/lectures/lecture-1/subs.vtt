@@ -1,0 +1,4821 @@
+WEBVTT
+
+00:00:00.740 --> 00:00:01.240
+Welcome.
+
+00:00:02.298 --> 00:00:04.217
+Can I turn this on?
+
+00:00:04.217 --> 00:00:07.381
+Maybe, all right.
+
+00:00:07.381 --> 00:00:09.090
+>> Can people hear in the
+back?
+
+00:00:09.090 --> 00:00:10.660
+>> Can you guys hear me?
+
+00:00:10.660 --> 00:00:11.678
+Is the mic on?
+
+00:00:11.678 --> 00:00:18.038
+No, ah, maybe you can ask
+them to turn it on.
+
+00:00:18.038 --> 00:00:19.490
+Maybe we can get a bigger,
+ah, there we go.
+
+00:00:19.490 --> 00:00:20.657
+All right.
+
+00:00:20.657 --> 00:00:23.618
+Maybe we can get a bigger
+auditorium, we'll see.
+
+00:00:23.618 --> 00:00:25.270
+So welcome to CS183B.
+
+00:00:25.270 --> 00:00:25.950
+I'm Sam Altman.
+
+00:00:25.950 --> 00:00:27.930
+I'm the President of Y
+Combinator.
+
+00:00:27.930 --> 00:00:29.780
+Nine years ago, I was a
+Stanford student and
+
+00:00:29.780 --> 00:00:31.630
+then I dropped out to start
+a company.
+
+00:00:31.630 --> 00:00:32.990
+And then I've been an
+investor for the last few.
+
+00:00:34.010 --> 00:00:36.140
+So, at YC, we've been
+teaching people how to
+
+00:00:36.140 --> 00:00:38.440
+start startups for nine
+years.
+
+00:00:38.440 --> 00:00:39.930
+Most of it's very hands on
+and
+
+00:00:39.930 --> 00:00:40.875
+specific to the startups.
+
+00:00:42.240 --> 00:00:45.180
+But, 30% of it is pretty
+generally applicable.
+
+00:00:45.180 --> 00:00:47.340
+And so, we think that we
+
+00:00:47.340 --> 00:00:49.210
+can teach that 30% in this
+class.
+
+00:00:49.210 --> 00:00:50.890
+And even though that's only
+30% of the way
+
+00:00:50.890 --> 00:00:52.600
+there hopefully it'll still
+be really helpful.
+
+00:00:53.800 --> 00:00:55.750
+We've taught a lot of this
+at YC already, but
+
+00:00:55.750 --> 00:00:56.520
+it's all been off the
+record.
+
+00:00:56.520 --> 00:00:58.440
+And this is the first time
+that a lot of what we
+
+00:00:58.440 --> 00:01:00.370
+teach in YC is gonna be on
+the record.
+
+00:01:00.370 --> 00:01:02.360
+So we've invited some of our
+best speakers to come and
+
+00:01:02.360 --> 00:01:03.809
+give the same talks they
+give at YC.
+
+00:01:04.870 --> 00:01:05.960
+We've now funded 720
+companies.
+
+00:01:05.960 --> 00:01:07.620
+And so, we're pretty sure
+
+00:01:07.620 --> 00:01:09.460
+that a lot of this advice is
+pretty good.
+
+00:01:10.960 --> 00:01:13.000
+We can't fund every startup
+yet, but we can
+
+00:01:13.000 --> 00:01:16.710
+hopefully make this advice
+very generally available.
+
+00:01:16.710 --> 00:01:19.300
+Guest speakers are gonna
+teach 17 of the 20 classes.
+
+00:01:19.300 --> 00:01:20.010
+I'm only teaching three.
+
+00:01:21.200 --> 00:01:22.600
+Counting YC itself,
+
+00:01:22.600 --> 00:01:25.820
+every guest speaker has been
+involved in the creation of
+
+00:01:25.820 --> 00:01:26.840
+a billion plus dollar
+company.
+
+00:01:27.860 --> 00:01:30.110
+So the advice shouldn't be
+that theoretical.
+
+00:01:30.110 --> 00:01:33.680
+It's all been, it's all from
+people who have done it.
+
+00:01:33.680 --> 00:01:34.270
+All of the advice in
+
+00:01:34.270 --> 00:01:37.340
+this class is geared towards
+people starting a business
+
+00:01:37.340 --> 00:01:39.360
+where the goal was
+hyper-growth.
+
+00:01:39.360 --> 00:01:41.700
+And eventually building a
+very large company.
+
+00:01:41.700 --> 00:01:43.360
+Much of it doesn't apply in
+other cases and
+
+00:01:43.360 --> 00:01:44.950
+I wanna warn people up
+front.
+
+00:01:44.950 --> 00:01:45.610
+That if you try and
+
+00:01:45.610 --> 00:01:47.730
+do these things in a lot of
+big companies or
+
+00:01:47.730 --> 00:01:49.640
+non startups, it won't work.
+
+00:01:49.640 --> 00:01:51.130
+It should still be
+interesting.
+
+00:01:51.130 --> 00:01:52.720
+I, I really do think that
+startups are the way of
+
+00:01:52.720 --> 00:01:55.060
+the future and it's worth
+trying to understand them.
+
+00:01:55.060 --> 00:01:56.470
+But startups are very
+different
+
+00:01:56.470 --> 00:01:57.300
+than normal companies.
+
+00:01:58.970 --> 00:02:00.040
+So over the course of today
+and
+
+00:02:00.040 --> 00:02:02.660
+Thursday, I'm gonna try to
+give an overview of the four
+
+00:02:02.660 --> 00:02:04.580
+areas that you need to excel
+at in order to
+
+00:02:04.580 --> 00:02:06.930
+maximize your chances of
+success at a startup.
+
+00:02:06.930 --> 00:02:08.490
+And then throughout the
+course, the guest speakers
+
+00:02:08.490 --> 00:02:10.750
+are gonna drill into all of
+these in more detail.
+
+00:02:12.020 --> 00:02:14.480
+So the four areas, you need
+a great idea,
+
+00:02:14.480 --> 00:02:16.660
+a great product, a great
+team and great execution.
+
+00:02:18.020 --> 00:02:20.650
+These overlap somewhat, but
+I'm gonna have to talk about
+
+00:02:20.650 --> 00:02:23.130
+them somewhat individually
+to make it make sense.
+
+00:02:23.130 --> 00:02:25.600
+You may still fail.
+
+00:02:25.600 --> 00:02:28.230
+The outcome is something
+like idea times product
+
+00:02:28.230 --> 00:02:31.300
+times execution times team
+times luck,
+
+00:02:31.300 --> 00:02:34.010
+where luck is the random
+number between 0 and 10,000.
+
+00:02:34.010 --> 00:02:35.300
+Literally that much.
+
+00:02:35.300 --> 00:02:37.500
+But if you do really well in
+the four areas you can
+
+00:02:37.500 --> 00:02:39.205
+control, you have a good
+chance of at
+
+00:02:39.205 --> 00:02:40.637
+least some amount of
+success.
+
+00:02:41.800 --> 00:02:43.771
+One of the exciting things
+about startups, is
+
+00:02:43.771 --> 00:02:46.590
+that they are surprisingly
+even playing field.
+
+00:02:46.590 --> 00:02:48.290
+Young and inexperienced, you
+can do this.
+
+00:02:48.290 --> 00:02:50.500
+Old and very experienced,
+you can do this too.
+
+00:02:50.500 --> 00:02:52.885
+And one of the things that I
+particularly like about
+
+00:02:52.885 --> 00:02:55.700
+startups is that some of the
+things that are bad in
+
+00:02:55.700 --> 00:02:58.720
+other work situations, like
+being poor and unknown are
+
+00:02:58.720 --> 00:03:00.875
+actually huge assets when it
+comes to starting a startup.
+
+00:03:02.620 --> 00:03:04.340
+Before we jump in on the
+how.
+
+00:03:04.340 --> 00:03:06.850
+I want to talk about why you
+should start a startup.
+
+00:03:06.850 --> 00:03:09.460
+I'm somewhat hesitant to be
+doing this class at all,
+
+00:03:09.460 --> 00:03:11.110
+because you should never
+start a startup just for
+
+00:03:11.110 --> 00:03:12.520
+the sake of doing so.
+
+00:03:12.520 --> 00:03:14.530
+There are much easier ways
+to get rich and
+
+00:03:14.530 --> 00:03:16.220
+everyone who starts a
+startup always says,
+
+00:03:16.220 --> 00:03:18.610
+always, that they couldn't
+have imagined how hard and
+
+00:03:18.610 --> 00:03:19.360
+painful it was going to be.
+
+00:03:19.360 --> 00:03:22.330
+You should only start a
+startup if you com,
+
+00:03:22.330 --> 00:03:23.860
+feel compelled by a
+particular problem.
+
+00:03:23.860 --> 00:03:25.410
+And that you think starting
+a company is
+
+00:03:25.410 --> 00:03:27.120
+the best way to solve it.
+
+00:03:27.120 --> 00:03:29.090
+The specific passion should
+come first and
+
+00:03:29.090 --> 00:03:30.510
+the startup second.
+
+00:03:30.510 --> 00:03:31.240
+In fact, all of
+
+00:03:31.240 --> 00:03:33.340
+the big successes we have at
+YC followed this.
+
+00:03:34.520 --> 00:03:36.510
+So, for the second half of
+today's lecture,
+
+00:03:36.510 --> 00:03:38.705
+Dustin Moskovitz the
+co-founder of Facebook and
+
+00:03:38.705 --> 00:03:40.330
+Asana, is going to take over
+and
+
+00:03:40.330 --> 00:03:42.420
+talk about why to start a
+startup.
+
+00:03:42.420 --> 00:03:43.564
+We're so surprised by the
+amount of
+
+00:03:43.564 --> 00:03:45.228
+attention that this class
+got.
+
+00:03:45.228 --> 00:03:45.930
+That we wanna make sure we
+
+00:03:45.930 --> 00:03:46.890
+spend a lot of time on the
+why.
+
+00:03:48.570 --> 00:03:49.150
+Okay.
+So
+
+00:03:49.150 --> 00:03:50.190
+the first of the four areas.
+
+00:03:50.190 --> 00:03:50.770
+A great idea.
+
+00:03:52.060 --> 00:03:52.980
+It's become popular in
+
+00:03:52.980 --> 00:03:55.640
+recent years to say that the
+idea doesn't matter.
+
+00:03:55.640 --> 00:03:58.310
+In fact, it's almost uncool
+to spend a lot of time
+
+00:03:58.310 --> 00:04:00.010
+thinking about the idea for
+a startup.
+
+00:04:00.010 --> 00:04:01.540
+You're just supposed to
+start.
+
+00:04:01.540 --> 00:04:02.280
+Throw stuff at the walls.
+
+00:04:02.280 --> 00:04:03.770
+See what sticks.
+
+00:04:03.770 --> 00:04:05.400
+And not even spend any time
+thinking about if
+
+00:04:05.400 --> 00:04:06.600
+it'll be valuable if it
+works.
+
+00:04:07.760 --> 00:04:08.810
+And pivots are supposed to
+be great.
+
+00:04:08.810 --> 00:04:09.580
+The more pivots, the better.
+
+00:04:11.420 --> 00:04:13.380
+So this isn't totally wrong.
+
+00:04:13.380 --> 00:04:14.240
+Things do evolve in
+
+00:04:14.240 --> 00:04:15.930
+ways that are difficult to
+predict.
+
+00:04:15.930 --> 00:04:17.850
+And there's a limit to how
+much you can figure out,
+
+00:04:17.850 --> 00:04:18.980
+without actually getting a
+product in
+
+00:04:18.980 --> 00:04:19.760
+the hands of users.
+
+00:04:21.290 --> 00:04:22.400
+And great execution is at
+
+00:04:22.400 --> 00:04:24.170
+least ten times more
+important and
+
+00:04:24.170 --> 00:04:25.490
+a hundred times harder than
+a good idea.
+
+00:04:26.630 --> 00:04:28.270
+But the pendulum has swung
+way out of whack here.
+
+00:04:28.270 --> 00:04:30.990
+A bad idea is still bad.
+
+00:04:30.990 --> 00:04:32.510
+In the pivot happy world
+that we're in today,
+
+00:04:32.510 --> 00:04:34.660
+it feels really sub optimal.
+
+00:04:34.660 --> 00:04:36.660
+Great execution towards a
+terrible idea
+
+00:04:36.660 --> 00:04:38.340
+will get you nowhere.
+
+00:04:38.340 --> 00:04:40.360
+There are exceptions, of
+course.
+
+00:04:40.360 --> 00:04:41.640
+But most great companies
+start with
+
+00:04:41.640 --> 00:04:44.470
+a great idea, not a pivot.
+
+00:04:44.470 --> 00:04:47.130
+If you look at successful
+pivots, they almost always
+
+00:04:47.130 --> 00:04:48.690
+are a pivot into something
+the founders
+
+00:04:48.690 --> 00:04:50.810
+themselves wanted, not a
+random made up idea.
+
+00:04:51.980 --> 00:04:54.060
+Airbnb happened because
+Brian Chesky couldn't pay
+
+00:04:54.060 --> 00:04:56.990
+his rent, but he did have
+some extra space.
+
+00:04:56.990 --> 00:04:57.800
+In general, though,
+
+00:04:57.800 --> 00:04:59.860
+if you look at the track
+record of pivots,
+
+00:04:59.860 --> 00:05:00.910
+they don't become big
+companies.
+
+00:05:02.180 --> 00:05:03.970
+I myself used to believe
+ideas didn't matter that
+
+00:05:03.970 --> 00:05:06.490
+much, but I'm very sure
+that's wrong now.
+
+00:05:08.170 --> 00:05:09.180
+The definition of the idea,
+
+00:05:09.180 --> 00:05:11.610
+as we talk about it, is very
+broad.
+
+00:05:11.610 --> 00:05:13.930
+It includes the size and the
+growth of the market,
+
+00:05:13.930 --> 00:05:15.520
+the growth strategy for the
+company,
+
+00:05:15.520 --> 00:05:17.838
+the defensibility strategy
+and so on.
+
+00:05:17.838 --> 00:05:18.810
+When you're evaluating an
+idea,
+
+00:05:18.810 --> 00:05:20.710
+you need to think through
+all these things,
+
+00:05:20.710 --> 00:05:21.450
+not just the product.
+
+00:05:23.390 --> 00:05:25.500
+If it works out, you're
+gonna be working on this for
+
+00:05:25.500 --> 00:05:26.630
+ten years.
+
+00:05:26.630 --> 00:05:28.620
+So it's worth some real
+upfront time
+
+00:05:28.620 --> 00:05:29.910
+to think we've a long term
+value in
+
+00:05:29.910 --> 00:05:31.170
+the defensibility of the
+business.
+
+00:05:32.340 --> 00:05:34.770
+Even though plans themselves
+are worthless,
+
+00:05:34.770 --> 00:05:37.410
+to exercise a planning is
+really valuable and
+
+00:05:37.410 --> 00:05:38.810
+totally missing in most
+startups today.
+
+00:05:39.940 --> 00:05:41.170
+Long term thinking is so
+where,
+
+00:05:41.170 --> 00:05:43.612
+anywhere, but especially in
+startups.
+
+00:05:43.612 --> 00:05:44.900
+That it's a huge advantage
+if you do it.
+
+00:05:46.550 --> 00:05:48.570
+Remember that the idea will
+expand and
+
+00:05:48.570 --> 00:05:49.620
+become more ambitious as you
+go.
+
+00:05:49.620 --> 00:05:52.620
+You certainly don't need to
+have everything figured out,
+
+00:05:52.620 --> 00:05:54.630
+in a path from here to world
+domination.
+
+00:05:54.630 --> 00:05:56.360
+But you really want a nice
+kernel to start with.
+
+00:05:56.360 --> 00:05:58.930
+>> You want something that
+can develop in
+
+00:05:58.930 --> 00:05:59.630
+interesting ways.
+
+00:06:00.770 --> 00:06:02.340
+As you're thinking through
+ideas,
+
+00:06:02.340 --> 00:06:03.830
+another thing that we see
+young founders get
+
+00:06:03.830 --> 00:06:06.560
+wrong all the time, is that
+someday you need to
+
+00:06:06.560 --> 00:06:08.860
+build a business that's
+difficult to replicate.
+
+00:06:08.860 --> 00:06:10.160
+This is an important part of
+a good idea.
+
+00:06:10.160 --> 00:06:14.536
+I wanna make this point
+again because it's
+
+00:06:14.536 --> 00:06:17.040
+so important.
+
+00:06:17.040 --> 00:06:18.200
+The idea should come first,
+and
+
+00:06:18.200 --> 00:06:19.820
+the startup should come
+second.
+
+00:06:19.820 --> 00:06:21.350
+Wait to start a startup,
+until you come up
+
+00:06:21.350 --> 00:06:23.150
+with an idea you feel
+compelled to explore.
+
+00:06:24.160 --> 00:06:24.940
+This is also the way to
+
+00:06:24.940 --> 00:06:26.980
+chose between multiple
+ideas.
+
+00:06:26.980 --> 00:06:28.745
+If you have several ideas
+that all seem pretty good,
+
+00:06:28.745 --> 00:06:31.800
+work on the one that you
+think about most often when
+
+00:06:31.800 --> 00:06:33.820
+you're not trying to think
+about work.
+
+00:06:33.820 --> 00:06:35.940
+But we hear again and again
+from founders that they
+
+00:06:35.940 --> 00:06:38.070
+wish they had waited to
+start a startup until they
+
+00:06:38.070 --> 00:06:39.460
+came up with an idea that
+they really loved.
+
+00:06:41.390 --> 00:06:43.000
+Another way of looking at
+this is that the best
+
+00:06:43.000 --> 00:06:45.550
+companies are almost always
+mission oriented.
+
+00:06:45.550 --> 00:06:47.400
+It's difficult to get large
+groups of people to
+
+00:06:47.400 --> 00:06:49.550
+the extreme levels of focus
+and productivity that you
+
+00:06:49.550 --> 00:06:51.230
+need for a startup to be
+successful,
+
+00:06:52.230 --> 00:06:54.660
+unless the company feels
+like an important mission.
+
+00:06:54.660 --> 00:06:57.620
+And it's usually really hard
+to get that without a great
+
+00:06:57.620 --> 00:06:58.220
+founding idea.
+
+00:07:01.340 --> 00:07:03.000
+A related advantage of
+mission oriented
+
+00:07:03.000 --> 00:07:05.550
+ideas is that you yourself
+will be dedicated to them.
+
+00:07:06.900 --> 00:07:07.620
+It takes years and
+
+00:07:07.620 --> 00:07:10.620
+years, usually a decade to
+create a great startup.
+
+00:07:10.620 --> 00:07:11.170
+If you don't love and
+
+00:07:11.170 --> 00:07:12.660
+believe in what you're
+building,
+
+00:07:12.660 --> 00:07:14.340
+you're likely to give up at
+some point along the way.
+
+00:07:15.580 --> 00:07:17.430
+There's no way I know of to
+get through the pain of a
+
+00:07:17.430 --> 00:07:20.680
+startup without belief that
+the mission really matters.
+
+00:07:20.680 --> 00:07:22.500
+A lot of founders,
+especially students,
+
+00:07:22.500 --> 00:07:24.332
+believe that their startup's
+only gonna take two or
+
+00:07:24.332 --> 00:07:25.690
+three years and then after
+that they'll work on
+
+00:07:25.690 --> 00:07:27.310
+what they're really
+passionate about.
+
+00:07:27.310 --> 00:07:28.480
+That almost never works.
+
+00:07:28.480 --> 00:07:29.840
+Good startups usually take
+ten years.
+
+00:07:31.380 --> 00:07:32.710
+A third advantage of
+mission-oriented
+
+00:07:32.710 --> 00:07:34.350
+companies is that people
+outside the company,
+
+00:07:34.350 --> 00:07:36.880
+are more willing to help
+you.
+
+00:07:36.880 --> 00:07:37.740
+You'll get more support on
+
+00:07:37.740 --> 00:07:40.700
+a hard important project
+than a derivative one.
+
+00:07:40.700 --> 00:07:42.820
+When it comes to starting
+startups,
+
+00:07:42.820 --> 00:07:43.830
+in many ways it's easier to
+
+00:07:43.830 --> 00:07:46.050
+start a hard startup than an
+easy startup.
+
+00:07:46.050 --> 00:07:47.580
+This is one of those
+counter-intuitive things.
+
+00:07:47.580 --> 00:07:48.860
+It takes people a long time
+to understand.
+
+00:07:51.320 --> 00:07:52.710
+It's difficult to overstate
+how
+
+00:07:52.710 --> 00:07:54.270
+important being
+mission-driven is, so
+
+00:07:54.270 --> 00:07:56.230
+I wanna emphasize it one
+last time.
+
+00:07:56.230 --> 00:07:58.240
+Derivative companies,
+companies that
+
+00:07:58.240 --> 00:08:01.180
+copy an existing idea with
+very few new insights,
+
+00:08:01.180 --> 00:08:03.240
+don't excite people and they
+don't compel the teams to
+
+00:08:03.240 --> 00:08:04.940
+work hard enough to be
+successful.
+
+00:08:06.470 --> 00:08:07.790
+Paul Graham is gonna talk
+about how to
+
+00:08:07.790 --> 00:08:09.870
+get startup ideas next week.
+
+00:08:09.870 --> 00:08:11.740
+It's something that a lot of
+founders struggle with but
+
+00:08:11.740 --> 00:08:13.850
+it's something I believe you
+can get better with it,
+
+00:08:13.850 --> 00:08:15.040
+better at with practice.
+
+00:08:15.040 --> 00:08:16.530
+And it's definitely worth
+trying to get better at.
+
+00:08:18.490 --> 00:08:19.590
+The hardest part about
+coming up
+
+00:08:19.590 --> 00:08:20.950
+with great ideas is that
+
+00:08:20.950 --> 00:08:24.010
+the best ideas often look
+terrible at the beginning.
+
+00:08:24.010 --> 00:08:25.350
+The 13th search engine and
+
+00:08:25.350 --> 00:08:27.180
+without all the features of
+web portal.
+
+00:08:27.180 --> 00:08:29.930
+Most people thought that was
+pointless, search was done,
+
+00:08:29.930 --> 00:08:31.500
+and anyway, it didn't matter
+that much,
+
+00:08:31.500 --> 00:08:33.440
+Portal's where the value is
+at.
+
+00:08:33.440 --> 00:08:34.870
+The tenth social network,
+and
+
+00:08:34.870 --> 00:08:36.582
+limited only to college
+students with no money?
+
+00:08:36.582 --> 00:08:37.770
+Also terrible.
+
+00:08:37.770 --> 00:08:38.670
+MySpace had won, and
+
+00:08:38.670 --> 00:08:40.730
+who wants college students
+as customers, or
+
+00:08:40.730 --> 00:08:42.450
+a way to stay on strangers'
+couches?
+
+00:08:42.450 --> 00:08:43.640
+That just sounds terrible
+all around.
+
+00:08:44.920 --> 00:08:45.880
+These all sounded really
+bad,
+
+00:08:45.880 --> 00:08:47.870
+but they turned out to be
+good.
+
+00:08:47.870 --> 00:08:49.180
+If they had sounded really
+good,
+
+00:08:49.180 --> 00:08:51.100
+there would have been too
+many people working on them.
+
+00:08:53.176 --> 00:08:55.620
+As Peter Tills discussed in
+the fifth class,
+
+00:08:55.620 --> 00:08:58.020
+you want an idea that turns
+into a monopoly, but
+
+00:08:58.020 --> 00:09:01.040
+you can't get a monopoly in
+a big market right away.
+
+00:09:01.040 --> 00:09:01.960
+Too much competition for
+that.
+
+00:09:01.960 --> 00:09:04.580
+You have to find a small
+market in which you can get
+
+00:09:04.580 --> 00:09:06.211
+a monopoly, and then quickly
+expand.
+
+00:09:07.750 --> 00:09:09.380
+This is why some great
+startup ideas look
+
+00:09:09.380 --> 00:09:10.330
+really bad at the beginning.
+
+00:09:11.570 --> 00:09:13.720
+It's good if you can say
+something like, today only
+
+00:09:13.720 --> 00:09:16.130
+the small subset of users
+are going to use my product.
+
+00:09:16.130 --> 00:09:17.710
+But I'm gonna get all of
+them.
+
+00:09:17.710 --> 00:09:18.383
+And in the future,
+
+00:09:18.383 --> 00:09:19.740
+almost everyone will use my
+product.
+
+00:09:21.110 --> 00:09:22.720
+>> Here's the thing that's
+gonna come up a lot,
+
+00:09:22.720 --> 00:09:26.230
+you need conviction in your
+own beliefs, and
+
+00:09:26.230 --> 00:09:27.810
+the willingness to ignore
+others nay saying.
+
+00:09:29.000 --> 00:09:31.440
+The hard part is that this
+is a very fine line.
+
+00:09:31.440 --> 00:09:34.910
+There's right on one side of
+it, and crazy on the other.
+
+00:09:34.910 --> 00:09:36.240
+But keep in mind that if you
+do come up with
+
+00:09:36.240 --> 00:09:38.300
+a great idea, most people
+are going to think it's bad.
+
+00:09:38.300 --> 00:09:39.980
+You should be happy about
+that.
+
+00:09:39.980 --> 00:09:42.460
+It means they won't compete
+with you.
+
+00:09:42.460 --> 00:09:43.800
+This is also a reason why
+it's
+
+00:09:43.800 --> 00:09:45.750
+not usually dangerous to
+tell people about your idea.
+
+00:09:46.800 --> 00:09:48.520
+The truly good ideas don't
+sound like
+
+00:09:48.520 --> 00:09:49.190
+they're worth stealing.
+
+00:09:51.070 --> 00:09:52.640
+You want an idea about which
+you can say,
+
+00:09:52.640 --> 00:09:54.500
+I know it sounds like a bad
+idea.
+
+00:09:54.500 --> 00:09:57.240
+But hear specifically why
+it's actually a great one.
+
+00:09:57.240 --> 00:10:00.180
+You wanna sound crazy, but
+you wanna actually be right.
+
+00:10:00.180 --> 00:10:01.280
+And you want an idea that
+not many
+
+00:10:01.280 --> 00:10:03.060
+other people are working on.
+
+00:10:03.060 --> 00:10:05.470
+And it's okay if it doesn't
+sound big at first.
+
+00:10:05.470 --> 00:10:06.800
+Common mistake among
+founders,
+
+00:10:06.800 --> 00:10:08.380
+especially first time
+founders,
+
+00:10:08.380 --> 00:10:10.830
+is they think that the first
+version of their product,
+
+00:10:10.830 --> 00:10:12.440
+the first version of their
+idea,
+
+00:10:12.440 --> 00:10:13.910
+needs to sound really big.
+
+00:10:13.910 --> 00:10:14.440
+But it doesn't.
+
+00:10:14.440 --> 00:10:15.680
+It needs to take over a
+small,
+
+00:10:15.680 --> 00:10:18.460
+specific market and expand
+from there.
+
+00:10:18.460 --> 00:10:19.880
+That's how most great
+companies have started.
+
+00:10:20.970 --> 00:10:22.580
+Unpopular but right is what
+you're going for.
+
+00:10:22.580 --> 00:10:25.210
+You want something that
+sounds like a bad idea, but
+
+00:10:25.210 --> 00:10:25.840
+is a good idea.
+
+00:10:28.380 --> 00:10:29.870
+You also really wanna take
+the time to
+
+00:10:29.870 --> 00:10:31.350
+think about how the market's
+going to evolve.
+
+00:10:32.350 --> 00:10:33.620
+You need a market that's
+going to be big in
+
+00:10:33.620 --> 00:10:34.320
+ten years.
+
+00:10:35.320 --> 00:10:37.729
+Most investors are obsessed
+with the market size today,
+
+00:10:37.729 --> 00:10:39.834
+and they don't think at all
+about how the market is
+
+00:10:39.834 --> 00:10:41.190
+going to evolve.
+
+00:10:41.190 --> 00:10:42.560
+In fact, I think this is one
+of the biggest
+
+00:10:42.560 --> 00:10:44.010
+systemic mistakes that
+investors make.
+
+00:10:44.010 --> 00:10:46.250
+They think about the growth
+of the startup itself,
+
+00:10:46.250 --> 00:10:47.640
+they don't think about the
+growth of the market.
+
+00:10:49.150 --> 00:10:50.370
+I care much more about the
+growth rate of
+
+00:10:50.370 --> 00:10:52.050
+the market than it's current
+size.
+
+00:10:52.050 --> 00:10:52.720
+And I also care if
+
+00:10:52.720 --> 00:10:54.010
+there's any reason that it's
+gonna top out.
+
+00:10:54.010 --> 00:10:56.350
+You should think about this.
+
+00:10:56.350 --> 00:10:57.150
+I'd prefer to invest in
+
+00:10:57.150 --> 00:10:58.850
+a company that's going after
+a small but
+
+00:10:58.850 --> 00:11:01.410
+rapidly growing market than
+a big but slow growing one.
+
+00:11:02.750 --> 00:11:05.660
+One of the big advantages of
+these sorts of markets um,
+
+00:11:05.660 --> 00:11:07.930
+these small but rapidly
+growing markets, is that
+
+00:11:07.930 --> 00:11:10.640
+customers are usually pretty
+desperate for a solution.
+
+00:11:10.640 --> 00:11:12.358
+And they'll put, put up with
+an imperfect but
+
+00:11:12.358 --> 00:11:13.470
+rapidly improving product.
+
+00:11:15.090 --> 00:11:16.980
+And a big advantage of being
+a student, one of
+
+00:11:16.980 --> 00:11:19.780
+the two biggest advantages
+is that you probably have
+
+00:11:19.780 --> 00:11:22.170
+better intuition about which
+markets are likely to
+
+00:11:22.170 --> 00:11:23.660
+start growing rapidly than
+older people do.
+
+00:11:26.260 --> 00:11:28.640
+Another thing that students
+usually don't understand, or
+
+00:11:28.640 --> 00:11:31.630
+at least takes a while you
+cannot create a market that
+
+00:11:31.630 --> 00:11:33.120
+doesn't want to exist.
+
+00:11:33.120 --> 00:11:34.370
+You can basically change
+everything in
+
+00:11:34.370 --> 00:11:36.180
+a startup but the market.
+
+00:11:36.180 --> 00:11:38.760
+So you should actually do
+some thinking, to be sure or
+
+00:11:38.760 --> 00:11:40.810
+at least as sure as you can
+be, that the market your
+
+00:11:40.810 --> 00:11:42.460
+going after is going to grow
+and be there.
+
+00:11:43.590 --> 00:11:45.460
+There are a lot of different
+ways to
+
+00:11:45.460 --> 00:11:47.040
+talk about the right kind of
+market.
+
+00:11:47.040 --> 00:11:48.980
+For example, surfing someone
+else's wave or
+
+00:11:48.980 --> 00:11:51.420
+stepping into an up elevator
+or being part of a movement.
+
+00:11:51.420 --> 00:11:53.110
+But all of this is just a
+way of saying you want
+
+00:11:53.110 --> 00:11:55.200
+a market that's going to
+grow really quickly.
+
+00:11:55.200 --> 00:11:56.100
+It may seem small today.
+
+00:11:56.100 --> 00:11:57.340
+It may be small today.
+
+00:11:57.340 --> 00:11:58.040
+But you know, and
+
+00:11:58.040 --> 00:11:59.900
+other people don't that it's
+gonna grow really fast.
+
+00:12:01.320 --> 00:12:03.660
+So think about where this is
+happening in the world.
+
+00:12:03.660 --> 00:12:04.240
+You need this sort of
+
+00:12:04.240 --> 00:12:06.880
+a tail wind to make a
+startup successful.
+
+00:12:06.880 --> 00:12:08.720
+The exciting thing is there
+are probably more of
+
+00:12:08.720 --> 00:12:11.010
+these tail winds now than
+ever before.
+
+00:12:11.010 --> 00:12:11.841
+As Mark Andreessen says,
+
+00:12:11.841 --> 00:12:13.810
+software is eating the
+world.
+
+00:12:13.810 --> 00:12:14.810
+It's just everywhere.
+
+00:12:14.810 --> 00:12:17.190
+There are like, so many
+great ideas out there and
+
+00:12:17.190 --> 00:12:18.130
+you just have to pick one,
+and
+
+00:12:18.130 --> 00:12:19.220
+find one that you really
+care about.
+
+00:12:20.770 --> 00:12:21.877
+Another version of this,
+
+00:12:21.877 --> 00:12:23.585
+that would, gets down to the
+same idea,
+
+00:12:23.585 --> 00:12:25.570
+is Sequoia's famous
+question.
+
+00:12:25.570 --> 00:12:26.870
+Why now?
+
+00:12:26.870 --> 00:12:29.510
+Why is this the perfect time
+for this particular idea and
+
+00:12:29.510 --> 00:12:31.310
+to start this particular
+company?
+
+00:12:31.310 --> 00:12:33.140
+Why couldn't it have been
+done two years ago?
+
+00:12:33.140 --> 00:12:36.500
+And why will two years in
+the future be too late?
+
+00:12:36.500 --> 00:12:38.165
+For the most successful
+startups we've been
+
+00:12:38.165 --> 00:12:39.915
+involved with, they've all
+had a great idea,
+
+00:12:39.915 --> 00:12:41.110
+great answer to this
+question.
+
+00:12:42.160 --> 00:12:43.030
+And if you don't, you should
+be at
+
+00:12:43.030 --> 00:12:44.170
+least somewhat suspicious
+about it.
+
+00:12:46.370 --> 00:12:47.530
+In general, it's best if
+
+00:12:47.530 --> 00:12:49.940
+you're building something
+that you yourself need.
+
+00:12:49.940 --> 00:12:52.180
+You'll understand it much
+better than if you have to
+
+00:12:52.180 --> 00:12:53.040
+understand it by talking to
+
+00:12:53.040 --> 00:12:54.650
+a customer to build the very
+first version.
+
+00:12:56.030 --> 00:12:57.440
+If you don't know it
+yourself and
+
+00:12:57.440 --> 00:12:59.610
+you're building something
+that someone else needs,
+
+00:12:59.610 --> 00:13:01.670
+realize that you're at a big
+disadvantage and get very,
+
+00:13:01.670 --> 00:13:03.200
+very close to your
+customers.
+
+00:13:03.200 --> 00:13:04.510
+Try to work in their office
+if you can.
+
+00:13:04.510 --> 00:13:06.458
+And if not, talk to them
+multiple times a day.
+
+00:13:06.458 --> 00:13:09.910
+Another somewhat
+counter-intuitive thing
+
+00:13:09.910 --> 00:13:11.220
+about good start up ideas,
+
+00:13:11.220 --> 00:13:13.720
+is that they're almost
+always very easy to explain,
+
+00:13:13.720 --> 00:13:15.400
+and very easy to understand.
+
+00:13:15.400 --> 00:13:16.660
+If it takes more than a
+sentence to
+
+00:13:16.660 --> 00:13:18.210
+explain what you're doing
+um,
+
+00:13:18.210 --> 00:13:21.170
+it's almost always a sign
+that it's too complicated.
+
+00:13:21.170 --> 00:13:22.860
+It should be a clearly
+articulate,
+
+00:13:22.860 --> 00:13:24.800
+articulated vision with a
+small number of words.
+
+00:13:26.530 --> 00:13:28.020
+And the best ideas are
+usually either,
+
+00:13:28.020 --> 00:13:31.460
+very different from existing
+companies in one
+
+00:13:31.460 --> 00:13:32.800
+important way.
+
+00:13:32.800 --> 00:13:34.620
+Like Google being a search
+engine that worked
+
+00:13:34.620 --> 00:13:36.540
+just really well and none of
+the other stuff of
+
+00:13:36.540 --> 00:13:38.750
+the portals or totally new,
+like Space X.
+
+00:13:40.070 --> 00:13:41.080
+Any company that's a clone
+of
+
+00:13:41.080 --> 00:13:43.880
+something else that already
+exists with some small or
+
+00:13:43.880 --> 00:13:45.310
+made up differentiator,
+
+00:13:45.310 --> 00:13:47.280
+like we're gonna be x
+beautiful design or
+
+00:13:47.280 --> 00:13:50.340
+we're gonna be y for people
+that like red wine instead.
+
+00:13:50.340 --> 00:13:51.170
+That usually fails.
+
+00:13:53.330 --> 00:13:55.890
+So as I mentioned one of the
+great things about being
+
+00:13:55.890 --> 00:13:56.820
+a student is you
+
+00:13:56.820 --> 00:13:58.520
+have a very good perspective
+on new technology.
+
+00:13:59.710 --> 00:14:01.110
+And learning to get good at
+having new
+
+00:14:01.110 --> 00:14:02.750
+ideas takes a while.
+
+00:14:02.750 --> 00:14:03.930
+So start working on that
+right now.
+
+00:14:05.000 --> 00:14:06.550
+That's one thing we hear
+from people all the time,
+
+00:14:06.550 --> 00:14:07.550
+that they wish they had
+
+00:14:07.550 --> 00:14:09.530
+done more when they were a
+student.
+
+00:14:09.530 --> 00:14:11.514
+The other is meeting
+potential co-founders.
+
+00:14:13.371 --> 00:14:16.170
+You have no idea how good of
+an environment you are in
+
+00:14:16.170 --> 00:14:17.210
+right now for meeting people
+that you
+
+00:14:17.210 --> 00:14:19.110
+can start a company with
+down the road.
+
+00:14:19.110 --> 00:14:19.860
+And the one thing that we
+
+00:14:19.860 --> 00:14:21.680
+always tell college
+students, is more
+
+00:14:21.680 --> 00:14:24.150
+important than starting any
+particular startup
+
+00:14:24.150 --> 00:14:27.870
+is getting to know a lot of
+potential co-founders.
+
+00:14:27.870 --> 00:14:30.400
+So I want to finish this
+section of my talk
+
+00:14:30.400 --> 00:14:31.820
+with a quote from 50 Cent.
+
+00:14:31.820 --> 00:14:35.190
+This is from when he was
+asked about vitamin water.
+
+00:14:35.190 --> 00:14:38.050
+I won't read it, its up
+there.
+
+00:14:38.050 --> 00:14:39.600
+But it's about the
+importance of
+
+00:14:39.600 --> 00:14:41.730
+thinking about what
+customers want, and
+
+00:14:41.730 --> 00:14:43.050
+thinking about the demands
+of the market.
+
+00:14:44.190 --> 00:14:45.470
+Most people don't do this,
+
+00:14:45.470 --> 00:14:47.090
+most students especially
+don't do this.
+
+00:14:48.210 --> 00:14:50.410
+If you can just do this one
+thing, if you can just
+
+00:14:50.410 --> 00:14:52.990
+learn to think about the
+market first, you will have
+
+00:14:52.990 --> 00:14:55.430
+a big leg up on most people
+starting startups.
+
+00:14:55.430 --> 00:14:58.040
+All right, and this is
+something.
+
+00:14:58.040 --> 00:14:59.060
+This is probably the thing
+that we
+
+00:14:59.060 --> 00:15:02.390
+see wrong with Y Combinator
+apps most frequently, is
+
+00:15:02.390 --> 00:15:05.090
+that people have not thought
+about the market first.
+
+00:15:05.090 --> 00:15:06.040
+And what people want first.
+
+00:15:07.510 --> 00:15:08.570
+So for the next section,
+
+00:15:08.570 --> 00:15:09.960
+I'm gonna talk about
+building a great product.
+
+00:15:11.138 --> 00:15:12.568
+And here again,
+
+00:15:12.568 --> 00:15:17.920
+I'm gonna use a very broad
+definition of product.
+
+00:15:17.920 --> 00:15:19.242
+It includes customer support
+and
+
+00:15:19.242 --> 00:15:21.280
+copyright explaining the
+product.
+
+00:15:21.280 --> 00:15:23.220
+Anything involved in your
+customer's interaction with
+
+00:15:23.220 --> 00:15:23.880
+what you built for them.
+
+00:15:25.880 --> 00:15:27.890
+To build a really great
+company, you first have to
+
+00:15:27.890 --> 00:15:30.080
+turn a great idea into a
+great product.
+
+00:15:30.080 --> 00:15:32.260
+This is really hard, but
+it's crucially important,
+
+00:15:32.260 --> 00:15:33.250
+and fortunately it's pretty
+fun.
+
+00:15:34.620 --> 00:15:36.760
+Although great products are
+always new to the world and
+
+00:15:36.760 --> 00:15:38.290
+it's hard to give you advice
+about what to build,
+
+00:15:38.290 --> 00:15:40.010
+there are enough
+commonalities that we
+
+00:15:40.010 --> 00:15:42.000
+can give you a lot of advice
+about how to build it.
+
+00:15:43.780 --> 00:15:45.680
+One of the most important
+tasks for a founder is to
+
+00:15:45.680 --> 00:15:48.140
+make sure that the company
+builds a great product.
+
+00:15:48.140 --> 00:15:49.740
+Until you've built a great
+product,
+
+00:15:49.740 --> 00:15:51.540
+almost nothing else matters.
+
+00:15:51.540 --> 00:15:53.100
+When really successful
+startup founders tell
+
+00:15:53.100 --> 00:15:54.890
+the story of their early
+days.
+
+00:15:54.890 --> 00:15:57.350
+It's almost always sitting
+in front of the computer,
+
+00:15:57.350 --> 00:16:00.080
+working on their product or
+talking to their customers.
+
+00:16:00.080 --> 00:16:01.270
+That's pretty much all the
+time.
+
+00:16:01.270 --> 00:16:02.930
+They do very little else,
+and
+
+00:16:02.930 --> 00:16:05.640
+you should be very skeptical
+if your time allocation is
+
+00:16:05.640 --> 00:16:06.140
+much different.
+
+00:16:07.410 --> 00:16:08.880
+Most other problems that
+founders are trying to
+
+00:16:08.880 --> 00:16:11.070
+solve, raising money,
+getting more press,
+
+00:16:11.070 --> 00:16:13.060
+hiring, business
+development, et cetera.
+
+00:16:13.060 --> 00:16:14.260
+These are significantly
+easier when you
+
+00:16:14.260 --> 00:16:14.819
+have a great product.
+
+00:16:15.860 --> 00:16:17.970
+It's really important to
+take care of that first.
+
+00:16:17.970 --> 00:16:19.760
+Step 1, is to build
+something that users love.
+
+00:16:21.870 --> 00:16:24.380
+At YC, we tell founders to
+work on their product,
+
+00:16:24.380 --> 00:16:26.230
+talk to users, exercise eat
+and
+
+00:16:26.230 --> 00:16:28.360
+sleep and very little else.
+
+00:16:28.360 --> 00:16:30.990
+All the other stuff I just
+mentioned, PR conferences,
+
+00:16:30.990 --> 00:16:33.200
+recruiting advisers, doing
+partnerships,
+
+00:16:33.200 --> 00:16:34.810
+you should ignore all of
+that and
+
+00:16:34.810 --> 00:16:35.990
+just build a product.
+
+00:16:35.990 --> 00:16:37.160
+And get it as good as
+possible by
+
+00:16:37.160 --> 00:16:38.020
+talking to your users.
+
+00:16:40.110 --> 00:16:41.870
+Your job is to build
+something that users love.
+
+00:16:43.810 --> 00:16:45.150
+Very few companies that go
+on to be
+
+00:16:45.150 --> 00:16:48.320
+super successful get there
+without first doing this.
+
+00:16:48.320 --> 00:16:50.590
+A lot of good on paper
+startups fail because they
+
+00:16:50.590 --> 00:16:51.830
+merely make something that
+people like.
+
+00:16:52.930 --> 00:16:54.115
+Making something that people
+want,
+
+00:16:54.115 --> 00:16:57.450
+but only a medium amount is
+a great way to fail and
+
+00:16:57.450 --> 00:16:59.300
+not understand why you're
+failing.
+
+00:16:59.300 --> 00:17:00.270
+So these are the two jobs.
+
+00:17:02.710 --> 00:17:03.770
+Something that we say at
+
+00:17:03.770 --> 00:17:06.080
+YC a lot is that it's better
+to build a small number,
+
+00:17:06.080 --> 00:17:07.950
+it's better to build
+something that a small
+
+00:17:07.950 --> 00:17:10.510
+number of users love than a
+large number of users like.
+
+00:17:11.670 --> 00:17:12.570
+Of course, it'd be best to
+
+00:17:12.570 --> 00:17:14.840
+build something that a small
+number of users love.
+
+00:17:14.840 --> 00:17:17.570
+But opportunities to do that
+for V1 are rare, and
+
+00:17:17.570 --> 00:17:20.190
+they're usually not
+available to startups.
+
+00:17:20.190 --> 00:17:21.020
+So in practice,
+
+00:17:21.020 --> 00:17:23.140
+you end up choosing either
+the grey or the orange.
+
+00:17:23.140 --> 00:17:25.380
+You make something that a
+lot of users like a little
+
+00:17:25.380 --> 00:17:27.570
+bit, or something that a
+small number of users,
+
+00:17:27.570 --> 00:17:28.520
+like, love a lot.
+
+00:17:28.520 --> 00:17:31.040
+And this is a very important
+piece of advice.
+
+00:17:32.160 --> 00:17:34.640
+Build something that a small
+number of users love.
+
+00:17:34.640 --> 00:17:36.450
+It's much easier to expand
+from something that
+
+00:17:36.450 --> 00:17:37.100
+a small number of
+
+00:17:37.100 --> 00:17:39.710
+people love to something
+that a lot of people love.
+
+00:17:39.710 --> 00:17:40.660
+Than from something that a
+lot of
+
+00:17:40.660 --> 00:17:42.220
+people like to a lot of
+people love.
+
+00:17:43.680 --> 00:17:44.410
+If you get this right,
+
+00:17:45.490 --> 00:17:46.920
+you can get a lot of other
+things wrong.
+
+00:17:48.410 --> 00:17:49.730
+If you don't get this right,
+
+00:17:49.730 --> 00:17:50.700
+you can get everything else
+right,
+
+00:17:50.700 --> 00:17:52.910
+and you'll probably still
+fail.
+
+00:17:52.910 --> 00:17:54.500
+So when you start on a
+startup, this is the only
+
+00:17:54.500 --> 00:17:56.410
+thing you need to care about
+until it's working.
+
+00:17:58.140 --> 00:18:00.640
+>> Excuse me, can you
+explain that again?
+
+00:18:00.640 --> 00:18:01.190
+>> Sure.
+So you have
+
+00:18:01.190 --> 00:18:02.410
+a choice in a startup.
+
+00:18:02.410 --> 00:18:04.080
+The best thing of all worlds
+would be to
+
+00:18:04.080 --> 00:18:07.650
+build a product that a lot
+of people will really love.
+
+00:18:07.650 --> 00:18:08.290
+In practice you
+
+00:18:08.290 --> 00:18:10.240
+can't usually do that
+because of big company.
+
+00:18:10.240 --> 00:18:11.810
+If there's an opportunity
+like that, Google or
+
+00:18:11.810 --> 00:18:13.250
+Facebook will do it.
+
+00:18:13.250 --> 00:18:16.070
+So there's like a limit to
+the area under the curve
+
+00:18:16.070 --> 00:18:17.860
+of what you can build and
+you can either build
+
+00:18:17.860 --> 00:18:21.160
+something that lot of users
+like a little bit or you can
+
+00:18:21.160 --> 00:18:23.980
+build something that a small
+number of users love a lot.
+
+00:18:23.980 --> 00:18:26.280
+And, like, the total amount
+of love is the same,
+
+00:18:26.280 --> 00:18:27.800
+it's just a question of how
+it's distributed.
+
+00:18:30.030 --> 00:18:31.610
+And there's like this law of
+conversation of
+
+00:18:31.610 --> 00:18:34.140
+how much happiness you can
+put into the world
+
+00:18:34.140 --> 00:18:36.160
+with the first product of a
+startup.
+
+00:18:36.160 --> 00:18:38.356
+And so startups always
+struggle with which of
+
+00:18:38.356 --> 00:18:39.640
+those two they should go.
+
+00:18:39.640 --> 00:18:40.680
+And they seem equal,
+
+00:18:40.680 --> 00:18:42.260
+right, cuz the area under
+the curve is the same.
+
+00:18:43.830 --> 00:18:45.480
+But we've seen this time and
+again that they're not.
+
+00:18:45.480 --> 00:18:47.120
+And that it's so much easier
+to expand.
+
+00:18:47.120 --> 00:18:49.330
+Once you've got something
+that some people love,
+
+00:18:49.330 --> 00:18:49.970
+you can expand that
+
+00:18:49.970 --> 00:18:51.910
+something that a lot of
+other people love.
+
+00:18:51.910 --> 00:18:54.000
+But if you only get
+ambivalence or
+
+00:18:54.000 --> 00:18:55.860
+sort of like weak
+enthusiasm.
+
+00:18:55.860 --> 00:18:57.200
+And then try to expand that,
+
+00:18:57.200 --> 00:18:58.820
+you'll never get up to a lot
+of people loving it.
+
+00:18:59.930 --> 00:19:04.340
+So the advice is, uh, find a
+small group of users and
+
+00:19:04.340 --> 00:19:05.660
+make them really love what
+you're doing.
+
+00:19:05.660 --> 00:19:07.230
+Does that make sense?
+
+00:19:07.230 --> 00:19:11.800
+All right.
+
+00:19:11.800 --> 00:19:13.220
+I'm, I'm, one way that you
+know when this is
+
+00:19:13.220 --> 00:19:15.610
+working is that you'll get
+growth by word of mouth.
+
+00:19:15.610 --> 00:19:16.850
+If you make something people
+love
+
+00:19:18.770 --> 00:19:20.170
+people will tell their
+friends about it.
+
+00:19:20.170 --> 00:19:21.490
+This works for consumer
+products and
+
+00:19:21.490 --> 00:19:23.470
+enterprise products, as
+well.
+
+00:19:23.470 --> 00:19:24.780
+When people really love
+something,
+
+00:19:24.780 --> 00:19:26.000
+they tell their friends
+about it and
+
+00:19:26.000 --> 00:19:26.870
+you'll see organic growth.
+
+00:19:28.530 --> 00:19:30.110
+If you find yourself talking
+about how it's okay that
+
+00:19:30.110 --> 00:19:33.400
+you're not growing because
+there's a big partnership
+
+00:19:33.400 --> 00:19:35.320
+that's gonna come save you
+or something like that,
+
+00:19:35.320 --> 00:19:36.820
+it's almost always a sign of
+real trouble.
+
+00:19:38.710 --> 00:19:40.230
+Sales and marketing are
+really important, and
+
+00:19:40.230 --> 00:19:42.260
+we're gonna have two classes
+on them later.
+
+00:19:42.260 --> 00:19:44.580
+But if you don't have some
+early organic growth,
+
+00:19:44.580 --> 00:19:46.170
+then your product probably
+isn't good enough yet.
+
+00:19:46.170 --> 00:19:47.616
+A great product is the
+secret to
+
+00:19:47.616 --> 00:19:48.786
+long term growth hacking.
+
+00:19:48.786 --> 00:19:49.454
+You should get
+
+00:19:49.454 --> 00:19:51.681
+that right before you worry
+about anything else.
+
+00:19:51.681 --> 00:19:54.259
+It doesn't get easier to put
+off making a great product.
+
+00:19:55.360 --> 00:19:57.040
+If you try to build a growth
+machine before you
+
+00:19:57.040 --> 00:19:58.910
+have a product that some
+people really love,
+
+00:19:58.910 --> 00:20:01.660
+you're almost certainly
+gonna waste your time.
+
+00:20:01.660 --> 00:20:03.670
+Breakout companies almost
+always have a product
+
+00:20:03.670 --> 00:20:05.190
+that's so good that it grows
+by word of mouth.
+
+00:20:06.770 --> 00:20:08.900
+Over the long run great
+products win.
+
+00:20:08.900 --> 00:20:11.110
+Don't worry about your
+competitors raising a lot of
+
+00:20:11.110 --> 00:20:13.750
+money and what they may do
+in the future.
+
+00:20:13.750 --> 00:20:15.270
+They probably aren't very
+good anyway.
+
+00:20:15.270 --> 00:20:17.840
+Very few startups die from
+competition.
+
+00:20:17.840 --> 00:20:19.530
+Most die because they
+themselves fail to
+
+00:20:19.530 --> 00:20:20.770
+make something users love.
+
+00:20:20.770 --> 00:20:21.930
+They spend their time on
+other things.
+
+00:20:23.060 --> 00:20:25.520
+So worry about this above
+all else.
+
+00:20:26.680 --> 00:20:28.160
+Another piece of advice to
+make something that
+
+00:20:28.160 --> 00:20:30.530
+users love is to start with
+something simple.
+
+00:20:30.530 --> 00:20:32.830
+It's much, much easier to
+make a great product if
+
+00:20:32.830 --> 00:20:34.260
+you have something simple.
+
+00:20:34.260 --> 00:20:37.050
+Even if your eventual plans
+are super complex, and
+
+00:20:37.050 --> 00:20:38.560
+hopefully they are,
+
+00:20:38.560 --> 00:20:40.280
+you can almost always start
+with a smaller subset of
+
+00:20:40.280 --> 00:20:42.580
+the problem than whatever
+you think is the smallest.
+
+00:20:42.580 --> 00:20:43.980
+And it's hard to build a
+great product.
+
+00:20:43.980 --> 00:20:44.750
+So you wanna start with as
+
+00:20:44.750 --> 00:20:46.850
+little surface area as
+possible.
+
+00:20:46.850 --> 00:20:48.490
+Think about the really
+successful companies and
+
+00:20:48.490 --> 00:20:49.920
+what they started with.
+
+00:20:49.920 --> 00:20:51.650
+Think about products that
+you really love.
+
+00:20:51.650 --> 00:20:53.480
+They're generally incredibly
+simple to use and
+
+00:20:53.480 --> 00:20:54.700
+especially to get started
+using.
+
+00:20:56.050 --> 00:20:56.710
+The first version of
+
+00:20:56.710 --> 00:20:59.030
+Facebook was almost
+comically simple.
+
+00:20:59.030 --> 00:21:00.540
+The first version of Google
+was just an ugly
+
+00:21:00.540 --> 00:21:02.950
+webpage with a textbox and
+two buttons but it returned
+
+00:21:02.950 --> 00:21:05.270
+the best results, and that's
+why users loved it.
+
+00:21:05.270 --> 00:21:06.520
+The iPhone is far simpler to
+
+00:21:06.520 --> 00:21:08.630
+use than any smartphone that
+ever came before it and
+
+00:21:08.630 --> 00:21:10.080
+it was the first one that
+people really loved.
+
+00:21:11.770 --> 00:21:13.630
+Another reason that simple
+is good,
+
+00:21:13.630 --> 00:21:15.540
+is because it forces you to
+do one thing extremely well.
+
+00:21:15.540 --> 00:21:17.160
+And you have to do that to
+make
+
+00:21:17.160 --> 00:21:18.603
+something that people love.
+
+00:21:18.603 --> 00:21:21.567
+The word fanatical comes up
+again and
+
+00:21:21.567 --> 00:21:25.582
+again when you listen to
+successful founders talk
+
+00:21:25.582 --> 00:21:29.033
+about how they think about
+their product.
+
+00:21:29.033 --> 00:21:30.770
+Founders talk about being
+fanatical in the way
+
+00:21:30.770 --> 00:21:33.180
+they care about the quality
+of the small details.
+
+00:21:33.180 --> 00:21:34.900
+Fanatical in getting the
+copy that they use to
+
+00:21:34.900 --> 00:21:37.370
+explain the product just
+right and fanatical in
+
+00:21:37.370 --> 00:21:38.670
+the way they think about
+customer support.
+
+00:21:39.950 --> 00:21:41.290
+In fact, one thing that
+correlates into
+
+00:21:41.290 --> 00:21:43.920
+success among the YC
+companies is the founders
+
+00:21:43.920 --> 00:21:46.340
+that hook up pager duty to
+their ticketing system, so
+
+00:21:46.340 --> 00:21:47.610
+that even if the user emails
+in the middle of
+
+00:21:47.610 --> 00:21:49.160
+the night when the founders
+are asleep.
+
+00:21:49.160 --> 00:21:50.370
+They still get a response
+within an hour.
+
+00:21:51.400 --> 00:21:53.390
+Companies actually do this
+in the early days.
+
+00:21:53.390 --> 00:21:55.500
+These founders feel physical
+pain when the product sucks.
+
+00:21:55.500 --> 00:21:57.010
+And they wanna wake up and
+fix it.
+
+00:21:57.010 --> 00:21:58.030
+They don't ship crap.
+
+00:21:58.030 --> 00:21:59.690
+And if they do they fix it
+very, very quickly.
+
+00:21:59.690 --> 00:22:02.350
+And it definitely takes some
+level of
+
+00:22:02.350 --> 00:22:04.210
+fanaticism to build a great
+product.
+
+00:22:06.730 --> 00:22:09.280
+You need some users to help
+with the feedback cycle.
+
+00:22:09.280 --> 00:22:10.990
+But the way to get those
+users is manually.
+
+00:22:10.990 --> 00:22:13.190
+You should go recruit them
+by hand.
+
+00:22:13.190 --> 00:22:14.860
+Don't do things like buy
+Google ads in
+
+00:22:14.860 --> 00:22:17.100
+the early days to get
+initial users.
+
+00:22:17.100 --> 00:22:18.420
+You don't need very many.
+
+00:22:18.420 --> 00:22:20.090
+You just needs ones that
+will give you feedback every
+
+00:22:20.090 --> 00:22:22.390
+day and eventually love your
+product.
+
+00:22:22.390 --> 00:22:24.470
+So instead of trying to get
+them on Google AdWords,
+
+00:22:24.470 --> 00:22:26.510
+just find a few people in
+the world that will be
+
+00:22:26.510 --> 00:22:27.270
+good users.
+
+00:22:27.270 --> 00:22:27.970
+Recruit them by hand.
+
+00:22:29.360 --> 00:22:32.880
+Ben Silverman when everyone
+though Pinterest was a joke,
+
+00:22:32.880 --> 00:22:34.385
+recruited the initial
+Pinterest users by
+
+00:22:34.385 --> 00:22:36.550
+tagging up strangers in
+coffee shops.
+
+00:22:36.550 --> 00:22:37.590
+He really did.
+He just walked around
+
+00:22:37.590 --> 00:22:39.300
+Palo Alto and said will you
+please use my product.
+
+00:22:40.380 --> 00:22:41.820
+He also used to run around
+the Apple store in
+
+00:22:41.820 --> 00:22:42.730
+Palo Alto.
+
+00:22:42.730 --> 00:22:43.941
+And he would like set all
+the browsers to
+
+00:22:43.941 --> 00:22:45.706
+the Pinterest home page real
+quick before they caught him
+
+00:22:45.706 --> 00:22:46.340
+and kicked him out.
+
+00:22:47.480 --> 00:22:48.990
+So then when people walked
+in there, they were like oh,
+
+00:22:48.990 --> 00:22:49.900
+what is this?
+
+00:22:51.650 --> 00:22:53.650
+This is an important example
+of doing things
+
+00:22:53.650 --> 00:22:55.170
+that don't scale.
+
+00:22:55.170 --> 00:22:56.460
+If you haven't read Paul
+Graham's essay on
+
+00:22:56.460 --> 00:22:58.030
+that topic you definitely
+should.
+
+00:22:59.090 --> 00:23:01.490
+So get users manually and
+remember that the goal is to
+
+00:23:01.490 --> 00:23:03.610
+get a small group of them to
+love you.
+
+00:23:03.610 --> 00:23:05.630
+Understand that group
+extremely well,
+
+00:23:05.630 --> 00:23:08.060
+get extremely close into
+them, close to them,
+
+00:23:08.060 --> 00:23:10.160
+listen to them and you'll
+almost always find out
+
+00:23:10.160 --> 00:23:11.610
+that they're very willing to
+give you feedback.
+
+00:23:12.610 --> 00:23:13.660
+Even if you're building the
+product for
+
+00:23:13.660 --> 00:23:16.090
+yourself, listen to outside
+users and
+
+00:23:16.090 --> 00:23:18.560
+they'll tell you how to make
+a product they'll pay for.
+
+00:23:18.560 --> 00:23:19.955
+Do whatever you need to make
+them love you,
+
+00:23:19.955 --> 00:23:22.690
+make you're doing, cuz
+they're also gonna be
+
+00:23:22.690 --> 00:23:24.440
+the advocates that help you
+get your next users.
+
+00:23:26.840 --> 00:23:29.260
+You wanna build an engine in
+the company that transforms
+
+00:23:29.260 --> 00:23:31.810
+feedback from users into
+product decisions then get
+
+00:23:31.810 --> 00:23:34.460
+it back in front of the
+users and then repeat.
+
+00:23:34.460 --> 00:23:35.124
+Ask them what they like and
+
+00:23:35.124 --> 00:23:37.200
+what they don't like, and
+watch them use it.
+
+00:23:37.200 --> 00:23:38.020
+Ask them what they pay for.
+
+00:23:39.420 --> 00:23:40.490
+Ask them if they'd be really
+bummed if
+
+00:23:40.490 --> 00:23:41.190
+your company went away.
+
+00:23:41.190 --> 00:23:44.160
+Ask them what would make
+them recommend the product
+
+00:23:44.160 --> 00:23:45.190
+to their friends.
+
+00:23:45.190 --> 00:23:47.260
+And ask them if they've
+recommended it to any yet.
+
+00:23:47.260 --> 00:23:48.980
+You should make this
+feedback loop as
+
+00:23:48.980 --> 00:23:50.330
+tight as possible.
+
+00:23:50.330 --> 00:23:52.480
+If your product gets 10%
+better every week,
+
+00:23:52.480 --> 00:23:53.700
+that compounds really,
+really quickly.
+
+00:23:54.890 --> 00:23:56.760
+One of the great advantages
+of start,
+
+00:23:56.760 --> 00:23:58.930
+of software startups is just
+how short you
+
+00:23:58.930 --> 00:24:00.330
+can make the feedback loop.
+
+00:24:00.330 --> 00:24:01.888
+It can go circle in hours,
+and the best
+
+00:24:01.888 --> 00:24:04.930
+companies usually have the
+tightest feedback loops.
+
+00:24:04.930 --> 00:24:06.120
+You should try to keep this
+going for
+
+00:24:06.120 --> 00:24:07.650
+all of your company's life.
+
+00:24:07.650 --> 00:24:09.190
+But it's really important in
+the early days.
+
+00:24:10.860 --> 00:24:12.630
+The good news is that all of
+this is doable.
+
+00:24:12.630 --> 00:24:14.070
+It's hard, it takes a lot of
+effort, but
+
+00:24:14.070 --> 00:24:15.220
+there's no magic.
+
+00:24:15.220 --> 00:24:16.460
+The plan is at least
+straight forward and
+
+00:24:16.460 --> 00:24:17.960
+you will eventually get to a
+great product.
+
+00:24:19.680 --> 00:24:20.510
+Great founders don't put
+
+00:24:20.510 --> 00:24:22.740
+anyone between themselves
+and their users.
+
+00:24:22.740 --> 00:24:23.330
+The founders of
+
+00:24:23.330 --> 00:24:24.830
+these companies do things
+like sales and
+
+00:24:24.830 --> 00:24:27.020
+customer support themselves
+in the early days.
+
+00:24:27.020 --> 00:24:27.650
+It's critical to
+
+00:24:27.650 --> 00:24:29.440
+get this loop embedded in
+the culture.
+
+00:24:29.440 --> 00:24:30.850
+In fact, the specific
+problem that we
+
+00:24:30.850 --> 00:24:32.110
+always see with Stanford
+startups for
+
+00:24:32.110 --> 00:24:33.890
+some reason is that the
+students try and
+
+00:24:33.890 --> 00:24:35.880
+hire sales and customer
+support people right away.
+
+00:24:35.880 --> 00:24:37.280
+And you've gotta do this
+yourself.
+
+00:24:37.280 --> 00:24:37.910
+It's the only way.
+
+00:24:40.210 --> 00:24:41.200
+You really need to use
+metrics to
+
+00:24:41.200 --> 00:24:42.340
+keep yourself honest on
+this.
+
+00:24:43.920 --> 00:24:45.560
+It really is true that the
+company will
+
+00:24:45.560 --> 00:24:48.080
+build whatever the CEO
+decides to measure.
+
+00:24:48.080 --> 00:24:49.730
+If you're building an
+internet service,
+
+00:24:49.730 --> 00:24:51.370
+ignore things like total
+registrations.
+
+00:24:51.370 --> 00:24:51.990
+Don't talk about them.
+
+00:24:51.990 --> 00:24:53.950
+Don't let anyone in the
+company talk about them.
+
+00:24:53.950 --> 00:24:56.740
+And look at growth in active
+users, activity levels,
+
+00:24:56.740 --> 00:24:58.930
+cohort retention, revenue,
+net promoter scores.
+
+00:24:58.930 --> 00:25:00.000
+These things that matter.
+
+00:25:00.000 --> 00:25:01.420
+And then be brutally honest
+if they aren't going in
+
+00:25:01.420 --> 00:25:02.460
+the right direction.
+
+00:25:02.460 --> 00:25:03.390
+Startups live on growth.
+
+00:25:03.390 --> 00:25:04.740
+It's the indicator of a
+great product.
+
+00:25:05.830 --> 00:25:07.020
+So this about wraps up
+
+00:25:07.020 --> 00:25:08.422
+the overview on building a
+great product.
+
+00:25:08.422 --> 00:25:10.130
+I wanna emphasize again,
+
+00:25:10.130 --> 00:25:11.300
+that if you don't get this
+right,
+
+00:25:11.300 --> 00:25:13.980
+nothing else we talk about
+in the class will matter.
+
+00:25:13.980 --> 00:25:15.463
+You can basically ignore
+everything else that we
+
+00:25:15.463 --> 00:25:17.090
+talked about until this is
+working well.
+
+00:25:18.680 --> 00:25:19.390
+On the positive side,
+
+00:25:19.390 --> 00:25:22.580
+this is one of the most fun
+parts of building a startup.
+
+00:25:22.580 --> 00:25:23.740
+So I'm gonna pause here,
+
+00:25:23.740 --> 00:25:25.910
+I'll pick back up with the
+rest of this on Thursday and
+
+00:25:25.910 --> 00:25:28.860
+now we're gonna have Dustin
+talk about why you should
+
+00:25:28.860 --> 00:25:29.470
+start a startup.
+
+00:25:30.500 --> 00:25:31.490
+Thank you for coming Dustin.
+
+00:25:31.490 --> 00:25:31.990
+>> Sure.
+
+00:25:34.000 --> 00:25:35.100
+But yeah.
+So Sam asked me
+
+00:25:35.100 --> 00:25:38.450
+to talk about why you should
+start a startup.
+
+00:25:38.450 --> 00:25:40.830
+There's a bunch of reasons
+you might have.
+
+00:25:40.830 --> 00:25:43.030
+And there's a bunch of
+common reasons that
+
+00:25:43.030 --> 00:25:45.065
+people have that I hear all
+the time for, for
+
+00:25:45.065 --> 00:25:46.499
+why you might start a
+startup.
+
+00:25:47.530 --> 00:25:49.790
+It's important to know,
+like, what reason is yours.
+
+00:25:49.790 --> 00:25:51.660
+Because some of them only
+make sense in,
+
+00:25:51.660 --> 00:25:53.180
+in certain contexts.
+
+00:25:53.180 --> 00:25:54.970
+Some of them will actually
+like lead you astray.
+
+00:25:54.970 --> 00:25:58.180
+You may have been misled by
+the way that Hollywood or
+
+00:25:58.180 --> 00:25:58.880
+the press likes to
+
+00:25:58.880 --> 00:26:00.418
+romanticize
+entrepreneurship.
+
+00:26:00.418 --> 00:26:02.490
+So I wanna try and like
+illuminate you know,
+
+00:26:02.490 --> 00:26:03.970
+some of those potential
+fallacies, so
+
+00:26:03.970 --> 00:26:05.990
+you guys can, can make the
+decision in a clear way.
+
+00:26:07.050 --> 00:26:08.786
+And then I'll talk about
+the,
+
+00:26:08.786 --> 00:26:11.350
+the reason I like best for
+actually starting a startup.
+
+00:26:11.350 --> 00:26:14.000
+It's very related to a lot
+of what Sam just talked
+
+00:26:14.000 --> 00:26:16.670
+about but surprisingly I
+don't think it's the most
+
+00:26:16.670 --> 00:26:19.470
+common reason usually people
+have one of these other
+
+00:26:19.470 --> 00:26:22.600
+reasons or they just wanna
+start up, you know,
+
+00:26:22.600 --> 00:26:24.240
+start a company for the sake
+of starting a company.
+
+00:26:25.340 --> 00:26:28.010
+So the, the four common
+reasons just to
+
+00:26:28.010 --> 00:26:30.280
+numerate them are it's
+glamorous.
+
+00:26:30.280 --> 00:26:33.560
+You know, you'll be, you'll
+get to be the boss.
+
+00:26:33.560 --> 00:26:34.700
+You'll have flexibility,
+
+00:26:34.700 --> 00:26:36.860
+especially over your
+schedule.
+
+00:26:36.860 --> 00:26:38.990
+And you'll have the change
+to have, you know,
+
+00:26:38.990 --> 00:26:39.860
+bigger impact.
+
+00:26:39.860 --> 00:26:41.120
+And make more money than
+you'd,
+
+00:26:41.120 --> 00:26:43.590
+than you might by joining a
+later stage company.
+
+00:26:45.340 --> 00:26:47.970
+So, okay, so uh, you know,
+you,
+
+00:26:47.970 --> 00:26:50.010
+you guys are probably pretty
+familiar with this concept.
+
+00:26:50.010 --> 00:26:51.320
+When I wrote the Medium
+post,
+
+00:26:51.320 --> 00:26:54.010
+which a lot of you guys read
+a year ago uh, I felt like
+
+00:26:54.010 --> 00:26:56.560
+the story in the press was
+a, a little more unbalanced.
+
+00:26:56.560 --> 00:26:57.900
+You know, entrepreneurship
+just
+
+00:26:57.900 --> 00:26:59.730
+got romanticized quite a
+bit.
+
+00:26:59.730 --> 00:27:01.250
+You know, the movie, The
+Social Network,
+
+00:27:01.250 --> 00:27:04.190
+came out, had a lot of sort
+of like bad aspects of,
+
+00:27:04.190 --> 00:27:05.810
+of, you know, what it's like
+to be an entrepreneur.
+
+00:27:05.810 --> 00:27:06.609
+But mainly pa,
+
+00:27:06.609 --> 00:27:08.480
+sort of painted this picture
+of like.
+
+00:27:08.480 --> 00:27:09.920
+There's a lot of partying
+and you just
+
+00:27:09.920 --> 00:27:12.060
+kinda move from like one
+brilliant insight to another
+
+00:27:12.060 --> 00:27:14.620
+brilliant insight um, and
+really made it, you know,
+
+00:27:14.620 --> 00:27:16.530
+seem like this, like really
+cool thing to do.
+
+00:27:17.580 --> 00:27:20.630
+And I think the reality is
+just, you know,
+
+00:27:20.630 --> 00:27:21.500
+not quite so glamorous.
+
+00:27:21.500 --> 00:27:23.800
+There's sort of a, there's
+an ugly side to being
+
+00:27:23.800 --> 00:27:26.500
+an entrepreneur and also
+just more importantly what,
+
+00:27:26.500 --> 00:27:28.290
+what you're actually
+spending your time on is,
+
+00:27:28.290 --> 00:27:29.720
+is just a lot of hard work.
+
+00:27:29.720 --> 00:27:30.660
+Sam mentioned this, but
+you're
+
+00:27:30.660 --> 00:27:33.150
+basically just sitting at
+your desk heads down,
+
+00:27:33.150 --> 00:27:36.710
+focused answering customers,
+customer support, emails,
+
+00:27:36.710 --> 00:27:39.980
+doing sales, figuring out
+hard engineering problems.
+
+00:27:39.980 --> 00:27:41.330
+So it's really important
+that you kind of like,
+
+00:27:41.330 --> 00:27:43.440
+go in with, with eyes wide
+open.
+
+00:27:43.440 --> 00:27:46.170
+And then also it's, it's
+really quite stressful.
+
+00:27:46.170 --> 00:27:48.660
+This has been a popular
+topic in the press lately.
+
+00:27:48.660 --> 00:27:51.110
+The Economist actually ran a
+story just last week
+
+00:27:51.110 --> 00:27:52.850
+called like entrepreneurs
+anonymous, and
+
+00:27:52.850 --> 00:27:54.560
+shows like a founder kinda
+like hiding under
+
+00:27:54.560 --> 00:27:57.240
+his desk And talking about
+like founder depression.
+
+00:27:58.290 --> 00:28:00.800
+This is like a very real
+thing, like, you know,
+
+00:28:00.800 --> 00:28:01.340
+let's be real.
+
+00:28:01.340 --> 00:28:02.890
+This, if you start a
+company,
+
+00:28:02.890 --> 00:28:04.690
+it's gonna be extremely
+hard.
+
+00:28:04.690 --> 00:28:05.760
+Why is it so stressful?
+
+00:28:05.760 --> 00:28:07.920
+So, a couple reasons.
+
+00:28:07.920 --> 00:28:10.240
+One is you've got a lot of
+responsibility.
+
+00:28:10.240 --> 00:28:14.350
+So people in any kind of of
+career have fear of failure.
+
+00:28:14.350 --> 00:28:15.520
+It's kind of just like a
+dominant part of
+
+00:28:15.520 --> 00:28:16.550
+the psychology.
+
+00:28:16.550 --> 00:28:18.350
+But when you're an
+entrepreneur your fear of
+
+00:28:18.350 --> 00:28:19.980
+failure on the behalf of
+yourself and
+
+00:28:19.980 --> 00:28:21.890
+all of the people who
+decided to follow you ah, so
+
+00:28:21.890 --> 00:28:23.340
+that's really stressful.
+
+00:28:23.340 --> 00:28:24.870
+In some cases these people
+are depending on
+
+00:28:24.870 --> 00:28:25.620
+you for their livelihood.
+
+00:28:25.620 --> 00:28:27.230
+Even when that's not true,
+
+00:28:27.230 --> 00:28:28.850
+they have decided to devote
+the,
+
+00:28:28.850 --> 00:28:31.650
+the best of your, years of
+their life to following you.
+
+00:28:31.650 --> 00:28:32.840
+And so you're responsible
+for
+
+00:28:32.840 --> 00:28:35.180
+the opportunity cost of
+their time.
+
+00:28:35.180 --> 00:28:35.890
+So that's a big deal.
+
+00:28:37.512 --> 00:28:39.300
+And you're always on call.
+
+00:28:39.300 --> 00:28:41.920
+If something comes up maybe
+not always at 3 in
+
+00:28:41.920 --> 00:28:43.830
+the morning, but for some
+startups that's true.
+
+00:28:43.830 --> 00:28:45.080
+But if something important
+comes up,
+
+00:28:45.080 --> 00:28:45.860
+you're gonna deal with it.
+
+00:28:45.860 --> 00:28:47.050
+That's kinda the end of the
+story.
+
+00:28:47.050 --> 00:28:48.290
+Doesn't matter if you're on
+vacation.
+
+00:28:48.290 --> 00:28:50.080
+Doesn't matter if it's the
+weekend.
+
+00:28:50.080 --> 00:28:51.610
+You kinda always got to be
+on the ball and
+
+00:28:51.610 --> 00:28:53.850
+always be in a, in a place,
+mentally,
+
+00:28:53.850 --> 00:28:56.290
+where you're prepared to
+deal with those things.
+
+00:28:56.290 --> 00:28:59.080
+And then a sorta special
+example of that is,
+
+00:28:59.080 --> 00:29:02.410
+is or of this kind of stress
+is fundraising.
+
+00:29:02.410 --> 00:29:04.360
+So a scene from The Social
+Network.
+
+00:29:04.360 --> 00:29:07.517
+This is us partying and
+working at the same time.
+
+00:29:07.517 --> 00:29:10.160
+And somebody's spraying
+champagne everywhere.
+
+00:29:11.620 --> 00:29:13.570
+You know, so The Social
+Network spends a lot of
+
+00:29:13.570 --> 00:29:15.680
+time kind of painting these
+scenes.
+
+00:29:15.680 --> 00:29:16.670
+Mark's not in the scene.
+
+00:29:16.670 --> 00:29:18.516
+The other thing they spend
+all their time on is
+
+00:29:18.516 --> 00:29:21.082
+kind of like painting how,
+him out to be a huge jerk.
+
+00:29:21.082 --> 00:29:23.103
+This computer?
+
+00:29:23.103 --> 00:29:23.980
+>> Yes.
+Oh.
+
+00:29:23.980 --> 00:29:25.980
+>> Okay.
+So.
+
+00:29:25.980 --> 00:29:29.780
+This is an, an actual scene
+from um, See it.
+
+00:29:29.780 --> 00:29:33.350
+I'm gonna move this just a
+little.
+
+00:29:33.350 --> 00:29:34.346
+>> Oh, no.
+
+00:29:34.346 --> 00:29:35.201
+>> This, this will work.
+
+00:29:35.201 --> 00:29:35.701
+>> This will work.
+Okay.
+
+00:29:36.790 --> 00:29:37.600
+On the PDF as well?
+
+00:29:37.600 --> 00:29:38.150
+>> Yep
+>> Okay.
+
+00:29:39.950 --> 00:29:40.870
+Okay, cool.
+This is
+
+00:29:40.870 --> 00:29:43.226
+an actual scene from Palo
+Alto.
+
+00:29:43.226 --> 00:29:44.699
+Spent a lot of time, his
+desk,
+
+00:29:44.699 --> 00:29:46.880
+just kinda heads down and
+focused.
+
+00:29:46.880 --> 00:29:48.778
+Mark was still kind or a
+jerk sometimes, but
+
+00:29:48.778 --> 00:29:50.350
+in this more like fun
+loveable way,
+
+00:29:50.350 --> 00:29:53.230
+not a like sociopathic
+scorned lover way.
+
+00:29:54.280 --> 00:29:56.730
+So this is him like,
+signaling his intention to,
+
+00:29:56.730 --> 00:29:58.860
+you know, just be focused
+and keep working.
+
+00:29:58.860 --> 00:29:59.440
+Not be social.
+
+00:30:01.080 --> 00:30:02.940
+>> So then there's also the
+scene sort of
+
+00:30:02.940 --> 00:30:05.520
+demonstrating the like
+brilliant insight moment.
+
+00:30:05.520 --> 00:30:08.080
+It's kind of like straight
+out of A Beautiful Mind.
+
+00:30:08.080 --> 00:30:11.040
+>> They literally stole that
+scene.
+
+00:30:12.190 --> 00:30:14.420
+So they like to paint it as
+you just kinda jump from one
+
+00:30:14.420 --> 00:30:15.370
+of these moments to,
+
+00:30:15.370 --> 00:30:17.630
+to the other moment with
+like partying in between,
+
+00:30:17.630 --> 00:30:21.160
+but really we were just at
+that table the whole time.
+
+00:30:21.160 --> 00:30:22.810
+So interestingly if you
+compare this to
+
+00:30:22.810 --> 00:30:24.900
+the other photo, Mark is in
+the exact same position, but
+
+00:30:24.900 --> 00:30:26.150
+he's wearing different
+clothes.
+
+00:30:26.150 --> 00:30:28.280
+This is definitely a
+different day.
+
+00:30:29.850 --> 00:30:30.650
+So cool.
+
+00:30:30.650 --> 00:30:31.640
+So that's what it,
+
+00:30:31.640 --> 00:30:33.880
+that's what it's actually
+like in person.
+
+00:30:33.880 --> 00:30:36.310
+And I just covered this
+bullet up here.
+
+00:30:36.310 --> 00:30:37.460
+This is the Economist
+article I
+
+00:30:37.460 --> 00:30:39.650
+was talking about a second
+ago.
+
+00:30:39.650 --> 00:30:41.660
+So another form of, of,
+stress is just,
+
+00:30:41.660 --> 00:30:43.830
+like, unwanted media a,
+attention.
+
+00:30:43.830 --> 00:30:45.470
+So part of it being
+glamorous is
+
+00:30:45.470 --> 00:30:47.550
+you get some positive media
+attention sometimes.
+
+00:30:47.550 --> 00:30:48.370
+It's nice to be on, like,
+
+00:30:48.370 --> 00:30:51.600
+the cover of Time and, like,
+be the person of the year.
+
+00:30:51.600 --> 00:30:53.540
+It's maybe a little less
+nice to be on the cover of
+
+00:30:53.540 --> 00:30:55.864
+People with, like, one of
+your wedding photos.
+
+00:30:55.864 --> 00:30:56.640
+It depends who you are.
+
+00:30:56.640 --> 00:30:57.710
+Some people would like that.
+
+00:30:57.710 --> 00:30:58.890
+I'd really hate it.
+
+00:30:58.890 --> 00:31:00.670
+But when Valleywag like, you
+know,
+
+00:31:00.670 --> 00:31:02.780
+analyses your lecture and
+just tears you apart, like,
+
+00:31:02.780 --> 00:31:03.800
+you definitely don't want
+that.
+
+00:31:03.800 --> 00:31:05.342
+Nobody wants that.
+
+00:31:05.342 --> 00:31:07.406
+And then, one thing I almost
+never hear people talk
+
+00:31:07.406 --> 00:31:09.432
+about is, you're just a of
+more committed.
+
+00:31:09.432 --> 00:31:11.050
+So if you're an employee of
+a startup.
+
+00:31:12.440 --> 00:31:13.800
+and, you know, things are
+stressful,
+
+00:31:13.800 --> 00:31:17.010
+it's not going well, you're
+unhappy, you can just leave.
+
+00:31:17.010 --> 00:31:20.930
+For a founder you can leave
+but it's, it's very uncool.
+
+00:31:20.930 --> 00:31:23.720
+It's pretty much a black eye
+on the rest of your career.
+
+00:31:23.720 --> 00:31:26.110
+And so you really are
+committed you know, for
+
+00:31:26.110 --> 00:31:28.300
+ten years if it's going well
+probably more
+
+00:31:28.300 --> 00:31:30.390
+like five years if it's not
+going well.
+
+00:31:30.390 --> 00:31:33.010
+So three years to figure out
+that it's not going well and
+
+00:31:33.010 --> 00:31:34.110
+then if you find, like,
+
+00:31:34.110 --> 00:31:35.400
+a nice landing for your
+company,
+
+00:31:35.400 --> 00:31:38.050
+another two years at the
+acquiring company.
+
+00:31:38.050 --> 00:31:39.110
+And if you leave before
+that,
+
+00:31:39.110 --> 00:31:41.010
+again, it's not only gonna
+harm yourself financially,
+
+00:31:41.010 --> 00:31:42.170
+it's gonna harm all your
+employees.
+
+00:31:42.170 --> 00:31:44.700
+So you pretty much don't um,
+so if you're lucky, and
+
+00:31:44.700 --> 00:31:47.150
+you have a bad startup idea
+you fail quickly um, but
+
+00:31:47.150 --> 00:31:50.420
+most of the time, it's not
+like that.
+
+00:31:50.420 --> 00:31:53.280
+All right, moving right
+along um, so.
+
+00:31:54.850 --> 00:31:55.400
+And I should say,
+
+00:31:55.400 --> 00:31:57.640
+I have had a lot of this
+stress in my own life,
+
+00:31:57.640 --> 00:31:59.970
+especially in the early
+years of Facebook.
+
+00:31:59.970 --> 00:32:02.140
+You know, I just got really
+unhealthy.
+
+00:32:02.140 --> 00:32:03.180
+I wasn't exercising.
+
+00:32:03.180 --> 00:32:04.710
+I had a lot of anxiety.
+
+00:32:04.710 --> 00:32:06.120
+Actually, I threw out my
+back, like,
+
+00:32:06.120 --> 00:32:07.530
+almost every six months,
+like,
+
+00:32:07.530 --> 00:32:08.490
+when I was like, 21, 22.
+
+00:32:08.490 --> 00:32:10.020
+Which was, like, pretty
+crazy.
+
+00:32:11.180 --> 00:32:13.890
+And so, if you do start a
+company.
+
+00:32:13.890 --> 00:32:14.730
+make, you know,
+
+00:32:14.730 --> 00:32:16.540
+be aware that you're gonna
+have to deal with this and
+
+00:32:16.540 --> 00:32:17.800
+you have to actually manage
+it.
+
+00:32:17.800 --> 00:32:20.373
+It's actually, like, one of
+your core responsibilities.
+
+00:32:20.373 --> 00:32:22.864
+Ben Horowitz likes to say,
+like, the number one rule of
+
+00:32:22.864 --> 00:32:24.623
+a CEO is managing your own
+psychology.
+
+00:32:24.623 --> 00:32:28.710
+It's absolutely true, make
+sure you do it.
+
+00:32:28.710 --> 00:32:32.260
+so, another reason so people
+especially if
+
+00:32:32.260 --> 00:32:34.040
+they've already had a job at
+another company.
+
+00:32:34.040 --> 00:32:36.320
+You tend to develop this
+narrative of like,
+
+00:32:36.320 --> 00:32:36.860
+okay like,
+
+00:32:36.860 --> 00:32:38.350
+the people running this
+company are idiots,
+
+00:32:38.350 --> 00:32:39.890
+they're making all these
+stupid decisions,
+
+00:32:39.890 --> 00:32:43.050
+they're spending their time
+in, in these stupid ways.
+
+00:32:43.050 --> 00:32:44.970
+I'm gonna start a company
+and I'm gonna do it better.
+
+00:32:44.970 --> 00:32:46.610
+I'm gonna like, set all the
+rules.
+
+00:32:46.610 --> 00:32:48.450
+It's a pretty attractive
+idea.
+
+00:32:48.450 --> 00:32:50.190
+Makes a lot of sense.
+
+00:32:50.190 --> 00:32:51.030
+If you've read my
+
+00:32:51.030 --> 00:32:52.590
+Medium posts you know what's
+coming.
+
+00:32:52.590 --> 00:32:54.000
+I'll give you guys a second
+to read this quote.
+
+00:33:04.966 --> 00:33:05.729
+Cool.
+So this,
+
+00:33:05.729 --> 00:33:07.850
+this really resonates with
+me.
+
+00:33:07.850 --> 00:33:10.660
+And one thing I'd point out
+is you know, the reality of
+
+00:33:10.660 --> 00:33:13.450
+these decisions is pretty
+nu, nuanced.
+
+00:33:13.450 --> 00:33:14.320
+The people you thought were
+
+00:33:14.320 --> 00:33:15.820
+idiots probably weren't
+idiots.
+
+00:33:15.820 --> 00:33:16.720
+They probably just had like
+
+00:33:16.720 --> 00:33:18.740
+a really difficult decision
+in front of them.
+
+00:33:18.740 --> 00:33:21.700
+And people pulling them in
+multiple directions.
+
+00:33:21.700 --> 00:33:24.950
+So the most common thing I
+have to spend my time on.
+
+00:33:24.950 --> 00:33:27.510
+And, and focus my energy on
+as a CEO is like.
+
+00:33:27.510 --> 00:33:28.680
+The, the problems that
+
+00:33:28.680 --> 00:33:29.910
+like other people are
+bringing to me.
+
+00:33:29.910 --> 00:33:32.440
+The, the other priorities
+that people create.
+
+00:33:32.440 --> 00:33:34.758
+And it's usually in the form
+of a conflict.
+
+00:33:34.758 --> 00:33:36.460
+People wanna go in different
+directions.
+
+00:33:36.460 --> 00:33:38.500
+Or like customers want
+different things.
+
+00:33:38.500 --> 00:33:41.020
+And like I might have my own
+opinion about that.
+
+00:33:41.020 --> 00:33:42.280
+But really the, the game I'm
+
+00:33:42.280 --> 00:33:45.360
+playing is like who do I
+disappoint the least?
+
+00:33:45.360 --> 00:33:47.130
+And like just trying to like
+navigate all,
+
+00:33:47.130 --> 00:33:49.590
+all these difficult
+situations.
+
+00:33:49.590 --> 00:33:51.500
+And even on a day to day
+basis I might come in
+
+00:33:51.500 --> 00:33:53.100
+on Monday and like have all
+these, you know,
+
+00:33:53.100 --> 00:33:54.700
+grand plans for like how I'm
+gonna improve
+
+00:33:54.700 --> 00:33:56.480
+the company and what I'm
+gonna spend my time on, but
+
+00:33:56.480 --> 00:33:58.660
+then if like an important
+employee is threatening to
+
+00:33:58.660 --> 00:34:00.470
+quit, that's what I'm
+spending my time on.
+
+00:34:00.470 --> 00:34:01.370
+That's my number one
+priority.
+
+00:34:03.970 --> 00:34:05.240
+So a subset of you're
+
+00:34:05.240 --> 00:34:07.660
+the boss is you have
+flexibility.
+
+00:34:07.660 --> 00:34:10.110
+You have control over your
+own schedule.
+
+00:34:10.110 --> 00:34:11.130
+This really attractive idea.
+
+00:34:11.130 --> 00:34:13.760
+So here's the reality.
+
+00:34:13.760 --> 00:34:14.930
+And their Phil Libin quote.
+
+00:34:18.760 --> 00:34:21.860
+So this, this truly reson,
+resonates with me as well.
+
+00:34:21.860 --> 00:34:23.020
+And some of the reasons for
+
+00:34:23.020 --> 00:34:25.310
+this, again, you're always
+on call.
+
+00:34:25.310 --> 00:34:27.320
+So maybe you don't intend to
+work all parts of
+
+00:34:27.320 --> 00:34:29.859
+the day but you might not
+get to control which ones.
+
+00:34:29.859 --> 00:34:33.160
+You're a role model, this is
+super important.
+
+00:34:33.160 --> 00:34:35.980
+So if you're an employee of
+a company um, you might have
+
+00:34:35.980 --> 00:34:37.670
+some good weeks, you might
+have some bad weeks,
+
+00:34:37.670 --> 00:34:39.385
+some weeks when you're,
+you're low energy, maybe you
+
+00:34:39.385 --> 00:34:41.920
+wanna take a couple extra
+days off um, that's really
+
+00:34:41.920 --> 00:34:43.900
+bad if you're, you're an
+entrepreneur like your team
+
+00:34:43.900 --> 00:34:46.930
+will really signal off what
+your bringing to the table.
+
+00:34:46.930 --> 00:34:49.060
+And so if you take your foot
+off the gas, so will they.
+
+00:34:51.210 --> 00:34:53.210
+And you're always working
+anyway.
+
+00:34:53.210 --> 00:34:55.310
+So, if you're really
+passionate about an idea,
+
+00:34:55.310 --> 00:34:56.760
+it's just gonna like pull
+you to,
+
+00:34:56.760 --> 00:34:58.450
+to keep working on it.
+
+00:34:58.450 --> 00:34:59.800
+If you're working with great
+investors,
+
+00:34:59.800 --> 00:35:01.000
+you're working with great
+partners,
+
+00:35:01.000 --> 00:35:02.330
+they're gonna wanna be
+working really hard,
+
+00:35:02.330 --> 00:35:04.410
+they're gonna want you to be
+working really hard uh, and
+
+00:35:04.410 --> 00:35:05.890
+again, you're gonna wanna
+work really hard.
+
+00:35:07.160 --> 00:35:10.680
+So some some companies like
+to tell the story about you
+
+00:35:10.680 --> 00:35:12.890
+can have your cake and eat
+it too, you can have, like,
+
+00:35:12.890 --> 00:35:14.900
+four day week, work weeks
+maybe if you're, if you're,
+
+00:35:14.900 --> 00:35:17.790
+Tim Ferris maybe you can
+have a 12-hour work week.
+
+00:35:17.790 --> 00:35:19.870
+It's a really attractive
+idea and
+
+00:35:19.870 --> 00:35:21.780
+it does work in a particular
+instance.
+
+00:35:21.780 --> 00:35:23.960
+Which is if you wanna like
+actually have a small
+
+00:35:23.960 --> 00:35:25.410
+business or go after a niche
+market.
+
+00:35:25.410 --> 00:35:27.500
+Then you're a small business
+entrepreneur.
+
+00:35:27.500 --> 00:35:28.510
+That makes total sense.
+
+00:35:28.510 --> 00:35:30.040
+But as soon as you get past
+like two or
+
+00:35:30.040 --> 00:35:32.610
+three people uh, you really
+need to step it up and, and
+
+00:35:32.610 --> 00:35:33.489
+be full time committed.
+
+00:35:36.240 --> 00:35:36.740
+cool.
+
+00:35:38.280 --> 00:35:40.960
+So, this is the big one this
+is the, the one I
+
+00:35:40.960 --> 00:35:43.600
+hear the most especially
+like candidates applying to
+
+00:35:43.600 --> 00:35:45.670
+a Asana they tell me, you
+know, I,
+
+00:35:45.670 --> 00:35:46.990
+I'd really like to work for,
+for
+
+00:35:46.990 --> 00:35:50.150
+a much smaller company, or
+start my own because.
+
+00:35:50.150 --> 00:35:52.180
+Then I have a much bigger
+slice of the pie,
+
+00:35:52.180 --> 00:35:55.680
+I'll have much more impact
+on how that company does and
+
+00:35:55.680 --> 00:35:56.680
+I'll have more equity so
+
+00:35:56.680 --> 00:35:58.570
+I'll make more money as
+well.
+
+00:35:58.570 --> 00:36:00.210
+So let's examine when this
+might be true.
+
+00:36:02.880 --> 00:36:05.510
+So I'll explain these tables
+they're a little complex but
+
+00:36:05.510 --> 00:36:08.640
+let's focus on the left
+first so these is,
+
+00:36:08.640 --> 00:36:10.080
+this is just explaining.
+
+00:36:10.080 --> 00:36:11.240
+Dropbox and Facebook.
+
+00:36:11.240 --> 00:36:13.550
+These are their current
+valuations.
+
+00:36:13.550 --> 00:36:14.970
+And this is how much money
+you might
+
+00:36:14.970 --> 00:36:19.610
+make as employee number 100
+coming into these companies.
+
+00:36:19.610 --> 00:36:21.620
+Especially if you're like,
+an experience,
+
+00:36:21.620 --> 00:36:23.140
+a relatively experienced
+engineer, like,
+
+00:36:23.140 --> 00:36:25.650
+you have five years of, of
+industry experience.
+
+00:36:25.650 --> 00:36:26.370
+You're pretty likely to
+
+00:36:26.370 --> 00:36:29.080
+have an offer that's around
+10 basis points.
+
+00:36:29.080 --> 00:36:31.140
+So if you joined DropBox a
+couple years ago,
+
+00:36:31.140 --> 00:36:32.480
+the upside you'd have
+already locked in.
+
+00:36:32.480 --> 00:36:33.560
+As about ten million,
+
+00:36:33.560 --> 00:36:35.170
+there's plenty more growth
+from there.
+
+00:36:35.170 --> 00:36:38.370
+If you leave the company if
+you joined Facebook a couple
+
+00:36:38.370 --> 00:36:39.040
+years into its,
+
+00:36:39.040 --> 00:36:40.910
+its existence you made $200
+million.
+
+00:36:40.910 --> 00:36:42.463
+This is a huge number.
+
+00:36:42.463 --> 00:36:43.726
+And if you.
+
+00:36:45.520 --> 00:36:47.840
+Even if you joined Facebook
+as employee number 1,000.
+
+00:36:47.840 --> 00:36:50.640
+So you joined it in like
+2009 you still
+
+00:36:50.640 --> 00:36:51.930
+made $20 million.
+
+00:36:51.930 --> 00:36:53.350
+That's a giant number.
+
+00:36:53.350 --> 00:36:55.340
+And that's how you should be
+benchmarking when you're
+
+00:36:55.340 --> 00:36:57.770
+thinking about what might I
+make as an entrepreneur.
+
+00:36:57.770 --> 00:37:00.750
+So moving over to the table
+on the right uh,
+
+00:37:00.750 --> 00:37:03.160
+these are two theoretical
+companies you might start.
+
+00:37:04.240 --> 00:37:06.580
+So Uber for Pet Sitting,
+pretty good idea.
+
+00:37:07.810 --> 00:37:10.600
+If you're, if you're really
+well suited to this,
+
+00:37:10.600 --> 00:37:12.150
+you might have, uh, a really
+good shot at
+
+00:37:12.150 --> 00:37:14.148
+building a $100 million
+company.
+
+00:37:14.148 --> 00:37:16.488
+And then your share of that
+company is pretty likely to
+
+00:37:16.488 --> 00:37:17.459
+be about 10%.
+
+00:37:17.459 --> 00:37:18.640
+That certainly fluctuates.
+
+00:37:18.640 --> 00:37:20.120
+Some founders have a lot
+more than this,
+
+00:37:20.120 --> 00:37:21.170
+some have a lot less.
+
+00:37:21.170 --> 00:37:24.150
+But after multiple rounds of
+dilution multiple rounds of
+
+00:37:24.150 --> 00:37:26.950
+option table, option pool
+creation,
+
+00:37:26.950 --> 00:37:29.730
+you're pretty likely to end
+up about here.
+
+00:37:29.730 --> 00:37:30.930
+If you have more than this,
+
+00:37:30.930 --> 00:37:34.130
+I recommend Sam's post on
+like the equity split
+
+00:37:34.130 --> 00:37:35.460
+between founders and
+employees.
+
+00:37:35.460 --> 00:37:37.030
+You probably should be
+giving out more.
+
+00:37:38.210 --> 00:37:42.670
+And then but so basically,
+if you're extremely
+
+00:37:42.670 --> 00:37:44.770
+confident about building
+this $100 million business,
+
+00:37:44.770 --> 00:37:47.900
+which is a big ask it should
+go without saying that
+
+00:37:47.900 --> 00:37:50.600
+you should have a lot more
+confidence than Facebook in
+
+00:37:50.600 --> 00:37:52.330
+2009 or Dropbox in 2014 and
+
+00:37:52.330 --> 00:37:55.930
+you might, for a start up
+that doesn't even exist yet.
+
+00:37:57.090 --> 00:37:58.440
+Then this is worth hearing.
+
+00:37:58.440 --> 00:38:00.460
+So if you have a $100
+million idea and
+
+00:38:00.460 --> 00:38:01.750
+you're pretty confident you
+can execute it,
+
+00:38:01.750 --> 00:38:03.363
+I would consider that.
+
+00:38:03.363 --> 00:38:05.930
+If you think you're the
+right entrepreneur to build
+
+00:38:05.930 --> 00:38:08.740
+Uber, Uber for space travel,
+that's really huge idea.
+
+00:38:08.740 --> 00:38:10.030
+$2 billion idea.
+
+00:38:10.030 --> 00:38:11.960
+You're actually gonna have a
+pretty good return for that.
+
+00:38:11.960 --> 00:38:13.440
+You should definitely do
+that.
+
+00:38:13.440 --> 00:38:15.370
+This is also only the value
+after four years.
+
+00:38:15.370 --> 00:38:16.740
+And this idea probably has
+legs.
+
+00:38:17.780 --> 00:38:19.370
+So definitely go after that.
+
+00:38:19.370 --> 00:38:20.730
+If, if you're thinking of
+building that,
+
+00:38:20.730 --> 00:38:22.560
+you probably shouldn't even
+be in this class right now.
+
+00:38:22.560 --> 00:38:24.010
+You should go and, go and
+build that company.
+
+00:38:26.356 --> 00:38:29.042
+So why is this, financial
+reward and, and impact, I
+
+00:38:29.042 --> 00:38:31.278
+really think that financial
+reward is very strongly
+
+00:38:31.278 --> 00:38:34.220
+correlated with the impact
+you have on the world.
+
+00:38:34.220 --> 00:38:35.830
+If you don't believe that
+let's talk
+
+00:38:35.830 --> 00:38:38.900
+through some specific
+examples and
+
+00:38:38.900 --> 00:38:40.060
+not think about the equity
+at all.
+
+00:38:41.610 --> 00:38:45.010
+So why might joining a, a
+late-stage company actually
+
+00:38:45.010 --> 00:38:45.980
+provide you a lot of impact?
+
+00:38:45.980 --> 00:38:48.850
+You get this multiplier They
+have an existing massive
+
+00:38:48.850 --> 00:38:49.520
+user base.
+
+00:38:49.520 --> 00:38:51.190
+If it's Facebook, it's a
+billion users.
+
+00:38:51.190 --> 00:38:53.380
+Or if it's Google it's a
+billion users.
+
+00:38:53.380 --> 00:38:54.690
+They have existing
+infrastructure you
+
+00:38:54.690 --> 00:38:55.540
+get to build on.
+
+00:38:55.540 --> 00:38:57.760
+That's also increasingly
+true for new startups.
+
+00:38:57.760 --> 00:38:59.431
+Things like AWS.
+
+00:38:59.431 --> 00:39:02.170
+Like awesome independent
+service providers.
+
+00:39:03.270 --> 00:39:04.598
+But you usually get some,
+like,
+
+00:39:04.598 --> 00:39:07.080
+proprietary technology and
+it's all maintained for you.
+
+00:39:07.080 --> 00:39:08.870
+It's a pretty great place to
+start uh, and
+
+00:39:08.870 --> 00:39:10.640
+you get to work with a team
+and they'll help you
+
+00:39:10.640 --> 00:39:13.250
+just leverage your idea into
+something great.
+
+00:39:13.250 --> 00:39:16.710
+So, a couple of specific
+examples Bret Taylor came
+
+00:39:16.710 --> 00:39:18.470
+into employee around or
+
+00:39:18.470 --> 00:39:22.240
+came into Google as around
+employee number 1,500.
+
+00:39:22.240 --> 00:39:23.600
+And he invented Google Maps.
+
+00:39:23.600 --> 00:39:25.610
+This is a product you guys
+probably use every day.
+
+00:39:25.610 --> 00:39:26.550
+I used it to get here.
+
+00:39:27.570 --> 00:39:29.170
+And it's used by hundreds of
+millions of
+
+00:39:29.170 --> 00:39:30.460
+people all around the world.
+
+00:39:30.460 --> 00:39:32.320
+Didn't need to start a
+company to do that,
+
+00:39:32.320 --> 00:39:34.400
+did happen to get a big
+financial reward.
+
+00:39:34.400 --> 00:39:36.131
+But the, the point is he had
+massive impact.
+
+00:39:36.131 --> 00:39:39.155
+My co-founder Justin
+Rosenstein.
+
+00:39:39.155 --> 00:39:42.300
+Joined go, Google a little
+later after Brad he was
+
+00:39:42.300 --> 00:39:43.520
+a PM there.
+
+00:39:43.520 --> 00:39:44.990
+And just as a side project
+he
+
+00:39:44.990 --> 00:39:47.900
+ended up prototyping a chat
+which, which used to be
+
+00:39:47.900 --> 00:39:51.340
+a standalone app as
+integrated into Gmail,
+
+00:39:51.340 --> 00:39:53.210
+like you see it on the upper
+right there.
+
+00:39:53.210 --> 00:39:56.105
+And before he did that, like
+people didn't even think you
+
+00:39:56.105 --> 00:39:58.821
+could do chat over AJAX, or
+chat in the browser at all,
+
+00:39:58.821 --> 00:40:01.065
+and he just kind of like
+demonstrated it, and
+
+00:40:01.065 --> 00:40:03.220
+showed it to his team, and
+made it happen.
+
+00:40:03.220 --> 00:40:05.260
+Again, this is probably a
+product most of
+
+00:40:05.260 --> 00:40:07.310
+you use maybe every day.
+
+00:40:07.310 --> 00:40:09.350
+And then, perhaps even more
+impressively,
+
+00:40:09.350 --> 00:40:10.510
+shortly after that,.
+
+00:40:10.510 --> 00:40:11.090
+JR left,
+
+00:40:11.090 --> 00:40:14.300
+he became employee around
+number 250 at Facebook.
+
+00:40:14.300 --> 00:40:17.070
+And he led a hack-a-thon
+project along with
+
+00:40:17.070 --> 00:40:18.370
+people like Andrew Bosworth
+and
+
+00:40:18.370 --> 00:40:21.230
+Leah Pearlman uh, to create
+the like button.
+
+00:40:21.230 --> 00:40:24.350
+So, this is one of the most
+popular elements anywhere
+
+00:40:24.350 --> 00:40:25.000
+on the web.
+
+00:40:25.000 --> 00:40:27.240
+Totally changes how people
+use it.
+
+00:40:27.240 --> 00:40:28.900
+And again didn't need to
+start a company to do it and
+
+00:40:28.900 --> 00:40:31.060
+almost certainly would have
+failed if he had tried.
+
+00:40:31.060 --> 00:40:32.440
+Because he really needed the
+distribution of
+
+00:40:32.440 --> 00:40:33.310
+Facebook to make it work.
+
+00:40:34.440 --> 00:40:37.920
+So important to, to keep in
+mind the context for uh,
+
+00:40:37.920 --> 00:40:40.440
+what kind of company you're
+trying to start and like,
+
+00:40:40.440 --> 00:40:41.870
+where will you actually be
+able to make it happen.
+
+00:40:44.500 --> 00:40:46.710
+So what's the best reason?
+
+00:40:46.710 --> 00:40:50.100
+So, Sam already talked about
+this a little bit but
+
+00:40:50.100 --> 00:40:51.180
+basically, you can't not do
+it.
+
+00:40:51.180 --> 00:40:53.170
+You're super passionate
+about this idea.
+
+00:40:53.170 --> 00:40:55.020
+You're the right person to
+do it.
+
+00:40:55.020 --> 00:40:56.320
+You've gotta make it happen.
+
+00:40:58.010 --> 00:40:59.513
+So how does this break down?
+
+00:41:01.255 --> 00:41:03.660
+>> Cuz we're getting close
+to end here.
+
+00:41:03.660 --> 00:41:04.520
+How am I doing on time?
+
+00:41:04.520 --> 00:41:05.130
+>> Cool.
+
+00:41:05.130 --> 00:41:05.700
+Sweet.
+Perfect.
+
+00:41:06.810 --> 00:41:09.870
+So this, this is sort of
+like a word play.
+
+00:41:09.870 --> 00:41:11.690
+You can't not do it in two
+ways.
+
+00:41:11.690 --> 00:41:12.330
+One is, you're so
+
+00:41:12.330 --> 00:41:13.560
+passionate about it that
+you're just like,
+
+00:41:13.560 --> 00:41:14.110
+you have to do it.
+
+00:41:14.110 --> 00:41:15.920
+You're gonna do it anyway.
+
+00:41:15.920 --> 00:41:16.940
+And this is really
+important.
+
+00:41:16.940 --> 00:41:19.270
+Cuz you'll need that passion
+to get through all of
+
+00:41:19.270 --> 00:41:20.320
+those like hard parts of
+
+00:41:20.320 --> 00:41:22.660
+being an entrepreneur that
+we talked about earlier.
+
+00:41:22.660 --> 00:41:24.470
+You'll also need it to
+effectively recruit.
+
+00:41:24.470 --> 00:41:26.710
+Candidates can smell when
+you don't have passion.
+
+00:41:26.710 --> 00:41:28.350
+And there are enough
+entrepreneurs out there who
+
+00:41:28.350 --> 00:41:29.130
+do have passion.
+
+00:41:29.130 --> 00:41:31.250
+That they may as well work
+for one of those.
+
+00:41:31.250 --> 00:41:32.760
+So this is sort of like
+table stakes for
+
+00:41:32.760 --> 00:41:34.460
+being an entrepreneur.
+
+00:41:34.460 --> 00:41:35.980
+Your subconscious can also
+tell when you
+
+00:41:35.980 --> 00:41:37.940
+don't have passion and
+that'll be a huge problem.
+
+00:41:39.080 --> 00:41:41.900
+And then so the other way to
+interpret this is the world
+
+00:41:41.900 --> 00:41:43.330
+needs you to do it.
+
+00:41:43.330 --> 00:41:43.890
+So this is sort of
+
+00:41:43.890 --> 00:41:46.000
+validation that the idea is
+important.
+
+00:41:46.000 --> 00:41:47.260
+It's gonna make the world
+better, so
+
+00:41:47.260 --> 00:41:47.870
+the world needs it.
+
+00:41:49.020 --> 00:41:51.230
+If it's not em, if it's not
+something the world needs,
+
+00:41:51.230 --> 00:41:52.936
+go do something the world
+needs.
+
+00:41:52.936 --> 00:41:53.680
+Your time's really valuable.
+Um,
+
+00:41:53.680 --> 00:41:55.240
+there are plenty good ideas
+out there.
+
+00:41:55.240 --> 00:41:56.230
+Maybe it's not one of your
+own.
+
+00:41:56.230 --> 00:41:57.440
+Maybe it's an existing
+company.
+
+00:41:57.440 --> 00:41:58.490
+But you may as well work on
+
+00:41:58.490 --> 00:42:00.020
+something that's gonna be
+good.
+
+00:42:01.200 --> 00:42:01.950
+And then the second way to
+
+00:42:01.950 --> 00:42:04.100
+interpret this is the world
+needs you to do it.
+
+00:42:04.100 --> 00:42:07.420
+You're actually well suited
+to this problem in some way.
+
+00:42:07.420 --> 00:42:11.080
+If this isn't true it may be
+a sign that
+
+00:42:11.080 --> 00:42:13.320
+your time is better spent
+somewhere else.
+
+00:42:13.320 --> 00:42:16.200
+But also just best case
+scenario if this isn't true,
+
+00:42:16.200 --> 00:42:18.320
+you out compete the team for
+which it is true.
+
+00:42:18.320 --> 00:42:18.830
+And you just end
+
+00:42:18.830 --> 00:42:20.660
+up with like a sub-optimal
+outcome for the world.
+
+00:42:20.660 --> 00:42:22.410
+That doesn't feel very good.
+
+00:42:22.410 --> 00:42:26.260
+So drawing this back to my
+own experience at Asana,
+
+00:42:26.260 --> 00:42:27.360
+you know, Justin and
+
+00:42:27.360 --> 00:42:30.190
+I were kind of like
+reluctant entrepreneurs.
+
+00:42:30.190 --> 00:42:32.420
+We, before we founded Asana
+so
+
+00:42:32.420 --> 00:42:33.250
+we're working at Facebook.
+
+00:42:33.250 --> 00:42:34.760
+We were already working on a
+great problem.
+
+00:42:36.130 --> 00:42:37.470
+And we would basically work
+all day
+
+00:42:37.470 --> 00:42:39.370
+long on our normal projects
+and
+
+00:42:39.370 --> 00:42:41.230
+then at night we would keep
+working on this internal
+
+00:42:41.230 --> 00:42:44.600
+task manager that was used
+internally at the company.
+
+00:42:44.600 --> 00:42:45.630
+And it was just cuz we were
+like so
+
+00:42:45.630 --> 00:42:47.080
+passionate about the idea
+that was so
+
+00:42:47.080 --> 00:42:49.390
+clearly valuable, that we
+couldn't do anything else.
+
+00:42:51.100 --> 00:42:52.450
+And at some point we had to
+have the hard
+
+00:42:52.450 --> 00:42:54.760
+conversation of like, okay
+well what does it
+
+00:42:54.760 --> 00:42:57.120
+mean if we don't actually
+start this company.
+
+00:42:57.120 --> 00:42:58.020
+We were pretty, we were able
+to
+
+00:42:58.020 --> 00:42:59.700
+see the impact it was having
+on Facebook.
+
+00:42:59.700 --> 00:43:00.750
+We were pretty convinced it
+
+00:43:00.750 --> 00:43:02.080
+could be really valuable for
+the world.
+
+00:43:02.080 --> 00:43:03.120
+We were also pretty
+
+00:43:03.120 --> 00:43:04.890
+convinced nobody else was
+gonna build it.
+
+00:43:04.890 --> 00:43:06.670
+The problem had been around
+a long time and
+
+00:43:06.670 --> 00:43:09.100
+we just kept seeing sort of
+incremental solutions to it.
+
+00:43:09.100 --> 00:43:10.530
+So if we didn't go out with
+the one that we
+
+00:43:10.530 --> 00:43:11.500
+thought was best,
+
+00:43:11.500 --> 00:43:13.140
+we thought there'd be a lot
+of value left on the table.
+
+00:43:14.870 --> 00:43:15.650
+And yeah.
+
+00:43:15.650 --> 00:43:17.970
+So we just couldn't,
+couldn't stop working on it.
+
+00:43:17.970 --> 00:43:20.010
+And literally the idea was
+like beating itself out of
+
+00:43:20.010 --> 00:43:22.580
+our chest, like forcing
+itself into the world.
+
+00:43:22.580 --> 00:43:24.080
+And I think that's the
+feeling you should really be
+
+00:43:24.080 --> 00:43:25.940
+looking for when you start a
+company.
+
+00:43:25.940 --> 00:43:27.360
+That's how you know you have
+the right idea.
+
+00:43:28.840 --> 00:43:30.230
+So I'll go ahead and stop
+there.
+
+00:43:30.230 --> 00:43:31.650
+I'll put some recommended
+books up here,
+
+00:43:31.650 --> 00:43:32.562
+but won't narrate them.
+
+00:43:32.562 --> 00:43:34.860
+And maybe, that's the end of
+the class.
+
+00:43:34.860 --> 00:43:35.397
+>> Yeah, thank you.
+
+00:43:36.781 --> 00:43:41.617
+Maybe you guys could stick
+around for
+
+00:43:41.617 --> 00:43:47.560
+a few minutes if you have
+questions for him.
+
+00:43:47.560 --> 00:43:48.470
+And uh, see you Thursday.
+
+00:43:51.120 --> 00:43:51.660
+Thank you.
+
