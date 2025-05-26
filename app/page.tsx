@@ -1,83 +1,109 @@
+import LocalVideo from "@/app/LocalVideo";
 import Image from "next/image";
+import Link from "next/link";
+
+const lectures = [
+  {
+    title: "Lecture 1 - How to Start a Startup (Sam Altman, Dustin Moskovitz)",
+    src: "/lectures/lecture-1/lecture.mp4",
+    poster: "/lectures/lecture-1/poster.png",
+    description: "Lecture 1: Introduction to Startups",
+  },
+  {
+    title: "Lecture 2 - Team and Execution (Sam Altman)",
+    src: "/lectures/lecture-2/lecture.mp4",
+    poster: "/lectures/lecture-2/poster.png",
+    description: "Lecture 2: Idea Generation and Validation",
+  },
+  {
+    title: "Lecture 3 - Before the Startup (Paul Graham)",
+    src: "/lectures/lecture-3/lecture.mp4",
+    poster: "/lectures/lecture-3/poster.png",
+    description: "Lecture 3: Product Development",
+  },
+  {
+    title: "Lecture 4 - Building Product, Talking to Users, and Growing (Adora Cheung)",
+    src: "/lectures/lecture-4/lecture.mp4",
+    poster: "/lectures/lecture-4/poster.png",
+    description: "Lecture 4: Market Fit and Growth",
+  },
+  {
+    title: "Lecture 5 - Competition is for Losers (Peter Thiel)",
+    src: "/lectures/lecture-5/lecture.mp4",
+    poster: "/lectures/lecture-5/poster.png",
+    description: "Lecture 5: Competitive Strategy",
+  },
+  {
+    title: "Lecture 6 - Building a Great Product (Kevin Hale)",
+    src: "/lectures/lecture-6/lecture.mp4",
+    poster: "/lectures/lecture-6/poster.png",
+    description: "Lecture 6: User Experience and Design",
+  },
+  {
+    title: "Lecture 7 - How to Raise Money (Mike Moritz)",
+    src: "/lectures/lecture-7/lecture.mp4",
+    poster: "/lectures/lecture-7/poster.png",
+    description: "Lecture 7: Fundraising Strategies",
+  },
+  {
+    title: "Lecture 8 - Legal and Administrative Issues (Joe Green)",
+    src: "/lectures/lecture-8/lecture.mp4",
+    poster: "/lectures/lecture-8/poster.png",
+    description: "Lecture 8: Legal Considerations for Startups",
+  },
+];
 
 export default function Home() {
   return (
-    <div className="grid min-h-screen grid-rows-[20px_1fr_20px] items-center justify-items-center gap-16 p-8 pb-20 font-[family-name:var(--font-geist-sans)] sm:p-20">
-      <main className="row-start-2 flex flex-col items-center gap-[32px] sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
+    <div className="flex flex-col gap-5">
+      <div>
+        <p>
+          <em>How to Start a Startup</em> is a series of video lectures, initially given at Stanford
+          in Fall 2014 and formerly hosted on <em>startupclass.samaltman.com</em>. Videos (under{" "}
+          <Link
+            href="https://creativecommons.org/licenses/by-nc-nd/2.5"
+            className="text-blue-500 hover:underline"
+          >
+            Creative Commons
+          </Link>
+          ) are below, and you can also check out the additional resources. This great resource has
+          disappeared from the web some time in March 2025 and was resurrected by{" "}
+          <Link href="https://stanislav.gq" className="text-blue-500 hover:underline">
+            Stanislav Modrak
+          </Link>{" "}
+          using the Wayback Machine, YouTube and various GitHub repositories.
+        </p>
+      </div>
+      <div className="flex flex-col lg:flex-row gap-5">
+        <LocalVideo
+          className="lg:w-1/2 w-full aspect-video border"
+          src={lectures[0].src}
+          poster={lectures[0].poster}
         />
-        <ol className="list-inside list-decimal text-center font-[family-name:var(--font-geist-mono)] text-sm/6 sm:text-left">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="rounded bg-black/[.05] px-1 py-0.5 font-[family-name:var(--font-geist-mono)] font-semibold dark:bg-white/[.06]">
-              app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">Save and see your changes instantly.</li>
-        </ol>
+        <div className="flex-col p-2 gap-2 flex">
+          <h2 className="text-2xl font-semibold">How to Start a Startup</h2>
+          <p>Click on any of the videos below to watch.</p>
 
-        <div className="flex flex-col items-center gap-4 sm:flex-row">
-          <a
-            className="bg-foreground text-background flex h-10 items-center justify-center gap-2 rounded-full border border-solid border-transparent px-4 text-sm font-medium transition-colors hover:bg-[#383838] sm:h-12 sm:w-auto sm:px-5 sm:text-base dark:hover:bg-[#ccc]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="flex h-10 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-4 text-sm font-medium transition-colors hover:border-transparent hover:bg-[#f2f2f2] sm:h-12 sm:w-auto sm:px-5 sm:text-base md:w-[158px] dark:border-white/[.145] dark:hover:bg-[#1a1a1a]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+          <p>
+            Video descriptions include links to transcripts, readings, and discussion forum, in this
+            side panel.
+          </p>
+
+          <p>Hovering over the video will show its description.</p>
         </div>
-      </main>
-      <footer className="row-start-3 flex flex-wrap items-center justify-center gap-[24px]">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image aria-hidden src="/file.svg" alt="File icon" width={16} height={16} />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image aria-hidden src="/window.svg" alt="Window icon" width={16} height={16} />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image aria-hidden src="/globe.svg" alt="Globe icon" width={16} height={16} />
-          Go to nextjs.org →
-        </a>
-      </footer>
+      </div>
+      <ol className="lg:grid-cols-4 sm:grid-cols-2 grid-cols-1 grid-rows-4 grid gap-5 place-items-stretch">
+        {lectures.map((lecture) => (
+          <li key={lecture.title} className="border">
+            <Image
+              src={lecture.poster}
+              width={1280}
+              height={720}
+              alt={lecture.title + " thumbnail"}
+            />
+          </li>
+        ))}
+      </ol>
     </div>
   );
 }
