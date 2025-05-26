@@ -1,3 +1,4 @@
+import GitHubBtn from "@/app/GitHubBtn";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import React from "react";
@@ -32,8 +33,9 @@ export default function RootLayout({
     <html lang="en" className={`h-full ${font.className}`}>
       <body className="flex flex-col min-h-full">
         {/* Header */}
-        <header className="container mx-auto p-4">
+        <header className="container flex flex-col gap-2 items-start sm:flex-row justify-between sm:items-end mx-auto p-4">
           <h1 className="text-4xl">How to Start a Startup</h1>
+          <GitHubBtn />
         </header>
 
         {/* Main content */}
