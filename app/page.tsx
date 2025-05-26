@@ -183,13 +183,13 @@ export default function Home() {
         {activeLecture ? (
           <LocalVideo
             key={activeLecture.title}
-            className="lg:w-1/2 w-full aspect-video border"
+            className="lg:min-w-1/2 lg:max-w-1/2 min-w-full aspect-video border"
             src={activeLecture.src}
             subs={activeLecture.subs}
             poster={activeLecture.poster}
           />
         ) : (
-          <div className="lg:w-1/2 w-full aspect-video border flex items-center justify-center">
+          <div className="lg:min-w-1/2 lg:max-w-1/2 min-w-full aspect-video border flex items-center justify-center bg-gray-100">
             <svg
               onClick={() => setActiveLecture({ ...lectures[0] })}
               className="hover:cursor-pointer hover:opacity-70"
