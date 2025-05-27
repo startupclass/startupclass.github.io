@@ -1,0 +1,5030 @@
+WEBVTT
+
+00:00:00.300 --> 00:00:01.620
+So I&#39;m going to talk about how
+to operate.
+
+00:00:01.620 --> 00:00:03.740
+So I&#39;ve watched some of the
+prior classes, and
+
+00:00:03.740 --> 00:00:05.470
+I&#39;m going to assume that
+you&#39;ve already sort of
+
+00:00:05.470 --> 00:00:07.590
+hired a bunch of horrendously
+resourceful people.
+
+00:00:07.590 --> 00:00:08.570
+That you&#39;ve built a product
+that at
+
+00:00:08.570 --> 00:00:09.300
+least some people love.
+
+00:00:09.300 --> 00:00:11.260
+And you&#39;re probably raised
+some capital.
+
+00:00:11.260 --> 00:00:12.660
+And now you&#39;re trying to build
+a company.
+
+00:00:12.660 --> 00:00:14.420
+So you&#39;re, you&#39;re enforging a
+product and
+
+00:00:14.420 --> 00:00:15.800
+now you have to forge a
+company.
+
+00:00:15.800 --> 00:00:16.650
+And it actually argue for
+
+00:00:16.650 --> 00:00:18.100
+GM company is much more
+difficult than for
+
+00:00:18.100 --> 00:00:19.170
+a GM product.
+
+00:00:19.170 --> 00:00:20.720
+Basic reason is people are
+irrational.
+
+00:00:20.720 --> 00:00:23.260
+So you probably all know this
+either your parents,
+
+00:00:23.260 --> 00:00:25.170
+your significant other or your
+brother or sister, or
+
+00:00:25.170 --> 00:00:27.490
+your teacher, somebody in your
+life is irrational.
+
+00:00:27.490 --> 00:00:28.890
+Building a company is
+basically taking all
+
+00:00:28.890 --> 00:00:30.740
+the irrational people you
+know, putting them in one
+
+00:00:30.740 --> 00:00:33.830
+building and then living with
+them 12 hours a day at least.
+
+00:00:33.830 --> 00:00:34.930
+So, it&#39;s very challenging.
+
+00:00:34.930 --> 00:00:36.520
+Now, there&#39;s techniques for
+coping with that and
+
+00:00:36.520 --> 00:00:38.640
+some people get good at it and
+small people don&#39;t but
+
+00:00:38.640 --> 00:00:40.289
+that&#39;s where really what
+operating is about.
+
+00:00:41.590 --> 00:00:43.963
+So basically what you&#39;re doing
+when you build a company is
+
+00:00:43.963 --> 00:00:45.179
+you&#39;re building an engine.
+
+00:00:45.179 --> 00:00:48.166
+And at first you have a
+drawing literally on a white
+
+00:00:48.166 --> 00:00:50.868
+board, and you&#39;re architecting
+it, and it
+
+00:00:50.868 --> 00:00:54.655
+looks very conceptually clean,
+and beautiful, and pretty.
+
+00:00:54.655 --> 00:00:56.264
+But when you start actually
+translating to
+
+00:00:56.264 --> 00:00:58.052
+practice actually it looks
+more like this, and
+
+00:00:58.052 --> 00:00:59.760
+you&#39;re holding it together
+with duct tape.
+
+00:00:59.760 --> 00:01:01.812
+And it takes a lot of heroic
+effort to people to
+
+00:01:01.812 --> 00:01:03.110
+actually hold it together.
+
+00:01:03.110 --> 00:01:05.100
+That&#39;s why people work 80, 100
+hours a week,
+
+00:01:05.100 --> 00:01:07.820
+is that heroic effort is
+actually necessary to keep
+
+00:01:07.820 --> 00:01:08.610
+this thing together.
+
+00:01:08.610 --> 00:01:12.330
+Because you don&#39;t actually yet
+have polished metal in place.
+
+00:01:12.330 --> 00:01:12.850
+Eventually you
+
+00:01:12.850 --> 00:01:14.880
+want to construct a high
+performance machine.
+
+00:01:14.880 --> 00:01:17.370
+A machine that actually almost
+nobody really has to
+
+00:01:17.370 --> 00:01:18.850
+worry about every hour.
+
+00:01:18.850 --> 00:01:20.330
+Every minute and you know as
+we
+
+00:01:20.330 --> 00:01:23.430
+used to joke about Ebay that
+if Martians took over Ebay it
+
+00:01:23.430 --> 00:01:25.470
+would take like six months for
+the world to notice.
+
+00:01:25.470 --> 00:01:27.290
+That&#39;s what eventually what
+you want to get to.
+
+00:01:27.290 --> 00:01:29.510
+Or as Warren Buffet says, you
+know, build a company that
+
+00:01:29.510 --> 00:01:31.490
+idiots could run because
+eventually they will.
+
+00:01:31.490 --> 00:01:36.010
+So this is what you want
+basically a performance
+
+00:01:36.010 --> 00:01:37.069
+machine that idiots can run.
+
+00:01:38.100 --> 00:01:40.190
+Now, as a leader, what is your
+real job?
+
+00:01:40.190 --> 00:01:41.268
+What&#39;s your role?
+
+00:01:41.268 --> 00:01:43.360
+Strictly speaking there&#39;s only
+one book that&#39;s ever written
+
+00:01:43.360 --> 00:01:45.339
+that actually explains how to
+do this, it&#39;s a little old.
+
+00:01:45.339 --> 00:01:47.196
+It was written in 1992 by Andy
+Grove,
+
+00:01:47.196 --> 00:01:49.266
+who&#39;s quite famous, quite
+successful, and
+
+00:01:49.266 --> 00:01:50.857
+his definition of what your
+job is,
+
+00:01:50.857 --> 00:01:52.928
+is to maximize the output of
+an organization,
+
+00:01:52.928 --> 00:01:55.530
+your organization that you&#39;re
+responsible for, CEOs,
+
+00:01:55.530 --> 00:01:58.630
+everything and a VP would be
+part of the organization.
+
+00:01:58.630 --> 00:02:00.810
+And the organizations around
+you, so if you&#39;re VPE,
+
+00:02:00.810 --> 00:02:02.790
+you&#39;re actually are
+responsible for
+
+00:02:02.790 --> 00:02:04.320
+the performance of the product
+team too, or
+
+00:02:04.320 --> 00:02:06.760
+the marketing team, because
+you have influence there.
+
+00:02:06.760 --> 00:02:10.110
+So this is how measure people
+and you want to focus on
+
+00:02:10.110 --> 00:02:13.390
+the output not the input the
+old adage about measuring,
+
+00:02:13.390 --> 00:02:15.780
+not measuring motion and
+confusing that will progress,
+
+00:02:15.780 --> 00:02:17.950
+you&#39;re measuring only
+progress.
+
+00:02:17.950 --> 00:02:19.310
+And this is going to sound
+like a fancy and
+
+00:02:19.310 --> 00:02:20.300
+glamorous thing to do.
+
+00:02:21.400 --> 00:02:23.330
+Maybe people get excited about
+managing a whole
+
+00:02:23.330 --> 00:02:26.390
+large organization, and being
+responsible for the output.
+
+00:02:26.390 --> 00:02:28.450
+But in practice, what you&#39;re
+going to learn today hopefully
+
+00:02:28.450 --> 00:02:31.240
+is that it&#39;s more about things
+like ordering smoothies,
+
+00:02:31.240 --> 00:02:33.850
+teaching your receptionist how
+to answer the phone properly,
+
+00:02:33.850 --> 00:02:36.060
+and serving as a $10 an hour
+task rabbit for
+
+00:02:36.060 --> 00:02:37.050
+your employees.
+
+00:02:37.050 --> 00:02:38.230
+So let&#39;s talk about that.
+
+00:02:39.290 --> 00:02:40.080
+So at first when you
+
+00:02:40.080 --> 00:02:42.630
+start a company everything&#39;s
+going to feel like a mess.
+
+00:02:42.630 --> 00:02:44.950
+And it really should if you
+have too much process,
+
+00:02:44.950 --> 00:02:46.760
+too much predictability you&#39;re
+probably not
+
+00:02:46.760 --> 00:02:49.550
+innovating fast enough and
+creatively enough.
+
+00:02:49.550 --> 00:02:51.550
+So it should feel like
+everyday there&#39;s a new
+
+00:02:51.550 --> 00:02:55.300
+problem and what you&#39;re doing
+is fundamentally triaging.
+
+00:02:55.300 --> 00:02:57.360
+So some things will look like
+a problem, and
+
+00:02:57.360 --> 00:02:59.750
+they&#39;re actually a colds,
+they&#39;re just going to go away.
+
+00:02:59.750 --> 00:03:01.620
+So, somebody&#39;s annoyed about
+this or that.
+
+00:03:01.620 --> 00:03:03.570
+That may be a cold, and you
+shouldn&#39;t stress about it,
+
+00:03:03.570 --> 00:03:04.900
+and you certainly shouldn&#39;t
+allocated a lot of
+
+00:03:04.900 --> 00:03:05.420
+your time to it.
+
+00:03:05.420 --> 00:03:08.400
+And some things are going to
+present themselves as colds.
+
+00:03:08.400 --> 00:03:10.515
+But just like in the emergency
+room, if they&#39;re not
+
+00:03:10.515 --> 00:03:12.693
+diagnosed properly they
+actually can become fatal.
+
+00:03:12.693 --> 00:03:14.489
+So what I&#39;m going to try to do
+is help give you
+
+00:03:14.489 --> 00:03:16.823
+frameworks for thinking about
+which things are colds and
+
+00:03:16.823 --> 00:03:18.390
+which things are potentially
+fatal.
+
+00:03:20.060 --> 00:03:21.680
+So one of the most important
+things I&#39;ve learned at
+
+00:03:21.680 --> 00:03:24.240
+Square is actually a concept
+of editing.
+
+00:03:24.240 --> 00:03:24.960
+And this is the,
+
+00:03:24.960 --> 00:03:27.600
+I think the best metaphor I&#39;ve
+ever seen in like 14 years of
+
+00:03:27.600 --> 00:03:30.470
+running stuff of how to think
+about your job.
+
+00:03:30.470 --> 00:03:32.290
+It&#39;s natural, it&#39;s a natural
+metaphor so
+
+00:03:32.290 --> 00:03:33.680
+it&#39;s easy to take with you
+every day.
+
+00:03:33.680 --> 00:03:36.000
+And actually it&#39;s easy to
+transmit to each of
+
+00:03:36.000 --> 00:03:37.910
+your employees so that they
+can figure out
+
+00:03:37.910 --> 00:03:39.510
+wether they are editing or
+writing.
+
+00:03:39.510 --> 00:03:40.720
+It&#39;s a natural construct.
+
+00:03:40.720 --> 00:03:42.360
+You generally know when
+someone asks you to
+
+00:03:42.360 --> 00:03:43.220
+do something.
+
+00:03:43.220 --> 00:03:44.850
+Am I more writing or am I more
+editing?
+
+00:03:44.850 --> 00:03:48.490
+So an editor, as, is the best
+metaphor for your job,
+
+00:03:48.490 --> 00:03:51.150
+and we&#39;re talking about the
+specific things you&#39;re doing
+
+00:03:51.150 --> 00:03:52.620
+in editing.
+
+00:03:52.620 --> 00:03:54.010
+The first thing an editor
+does, and
+
+00:03:54.010 --> 00:03:55.950
+you probably all had this
+experience in school,
+
+00:03:55.950 --> 00:03:58.630
+is you submit a paper to a TA,
+a draft to your friend.
+
+00:03:58.630 --> 00:03:59.860
+And the first thing an editor
+does is
+
+00:03:59.860 --> 00:04:02.970
+they take out a red pen or
+nowadays, you know online, and
+
+00:04:02.970 --> 00:04:04.570
+they start striking things.
+
+00:04:04.570 --> 00:04:05.750
+Basically eliminating things.
+
+00:04:05.750 --> 00:04:08.090
+The most important task as an
+editor is to simplify,
+
+00:04:08.090 --> 00:04:10.630
+simplify, and that usually
+means omitting things.
+
+00:04:10.630 --> 00:04:14.590
+So that&#39;s your job too, is to
+clarify and simplify for
+
+00:04:14.590 --> 00:04:15.810
+everybody on your team,
+
+00:04:15.810 --> 00:04:17.940
+the more you simplify the
+better people will perform.
+
+00:04:17.940 --> 00:04:19.610
+People cannot understand and
+
+00:04:19.610 --> 00:04:21.910
+keep track of a complicated
+set of initiatives.
+
+00:04:21.910 --> 00:04:24.230
+So you&#39;ve got to distill it
+down to one, two, or
+
+00:04:24.230 --> 00:04:25.270
+three things.
+
+00:04:25.270 --> 00:04:26.610
+And use a framework that they
+can repeat,
+
+00:04:26.610 --> 00:04:28.310
+they can repeat without
+thinking about,
+
+00:04:28.310 --> 00:04:29.630
+they can repeat to their
+friends,
+
+00:04:29.630 --> 00:04:30.480
+they can repeat at night.
+
+00:04:32.080 --> 00:04:33.580
+Don&#39;t except the excuse of
+complexity.
+
+00:04:33.580 --> 00:04:35.240
+A lot of people will tell you
+that well this is
+
+00:04:35.240 --> 00:04:36.590
+too challenging, this is too
+complicated.
+
+00:04:36.590 --> 00:04:38.380
+Well yeah, I know other people
+simplify but
+
+00:04:38.380 --> 00:04:39.150
+that&#39;s not for me.
+
+00:04:39.150 --> 00:04:40.950
+This is a complicated
+business.
+
+00:04:40.950 --> 00:04:41.930
+They&#39;re wrong.
+
+00:04:41.930 --> 00:04:45.085
+You can change the world, in
+140 characters.
+
+00:04:48.455 --> 00:04:50.911
+You can build the most
+important companies in
+
+00:04:50.911 --> 00:04:53.910
+history in a very simple to
+describe concept.
+
+00:04:53.910 --> 00:04:57.970
+You can market products in
+less than about 50 characters.
+
+00:04:59.140 --> 00:05:00.100
+There&#39;s no reason why you
+
+00:05:00.100 --> 00:05:01.820
+can&#39;t build your company the
+same way.
+
+00:05:01.820 --> 00:05:04.520
+So force yourself to simplify
+every initiative,
+
+00:05:04.520 --> 00:05:06.630
+every product, every
+marketing, every,
+
+00:05:06.630 --> 00:05:07.960
+everything you do.
+
+00:05:07.960 --> 00:05:09.790
+And, and basically take out
+that red,
+
+00:05:09.790 --> 00:05:11.430
+and start eliminating stuff.
+
+00:05:12.440 --> 00:05:13.700
+Second thing is, what editors
+do,
+
+00:05:13.700 --> 00:05:15.560
+is they ask you clarifying
+questions.
+
+00:05:15.560 --> 00:05:16.950
+So when you present a paper to
+somebody,
+
+00:05:16.950 --> 00:05:17.720
+what do they usually do?
+
+00:05:17.720 --> 00:05:20.000
+Do they, find some ambiguity
+somewhere and
+
+00:05:20.000 --> 00:05:21.650
+they say, well did you really
+mean this, do you mean that,
+
+00:05:21.650 --> 00:05:22.990
+do you have an example of
+this?
+
+00:05:22.990 --> 00:05:25.190
+That&#39;s what your job is, so
+you&#39;re in a meeting and
+
+00:05:25.190 --> 00:05:27.360
+people are going to look to
+you, and the real thing you
+
+00:05:27.360 --> 00:05:29.780
+do is you actually ask a lot
+of questions.
+
+00:05:29.780 --> 00:05:32.630
+And they can be simple, basic
+questions like,
+
+00:05:32.630 --> 00:05:36.660
+should we try this seven days
+a week or six days?
+
+00:05:36.660 --> 00:05:39.200
+They can be fundamental
+questions like,
+
+00:05:39.200 --> 00:05:41.330
+where&#39;s our competitive
+advantage here?
+
+00:05:41.330 --> 00:05:44.160
+We try to this actually as
+investors too
+
+00:05:44.160 --> 00:05:46.750
+some investors will ask you a
+billion questions about
+
+00:05:46.750 --> 00:05:49.560
+a billion things and they&#39;ll
+have you do diligence forever.
+
+00:05:49.560 --> 00:05:52.110
+We try to narrow it down to
+what are one, two or
+
+00:05:52.110 --> 00:05:53.650
+three four things that
+actually matter for
+
+00:05:53.650 --> 00:05:56.070
+this company and only focus on
+those things.
+
+00:05:56.070 --> 00:05:58.660
+So it allows us to be more
+decisive, and
+
+00:05:58.660 --> 00:06:00.100
+we can make decisions rapidly.
+
+00:06:00.100 --> 00:06:03.090
+It allows us not to distract
+you from your day job,
+
+00:06:03.090 --> 00:06:04.920
+which is actually building a
+company.
+
+00:06:04.920 --> 00:06:07.035
+And yet, I think we still get
+to the higher fide,
+
+00:06:07.035 --> 00:06:08.280
+highest fidelity answers.
+
+00:06:08.280 --> 00:06:09.320
+We don&#39;t have all these extra,
+
+00:06:09.320 --> 00:06:11.340
+extraneous details, pieces of
+data.
+
+00:06:11.340 --> 00:06:13.850
+Now it&#39;s hard, it&#39;s something
+you have to practice, but
+
+00:06:13.850 --> 00:06:16.810
+when you&#39;re good at it, every
+step you eliminate, Andy Grove
+
+00:06:16.810 --> 00:06:20.560
+estimated that you can improve
+performance by 30-50%.
+
+00:06:20.560 --> 00:06:22.830
+The next thing you do is
+allocate resources.
+
+00:06:22.830 --> 00:06:24.110
+So the editing construct,
+
+00:06:24.110 --> 00:06:25.890
+this is what editors do all
+the time.
+
+00:06:25.890 --> 00:06:28.160
+They take editors from the
+mid-East and
+
+00:06:28.160 --> 00:06:30.480
+covering the mid-East and they
+move them to Silicon Valley,
+
+00:06:30.480 --> 00:06:32.840
+because Silicon Valley is now,
+now more interesting.
+
+00:06:32.840 --> 00:06:34.510
+Or they move them to a sports
+section because they want to
+
+00:06:34.510 --> 00:06:36.680
+compete on the basis of sports
+with other journals and
+
+00:06:36.680 --> 00:06:37.370
+other publications.
+
+00:06:37.370 --> 00:06:39.650
+So that can be top down where
+I take a bunch of,
+
+00:06:39.650 --> 00:06:40.710
+allocate resources and
+
+00:06:40.710 --> 00:06:42.360
+people would say, we&#39;re now
+going over here,
+
+00:06:42.360 --> 00:06:43.910
+we&#39;re going to compete on this
+basis.
+
+00:06:43.910 --> 00:06:46.060
+And then next month, next
+quarter, next year,
+
+00:06:46.060 --> 00:06:46.650
+I&#39;m like well,
+
+00:06:46.650 --> 00:06:48.780
+that Middle East coverage is
+getting boring and bland.
+
+00:06:48.780 --> 00:06:49.930
+We don&#39;t want to do that
+anymore.
+
+00:06:49.930 --> 00:06:52.250
+Let&#39;s go chase after something
+else, or it can be bottom up,
+
+00:06:52.250 --> 00:06:53.920
+just like journalists mostly
+come up
+
+00:06:53.920 --> 00:06:56.840
+with their own stories, the
+people who work with you.
+
+00:06:56.840 --> 00:06:59.260
+Generally should be coming up
+with their own initiatives.
+
+00:06:59.260 --> 00:07:02.231
+So, a reporter will generally,
+who covers Google, come up
+
+00:07:02.231 --> 00:07:04.913
+with the interesting stories
+that they&#39;re hearing in
+
+00:07:04.913 --> 00:07:07.961
+aether, and propose one or two
+to their editor for approval.
+
+00:07:07.961 --> 00:07:09.994
+But it&#39;s not like the editor
+is saying, go cover Google,
+
+00:07:09.994 --> 00:07:10.998
+and this is the angle I want.
+
+00:07:10.998 --> 00:07:12.227
+Once in a while they do that,
+but
+
+00:07:12.227 --> 00:07:13.915
+that&#39;s not the date, the day,
+the meat and
+
+00:07:13.915 --> 00:07:16.520
+potatoes of what a journalist
+does every day.
+
+00:07:16.520 --> 00:07:19.500
+Your goal over time is to
+actually use less red
+
+00:07:19.500 --> 00:07:20.650
+ink every day.
+
+00:07:20.650 --> 00:07:22.474
+So one way of measuring how
+well you&#39;re doing in
+
+00:07:22.474 --> 00:07:23.158
+communicating to
+
+00:07:23.158 --> 00:07:25.446
+your colleagues about what&#39;s
+important and what&#39;s not.
+
+00:07:25.446 --> 00:07:27.119
+What, why some things are
+important,
+
+00:07:27.119 --> 00:07:28.031
+some things are not,
+
+00:07:28.031 --> 00:07:30.470
+is how much red ink you&#39;re
+pulling out every day.
+
+00:07:30.470 --> 00:07:31.930
+It&#39;s okay if you have a bad
+day and
+
+00:07:31.930 --> 00:07:33.490
+the red inks all over the
+place.
+
+00:07:33.490 --> 00:07:34.970
+But it&#39;s not okay if the red
+ink next month is
+
+00:07:34.970 --> 00:07:36.350
+more is more than it was last
+month,
+
+00:07:36.350 --> 00:07:37.820
+if the next quarter is more
+than this.
+
+00:07:37.820 --> 00:07:41.380
+So measure yourself of how
+much red ink you&#39;re creating.
+
+00:07:41.380 --> 00:07:44.450
+The other thing that&#39;s very
+important that actually isn&#39;t
+
+00:07:44.450 --> 00:07:46.380
+as intuitive to a lot of
+people is,
+
+00:07:46.380 --> 00:07:49.140
+the job of an editor is to
+ensure consistent voice.
+
+00:07:49.140 --> 00:07:50.880
+So if any of you read The
+Economist,
+
+00:07:50.880 --> 00:07:53.460
+you can tell that there&#39;s one
+consistent voice.
+
+00:07:53.460 --> 00:07:56.250
+You can pick up any article,
+any post in The Economist, and
+
+00:07:56.250 --> 00:07:58.360
+if feels like it&#39;s written by
+the same person.
+
+00:07:58.360 --> 00:07:59.980
+Ideally your company should
+feel like,
+
+00:07:59.980 --> 00:08:01.480
+on your website and your PR
+release,
+
+00:08:01.480 --> 00:08:03.700
+on your packaging, if it&#39;s a
+physical product.
+
+00:08:03.700 --> 00:08:05.810
+Anywhere on your recruiting
+pages to feel like it
+
+00:08:05.810 --> 00:08:07.110
+was written by one person.
+
+00:08:07.110 --> 00:08:08.570
+That&#39;s extremely difficult to
+do,
+
+00:08:08.570 --> 00:08:10.300
+and first you&#39;re going to be
+tempted to do
+
+00:08:10.300 --> 00:08:13.390
+that yourself which is okay
+for a founder to that.
+
+00:08:13.390 --> 00:08:15.060
+Him or herself initially.
+
+00:08:15.060 --> 00:08:17.230
+Over time you do not want to
+be doing all of
+
+00:08:17.230 --> 00:08:19.920
+the consistent voice editing
+by yourself.
+
+00:08:19.920 --> 00:08:21.190
+You are a trained people so
+
+00:08:21.190 --> 00:08:22.950
+that they can recognize the
+differences in voice.
+
+00:08:22.950 --> 00:08:24.430
+So if you see this website
+page it
+
+00:08:24.430 --> 00:08:26.190
+looks very different than the
+recruiting page.
+
+00:08:26.190 --> 00:08:28.410
+You start by asking questions
+why is that?
+
+00:08:28.410 --> 00:08:29.550
+Is the reporting messed up?
+
+00:08:29.550 --> 00:08:30.910
+Is the leaders over here not
+
+00:08:30.910 --> 00:08:32.960
+really understanding the voice
+of the company?
+
+00:08:32.960 --> 00:08:35.110
+So, you&#39;ve gotta, you have to
+fix that over time.
+
+00:08:35.110 --> 00:08:36.920
+But you want to start with the
+objective of
+
+00:08:36.920 --> 00:08:39.280
+everything should feel exactly
+the same.
+
+00:08:39.280 --> 00:08:41.250
+It&#39;s quite, quite difficult in
+practice.
+
+00:08:41.250 --> 00:08:43.800
+Almost every company has at
+least one piece
+
+00:08:43.800 --> 00:08:46.470
+of the organization that isn&#39;t
+exactly on the same voice.
+
+00:08:46.470 --> 00:08:47.980
+At Apple, which is notorious,
+you know,
+
+00:08:47.980 --> 00:08:50.130
+even under Steve&#39;s regime,
+which was notorious for
+
+00:08:50.130 --> 00:08:51.610
+getting this right.
+
+00:08:51.610 --> 00:08:53.710
+If you asked someone who
+worked at Apple, talk,
+
+00:08:53.710 --> 00:08:56.030
+asked them about the internal
+tools about recruiting.
+
+00:08:56.030 --> 00:08:57.580
+Do they really feel like Apple
+products?
+
+00:08:57.580 --> 00:08:58.910
+All of them will tell you no.
+
+00:08:58.910 --> 00:09:00.320
+So you&#39;re never 100%,
+
+00:09:00.320 --> 00:09:02.590
+but you definitely want to get
+a close to that as you can.
+
+00:09:03.990 --> 00:09:06.520
+Next complicated topic is
+delegating.
+
+00:09:06.520 --> 00:09:07.680
+So just like the other thing I
+
+00:09:07.680 --> 00:09:10.000
+like about the metaphor of
+editing is.
+
+00:09:10.000 --> 00:09:12.090
+Writers do most of the work in
+the world.
+
+00:09:12.090 --> 00:09:15.000
+Editors are not actually
+writing most of the content in
+
+00:09:15.000 --> 00:09:16.380
+any publication.
+
+00:09:16.380 --> 00:09:18.190
+So that&#39;s actually true of
+your company.
+
+00:09:18.190 --> 00:09:19.720
+You are not going to do most
+of the work.
+
+00:09:19.720 --> 00:09:21.440
+You shouldn&#39;t be doing most of
+the work.
+
+00:09:21.440 --> 00:09:23.210
+And the way you get out of
+doing most of
+
+00:09:23.210 --> 00:09:24.950
+the work is you actually
+delegate.
+
+00:09:24.950 --> 00:09:27.390
+Now the problem with
+delegating is,
+
+00:09:27.390 --> 00:09:29.300
+that actually you&#39;re
+responsible for everything.
+
+00:09:29.300 --> 00:09:31.800
+So as CEO founder there is no
+excuse,
+
+00:09:31.800 --> 00:09:33.510
+there&#39;s no like that&#39;s that
+department over there,
+
+00:09:33.510 --> 00:09:35.110
+this person over there screwed
+up,
+
+00:09:35.110 --> 00:09:36.390
+you&#39;re always responsible for
+
+00:09:36.390 --> 00:09:39.530
+every single thing, especially
+when things go wrong.
+
+00:09:39.530 --> 00:09:41.790
+So how do you both delegate
+but not abdicate.
+
+00:09:41.790 --> 00:09:43.320
+It&#39;s pretty tricky challenge
+and
+
+00:09:43.320 --> 00:09:45.640
+both are sins, like if you
+over delegate.
+
+00:09:45.640 --> 00:09:47.146
+Or, and you advocate, or
+
+00:09:47.146 --> 00:09:49.850
+you micro-manage, those are
+both sins.
+
+00:09:49.850 --> 00:09:51.400
+So I&#39;m going to give you a
+couple techniques for
+
+00:09:51.400 --> 00:09:52.120
+solving this.
+
+00:09:54.460 --> 00:09:56.858
+First, this actually comes
+from high output management
+
+00:09:56.858 --> 00:09:59.740
+and to grow, is what&#39;s known
+as task-relevant maturity.
+
+00:09:59.740 --> 00:10:01.060
+It&#39;s kind of a fancy phrase
+for
+
+00:10:01.060 --> 00:10:02.820
+basically, has this person
+ever done this before?
+
+00:10:02.820 --> 00:10:04.010
+It&#39;s really simple.
+
+00:10:04.010 --> 00:10:06.410
+And how mature is this person
+in doing something/ And
+
+00:10:06.410 --> 00:10:08.750
+the more they&#39;ve done the
+exact same task before.
+
+00:10:08.750 --> 00:10:10.560
+The more sort of rope you&#39;re
+going to give them.
+
+00:10:10.560 --> 00:10:13.320
+And the less, the more they&#39;re
+trying something new,
+
+00:10:13.320 --> 00:10:15.320
+the more you&#39;re going to
+actually instruct them and
+
+00:10:15.320 --> 00:10:17.670
+consistently, constantly
+regularly monitor.
+
+00:10:17.670 --> 00:10:19.406
+So that&#39;s kind of a basic
+concept but
+
+00:10:19.406 --> 00:10:21.593
+it&#39;s worth keeping in the back
+of your brain.
+
+00:10:21.593 --> 00:10:23.766
+The interesting implication,
+and
+
+00:10:23.766 --> 00:10:26.737
+this is pretty radical, is
+that any executive,
+
+00:10:26.737 --> 00:10:29.569
+any CEO should not have one
+management style.
+
+00:10:29.569 --> 00:10:31.924
+Your management style actually
+needs to be dictated by
+
+00:10:31.924 --> 00:10:32.646
+your employee.
+
+00:10:32.646 --> 00:10:35.685
+So with one particular person,
+you may be very much a micro
+
+00:10:35.685 --> 00:10:38.364
+manager because they&#39;re quite
+low on this scale.
+
+00:10:38.364 --> 00:10:40.370
+And with another person you
+may be delegating a lot
+
+00:10:40.370 --> 00:10:43.020
+because they&#39;re actually quite
+mature on this scale.
+
+00:10:43.020 --> 00:10:45.274
+So it&#39;s actually a good thing
+if you do reference checks on
+
+00:10:45.274 --> 00:10:47.574
+somebody, and half the people
+you call say they&#39;re a micro
+
+00:10:47.574 --> 00:10:49.644
+manager, and the other half
+say they actually give me
+
+00:10:49.644 --> 00:10:51.622
+a lot of responsibility,
+that&#39;s actually not a,
+
+00:10:51.622 --> 00:10:53.186
+that&#39;s a, that&#39;s a feature not
+a bug.
+
+00:10:53.186 --> 00:10:55.916
+I didn&#39;t understand that at
+first, at all, like I used to
+
+00:10:55.916 --> 00:10:58.817
+be befuddled when people would
+dereference checks on me, and
+
+00:10:58.817 --> 00:11:01.354
+come back with this like,
+complicated mosaic.
+
+00:11:01.354 --> 00:11:03.568
+And that basically, finally
+figured out that maybe I
+
+00:11:03.568 --> 00:11:05.386
+was actually doing my job
+correctly, and so
+
+00:11:05.386 --> 00:11:06.074
+then of course,
+
+00:11:06.074 --> 00:11:08.824
+thought other people that this
+was the way to do it.
+
+00:11:08.824 --> 00:11:12.304
+A more nuanced answer though,
+that I&#39;ve sort of came up
+
+00:11:12.304 --> 00:11:14.777
+with, is how, how do you make
+decisions?
+
+00:11:14.777 --> 00:11:17.276
+And delegating versus doing it
+yourself.
+
+00:11:17.276 --> 00:11:19.337
+You don&#39;t want to do it
+yourself too often.
+
+00:11:19.337 --> 00:11:21.813
+So what I&#39;ve basically
+borrowed from Peter,
+
+00:11:21.813 --> 00:11:25.113
+this is my first two by two
+matrix ever in my life but he
+
+00:11:25.113 --> 00:11:28.351
+taught me something at least
+is you basically sort you,
+
+00:11:28.351 --> 00:11:31.269
+your own level conviction
+about a decision on a grid you
+
+00:11:31.269 --> 00:11:33.850
+know, extremely high,
+extremely low.
+
+00:11:33.850 --> 00:11:35.880
+There&#39;s times when you know
+something&#39;s a mistake, and
+
+00:11:35.880 --> 00:11:37.450
+there&#39;s times where you
+wouldn&#39;t do it that way, but
+
+00:11:37.450 --> 00:11:39.783
+you have no real idea what
+the, whether,
+
+00:11:39.783 --> 00:11:41.520
+whether it&#39;s the right or
+wrong answer.
+
+00:11:41.520 --> 00:11:43.440
+And then there&#39;s a consequence
+to mention, there are things
+
+00:11:43.440 --> 00:11:45.060
+that if you make the wrong
+decision are actually
+
+00:11:45.060 --> 00:11:47.480
+catastrophic to your company
+and you will fail.
+
+00:11:47.480 --> 00:11:50.280
+There are things that are
+pretty low impact,
+
+00:11:50.280 --> 00:11:52.420
+that really at the end of the
+day aren&#39;t going to
+
+00:11:52.420 --> 00:11:54.190
+make a big difference, at
+least initially.
+
+00:11:54.190 --> 00:11:57.275
+So what I basically believe is
+that where there&#39;s low
+
+00:11:57.275 --> 00:11:59.090
+consequences, and
+
+00:11:59.090 --> 00:12:02.130
+you have very a low confidence
+in your own opinion, you
+
+00:12:02.130 --> 00:12:04.880
+should absolutely delegate,
+and delegate completely like
+
+00:12:04.880 --> 00:12:06.930
+people make mistakes and
+learn.
+
+00:12:06.930 --> 00:12:08.200
+On the other side obviously,
+
+00:12:08.200 --> 00:12:10.980
+where the consequences are
+extremely dramatic and
+
+00:12:10.980 --> 00:12:13.590
+you have extremely high
+conviction that you&#39;re right,
+
+00:12:13.590 --> 00:12:16.060
+you actually can&#39;t let your
+junior colleague,
+
+00:12:16.060 --> 00:12:17.200
+like, make a mistake.
+
+00:12:17.200 --> 00:12:19.100
+You&#39;re ultimately responsible
+for that mistake, and if
+
+00:12:19.100 --> 00:12:22.140
+it&#39;s really important you just
+can&#39;t allow that to happen.
+
+00:12:22.140 --> 00:12:23.080
+Now the best way to do
+
+00:12:23.080 --> 00:12:26.140
+that is to actually explain
+your thinking, the why.
+
+00:12:26.140 --> 00:12:27.680
+It&#39;s easy to shortcut when you
+get busy,
+
+00:12:27.680 --> 00:12:31.500
+explaining why&#39;s of the world,
+but it&#39;s very important to try
+
+00:12:31.500 --> 00:12:35.710
+when I was at LinkedIn I had a
+colleague who&#39;s quite,
+
+00:12:35.710 --> 00:12:36.678
+quite talented.
+
+00:12:36.678 --> 00:12:40.240
+Both occasion we get annoyed
+if, if I didn&#39;t exactly agree
+
+00:12:40.240 --> 00:12:42.870
+with his opinion on something,
+and so I&#39;d
+
+00:12:42.870 --> 00:12:45.700
+spent a lot of time trying to
+persuade him why I was making
+
+00:12:45.700 --> 00:12:47.150
+a decision a certain way.
+
+00:12:47.150 --> 00:12:49.580
+And his wildcard, the card he
+would ultimately call out if I
+
+00:12:49.580 --> 00:12:50.680
+didn&#39;t quite persuade him,
+
+00:12:50.680 --> 00:12:53.510
+he&#39;s like, okay you&#39;re the
+boss, and that meant to
+
+00:12:53.510 --> 00:12:55.680
+me like I was burning a lot of
+social capital.
+
+00:12:55.680 --> 00:12:57.260
+Every time he said that, I
+knew I was like
+
+00:12:57.260 --> 00:13:00.150
+really creating a thin line,
+and that ultimately that was
+
+00:13:00.150 --> 00:13:01.970
+going to backfire if I did
+that too often, so
+
+00:13:01.970 --> 00:13:04.440
+you want to track the times
+that you&#39;re doing that.
+
+00:13:04.440 --> 00:13:05.580
+Example of this is Squares,
+
+00:13:05.580 --> 00:13:06.870
+one of my favorite people in
+the world,
+
+00:13:06.870 --> 00:13:09.850
+and my second hire, first
+marketing hire had this
+
+00:13:09.850 --> 00:13:11.890
+program he wanted to run
+called Inner-Square,
+
+00:13:11.890 --> 00:13:15.740
+which basically allowed people
+to give out square merchants
+
+00:13:15.740 --> 00:13:17.860
+to get out ten other squares
+to their call.
+
+00:13:17.860 --> 00:13:19.210
+Just imagine a food truck
+outside,
+
+00:13:19.210 --> 00:13:21.590
+put like ten squares on the
+counter and
+
+00:13:21.590 --> 00:13:24.500
+people could just grab them,
+and Kyle had this great idea,
+
+00:13:24.500 --> 00:13:26.560
+this would be this awesome
+marketing program.
+
+00:13:26.560 --> 00:13:31.510
+Squares would spread squares
+to other people and, you know,
+
+00:13:31.510 --> 00:13:33.660
+to some extent it was on
+brand, so
+
+00:13:33.660 --> 00:13:35.940
+it didn&#39;t have catastrophic
+consequences.
+
+00:13:35.940 --> 00:13:38.300
+Each of these ten squares
+didn&#39;t cost that much money,
+
+00:13:38.300 --> 00:13:40.300
+so financially we could afford
+to do it.
+
+00:13:40.300 --> 00:13:42.120
+But, at that time my ten years
+of experience said
+
+00:13:42.120 --> 00:13:43.490
+there&#39;s just no way this is
+going to work in
+
+00:13:43.490 --> 00:13:47.930
+a meaningful enough scale, to
+move our metrics enough and
+
+00:13:47.930 --> 00:13:49.957
+I actually would prefer we
+don&#39;t, not do this.
+
+00:13:49.957 --> 00:13:50.470
+But Kyle, so
+
+00:13:50.470 --> 00:13:54.490
+excited about this that I
+decided to just let him do it.
+
+00:13:54.490 --> 00:13:55.680
+He learned that actually when
+you
+
+00:13:55.680 --> 00:13:57.550
+measure this thing it&#39;s not
+massive.
+
+00:13:57.550 --> 00:13:59.900
+It doesn&#39;t create a massive
+value for the company.
+
+00:13:59.900 --> 00:14:01.950
+It did require a fair amount
+of operational complexity to
+
+00:14:01.950 --> 00:14:03.170
+ship all these squares to
+people and
+
+00:14:03.170 --> 00:14:05.730
+figure out how to get them to
+be squares etc.
+
+00:14:05.730 --> 00:14:08.620
+But it allowed him to be
+excited about his job and
+
+00:14:08.620 --> 00:14:11.720
+to learn how to filter future
+ideas, so it&#39;s totally worth
+
+00:14:11.720 --> 00:14:13.320
+letting him make the quote
+unquote mistake.
+
+00:14:15.320 --> 00:14:18.280
+The next and most possibly
+most important thing you do
+
+00:14:18.280 --> 00:14:20.070
+is actually edit the team.
+
+00:14:20.070 --> 00:14:21.845
+So these are the people that
+you work with, and
+
+00:14:21.845 --> 00:14:23.750
+nobody&#39;s going to have a
+perfect team and
+
+00:14:23.750 --> 00:14:25.510
+you&#39;re certainly not going to
+start that way.
+
+00:14:25.510 --> 00:14:29.250
+So would, I&#39;m going to try to
+do is
+
+00:14:29.250 --> 00:14:32.490
+maximize the probability for
+success in editing the team.
+
+00:14:32.490 --> 00:14:34.890
+So I like this idea of Barrels
+and Ammunition.
+
+00:14:34.890 --> 00:14:36.878
+Most companies once they get
+into hiring mode as
+
+00:14:36.878 --> 00:14:39.113
+Sam pointed out you should
+defer that for awhile, but
+
+00:14:39.113 --> 00:14:40.862
+once you do they just hire a
+lot of people.
+
+00:14:40.862 --> 00:14:42.505
+And they&#39;re like, you expect,
+and
+
+00:14:42.505 --> 00:14:44.679
+you expected as you add people
+your throughput,
+
+00:14:44.679 --> 00:14:45.634
+your horsepower, or
+
+00:14:45.634 --> 00:14:48.243
+your velocity of shipping
+things is going to increase.
+
+00:14:48.243 --> 00:14:50.099
+It turns out it doesn&#39;t work
+that way.
+
+00:14:50.099 --> 00:14:51.741
+Usually when you hire more
+engineers you
+
+00:14:51.741 --> 00:14:53.430
+actually don&#39;t get that much
+more done,
+
+00:14:53.430 --> 00:14:55.420
+you actually sometimes get
+less done.
+
+00:14:55.420 --> 00:14:56.280
+You hire more designers,
+
+00:14:56.280 --> 00:14:57.450
+you definitely don&#39;t get more
+done,
+
+00:14:57.450 --> 00:15:01.200
+you get less done per day we
+could talk about why.
+
+00:15:01.200 --> 00:15:04.290
+But so the reason why is that
+most people,
+
+00:15:04.290 --> 00:15:07.540
+most great people even, are
+actually ammunition.
+
+00:15:07.540 --> 00:15:09.320
+But what you need in your
+company are barrels, and
+
+00:15:09.320 --> 00:15:10.960
+you can only shoot through the
+number of
+
+00:15:10.960 --> 00:15:12.420
+unique barrels you have.
+
+00:15:12.420 --> 00:15:15.670
+So that&#39;s how the velocity of
+your company improves is by
+
+00:15:15.670 --> 00:15:18.570
+adding barrels, and then you
+stock them with ammunition,
+
+00:15:18.570 --> 00:15:19.710
+and then you can do a lot.
+
+00:15:19.710 --> 00:15:21.310
+So if you go from a one barrel
+company,
+
+00:15:21.310 --> 00:15:22.990
+which is mostly how you start.
+
+00:15:22.990 --> 00:15:25.000
+To two barrel companies
+suddenly you get twice as many
+
+00:15:25.000 --> 00:15:27.390
+things done per day, per week,
+per quarter, and if you go to
+
+00:15:27.390 --> 00:15:29.970
+three barrels, great, if you
+go to four barrels, awesome.
+
+00:15:29.970 --> 00:15:31.920
+Barrels are incredibly
+difficult to find,
+
+00:15:31.920 --> 00:15:35.010
+but when you have them, like
+give them lots of equity,
+
+00:15:35.010 --> 00:15:38.480
+promote them, take them to
+dinner every week because it,
+
+00:15:38.480 --> 00:15:41.300
+it, they&#39;re virtually it like
+irreplaceable.
+
+00:15:41.300 --> 00:15:43.800
+Because they&#39;re also very
+culturally specific.
+
+00:15:43.800 --> 00:15:45.980
+So a barrel at one company may
+not be a barrel at
+
+00:15:45.980 --> 00:15:48.570
+another company because one of
+the ways in the definition of
+
+00:15:48.570 --> 00:15:51.210
+a barrel is they can take an
+idea from inception
+
+00:15:51.210 --> 00:15:53.410
+all the way through shipping
+and bring people with them.
+
+00:15:53.410 --> 00:15:57.230
+And that&#39;s a very culturally
+specific opportunity specific
+
+00:15:57.230 --> 00:15:58.260
+skill set, rather.
+
+00:15:58.260 --> 00:16:00.490
+So two questions probably are
+occurring to you,
+
+00:16:00.490 --> 00:16:03.620
+is how do you figure out who&#39;s
+a barrel and who&#39;s not?
+
+00:16:03.620 --> 00:16:06.330
+One is you start actually with
+a very small set of
+
+00:16:06.330 --> 00:16:07.100
+responsibilities.
+
+00:16:07.100 --> 00:16:08.670
+It can be fairly trivial.
+
+00:16:08.670 --> 00:16:11.260
+It can be something like, I
+want to reward
+
+00:16:11.260 --> 00:16:13.360
+the engineers that are in my
+office at 9 o&#39;clock at
+
+00:16:13.360 --> 00:16:16.750
+night every night with an ice
+cold fresh smoothie.
+
+00:16:16.750 --> 00:16:18.460
+This is actually a real
+example.
+
+00:16:18.460 --> 00:16:20.131
+I was frustrated our engineers
+were
+
+00:16:20.131 --> 00:16:21.465
+working really hard at square.
+
+00:16:21.465 --> 00:16:22.182
+And, you know,
+
+00:16:22.182 --> 00:16:24.847
+maybe 20% to 30% would stay
+very late into evening, and
+
+00:16:24.847 --> 00:16:27.254
+I wanted to serve, we were
+ready to serve them dinner but
+
+00:16:27.254 --> 00:16:29.509
+I wanted to give them
+something cool to reward them,
+
+00:16:29.509 --> 00:16:31.200
+and you could think about
+alcohol, but
+
+00:16:31.200 --> 00:16:32.870
+that&#39;s a little complicated.
+
+00:16:32.870 --> 00:16:34.820
+So smoothies were probably a
+little bit
+
+00:16:34.820 --> 00:16:37.510
+better than the pizza, which
+drains you of energy.
+
+00:16:37.510 --> 00:16:40.260
+But nobody could get smoothies
+in my office to show up at 9
+
+00:16:40.260 --> 00:16:43.770
+o&#39;clock sharp that were cold,
+that tasted good and delivered
+
+00:16:43.770 --> 00:16:45.730
+in the right place that
+engineers would find them.
+
+00:16:45.730 --> 00:16:46.940
+You&#39;d think this is simple,
+but
+
+00:16:46.940 --> 00:16:49.430
+in fact, it like, took months
+to get this right.
+
+00:16:49.430 --> 00:16:51.328
+So then we had an in, we had
+an intern start, and
+
+00:16:51.328 --> 00:16:52.371
+I think on his second day,
+
+00:16:52.371 --> 00:16:53.699
+I was explaining this problem
+and
+
+00:16:53.699 --> 00:16:56.166
+he, he said, well, I&#39;ll do it,
+and I was like looking at and
+
+00:16:56.166 --> 00:16:57.272
+I&#39;m like there&#39;s no way.
+
+00:16:57.272 --> 00:16:59.658
+I&#39;ve seen my office manager
+fail, my assistant fail,
+
+00:16:59.658 --> 00:17:01.394
+all who are actually pretty
+good.
+
+00:17:01.394 --> 00:17:03.936
+This just isn&#39;t going to
+happen, and then long and
+
+00:17:03.936 --> 00:17:07.036
+behold that night they show up
+on time, cold, delivered to
+
+00:17:07.036 --> 00:17:09.888
+the right place, and my first
+instinct was great not,
+
+00:17:09.888 --> 00:17:11.820
+not, nothing about the
+smoothies.
+
+00:17:11.820 --> 00:17:14.183
+But okay, now I can actually
+give you something more
+
+00:17:14.183 --> 00:17:16.868
+important and inconsequential
+and complicated to do, and
+
+00:17:16.868 --> 00:17:18.962
+that&#39;s what you actually want
+to do with every
+
+00:17:18.962 --> 00:17:21.430
+single employee every single
+day is expand the scope of
+
+00:17:21.430 --> 00:17:24.139
+their responsibilities until
+it breaks and it will break.
+
+00:17:24.139 --> 00:17:27.112
+Everybody like, I couldn&#39;t run
+the world, like everybody has
+
+00:17:27.112 --> 00:17:29.698
+like some level of complexity
+that they can handle, and
+
+00:17:29.698 --> 00:17:32.009
+what you want to do is keep
+expanding it until you see
+
+00:17:32.009 --> 00:17:34.869
+where it breaks and that&#39;s the
+role that they should stay in,
+
+00:17:34.869 --> 00:17:36.650
+that level of sophistication.
+
+00:17:36.650 --> 00:17:37.830
+But some people will surprise
+you,
+
+00:17:37.830 --> 00:17:40.370
+there will be people who you
+don&#39;t expect without,
+
+00:17:40.370 --> 00:17:42.740
+with different backgrounds,
+without a lot of experience
+
+00:17:42.740 --> 00:17:45.100
+that just can handle
+enormously complicated tasks,
+
+00:17:45.100 --> 00:17:47.930
+and so keep testing that and
+pushing the envelope.
+
+00:17:47.930 --> 00:17:49.050
+The other signal to look for
+
+00:17:49.050 --> 00:17:51.000
+is once you&#39;ve hired someone
+is this,
+
+00:17:51.000 --> 00:17:53.590
+with an open office just watch
+who goes up to other people&#39;s
+
+00:17:53.590 --> 00:17:56.860
+desks, particularly people
+that they don&#39;t report to.
+
+00:17:56.860 --> 00:17:58.515
+If people start going to your
+desk,
+
+00:17:58.515 --> 00:18:00.540
+someone individual employee&#39;s
+desk and
+
+00:18:00.540 --> 00:18:01.490
+they don&#39;t report to them.
+
+00:18:01.490 --> 00:18:02.660
+It&#39;s a sign that they believe
+that,
+
+00:18:02.660 --> 00:18:04.100
+that person can help them.
+
+00:18:04.100 --> 00:18:05.490
+So if you see that
+consistently,
+
+00:18:05.490 --> 00:18:06.550
+those are your barrels.
+
+00:18:06.550 --> 00:18:07.260
+Just promote them,
+
+00:18:07.260 --> 00:18:09.150
+give them more opportunity as
+fast as you can.
+
+00:18:12.250 --> 00:18:14.310
+The other question everybody
+asks about people is,
+
+00:18:14.310 --> 00:18:16.470
+when do you hire somebody
+above somebody?
+
+00:18:16.470 --> 00:18:18.180
+And when do you sort of mentor
+somebody or
+
+00:18:18.180 --> 00:18:19.846
+when do you need to replace
+somebody?
+
+00:18:19.846 --> 00:18:21.510
+And the way, the way to think
+about this is
+
+00:18:21.510 --> 00:18:23.100
+every company has its own
+growth rate and
+
+00:18:23.100 --> 00:18:24.960
+every individual has its own
+growth rate.
+
+00:18:24.960 --> 00:18:26.780
+So some companies that are
+very successful,
+
+00:18:26.780 --> 00:18:27.880
+let&#39;s say LinkedIn.
+
+00:18:27.880 --> 00:18:30.370
+LinkedIn was always a very
+linear company,
+
+00:18:30.370 --> 00:18:31.810
+it never went like this.
+
+00:18:31.810 --> 00:18:34.640
+So for example I joined
+LinkedIn 18 months after we
+
+00:18:34.640 --> 00:18:37.150
+launched and we had only 1.5
+million users which in
+
+00:18:37.150 --> 00:18:39.960
+a social product is very small
+in number and
+
+00:18:39.960 --> 00:18:41.910
+when I joined I was the 27th
+employee.
+
+00:18:41.910 --> 00:18:42.690
+When I left two and
+
+00:18:42.690 --> 00:18:46.060
+a half years later we only had
+57 employees.
+
+00:18:46.060 --> 00:18:49.380
+In contrast when I joined
+Square as a 20th employee,
+
+00:18:49.380 --> 00:18:53.507
+two and a half years later, we
+had like 250,300 employees.
+
+00:18:53.507 --> 00:18:56.176
+So each company has it&#39;s own
+velocity on this curve, and
+
+00:18:56.176 --> 00:18:57.844
+if the company&#39;s going like
+this,
+
+00:18:57.844 --> 00:19:00.179
+you can only keep people in
+the roles that their own
+
+00:19:00.179 --> 00:19:02.500
+personal learning curve is
+going like this.
+
+00:19:02.500 --> 00:19:04.740
+On the other hand, if the
+company&#39;s growing like this,
+
+00:19:04.740 --> 00:19:06.740
+anybody whose learning curve
+is faster than that,
+
+00:19:06.740 --> 00:19:09.080
+you can keep giving them the
+same role to do.
+
+00:19:09.080 --> 00:19:11.300
+So always track like the
+individual slope of,
+
+00:19:11.300 --> 00:19:13.660
+of an employee, and the
+company&#39;s growth rate.
+
+00:19:15.120 --> 00:19:18.740
+Now you have your barrels
+identified, so
+
+00:19:18.740 --> 00:19:20.500
+you&#39;re pick out the people
+that can really take an idea
+
+00:19:20.500 --> 00:19:22.940
+that you have in the back of
+your head scope it out,
+
+00:19:22.940 --> 00:19:24.410
+run with it, make it happen,
+ship it,
+
+00:19:24.410 --> 00:19:27.790
+and it&#39;s perfect, where do you
+aim these barrels?
+
+00:19:27.790 --> 00:19:30.400
+So I&#39;m going to argue that you
+really need to spend a lot of
+
+00:19:30.400 --> 00:19:32.260
+time focusing people.
+
+00:19:32.260 --> 00:19:34.660
+This is something I&#39;ve learned
+from Peter Thiel, actually.
+
+00:19:34.660 --> 00:19:37.590
+He used to insist the PayPal,
+that every single person could
+
+00:19:37.590 --> 00:19:40.810
+only do exactly one thing and
+we all rebelled.
+
+00:19:40.810 --> 00:19:42.890
+Every single person in the
+company rebelled to this idea.
+
+00:19:42.890 --> 00:19:45.310
+Because it&#39;s so unnatural,
+it&#39;s so different than every
+
+00:19:45.310 --> 00:19:47.070
+other company where people
+want to do multiple things,
+
+00:19:47.070 --> 00:19:49.317
+and especially as you get more
+senior you want to definitely
+
+00:19:49.317 --> 00:19:51.220
+want to do multiple things,
+and you&#39;re, you&#39;re like,
+
+00:19:51.220 --> 00:19:53.810
+you feel like insulting to be
+asked to do just one thing,
+
+00:19:53.810 --> 00:19:55.460
+and Peter would enforce this
+pretty strictly.
+
+00:19:55.460 --> 00:19:58.300
+He&#39;d basically say I will not
+talk to you about anything
+
+00:19:58.300 --> 00:20:00.320
+else except this one thing
+I&#39;ve assigned to you.
+
+00:20:00.320 --> 00:20:02.380
+I don&#39;t want to hear about how
+great you&#39;re doing over here.
+
+00:20:02.380 --> 00:20:05.620
+Like just shut up, and peer
+would run away and
+
+00:20:05.620 --> 00:20:09.410
+then focus until you conquer
+this one problem, and
+
+00:20:09.410 --> 00:20:12.950
+the insight behind this is
+that most people will
+
+00:20:12.950 --> 00:20:15.970
+solve problems that they
+understand how to solve.
+
+00:20:15.970 --> 00:20:17.689
+Roughly speaking, they will
+solve B
+
+00:20:17.689 --> 00:20:19.711
+plus problems instead of A
+plus problems.
+
+00:20:19.711 --> 00:20:21.470
+A plus problems are high
+impact problems for
+
+00:20:21.470 --> 00:20:22.960
+your company, but they&#39;re
+difficult.
+
+00:20:22.960 --> 00:20:24.910
+You don&#39;t wake up in the
+morning with a solution, so
+
+00:20:24.910 --> 00:20:26.290
+you tend to procrastinate
+them.
+
+00:20:26.290 --> 00:20:27.690
+So imagine you wake up in the
+morning,
+
+00:20:27.690 --> 00:20:29.790
+you create a list of things to
+do today.
+
+00:20:29.790 --> 00:20:31.890
+There&#39;s usually the A plus 1
+at the top of the list but
+
+00:20:31.890 --> 00:20:33.390
+you never get around to it,
+and so
+
+00:20:33.390 --> 00:20:35.550
+you solve the second and
+third, and over
+
+00:20:35.550 --> 00:20:38.030
+an entire company of hundreds
+of people that just cascades.
+
+00:20:38.030 --> 00:20:40.050
+So you have a company that&#39;s
+always solving B plus things.
+
+00:20:40.050 --> 00:20:42.192
+Which does mean you grow and
+does mean you add value.
+
+00:20:42.192 --> 00:20:44.710
+But you never really create
+that breakthrough idea because
+
+00:20:44.710 --> 00:20:47.226
+no one is spending 100% of
+their time banging their head
+
+00:20:47.226 --> 00:20:49.254
+against the wall every day
+until they solve it.
+
+00:20:49.254 --> 00:20:51.487
+So I highly recommend some
+version of that.
+
+00:20:51.487 --> 00:20:52.973
+You can be less stringent.
+
+00:20:52.973 --> 00:20:54.447
+You can be like you can get.
+
+00:20:54.447 --> 00:20:57.465
+Three things to work on, but
+there, I would still track at
+
+00:20:57.465 --> 00:21:00.240
+least the concept of what
+would happen if you only gave
+
+00:21:00.240 --> 00:21:02.170
+everybody one thing to
+prioritize.
+
+00:21:05.390 --> 00:21:09.260
+Now, because you can&#39;t make
+decisions, you don&#39;t want be
+
+00:21:09.260 --> 00:21:11.440
+making all these decisions
+yourself, you have to
+
+00:21:11.440 --> 00:21:14.060
+create tools that enable
+people to make decisions.
+
+00:21:14.060 --> 00:21:16.780
+At the same level ideally of
+fidelity that you would make
+
+00:21:16.780 --> 00:21:17.770
+them yourself.
+
+00:21:17.770 --> 00:21:20.390
+So how do you create scale and
+leverage?
+
+00:21:20.390 --> 00:21:22.570
+First, thing I&#39;d recommend is
+building a dashboard.
+
+00:21:22.570 --> 00:21:23.910
+This is an old square
+dashboard.
+
+00:21:23.910 --> 00:21:26.210
+It actually looks pretty
+presentable even today.
+
+00:21:27.930 --> 00:21:30.090
+The construct of a dashboard,
+first of all,
+
+00:21:30.090 --> 00:21:32.340
+should be drafted by a
+founder.
+
+00:21:32.340 --> 00:21:35.190
+You need to basically simplify
+the value proposition in
+
+00:21:35.190 --> 00:21:38.620
+the company&#39;s metrics for
+success on a whiteboard.
+
+00:21:38.620 --> 00:21:40.140
+You can have other people
+build the dashboard,
+
+00:21:40.140 --> 00:21:41.770
+I don&#39;t actually care about
+that, but
+
+00:21:41.770 --> 00:21:42.760
+you need to draw it out.
+
+00:21:42.760 --> 00:21:45.450
+Like what does business
+success look, look to us and
+
+00:21:45.450 --> 00:21:47.670
+what are the key inputs to
+those, and then
+
+00:21:47.670 --> 00:21:50.580
+have someone create something
+that is very intuitive for
+
+00:21:50.580 --> 00:21:51.410
+every single person in
+
+00:21:51.410 --> 00:21:53.940
+the company including customer
+support to use.
+
+00:21:53.940 --> 00:21:54.920
+And then,
+
+00:21:54.920 --> 00:21:57.560
+the key metric of whether
+you&#39;ve succeeded is what
+
+00:21:57.560 --> 00:22:00.200
+fraction of your employees use
+that dashboard every day.
+
+00:22:01.490 --> 00:22:04.240
+If it&#39;s actually useful it
+should be close to 100%.
+
+00:22:04.240 --> 00:22:05.910
+It&#39;s not going to be probably
+100%,
+
+00:22:05.910 --> 00:22:07.120
+but you want to measure that.
+
+00:22:07.120 --> 00:22:08.740
+Just like you have quality
+scores for
+
+00:22:08.740 --> 00:22:10.460
+all your other KPIs with
+users,
+
+00:22:10.460 --> 00:22:13.200
+the dashboard needs to be as
+intuitive as it is
+
+00:22:13.200 --> 00:22:14.780
+as your product is for users.
+
+00:22:17.000 --> 00:22:19.630
+Other things, wait, hold on.
+
+00:22:19.630 --> 00:22:21.210
+Yeah, let&#39;s go back, one
+second.
+
+00:22:21.210 --> 00:22:22.810
+Another concept is
+transparency.
+
+00:22:22.810 --> 00:22:24.720
+And people will often.
+
+00:22:24.720 --> 00:22:25.220
+That&#39;s weird.
+
+00:22:26.900 --> 00:22:27.690
+Okay.
+
+00:22:27.690 --> 00:22:30.340
+Transparency, people talk a
+lot about.
+
+00:22:30.340 --> 00:22:33.440
+It&#39;s kind of a goal that
+everybody ascribes to, but
+
+00:22:33.440 --> 00:22:34.110
+when push comes to
+
+00:22:34.110 --> 00:22:36.340
+shove very few people actually
+adhere to it.
+
+00:22:36.340 --> 00:22:38.660
+So let me walk through a
+little bit of transparency and
+
+00:22:38.660 --> 00:22:40.050
+different stages of
+transparency.
+
+00:22:41.820 --> 00:22:43.080
+Metrics are the first step.
+
+00:22:43.080 --> 00:22:45.000
+So everybody in your company
+absolutely should have
+
+00:22:45.000 --> 00:22:46.600
+access to every single thing
+that&#39;s going on.
+
+00:22:47.620 --> 00:22:50.790
+Other things that I like to do
+are take your board decks, and
+
+00:22:50.790 --> 00:22:52.390
+as you get more formal, the
+board decks will get
+
+00:22:52.390 --> 00:22:55.890
+more complicated, and actually
+review every single slide with
+
+00:22:55.890 --> 00:22:58.080
+every single employee after
+the board meeting.
+
+00:22:58.080 --> 00:23:00.120
+You can strip out the
+compensation information if
+
+00:23:00.120 --> 00:23:01.270
+you really want to.
+
+00:23:01.270 --> 00:23:02.860
+But every other slide you
+should go
+
+00:23:02.860 --> 00:23:05.390
+through with the entire
+employee base and explain it.
+
+00:23:05.390 --> 00:23:06.960
+And if you can remember some
+of the feedback you
+
+00:23:06.960 --> 00:23:09.440
+got from your board that&#39;s
+really cool to pass on.
+
+00:23:09.440 --> 00:23:10.810
+Another thing we did at
+Square,
+
+00:23:10.810 --> 00:23:11.990
+as your company skills,
+
+00:23:11.990 --> 00:23:13.675
+everybody&#39;s not going to get
+invited to every meeting, but
+
+00:23:13.675 --> 00:23:15.590
+they want to go to every
+meeting.
+
+00:23:15.590 --> 00:23:17.540
+The way you scale that is you
+create notes for
+
+00:23:17.540 --> 00:23:19.810
+every meeting and you send it
+to the entire company.
+
+00:23:19.810 --> 00:23:22.250
+So we created a notes at alias
+for
+
+00:23:22.250 --> 00:23:24.510
+every single meeting involving
+more than two people,
+
+00:23:24.510 --> 00:23:27.140
+someone would write notes and
+send it to the entire company.
+
+00:23:27.140 --> 00:23:29.640
+So people felt like as the
+company added employees,
+
+00:23:29.640 --> 00:23:30.990
+they could continue to monitor
+and
+
+00:23:30.990 --> 00:23:32.580
+track what was interesting,
+what was going on,
+
+00:23:32.580 --> 00:23:35.160
+and they never felt excluded,
+hopefully.
+
+00:23:35.160 --> 00:23:35.730
+The other thing is
+
+00:23:35.730 --> 00:23:37.900
+like even the details around
+conference rooms.
+
+00:23:37.900 --> 00:23:40.580
+Every conference room at
+Square has glass walls,
+
+00:23:40.580 --> 00:23:42.210
+because as soon as you have
+regular walls,
+
+00:23:42.210 --> 00:23:43.870
+people wonder what&#39;s going on.
+
+00:23:43.870 --> 00:23:45.910
+It&#39;s amazing, like if they can
+see who&#39;s actually in
+
+00:23:45.910 --> 00:23:48.530
+the meeting, and who&#39;s meeting
+with who and when.
+
+00:23:48.530 --> 00:23:49.920
+They don&#39;t worry nearly as
+much as
+
+00:23:49.920 --> 00:23:52.170
+what&#39;s going on behind those
+closed doors.
+
+00:23:52.170 --> 00:23:53.860
+Stripe, you may have seen a
+blog post, but I
+
+00:23:53.860 --> 00:23:56.630
+think Patrick wrote it, about
+email transparency, about
+
+00:23:56.630 --> 00:23:59.010
+actually allowing everybody to
+have access to email.
+
+00:23:59.010 --> 00:24:00.490
+That&#39;s pretty far out there
+but
+
+00:24:00.490 --> 00:24:02.170
+it&#39;s actually got interesting,
+you know,
+
+00:24:02.170 --> 00:24:03.890
+certain merits to it.
+
+00:24:03.890 --> 00:24:05.890
+I would all call the tactics
+that you read about
+
+00:24:05.890 --> 00:24:07.880
+here about as sort of minimal
+viable transparency.
+
+00:24:07.880 --> 00:24:10.240
+I actually think you could
+push the envelope a lot more.
+
+00:24:10.240 --> 00:24:11.790
+Steve Jobs tried this at Next.
+
+00:24:11.790 --> 00:24:13.710
+He actually tried transparent
+compensation.
+
+00:24:13.710 --> 00:24:17.500
+I actually think, although
+Next didn&#39;t do extremely well,
+
+00:24:17.500 --> 00:24:20.510
+the real reason wasn&#39;t because
+of the experiment around
+
+00:24:20.510 --> 00:24:22.220
+compensation transparency and
+
+00:24:22.220 --> 00:24:24.160
+then there&#39;s a lot of error to
+that.
+
+00:24:24.160 --> 00:24:27.170
+The critique of compensation
+transparency is often well.
+
+00:24:27.170 --> 00:24:28.410
+We want people to be teammates
+and
+
+00:24:28.410 --> 00:24:30.480
+work together and collaborate.
+
+00:24:30.480 --> 00:24:32.240
+And if you look in the sports
+world, though,
+
+00:24:32.240 --> 00:24:33.670
+where people are actually
+teammates and
+
+00:24:33.670 --> 00:24:35.440
+they do have to collaborate,
+
+00:24:35.440 --> 00:24:37.250
+all of their compensation is
+completely public.
+
+00:24:37.250 --> 00:24:39.500
+In fact, each of us can look
+up anybody&#39;s compensation in
+
+00:24:39.500 --> 00:24:40.320
+the sports world and
+
+00:24:40.320 --> 00:24:42.890
+get it exactly accurate, and
+somehow it seems to work.
+
+00:24:42.890 --> 00:24:44.030
+So I&#39;m not totally bought in
+
+00:24:44.030 --> 00:24:46.570
+to the idea that you need to
+keep transpar-,
+
+00:24:46.570 --> 00:24:49.100
+compensation non transparent.
+
+00:24:49.100 --> 00:24:50.780
+Then finally metrics.
+
+00:24:50.780 --> 00:24:53.070
+So you want to measure things.
+
+00:24:53.070 --> 00:24:55.100
+You want to measure outputs,
+not inputs.
+
+00:24:55.100 --> 00:24:56.970
+And again, you should dictate
+this yourself.
+
+00:24:56.970 --> 00:24:59.810
+You should draft the dashboard
+to tie this all together.
+
+00:24:59.810 --> 00:25:01.280
+One important concept are what
+are known as
+
+00:25:01.280 --> 00:25:03.310
+pairing metrics or pairing
+indicators,
+
+00:25:03.310 --> 00:25:05.420
+which is if you measure one
+thing and only one thing.
+
+00:25:05.420 --> 00:25:07.640
+The company tends to optimize
+to that, and often at
+
+00:25:07.640 --> 00:25:09.540
+the expense of something else
+that&#39;s important.
+
+00:25:09.540 --> 00:25:11.190
+A costly example in payments
+and
+
+00:25:11.190 --> 00:25:13.100
+financial service is around
+risk.
+
+00:25:13.100 --> 00:25:15.300
+It&#39;s really easy to give the
+risk team an objective and
+
+00:25:15.300 --> 00:25:17.080
+say, we want to lower our
+fraud rate.
+
+00:25:17.080 --> 00:25:18.470
+It sounds great.
+
+00:25:18.470 --> 00:25:20.470
+Until they start treating
+every single user in
+
+00:25:20.470 --> 00:25:22.310
+this audience as a suspect
+user because they
+
+00:25:22.310 --> 00:25:23.540
+want to lower their fog rate.
+
+00:25:23.540 --> 00:25:26.100
+So they require each of you to
+call them up on the phone and
+
+00:25:26.100 --> 00:25:27.720
+give them more supplemental
+information and
+
+00:25:27.720 --> 00:25:28.860
+fax in things and
+
+00:25:28.860 --> 00:25:30.060
+you have the lowest fraud rate
+in the world,
+
+00:25:30.060 --> 00:25:31.300
+you also have the worst, you
+know,
+
+00:25:31.300 --> 00:25:33.360
+sort of customer satisfaction
+score.
+
+00:25:33.360 --> 00:25:34.780
+So what you want to measure at
+the same time as
+
+00:25:34.780 --> 00:25:36.780
+your fraud rate is your false
+positive rate.
+
+00:25:36.780 --> 00:25:38.960
+That forces the team to
+actually innovate.
+
+00:25:38.960 --> 00:25:39.700
+Similarly, you
+
+00:25:39.700 --> 00:25:42.890
+can give recruiters metrics
+around hiring, and guess what?
+
+00:25:42.890 --> 00:25:44.910
+You&#39;ll have a lot of people
+come in through interviews,
+
+00:25:44.910 --> 00:25:46.850
+but if you&#39;re not tracking the
+quality of hires,
+
+00:25:46.850 --> 00:25:48.700
+you may be very unhappy with
+the quality of people you&#39;re
+
+00:25:48.700 --> 00:25:50.350
+interviewing or the people
+you&#39;re giving offers to.
+
+00:25:50.350 --> 00:25:52.240
+So, you always want to create
+the opposite as
+
+00:25:52.240 --> 00:25:54.170
+an indication and measure
+both, and the people that
+
+00:25:54.170 --> 00:25:56.750
+are responsible for that team,
+need to be measured for both.
+
+00:25:58.710 --> 00:26:03.340
+Finally around metrics, one
+insight I&#39;ve had over my
+
+00:26:03.340 --> 00:26:06.530
+career is what you, you kind
+of want to look for
+
+00:26:06.530 --> 00:26:07.920
+the anomalies.
+
+00:26:07.920 --> 00:26:08.940
+You don&#39;t actually want to
+look for
+
+00:26:08.940 --> 00:26:10.380
+the expected behavior.
+
+00:26:10.380 --> 00:26:14.150
+So that a famous example was
+at PayPal.
+
+00:26:14.150 --> 00:26:15.580
+None of the top ten markets
+that
+
+00:26:15.580 --> 00:26:19.300
+the company was planning to go
+after included eBay.
+
+00:26:19.300 --> 00:26:22.440
+But one day, someone noticed
+that 54 Power Sellers had
+
+00:26:22.440 --> 00:26:25.090
+actually handwritten into
+their eBay listings,
+
+00:26:25.090 --> 00:26:28.010
+please pay me with PayPal, and
+brought this to
+
+00:26:28.010 --> 00:26:30.520
+the attention of the executive
+team at the time.
+
+00:26:30.520 --> 00:26:32.100
+The first reaction of the
+executive team was,
+
+00:26:32.100 --> 00:26:33.060
+what the hell&#39;s going on?
+
+00:26:33.060 --> 00:26:34.530
+Let&#39;s kick them out of the
+system.
+
+00:26:34.530 --> 00:26:35.409
+That&#39;s not our focus.
+
+00:26:36.500 --> 00:26:39.300
+Fortunately, I think David
+Sacks came back the next day
+
+00:26:39.300 --> 00:26:40.970
+said, I think we found our
+market.
+
+00:26:40.970 --> 00:26:43.730
+Let&#39;s actually build tools for
+these power sellers instead of
+
+00:26:43.730 --> 00:26:45.600
+forcing them to write into
+their listing,
+
+00:26:45.600 --> 00:26:46.530
+pay me with PayPal.
+
+00:26:46.530 --> 00:26:48.010
+Why don&#39;t we have an HTML
+button that they can
+
+00:26:48.010 --> 00:26:48.560
+just insert?
+
+00:26:48.560 --> 00:26:50.430
+Well that started to work.
+
+00:26:50.430 --> 00:26:50.950
+And then he said,
+
+00:26:50.950 --> 00:26:52.660
+well actually why do we make
+them insert it.
+
+00:26:52.660 --> 00:26:54.170
+Why should we make them insert
+it all the time?
+
+00:26:54.170 --> 00:26:54.700
+Why don&#39;t we just
+
+00:26:54.700 --> 00:26:56.090
+automatically insert it for
+them?
+
+00:26:56.090 --> 00:26:57.360
+So they could just insert it
+once and
+
+00:26:57.360 --> 00:26:59.770
+then every single listing they
+have forever.
+
+00:26:59.770 --> 00:27:01.590
+It&#39;ll just automagically
+appear there.
+
+00:27:01.590 --> 00:27:03.810
+So that became the success for
+PayPal.
+
+00:27:03.810 --> 00:27:05.360
+Similarly, I was at LinkedIn,
+
+00:27:05.360 --> 00:27:07.460
+and I saw this stat that made
+no sense to me.
+
+00:27:07.460 --> 00:27:09.920
+The UI for the site was a
+little bit different back
+
+00:27:09.920 --> 00:27:12.710
+then, but 25% of all clicks,
+maybe 30% of all clicks
+
+00:27:12.710 --> 00:27:16.490
+from the home page were people
+going to their own profile.
+
+00:27:16.490 --> 00:27:18.290
+And that made no sense
+whatsoever.
+
+00:27:18.290 --> 00:27:19.770
+I mean like, the set, it was a
+settings,
+
+00:27:19.770 --> 00:27:21.920
+like you had to literally go
+to the right margin.
+
+00:27:21.920 --> 00:27:25.730
+Final a link and it was 25 to
+30% of every single click at
+
+00:27:25.730 --> 00:27:28.490
+scale I mean so this is like
+statistically novel stuff.
+
+00:27:28.490 --> 00:27:29.590
+And it made no sense
+whatsoever,
+
+00:27:29.590 --> 00:27:32.055
+never seen like the UI perform
+that way.
+
+00:27:32.055 --> 00:27:35.320
+And, I kind of went around for
+weeks trying to
+
+00:27:35.320 --> 00:27:37.460
+figure this out and then
+someone very smart.
+
+00:27:37.460 --> 00:27:39.850
+Actually, it&#39;s Max Letchin
+said something to me and
+
+00:27:39.850 --> 00:27:41.219
+I was like, he&#39;s like it&#39;s
+vanity.
+
+00:27:42.360 --> 00:27:44.190
+And I&#39;m like ha people
+
+00:27:44.190 --> 00:27:45.720
+are looking at themselves in
+the mirror.
+
+00:27:46.740 --> 00:27:47.940
+That&#39;s pretty good answer.
+
+00:27:47.940 --> 00:27:49.530
+So cause they weren&#39;t editing
+their profile.
+
+00:27:49.530 --> 00:27:51.280
+Nobody has like something to
+edit everyday in
+
+00:27:51.280 --> 00:27:52.110
+their profile.
+
+00:27:52.110 --> 00:27:53.650
+But they actually were just
+looking in themselves in
+
+00:27:53.650 --> 00:27:54.880
+the mirror everyday because it
+made them feel good.
+
+00:27:54.880 --> 00:27:56.870
+And then you can actually test
+that hypothesis and
+
+00:27:56.870 --> 00:27:58.280
+say, well, if I had more
+content.
+
+00:27:58.280 --> 00:27:59.730
+Do I look at myself in the
+mirror more often?
+
+00:27:59.730 --> 00:28:00.360
+Turns out you did.
+
+00:28:00.360 --> 00:28:01.490
+If you had more endorsements,
+
+00:28:01.490 --> 00:28:02.750
+did you look at yourself in
+the mirror more often?
+
+00:28:02.750 --> 00:28:03.650
+Turns out you did.
+
+00:28:03.650 --> 00:28:04.900
+So, we actually figured out
+like
+
+00:28:04.900 --> 00:28:08.150
+what was actually underneath
+utilitarian product that
+
+00:28:08.150 --> 00:28:09.130
+the product team thought they
+were
+
+00:28:09.130 --> 00:28:11.210
+building was actually a lot of
+emotional vanity.
+
+00:28:11.210 --> 00:28:14.260
+They didn&#39;t exactly translate
+it to the best possible
+
+00:28:14.260 --> 00:28:15.590
+feature, like the PayPal
+example,
+
+00:28:15.590 --> 00:28:17.100
+which you couldn&#39;t easily put
+a button that,
+
+00:28:17.100 --> 00:28:19.333
+said be more vain today, you
+know, on the homepage.
+
+00:28:19.333 --> 00:28:21.077
+&gt;&gt; That would probably not
+work perfectly, so it
+
+00:28:21.077 --> 00:28:23.570
+never really like took off the
+way the PayPal example did.
+
+00:28:23.570 --> 00:28:26.370
+But it clarified what the user
+what users of
+
+00:28:26.370 --> 00:28:28.060
+the product really wanted and
+
+00:28:28.060 --> 00:28:29.710
+we wouldn&#39;t have found that
+without looking for
+
+00:28:29.710 --> 00:28:30.370
+anomalous data.
+
+00:28:30.370 --> 00:28:33.882
+The final topic I want to talk
+about is details.
+
+00:28:33.882 --> 00:28:36.800
+And there&#39;s, in my assigned
+reading,
+
+00:28:36.800 --> 00:28:39.490
+there&#39;s a great book I really
+like by BIll Walsh called,
+
+00:28:39.490 --> 00:28:41.850
+The Score Takes Care of
+Itself.
+
+00:28:41.850 --> 00:28:44.890
+And the basic point of the
+book is that if
+
+00:28:44.890 --> 00:28:48.260
+you get all the details right,
+you don&#39;t worry about how to
+
+00:28:48.260 --> 00:28:49.620
+build a billion dollar
+business,
+
+00:28:49.620 --> 00:28:51.250
+how to have $100 million of
+revenue,
+
+00:28:51.250 --> 00:28:53.620
+how to have a billion users.
+
+00:28:53.620 --> 00:28:56.030
+That&#39;s a byproduct of getting
+all the details of what you
+
+00:28:56.030 --> 00:28:57.760
+do everyday to be excellent.
+
+00:28:57.760 --> 00:28:59.960
+So the example he talks about
+in the book that really
+
+00:28:59.960 --> 00:29:03.600
+resonated with me was he took
+over the 49ers in 1979.
+
+00:29:03.600 --> 00:29:05.080
+They were the worst team in
+football.
+
+00:29:05.080 --> 00:29:06.960
+I believe they were 2 and 14
+the year before,
+
+00:29:06.960 --> 00:29:09.240
+which is really bad for this,
+if you don&#39;t know football.
+
+00:29:09.240 --> 00:29:12.140
+In the next ten years, he
+managed to transform the team
+
+00:29:12.140 --> 00:29:15.100
+into the NFL&#39;s best, won three
+Super Bowls.
+
+00:29:15.100 --> 00:29:18.650
+And what&#39;s the first thing he
+did to start going from
+
+00:29:18.650 --> 00:29:22.750
+a terrible team to the best
+team ever in many ways?
+
+00:29:22.750 --> 00:29:24.140
+He actually taught the
+receptionists how to
+
+00:29:24.140 --> 00:29:25.560
+answer the phone properly.
+
+00:29:25.560 --> 00:29:27.270
+He wrote a three-page memo
+about how to
+
+00:29:27.270 --> 00:29:28.370
+actually answer the phone.
+
+00:29:28.370 --> 00:29:30.940
+Now, that may sound absurd.
+
+00:29:30.940 --> 00:29:33.670
+But his point was, if the
+organization as a whole
+
+00:29:33.670 --> 00:29:36.900
+does everything exactly the
+right way, then receivers, for
+
+00:29:36.900 --> 00:29:38.754
+example, will start running
+their routes at
+
+00:29:38.754 --> 00:29:41.940
+seven-and-a-half yards, not
+seven yards, not eight yards.
+
+00:29:41.940 --> 00:29:43.290
+And that actually will matter.
+
+00:29:43.290 --> 00:29:45.530
+And then everybody on the team
+executes exactly up to
+
+00:29:45.530 --> 00:29:47.270
+the same standard of
+performance.
+
+00:29:47.270 --> 00:29:49.840
+You will have an organization
+that is performing at
+
+00:29:49.840 --> 00:29:51.260
+the highest possible level,
+and
+
+00:29:51.260 --> 00:29:53.060
+then with enough random
+variation, the highest
+
+00:29:53.060 --> 00:29:55.750
+possible performance team will
+do the best.
+
+00:29:55.750 --> 00:29:58.480
+So the way you translate this
+to a company are to
+
+00:29:58.480 --> 00:30:00.160
+a lotta details that may not
+matter.
+
+00:30:00.160 --> 00:30:02.110
+They may not seem that they
+matter superficially.
+
+00:30:02.110 --> 00:30:05.390
+Most people would agree about
+the details matter when it
+
+00:30:05.390 --> 00:30:06.740
+faces the user.
+
+00:30:06.740 --> 00:30:07.930
+But where the real debate is
+on
+
+00:30:07.930 --> 00:30:09.220
+things that don&#39;t face the
+user.
+
+00:30:09.220 --> 00:30:11.200
+So Steve Jobs famously in the
+Mac,
+
+00:30:11.200 --> 00:30:13.390
+insisted on an immaculate
+circuit design board.
+
+00:30:13.390 --> 00:30:15.360
+You can read about this in
+various books.
+
+00:30:15.360 --> 00:30:17.130
+The Mac, for those of you who
+don&#39;t remember the Mac,
+
+00:30:17.130 --> 00:30:18.050
+probably everybody here but
+
+00:30:18.050 --> 00:30:20.800
+some of you may have seen it,
+actually couldn&#39;t be opened.
+
+00:30:20.800 --> 00:30:22.190
+So the circuit board design
+couldn&#39;t be
+
+00:30:22.190 --> 00:30:24.280
+seen by any single person in
+the world.
+
+00:30:24.280 --> 00:30:26.350
+There was no way to open the
+Mac except the people who
+
+00:30:26.350 --> 00:30:28.420
+worked at Apple, and Steve
+insisted that it be
+
+00:30:28.420 --> 00:30:30.400
+absolutely perfect and
+beautiful.
+
+00:30:30.400 --> 00:30:32.850
+That&#39;s the kind of detail
+obsession that this sort of
+
+00:30:32.850 --> 00:30:35.250
+philosophy of building a
+company requires.
+
+00:30:35.250 --> 00:30:37.900
+Examples that maybe more
+practical for you instead of
+
+00:30:37.900 --> 00:30:40.950
+circuit boards are things like
+what food do you serve people.
+
+00:30:41.960 --> 00:30:44.190
+This actually matters more
+than you might guess.
+
+00:30:44.190 --> 00:30:46.260
+When people don&#39;t like the
+food you serve them,
+
+00:30:46.260 --> 00:30:47.260
+what do they do.
+
+00:30:47.260 --> 00:30:48.180
+They go gossip.
+
+00:30:48.180 --> 00:30:49.260
+They go complain to their
+friends.
+
+00:30:49.260 --> 00:30:50.930
+They go walk over to someone&#39;s
+desk.
+
+00:30:50.930 --> 00:30:51.950
+And all the sudden at lunch,
+
+00:30:51.950 --> 00:30:53.770
+what they&#39;re complaining about
+is, it,
+
+00:30:53.770 --> 00:30:55.450
+their mostly spending time
+gossiping and
+
+00:30:55.450 --> 00:30:57.410
+complaining instead of
+brainstorming.
+
+00:30:57.410 --> 00:31:00.030
+So you don&#39;t have this
+serendipitous idea.
+
+00:31:00.030 --> 00:31:02.760
+Not saying other serendipitous
+idea that creates a spark,
+
+00:31:02.760 --> 00:31:04.950
+instead they&#39;re all wandering
+and wallowing around.
+
+00:31:04.950 --> 00:31:06.460
+So the best thing you could do
+is actually give
+
+00:31:06.460 --> 00:31:08.450
+people the food they want or
+food that&#39;s good for them.
+
+00:31:08.450 --> 00:31:09.782
+That makes them more
+productive.
+
+00:31:09.782 --> 00:31:11.811
+So it may seem a lot like this
+glorious job
+
+00:31:11.811 --> 00:31:14.080
+that you thought you had is
+actually more like
+
+00:31:14.080 --> 00:31:16.485
+running around being a task
+rabbit for people.
+
+00:31:16.485 --> 00:31:17.149
+But it&#39;s to
+
+00:31:17.149 --> 00:31:20.147
+take the things off the plate
+that are a distraction.
+
+00:31:20.147 --> 00:31:22.554
+So that they can be
+high-performance machines.
+
+00:31:22.554 --> 00:31:25.092
+And if you take enough things
+away from people that distract
+
+00:31:25.092 --> 00:31:27.323
+them and give them the tools
+to be successful, all of
+
+00:31:27.323 --> 00:31:29.910
+a sudden your organization
+produces a lot more.
+
+00:31:29.910 --> 00:31:32.240
+Similarly, another example
+that&#39;s often got wrong is
+
+00:31:32.240 --> 00:31:32.930
+office space.
+
+00:31:33.990 --> 00:31:36.970
+So, one natural instinct is
+when you need an office is to
+
+00:31:36.970 --> 00:31:37.880
+have an office manager or
+
+00:31:37.880 --> 00:31:39.750
+someone on your team go out
+and find offices.
+
+00:31:39.750 --> 00:31:41.424
+And they&#39;ll go on tours with
+agents and
+
+00:31:41.424 --> 00:31:43.580
+they&#39;ll come back with photos
+and ideas.
+
+00:31:43.580 --> 00:31:45.040
+You need to do that yourself.
+
+00:31:45.040 --> 00:31:46.850
+The office environment that
+people live in and
+
+00:31:46.850 --> 00:31:49.750
+work in everyday dictates your
+culture and
+
+00:31:49.750 --> 00:31:52.520
+how people make decisions, it
+dictates how hard people work.
+
+00:31:52.520 --> 00:31:54.700
+There&#39;s almost no important
+more decision other than
+
+00:31:54.700 --> 00:31:57.050
+what company you&#39;re going to
+be, than what&#39;s the office
+
+00:31:57.050 --> 00:31:58.610
+environment you&#39;re actually
+in,
+
+00:31:58.610 --> 00:31:59.940
+and most people don&#39;t do that.
+
+00:31:59.940 --> 00:32:01.000
+And then the final thing and
+
+00:32:01.000 --> 00:32:05.520
+then I&#39;ll take some questions
+is around effort.
+
+00:32:05.520 --> 00:32:06.820
+Ultimately, I don&#39;t believe
+that you
+
+00:32:06.820 --> 00:32:08.800
+can build a company without a
+lot of effort and
+
+00:32:08.800 --> 00:32:10.590
+that you&#39;d need to lead by
+example.
+
+00:32:10.590 --> 00:32:11.290
+So Bill Wallace,
+
+00:32:11.290 --> 00:32:14.780
+the first chapter of his books
+is, get&#39;s asked this question
+
+00:32:14.780 --> 00:32:16.860
+of how did you know whether
+you&#39;re doing your job?
+
+00:32:16.860 --> 00:32:19.256
+And this is the answer he
+gives coaches that used to ask
+
+00:32:19.256 --> 00:32:25.960
+him that question So if this
+is what you
+
+00:32:25.960 --> 00:32:28.015
+feel like every day, you&#39;re
+probably on the right track.
+
+00:32:28.015 --> 00:32:29.221
+And if that doesn&#39;t sound
+appetizing,
+
+00:32:29.221 --> 00:32:30.930
+you probably shouldn&#39;t start a
+company, truthfully.
+
+00:32:30.930 --> 00:32:34.010
+All right, with that I&#39;m doing
+with the prepared part.
+
+00:32:34.010 --> 00:32:35.480
+Let me see if anybody has
+questions I
+
+00:32:35.480 --> 00:32:36.360
+can try to be helpful with.
+
+00:32:37.650 --> 00:32:38.910
+Any questions?
+
+00:32:38.910 --> 00:32:40.010
+Yes?
+
+00:32:40.010 --> 00:32:43.274
+&gt;&gt; So you talked about making
+compensation transparent.
+
+00:32:43.274 --> 00:32:47.168
+How would you do this,
+especially when people equate
+
+00:32:47.168 --> 00:32:51.480
+themselves to value, you know,
+of how much their salary is?
+
+00:32:51.480 --> 00:32:53.030
+&gt;&gt; I would, I would do it in,
+probably, bands.
+
+00:32:53.030 --> 00:32:53.840
+because you could do it,
+
+00:32:53.840 --> 00:32:55.850
+either just everybody in the
+company gets paid the same, or
+
+00:32:55.850 --> 00:32:58.120
+you could have, like, all
+discipline, all engineers, or
+
+00:32:58.120 --> 00:33:01.190
+you could do it by experience
+like extreme exp.
+
+00:33:01.190 --> 00:33:02.802
+The way Steve did it actually
+at Next was,
+
+00:33:02.802 --> 00:33:04.195
+there was a high band and a
+low band.
+
+00:33:04.195 --> 00:33:05.926
+And you either had a lot of
+experience or
+
+00:33:05.926 --> 00:33:08.602
+low experience, and that was
+it, so low band back then, you
+
+00:33:08.602 --> 00:33:11.703
+know, now it would probably be
+like $85,000 kind of everybody
+
+00:33:11.703 --> 00:33:14.804
+just flatly gets paid $85,000,
+and if your super experienced
+
+00:33:14.804 --> 00:33:17.694
+everybody gets paid like
+$130,000, and that&#39;s just it
+
+00:33:17.694 --> 00:33:20.095
+like this sort of the Next
+translated for inflation.
+
+00:33:21.721 --> 00:33:26.331
+&gt;&gt; Instead of what&#39;s the how
+many details
+
+00:33:27.331 --> 00:33:28.987
+&gt;&gt; You&#39;d be amazed.
+
+00:33:28.987 --> 00:33:31.126
+&gt;&gt; Well, yeah, so the question
+was besides food what
+
+00:33:31.126 --> 00:33:33.860
+other kind of details do
+people care about?
+
+00:33:33.860 --> 00:33:34.770
+The laptops they use.
+
+00:33:34.770 --> 00:33:37.730
+I mean, this is now the
+default that everybody has.
+
+00:33:37.730 --> 00:33:39.470
+But five years ago,
+
+00:33:39.470 --> 00:33:42.890
+it was a benefit to give
+people high-quality machines
+
+00:33:42.890 --> 00:33:44.620
+as opposed to optimizing our
+costs and
+
+00:33:44.620 --> 00:33:47.580
+having Dell machines and ugly
+monitors, just as an example.
+
+00:33:47.580 --> 00:33:49.200
+So if you think about all
+these people that
+
+00:33:49.200 --> 00:33:51.490
+are relentlessly resourceful,
+incredibly talented in
+
+00:33:51.490 --> 00:33:54.150
+a massively competitive
+ecosystem competing for
+
+00:33:54.150 --> 00:33:55.900
+talent, you want to give the
+people the best
+
+00:33:55.900 --> 00:33:58.230
+possible tools to do the best
+possible job.
+
+00:33:58.230 --> 00:34:00.950
+And so, right rigorously
+thinking through how do I
+
+00:34:00.950 --> 00:34:02.510
+make people more successful?
+
+00:34:02.510 --> 00:34:03.970
+What things do they not need
+to be
+
+00:34:03.970 --> 00:34:06.010
+working on that are
+distracting?
+
+00:34:06.010 --> 00:34:06.910
+And what things can I
+
+00:34:06.910 --> 00:34:09.760
+actually given them that make
+them more valuable per day?
+
+00:34:09.760 --> 00:34:11.200
+And then just break that down
+every day and
+
+00:34:11.200 --> 00:34:12.230
+solve that stuff yourself.
+
+00:34:13.450 --> 00:34:15.640
+&gt;&gt; So, when you&#39;re in a
+start-up environment,
+
+00:34:15.640 --> 00:34:17.010
+how you you optimize for those
+things?
+
+00:34:17.010 --> 00:34:18.640
+because, you know, resources
+are scarce and.
+
+00:34:18.640 --> 00:34:20.380
+&gt;&gt; It&#39;s a good, it&#39;s a good
+question.
+
+00:34:20.380 --> 00:34:21.770
+I actually think that you
+should start,
+
+00:34:21.770 --> 00:34:23.840
+first of all, you must have
+your own office.
+
+00:34:23.840 --> 00:34:25.990
+I don&#39;t believe ever in shared
+office spaces.
+
+00:34:25.990 --> 00:34:27.420
+Peter talks a little bit about
+this,
+
+00:34:27.420 --> 00:34:29.200
+that every start-up, every
+good start-up is a cult.
+
+00:34:29.200 --> 00:34:30.140
+It&#39;s really hard to
+
+00:34:30.140 --> 00:34:32.350
+create a cult if you&#39;re
+sharing space with people.
+
+00:34:32.350 --> 00:34:33.290
+Because a cult means that you
+
+00:34:33.290 --> 00:34:34.860
+think that you&#39;re better than
+everybody else in the world,
+
+00:34:34.860 --> 00:34:35.770
+that you have a special way of
+doing
+
+00:34:35.770 --> 00:34:37.680
+things that&#39;s different than
+everybody else in the world.
+
+00:34:37.680 --> 00:34:39.380
+And if you&#39;re sharing physical
+space with people,
+
+00:34:39.380 --> 00:34:40.930
+it&#39;s very hard to inculcate
+that.
+
+00:34:40.930 --> 00:34:43.050
+So, I would start there, but
+
+00:34:43.050 --> 00:34:44.420
+it is a prioritization
+question.
+
+00:34:44.420 --> 00:34:45.370
+When you have, everybody is
+
+00:34:45.370 --> 00:34:47.240
+going to have scarce
+resources, just a question of
+
+00:34:47.240 --> 00:34:50.490
+magnitude like how many zeros
+are you paying attention to?
+
+00:34:50.490 --> 00:34:51.873
+You know, probably not $10.
+
+00:34:51.873 --> 00:34:53.628
+Expenditures, put $100, then
+$1,000,
+
+00:34:53.628 --> 00:34:55.980
+then 10,000, then a million,
+and then 10 million.
+
+00:34:55.980 --> 00:34:57.850
+Starts being a rounding error.
+
+00:34:57.850 --> 00:34:59.980
+So, what I would do is figure
+out like,
+
+00:34:59.980 --> 00:35:00.870
+what&#39;s most important?
+
+00:35:00.870 --> 00:35:02.920
+And in a high quality office,
+that creates a good vibe.
+
+00:35:02.920 --> 00:35:04.500
+That allows you to recruit
+people,
+
+00:35:04.500 --> 00:35:06.000
+because recruits are very
+savvy about this.
+
+00:35:06.000 --> 00:35:07.420
+They walk into your office,
+and
+
+00:35:07.420 --> 00:35:09.624
+they can tell a lot about the
+culture instantly.
+
+00:35:09.624 --> 00:35:12.510
+I sometimes, I walk into a
+company office and I can tell,
+
+00:35:12.510 --> 00:35:15.360
+often, whether I&#39;m going to
+invest, as soon as I walk in.
+
+00:35:15.360 --> 00:35:17.270
+Like, I can absolutely rule
+things out that I
+
+00:35:17.270 --> 00:35:19.170
+just don&#39;t want to invest in
+as soon as I walk in.
+
+00:35:19.170 --> 00:35:21.070
+And there&#39;s times walking into
+the office is like,
+
+00:35:21.070 --> 00:35:22.650
+wow, this is very impressive.
+
+00:35:22.650 --> 00:35:24.230
+You can tell how people worked
+together,
+
+00:35:24.230 --> 00:35:26.720
+how hard they&#39;re working, how
+distracted they are.
+
+00:35:26.720 --> 00:35:29.900
+Roelof Botha at Sequoia made a
+point to me about YouTube.
+
+00:35:29.900 --> 00:35:31.470
+So, when I invested in
+YouTube,
+
+00:35:31.470 --> 00:35:33.410
+in the very, very beginning,
+
+00:35:33.410 --> 00:35:35.490
+it wasn&#39;t obviously going to
+be successful.
+
+00:35:35.490 --> 00:35:39.310
+And then, Roelof led this
+series A investment for
+
+00:35:39.310 --> 00:35:40.540
+Sequoia in YouTube.
+
+00:35:40.540 --> 00:35:42.750
+And we were at a board meeting
+together and he said,
+
+00:35:42.750 --> 00:35:44.090
+you know, I think YouTube&#39;s
+really going to work.
+
+00:35:44.090 --> 00:35:45.150
+And I said, why?
+
+00:35:45.150 --> 00:35:45.770
+And he said well,
+
+00:35:45.770 --> 00:35:47.770
+every time I go to one of my
+portfolio companies,
+
+00:35:47.770 --> 00:35:49.740
+half the office is watching
+YouTube at lunch.
+
+00:35:49.740 --> 00:35:51.930
+&gt;&gt; And I was like, pretty good
+sign.
+
+00:35:51.930 --> 00:35:53.710
+So like, if you pick up on
+these little things you
+
+00:35:53.710 --> 00:35:54.340
+can predict a lot.
+
+00:35:56.990 --> 00:35:57.570
+Yeah?
+
+00:35:57.570 --> 00:36:00.580
+&gt;&gt; What do you think is the
+best way to gain street cred
+
+00:36:00.580 --> 00:36:01.640
+for a new manager?
+
+00:36:01.640 --> 00:36:05.740
+&gt;&gt; Oh boy yeah so the question
+is how&#39;s the best way to
+
+00:36:05.740 --> 00:36:08.050
+grain, gain street cred for a
+new manager?
+
+00:36:09.220 --> 00:36:11.760
+Almost all good managers in
+Silicon Valley are promoted
+
+00:36:11.760 --> 00:36:15.000
+because of their individual
+performance in cultures that
+
+00:36:15.000 --> 00:36:17.780
+are meritocratic, you know,
+the percentage is even higher.
+
+00:36:17.780 --> 00:36:20.730
+So we tried at PayPal to only
+promote people that
+
+00:36:20.730 --> 00:36:22.660
+were basically kicking **** at
+their discipline.
+
+00:36:22.660 --> 00:36:26.650
+So Peter didn&#39;t believe in
+general managers.
+
+00:36:26.650 --> 00:36:27.760
+In fact, I remember going for
+
+00:36:27.760 --> 00:36:30.070
+a jog around campus within my
+first week at PayPal and
+
+00:36:30.070 --> 00:36:30.840
+he&#39;s asking me, you know,
+
+00:36:30.840 --> 00:36:33.680
+how are things going, the
+usual kind of CEO questions.
+
+00:36:33.680 --> 00:36:34.390
+And then we got into this
+
+00:36:34.390 --> 00:36:36.490
+debate about whether the
+company needed any managers.
+
+00:36:36.490 --> 00:36:37.450
+And he&#39;s like, nope.
+
+00:36:37.450 --> 00:36:38.430
+No managers.
+
+00:36:38.430 --> 00:36:39.440
+We&#39;re only going to promote
+people.
+
+00:36:39.440 --> 00:36:41.010
+So the VP of Engineering is
+
+00:36:41.010 --> 00:36:42.150
+going to be the single best
+engineer.
+
+00:36:42.150 --> 00:36:44.180
+The VP of Design&#39;s going to be
+the single best designer.
+
+00:36:44.180 --> 00:36:45.840
+The VP of Product&#39;s going to
+be the single best product
+
+00:36:45.840 --> 00:36:47.970
+person and they&#39;re going to
+learn to manage later.
+
+00:36:47.970 --> 00:36:51.923
+And the advantage of that is
+you don&#39;t demoralize people,
+
+00:36:51.923 --> 00:36:54.120
+because everybody knows that
+their boss actually is
+
+00:36:54.120 --> 00:36:57.190
+better at their job than they
+are, and they can learn stuff.
+
+00:36:57.190 --> 00:36:59.400
+And you can learn a little bit
+of the management techniques
+
+00:36:59.400 --> 00:37:01.530
+later as opposed to promoting
+people who
+
+00:37:01.530 --> 00:37:04.560
+are just good people managers
+that don&#39;t actually have
+
+00:37:04.560 --> 00:37:07.350
+the discipline and skill, and
+that does demoralize people.
+
+00:37:07.350 --> 00:37:09.900
+So I think, just being
+excellent at something, and
+
+00:37:09.900 --> 00:37:12.690
+then getting excellent at
+getting a bunch of people to
+
+00:37:12.690 --> 00:37:14.014
+do something is the next task.
+
+00:37:14.014 --> 00:37:16.870
+But people, you just have to
+learn,
+
+00:37:16.870 --> 00:37:17.920
+some things you have to learn
+by doing.
+
+00:37:17.920 --> 00:37:19.990
+You can&#39;t learn to play the
+guitar by reading a book.
+
+00:37:19.990 --> 00:37:22.070
+You&#39;ve actually gotta try to
+manage a bit, and
+
+00:37:22.070 --> 00:37:22.960
+you won&#39;t do it well.
+
+00:37:22.960 --> 00:37:25.330
+I had another sort of set of
+tactics and
+
+00:37:25.330 --> 00:37:28.455
+classes on what you actually
+do when you transition from
+
+00:37:28.455 --> 00:37:31.040
+an individual contributor to a
+manager.
+
+00:37:31.040 --> 00:37:31.610
+It&#39;s hard.
+
+00:37:31.610 --> 00:37:33.980
+One of the first things people
+don&#39;t get right is their time
+
+00:37:33.980 --> 00:37:34.990
+allocation.
+
+00:37:34.990 --> 00:37:38.040
+And so actually, I would
+recommend doing what I
+
+00:37:38.040 --> 00:37:41.250
+call calendar audit and
+tracking for a month what you
+
+00:37:41.250 --> 00:37:43.000
+spend your time on and how
+much is managing and
+
+00:37:43.000 --> 00:37:45.500
+editing, and how much is
+writing, et cetera, and
+
+00:37:45.500 --> 00:37:46.510
+then optimize it over time.
+
+00:37:46.510 --> 00:37:49.430
+You can get a mentor, find
+somebody who&#39;s been a manager
+
+00:37:49.430 --> 00:37:52.890
+before that will work with
+you, not your boss.
+
+00:37:52.890 --> 00:37:55.910
+Because your boss has a set
+complicated objectives,
+
+00:37:55.910 --> 00:37:57.810
+including how much are we
+shipping?
+
+00:37:57.810 --> 00:37:59.520
+A mentor can just focus on
+you, and
+
+00:37:59.520 --> 00:38:00.520
+making you more successful.
+
+00:38:02.810 --> 00:38:04.550
+&gt;&gt; Can you give some more
+examples of things you can
+
+00:38:04.550 --> 00:38:07.040
+do which show a consistent
+voice of the company,
+
+00:38:07.040 --> 00:38:09.450
+especially with the company
+growing?
+
+00:38:09.450 --> 00:38:10.200
+&gt;&gt; Yeah.
+
+00:38:10.200 --> 00:38:12.920
+so, I would look at every
+piece of
+
+00:38:12.920 --> 00:38:14.510
+copy in every department.
+
+00:38:14.510 --> 00:38:17.530
+So like another area that
+almost never is a done.
+
+00:38:17.530 --> 00:38:18.720
+So look at your recruiting
+website.
+
+00:38:18.720 --> 00:38:19.420
+Almost never done to
+
+00:38:19.420 --> 00:38:22.010
+the same quality as your
+conversion funnel.
+
+00:38:22.010 --> 00:38:23.300
+I look at customer support,
+
+00:38:23.300 --> 00:38:26.270
+another classic area that
+isn&#39;t up to the same quality,
+
+00:38:26.270 --> 00:38:28.710
+and treat customer support
+like a product.
+
+00:38:28.710 --> 00:38:30.260
+So that you actually have an
+engineering team and
+
+00:38:30.260 --> 00:38:31.770
+a design team over time,
+
+00:38:31.770 --> 00:38:34.460
+that actually focuses on
+making that world-class.
+
+00:38:34.460 --> 00:38:36.540
+Usually, where you have
+different executives at
+
+00:38:36.540 --> 00:38:38.960
+a scaled company, most
+executives were
+
+00:38:38.960 --> 00:38:40.460
+trained differently at
+different companies, and
+
+00:38:40.460 --> 00:38:41.490
+they bring some of that with
+them.
+
+00:38:41.490 --> 00:38:42.770
+So you&#39;ve got to cross train
+that.
+
+00:38:42.770 --> 00:38:45.000
+So, if you&#39;ve hired a VP of
+Engineering from Google.
+
+00:38:45.000 --> 00:38:46.350
+It&#39;s very different than a
+design leader who
+
+00:38:46.350 --> 00:38:47.100
+came from Apple,
+
+00:38:47.100 --> 00:38:50.120
+they don&#39;t actually learn how
+to do anything the same way.
+
+00:38:50.120 --> 00:38:52.520
+So you&#39;re going to have to
+stitch that together somehow,
+
+00:38:52.520 --> 00:38:54.090
+either one or the other is
+going to have to learn in
+
+00:38:54.090 --> 00:38:55.330
+the other style or you&#39;re
+going to have to create your
+
+00:38:55.330 --> 00:38:58.450
+own style and really teach
+that to your executives.
+
+00:38:58.450 --> 00:38:59.970
+So it shows up all the time
+but
+
+00:38:59.970 --> 00:39:02.270
+all you do, all you need to do
+is just pick up the company&#39;s
+
+00:39:02.270 --> 00:39:04.910
+products and look for things
+that have a different voice.
+
+00:39:04.910 --> 00:39:05.520
+And you can see it.
+
+00:39:05.520 --> 00:39:08.960
+Visual voice, word choice,
+all, all over the map.
+
+00:39:10.410 --> 00:39:11.430
+Sam?
+
+00:39:11.430 --> 00:39:13.940
+&gt;&gt; Could you talk a little bit
+about the tactics of how
+
+00:39:13.940 --> 00:39:14.675
+you manage people?
+
+00:39:14.675 --> 00:39:19.890
+Like how you
+&gt;&gt; So the canonical advice
+
+00:39:19.890 --> 00:39:21.720
+in this now sounds obvious but
+actually was
+
+00:39:21.720 --> 00:39:24.370
+pretty radical in 1982 when
+Andy wrote his first book is
+
+00:39:24.370 --> 00:39:27.640
+you should have a one on one
+roughly every two weeks.
+
+00:39:27.640 --> 00:39:29.030
+Some people say every week,
+
+00:39:29.030 --> 00:39:31.530
+and I don&#39;t think you want to
+go longer than two weeks,
+
+00:39:31.530 --> 00:39:34.350
+one week can be ideal actually
+in many companies.
+
+00:39:34.350 --> 00:39:36.770
+The reason why in fact there&#39;s
+ano, another adage which is,
+
+00:39:36.770 --> 00:39:39.100
+you should only have five to
+seven direct reports.
+
+00:39:39.100 --> 00:39:42.030
+That actually derives from the
+concept of a one on one
+
+00:39:42.030 --> 00:39:43.140
+every week.
+
+00:39:43.140 --> 00:39:46.030
+So that the direct reports, so
+you can fit enough one on ones
+
+00:39:46.030 --> 00:39:48.160
+in your calendar and still get
+other things done.
+
+00:39:48.160 --> 00:39:50.810
+So I think one on one&#39;s per
+week are a good idea.
+
+00:39:50.810 --> 00:39:54.460
+The agenda should be crafted
+by the employee who reports to
+
+00:39:54.460 --> 00:39:55.960
+the manager, not the manager.
+
+00:39:55.960 --> 00:39:57.550
+The one on one is mostly for
+
+00:39:57.550 --> 00:40:00.500
+the benefit of the employee,
+so they should walk in with,
+
+00:40:00.500 --> 00:40:02.660
+here&#39;s the three or four
+things I want to talk about.
+
+00:40:02.660 --> 00:40:03.980
+Ideally, they circulate that.
+
+00:40:03.980 --> 00:40:06.230
+It can be even bullet points
+in advance by email.
+
+00:40:06.230 --> 00:40:07.920
+But, in advance you have time
+to chew on it and
+
+00:40:07.920 --> 00:40:10.840
+you&#39;re not on the fly, winging
+your responses.
+
+00:40:10.840 --> 00:40:12.750
+But that&#39;s probably the best
+structure.
+
+00:40:12.750 --> 00:40:14.690
+Now if someone&#39;s really good
+and really talented and
+
+00:40:14.690 --> 00:40:15.530
+has been doing something for
+
+00:40:15.530 --> 00:40:17.750
+a long time with a lot of
+internal credibility,
+
+00:40:17.750 --> 00:40:19.510
+you might push out the one
+every week, and
+
+00:40:19.510 --> 00:40:22.350
+relax that to one every two
+weeks, possibly once a month.
+
+00:40:22.350 --> 00:40:24.778
+I don&#39;t know that I would go
+beyond once a month ever.
+
+00:40:24.778 --> 00:40:27.329
+&gt;&gt; When is it acceptable to
+compromise and
+
+00:40:27.329 --> 00:40:31.480
+hire someone who is ammunition
+rather than a barrel?
+
+00:40:31.480 --> 00:40:32.830
+&gt;&gt; Yeah, so the question is
+when,
+
+00:40:32.830 --> 00:40:33.931
+when do you compromise and
+
+00:40:33.931 --> 00:40:36.280
+hire more ammunition instead
+of a barrel?
+
+00:40:36.280 --> 00:40:38.260
+Truthfully, you&#39;re going to
+hire more ammunitions by
+
+00:40:38.260 --> 00:40:40.070
+definition than you are
+barrels.
+
+00:40:40.070 --> 00:40:41.910
+So there&#39;s a ratio between the
+two.
+
+00:40:41.910 --> 00:40:43.610
+The question is the ratio.
+
+00:40:43.610 --> 00:40:45.830
+So at some point the ratio is
+going to get out of wack.
+
+00:40:45.830 --> 00:40:47.340
+So if you&#39;re the only barrel
+in the company and
+
+00:40:47.340 --> 00:40:49.760
+you have 50 engineers, you
+might as well only have ten
+
+00:40:49.760 --> 00:40:51.590
+engineers because you&#39;re not
+going to get anymore done.
+
+00:40:51.590 --> 00:40:52.820
+So you&#39;re just wasting
+resources.
+
+00:40:52.820 --> 00:40:53.940
+You&#39;re going to have
+frustrated engineers,
+
+00:40:53.940 --> 00:40:55.860
+because everybody&#39;s going to
+need your approval,
+
+00:40:55.860 --> 00:40:57.180
+your sign off, your editing.
+
+00:40:57.180 --> 00:40:59.890
+It&#39;s just going to stack and
+frustrate people.
+
+00:40:59.890 --> 00:41:02.520
+So, it&#39;s really, now different
+disciplines, engineering,
+
+00:41:02.520 --> 00:41:07.860
+like I actually think like
+roughly one to ten to 20 is
+
+00:41:07.860 --> 00:41:09.390
+probably about the right
+range.
+
+00:41:10.420 --> 00:41:13.130
+Like you don&#39;t need more
+engineers until you
+
+00:41:13.130 --> 00:41:14.640
+have more barrels.
+
+00:41:14.640 --> 00:41:15.940
+Designers a little different,
+
+00:41:15.940 --> 00:41:19.590
+but it&#39;s always going to be
+hiring more ammunitions.
+
+00:41:19.590 --> 00:41:21.080
+And a good leader,
+
+00:41:21.080 --> 00:41:23.290
+a good barrel will kind of
+have a feel for that.
+
+00:41:23.290 --> 00:41:25.680
+So one way to, one way to
+correct for this.
+
+00:41:25.680 --> 00:41:28.000
+Natural tendency is to
+increase that your headcount
+
+00:41:28.000 --> 00:41:30.470
+on your team, like sort of an
+empire building tendency.
+
+00:41:30.470 --> 00:41:32.053
+Like, oh so I manage 20
+people, and
+
+00:41:32.053 --> 00:41:33.940
+Sam only manages ten, and you
+manage three.
+
+00:41:33.940 --> 00:41:35.078
+So, I&#39;m more important than
+Sam and
+
+00:41:35.078 --> 00:41:36.153
+you&#39;re more important than
+you.
+
+00:41:36.153 --> 00:41:37.782
+One way to do that is you put
+an X here of
+
+00:41:37.782 --> 00:41:40.623
+the number of people that the,
+the output, sorry, specify how
+
+00:41:40.623 --> 00:41:43.043
+many things they&#39;ve done
+successfully then divide by
+
+00:41:43.043 --> 00:41:45.619
+the number of people on their
+team, and tell them that this
+
+00:41:45.619 --> 00:41:48.118
+is going to be their grade in
+their performance review.
+
+00:41:48.118 --> 00:41:51.129
+Shockingly this y doesn&#39;t
+start increasing on that team.
+
+00:41:51.129 --> 00:41:52.530
+It&#39;s amazing how this works.
+
+00:41:52.530 --> 00:41:56.211
+And be really explicit about
+it.
+
+00:41:56.211 --> 00:41:58.015
+&gt;&gt; As, venture capitalist,
+
+00:41:58.015 --> 00:42:01.000
+how often you intervene this
+and, what&#39;s.
+
+00:42:02.430 --> 00:42:04.480
+&gt;&gt; So how often do I meet
+with?
+
+00:42:04.480 --> 00:42:05.145
+&gt;&gt; Yeah.
+How you.
+
+00:42:05.145 --> 00:42:06.420
+[CROSS-TALK].
+&gt;&gt; So the question is,
+
+00:42:06.420 --> 00:42:07.370
+as a venture capitalist,
+
+00:42:07.370 --> 00:42:10.300
+how often do I interact with
+my companies, meet with them.
+
+00:42:10.300 --> 00:42:13.290
+Generally when we invest and
+we do,
+
+00:42:13.290 --> 00:42:15.950
+do some seed investments where
+we invest less money but
+
+00:42:15.950 --> 00:42:17.510
+when we invest a fair amount
+of money and
+
+00:42:17.510 --> 00:42:20.410
+lead a round like a series a a
+series b round
+
+00:42:20.410 --> 00:42:23.220
+we join the board, and roughly
+I meet with
+
+00:42:23.220 --> 00:42:26.590
+the founder CEO every two
+weeks, that&#39;s the default.
+
+00:42:26.590 --> 00:42:28.870
+Now there can be obviously
+there&#39;s inflection moments and
+
+00:42:28.870 --> 00:42:31.390
+things go right well or wrong.
+
+00:42:31.390 --> 00:42:33.740
+And, you know, that&#39;s on an
+ad-hoc basis.
+
+00:42:33.740 --> 00:42:34.510
+These days, actually,
+
+00:42:34.510 --> 00:42:37.080
+surprisingly, I do a lot by
+text message.
+
+00:42:37.080 --> 00:42:39.270
+I even have one CEO who
+Snapchats me all the time.
+
+00:42:40.670 --> 00:42:44.300
+Which I&#39;d actually rather not,
+but, That, so.
+
+00:42:44.300 --> 00:42:46.540
+The world, the world has
+changed a lot.
+
+00:42:46.540 --> 00:42:48.980
+But I try in-person meetings
+every two weeks.
+
+00:42:48.980 --> 00:42:51.430
+&gt;&gt; Are you the no.
+
+00:42:51.430 --> 00:42:52.850
+I mean, really it&#39;s,
+
+00:42:52.850 --> 00:42:54.220
+like, being a venture
+capitalist is more,
+
+00:42:54.220 --> 00:42:56.320
+to me, like being a
+psychologist.
+
+00:42:56.320 --> 00:42:56.940
+So if you come to
+
+00:42:56.940 --> 00:42:58.620
+my office you&#39;ll see actually
+we have two chairs,
+
+00:42:58.620 --> 00:43:00.840
+kind of arrayed like this with
+a little table in the middle.
+
+00:43:00.840 --> 00:43:01.530
+And we sit down.
+
+00:43:01.530 --> 00:43:03.730
+And I&#39;m basically, like, so
+tell me your problems.
+
+00:43:03.730 --> 00:43:04.560
+You know?
+[LAUGHTER] Then,
+
+00:43:04.560 --> 00:43:05.750
+it&#39;s like a question.
+
+00:43:05.750 --> 00:43:06.670
+It&#39;s like, so have you.
+
+00:43:06.670 --> 00:43:08.030
+And then the, and then my
+response is usually,
+
+00:43:08.030 --> 00:43:08.960
+well have you thought about
+this?
+
+00:43:08.960 --> 00:43:09.860
+Have you talked to this
+person?
+
+00:43:09.860 --> 00:43:10.890
+Have you tried this?
+
+00:43:10.890 --> 00:43:12.460
+Et cetera.
+And it&#39;s just asking a lot of
+
+00:43:12.460 --> 00:43:13.730
+questions and going back that
+way.
+
+00:43:13.730 --> 00:43:15.150
+But that&#39;s 90% of what I do.
+
+00:43:17.695 --> 00:43:20.000
+So I see when you, when you&#39;ve
+got these barrels,
+
+00:43:20.000 --> 00:43:22.580
+you say your starter company
+is up doing really good,
+
+00:43:22.580 --> 00:43:24.940
+you know, and you&#39;re working
+on this project.
+
+00:43:24.940 --> 00:43:27.840
+I&#39;ve heard that you should
+always be recruiting.
+
+00:43:27.840 --> 00:43:28.350
+&gt;&gt; Yes.
+&gt;&gt; How do you,
+
+00:43:29.780 --> 00:43:32.060
+how do you balance that.
+
+00:43:32.060 --> 00:43:34.040
+Well it depends on where your
+prioritizations are.
+
+00:43:34.040 --> 00:43:35.620
+So you know, Sam talked a
+little bit
+
+00:43:35.620 --> 00:43:36.510
+about this in his lecture,
+
+00:43:36.510 --> 00:43:39.710
+but every company will move
+recruiting you know, first,
+
+00:43:39.710 --> 00:43:42.630
+second, or third somewhere in
+that sort of spectrum.
+
+00:43:42.630 --> 00:43:45.540
+If it&#39;s your number one
+priority then about 25% is
+
+00:43:45.540 --> 00:43:47.560
+probably a pretty good
+allocation.
+
+00:43:47.560 --> 00:43:49.310
+Actually I like the calendar
+audit for
+
+00:43:49.310 --> 00:43:52.490
+CEO&#39;s even more, so than for
+new managers.
+
+00:43:52.490 --> 00:43:55.120
+So when I work with CEO&#39;s
+sometimes who aren&#39;t.
+
+00:43:55.120 --> 00:43:57.250
+Thriving in that role for the
+first time.
+
+00:43:57.250 --> 00:43:59.670
+Actually forced them to show
+me their calendar.
+
+00:43:59.670 --> 00:44:01.720
+And before I do that, and now
+I&#39;m going to ruin this trick
+
+00:44:01.720 --> 00:44:04.190
+because if I tell it to you,
+actually asked them to
+
+00:44:04.190 --> 00:44:05.980
+write their priorities, write
+them down on a piece of paper.
+
+00:44:05.980 --> 00:44:08.140
+And, you know, discuss
+whatever they are.
+
+00:44:08.140 --> 00:44:09.700
+Then we go pull up their
+calendar, and
+
+00:44:09.700 --> 00:44:10.410
+see if it matches.
+
+00:44:10.410 --> 00:44:11.660
+And it never matches.
+
+00:44:11.660 --> 00:44:12.340
+They, never.
+
+00:44:12.340 --> 00:44:14.790
+They, recruiting is the one
+that&#39;s most often.
+
+00:44:14.790 --> 00:44:17.300
+Awry so you know, let&#39;s say
+half the CEO&#39;s you meet with
+
+00:44:17.300 --> 00:44:19.300
+will say recruiting&#39;s the
+number one priority.
+
+00:44:19.300 --> 00:44:20.540
+It&#39;s almost never the biggest
+block of
+
+00:44:20.540 --> 00:44:22.660
+time on anybody&#39;s calendar,
+and so
+
+00:44:22.660 --> 00:44:25.400
+that&#39;s what you&#39;re trying to
+do is match resources and
+
+00:44:25.400 --> 00:44:28.210
+inputs against priorities, and
+a calendar audit unfortunately
+
+00:44:28.210 --> 00:44:30.160
+there&#39;s no software that does
+this really well.
+
+00:44:30.160 --> 00:44:30.850
+It would be great.
+
+00:44:30.850 --> 00:44:31.430
+Like actually the,
+
+00:44:31.430 --> 00:44:33.630
+we literally pull up someone&#39;s
+Google calendar and
+
+00:44:33.630 --> 00:44:35.430
+kind of manually add up the
+hours.
+
+00:44:35.430 --> 00:44:36.560
+Which in, somewhat insane.
+
+00:44:36.560 --> 00:44:38.000
+But that&#39;s, that&#39;s the best
+way is just,
+
+00:44:38.000 --> 00:44:38.970
+well what are your priorities.
+
+00:44:38.970 --> 00:44:41.080
+If your priorities are raising
+money, you
+
+00:44:41.080 --> 00:44:42.890
+don&#39;t want to allocate 100% of
+your time for recruiting.
+
+00:44:42.890 --> 00:44:45.010
+You want to allocate a fair
+amount of time to raising
+
+00:44:45.010 --> 00:44:47.508
+money for that block of time
+until you&#39;re successful at it.
+
+00:44:47.508 --> 00:44:50.650
+&gt;&gt; One more question.
+
+00:44:50.650 --> 00:44:52.900
+&gt;&gt; One more question anybody,
+okay, go ahead.
+
+00:44:52.900 --> 00:44:55.570
+&gt;&gt; On the surface some of the
+advice students contradictory
+
+00:44:55.570 --> 00:44:59.690
+because you emphasized
+focusing on a plus pass, and
+
+00:44:59.690 --> 00:45:02.560
+delegating less important
+things, but then you said it&#39;s
+
+00:45:02.560 --> 00:45:05.290
+good to write like few page
+script for your receptors.
+
+00:45:05.290 --> 00:45:07.200
+Focus on all the details.
+
+00:45:07.200 --> 00:45:08.800
+How do you harmonize those
+goals?
+
+00:45:08.800 --> 00:45:09.540
+&gt;&gt; It&#39;s a good question.
+
+00:45:09.540 --> 00:45:10.630
+I think the way to harmonize.
+
+00:45:10.630 --> 00:45:12.690
+The question is really, how do
+you harmonize things like,
+
+00:45:12.690 --> 00:45:14.490
+where details can really
+matter but
+
+00:45:14.490 --> 00:45:16.460
+you only get one thing, you
+know, to do and
+
+00:45:16.460 --> 00:45:19.720
+you&#39;ve gotta allocate to the
+top one, two, or three things.
+
+00:45:19.720 --> 00:45:21.840
+How do you, how do you put
+those two things together?
+
+00:45:21.840 --> 00:45:24.120
+And actually there is some
+tension in, even in a healthy
+
+00:45:24.120 --> 00:45:26.510
+organization, there&#39;s some
+tension of like why are we
+
+00:45:26.510 --> 00:45:29.210
+actually focused on, you know,
+writing the script.
+
+00:45:29.210 --> 00:45:31.570
+As opposed to something a user
+may see.
+
+00:45:31.570 --> 00:45:33.700
+I think the underlying
+philosophy of
+
+00:45:33.700 --> 00:45:35.560
+getting the details right is
+pretty important to
+
+00:45:35.560 --> 00:45:37.830
+install in the very, very,
+very beginning of
+
+00:45:37.830 --> 00:45:40.910
+a company because people will
+start acting that way and
+
+00:45:40.910 --> 00:45:42.930
+making decisions that way
+themselves.
+
+00:45:42.930 --> 00:45:44.970
+So, you won&#39;t have to actually
+literally do that.
+
+00:45:44.970 --> 00:45:46.970
+And if you have to do that, it
+actually shows you
+
+00:45:46.970 --> 00:45:49.620
+that the foundation isn&#39;t
+actually that, that solid.
+
+00:45:49.620 --> 00:45:51.730
+So eh, when you first start
+the company.
+
+00:45:51.730 --> 00:45:53.760
+It&#39;s about getting the details
+right,
+
+00:45:53.760 --> 00:45:55.230
+that everybody is precise,
+
+00:45:55.230 --> 00:45:58.490
+everybody on every task is
+always thinking that way.
+
+00:45:58.490 --> 00:45:59.550
+And then that scales, and
+
+00:45:59.550 --> 00:46:01.880
+then the people you bring in,
+it&#39;s a little self-fulfilling,
+
+00:46:01.880 --> 00:46:03.620
+people who can think that way
+will tend to get hired,
+
+00:46:03.620 --> 00:46:05.350
+people who can&#39;t won&#39;t get
+hired.
+
+00:46:05.350 --> 00:46:06.060
+Each team, and
+
+00:46:06.060 --> 00:46:08.240
+each leader, will tend to
+enforce that themselves,
+
+00:46:08.240 --> 00:46:10.200
+to see whose almost never
+doing it.
+
+00:46:10.200 --> 00:46:11.050
+So, it&#39;s partially, like,
+
+00:46:11.050 --> 00:46:13.050
+how do you start, and at
+cultures like that,
+
+00:46:13.050 --> 00:46:15.230
+I mean, the, key to culture is
+it&#39;s a rule.
+
+00:46:15.230 --> 00:46:16.810
+It&#39;s a frame work for making
+decisions.
+
+00:46:16.810 --> 00:46:18.900
+And if you have a cultured
+people learn how to
+
+00:46:18.900 --> 00:46:20.610
+make decisions across that
+culture and
+
+00:46:20.610 --> 00:46:25.520
+you&#39;re never day anything,
+except just yeah watch.
+
+00:46:25.520 --> 00:46:28.150
+And you know and promote and
+move people around.
+
+00:46:28.150 --> 00:46:30.040
+Cool, well I guess that&#39;s it,
+thank you.
+

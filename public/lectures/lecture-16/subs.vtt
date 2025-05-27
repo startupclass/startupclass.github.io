@@ -1,0 +1,4628 @@
+WEBVTT
+
+00:00:01.340 --> 00:00:03.140
+All right, good afternoon.
+
+00:00:03.140 --> 00:00:05.303
+Today&#39;s guest speaker is
+Emmett Shear,
+
+00:00:05.303 --> 00:00:06.796
+Emmett is the CEO of Twitch.
+
+00:00:06.796 --> 00:00:08.236
+&gt;&gt; Hello.
+&gt;&gt; Which was acquired by
+
+00:00:08.236 --> 00:00:09.892
+Amazon, where he now works.
+
+00:00:09.892 --> 00:00:14.460
+And Emmett is going to do a
+new formal of class today, and
+
+00:00:14.460 --> 00:00:16.320
+talk about how to do great
+user interviews?
+
+00:00:16.320 --> 00:00:18.040
+So this is the talking to
+users part
+
+00:00:18.040 --> 00:00:20.490
+of starting a startup, should
+be really useful.
+
+00:00:20.490 --> 00:00:21.880
+Thank you very much for
+coming.
+
+00:00:21.880 --> 00:00:22.380
+&gt;&gt; Thanks Tim.
+
+00:00:25.690 --> 00:00:30.110
+&gt;&gt; Contact server knows where
+I&#39;m coming from, from this.
+
+00:00:30.110 --> 00:00:33.940
+We started our, I started my
+first startup with Justin Kan
+
+00:00:33.940 --> 00:00:35.370
+right out of college we,
+
+00:00:35.370 --> 00:00:39.030
+started this company called
+Kiko Calendar It didn&#39;t go so
+
+00:00:39.030 --> 00:00:40.850
+well, it, it went, all right.
+
+00:00:40.850 --> 00:00:45.320
+We, we, we built it we sold
+it, but we sold it on Ebay so
+
+00:00:45.320 --> 00:00:47.000
+that&#39;s not necessarily, the
+end you want for
+
+00:00:47.000 --> 00:00:49.090
+your startup,
+&gt;&gt; And
+
+00:00:49.090 --> 00:00:50.800
+It was it was a good time.
+
+00:00:50.800 --> 00:00:52.640
+We learned a lot, we learned a
+lot about programming.
+
+00:00:52.640 --> 00:00:54.540
+We didn&#39;t know anything about
+calendars,
+
+00:00:54.540 --> 00:00:56.730
+neither of us were users of
+calendars nor did we.
+
+00:00:56.730 --> 00:00:58.420
+During the period of time,
+we&#39;re thinking you&#39;ve got to
+
+00:00:58.420 --> 00:01:00.150
+talk to anyone who actually
+did use a calendar.
+
+00:01:01.820 --> 00:01:04.440
+So that was, that was not
+optimal.
+
+00:01:04.440 --> 00:01:08.180
+we, we got the build stuff
+part of the, startup down,
+
+00:01:08.180 --> 00:01:10.640
+we did not get the talk to
+users part.
+
+00:01:10.640 --> 00:01:14.020
+The second startup we started
+we used, a very common trick,
+
+00:01:14.020 --> 00:01:15.890
+that lets you get away with
+not talking to users,
+
+00:01:15.890 --> 00:01:17.950
+which is that we were our own
+consumer.
+
+00:01:17.950 --> 00:01:21.390
+We, we had this idea for a
+television show, Justin TV,
+
+00:01:21.390 --> 00:01:23.790
+a reality show about Justin
+Kan&#39;s life.
+
+00:01:23.790 --> 00:01:27.970
+And we built a whole set of
+technology and
+
+00:01:27.970 --> 00:01:31.020
+website around the reality
+show we wanted to run.
+
+00:01:31.020 --> 00:01:34.760
+And so we were the user for
+that for that product.
+
+00:01:34.760 --> 00:01:36.320
+And that&#39;s actually one way to
+cheat and
+
+00:01:36.320 --> 00:01:38.710
+get away with not talking to
+many other users is if you&#39;re
+
+00:01:38.710 --> 00:01:41.800
+just building something that
+literally is just for you.
+
+00:01:41.800 --> 00:01:42.540
+You don&#39;t need to talk to
+
+00:01:42.540 --> 00:01:44.740
+anyone else because you know
+what is you want.
+
+00:01:44.740 --> 00:01:45.810
+And what you need.
+
+00:01:45.810 --> 00:01:48.370
+But that&#39;s if you&#39;re really
+limiting,
+
+00:01:48.370 --> 00:01:49.249
+where to start a startup.
+
+00:01:49.249 --> 00:01:51.070
+Most startups are not just
+built for
+
+00:01:51.070 --> 00:01:53.490
+the person who is who is using
+them.
+
+00:01:53.490 --> 00:01:55.110
+And when you do that, every
+now and
+
+00:01:55.110 --> 00:01:55.920
+then, you get really lucky.
+
+00:01:55.920 --> 00:01:57.800
+And you are representative of
+some huge class of
+
+00:01:57.800 --> 00:01:59.520
+people who all want the exact
+same thing you do.
+
+00:02:00.710 --> 00:02:02.360
+But very often also that just
+turns into
+
+00:02:02.360 --> 00:02:04.780
+a side project that doesn&#39;t go
+any where.
+
+00:02:04.780 --> 00:02:07.370
+so, we kept working on
+Justin.TV for a while and
+
+00:02:07.370 --> 00:02:08.730
+we actually achieved a good
+deal of success,
+
+00:02:08.730 --> 00:02:09.650
+because it turned out that
+there were
+
+00:02:09.650 --> 00:02:12.940
+people out there who wanted to
+do the same thing we did.
+
+00:02:12.940 --> 00:02:15.590
+Which was broadcast ourselves
+live on the Internet.
+
+00:02:15.590 --> 00:02:19.660
+But, the issue with Justin.TV,
+the thing that,
+
+00:02:19.660 --> 00:02:20.670
+the thing that sort of, kept
+us
+
+00:02:20.670 --> 00:02:23.250
+from achieving greatness is we
+hadn&#39;t figured out yet.
+
+00:02:23.250 --> 00:02:27.460
+How to how to build towards
+anything beyond that
+
+00:02:27.460 --> 00:02:28.930
+initial TV show.
+
+00:02:28.930 --> 00:02:30.650
+We knew how to, we built a
+great product actually.
+
+00:02:30.650 --> 00:02:33.450
+If you wanted to run a live
+24/7 reality TV show about
+
+00:02:33.450 --> 00:02:36.040
+your life, we had the website
+for you.
+
+00:02:36.040 --> 00:02:38.110
+We had exactly, what you
+needed.
+
+00:02:38.110 --> 00:02:40.640
+But if we wanted to go do more
+than that.
+
+00:02:40.640 --> 00:02:42.690
+If we wanted to open it up to
+a broader number of people,
+
+00:02:42.690 --> 00:02:45.680
+a broader spectrum of people,
+a broader use cases.
+
+00:02:45.680 --> 00:02:48.520
+We didn&#39;t have we didn&#39;t have
+the insight to figure that out
+
+00:02:48.520 --> 00:02:51.740
+because we weren&#39;t that user
+and so
+
+00:02:51.740 --> 00:02:53.530
+at some point we decided to
+pivot JustinTV.
+
+00:02:53.530 --> 00:02:55.770
+We decided we needed to go in
+a new direction.
+
+00:02:55.770 --> 00:02:58.420
+We thought we&#39;d built a lot of
+valuable technology but hadn&#39;t
+
+00:02:58.420 --> 00:03:01.120
+identified the use case that
+would let it get really big.
+
+00:03:01.120 --> 00:03:03.120
+And there were two directions
+that seemed promising.
+
+00:03:03.120 --> 00:03:04.270
+One of them was mobile.
+
+00:03:04.270 --> 00:03:06.230
+And one of them is gaming.
+
+00:03:06.230 --> 00:03:07.210
+And I led the gaming
+
+00:03:07.210 --> 00:03:09.030
+initiative inside of the
+company.
+
+00:03:09.030 --> 00:03:11.070
+And what we did with gaming
+that was very very different,
+
+00:03:11.070 --> 00:03:13.410
+from what we&#39;d ever done
+before.
+
+00:03:13.410 --> 00:03:16.550
+Was, we actually went and
+talked to users,
+
+00:03:16.550 --> 00:03:19.850
+because while I loved watching
+gaming video, I was very aware
+
+00:03:19.850 --> 00:03:22.580
+that neither I nor anyone else
+in the company knew about
+
+00:03:22.580 --> 00:03:24.370
+broadcasting video games.
+
+00:03:24.370 --> 00:03:27.070
+And so I would amp up the
+content, I thought there was
+
+00:03:27.070 --> 00:03:28.950
+a market there, that was sort
+of the insight that
+
+00:03:29.990 --> 00:03:31.690
+I had which wasn&#39;t common at
+the time,
+
+00:03:31.690 --> 00:03:34.190
+which was how much fun it was
+to watch video games.
+
+00:03:34.190 --> 00:03:37.350
+Quick show of hands, people
+know about watching video game
+
+00:03:37.350 --> 00:03:37.870
+on the internet here?
+
+00:03:37.870 --> 00:03:40.150
+Okay, I&#39;m just going to assume
+that people listening to
+
+00:03:40.150 --> 00:03:40.820
+this also know about it.
+
+00:03:40.820 --> 00:03:42.490
+If you don&#39;t know about, if
+you don&#39;t know about watching
+
+00:03:42.490 --> 00:03:44.970
+video games on the internet,
+you should go read about that.
+
+00:03:44.970 --> 00:03:46.450
+Because it&#39;s sort of,
+
+00:03:46.450 --> 00:03:48.940
+an important context for the
+stuff I&#39;m going to talk about.
+
+00:03:48.940 --> 00:03:53.330
+But the main point is I
+thought
+
+00:03:54.500 --> 00:03:57.340
+that was awesome but I didn&#39;t
+know anything about
+
+00:03:57.340 --> 00:03:59.210
+the side of it that was really
+important, which is
+
+00:03:59.210 --> 00:04:01.720
+actually acquiring the content
+to start broadcasting.
+
+00:04:01.720 --> 00:04:04.390
+So we went out, and we ran a.
+
+00:04:05.580 --> 00:04:07.540
+Actually a very large number
+of user interviews.
+
+00:04:07.540 --> 00:04:12.100
+We talked to a lot of people
+and brought that data back,
+
+00:04:12.100 --> 00:04:15.290
+and that formed the core of
+all of the decision-making
+
+00:04:15.290 --> 00:04:18.190
+that was for the next three
+years of product features on
+
+00:04:18.190 --> 00:04:21.020
+Twitch was sort of some of the
+insights we got from that.
+
+00:04:21.020 --> 00:04:22.640
+And we continued to talk to
+users, and
+
+00:04:22.640 --> 00:04:23.780
+in fact built an entire.
+
+00:04:23.780 --> 00:04:26.900
+Part of the company whose job
+it is basically to talk to
+
+00:04:26.900 --> 00:04:27.900
+our users.
+
+00:04:27.900 --> 00:04:28.640
+Which is an, which is
+
+00:04:28.640 --> 00:04:30.540
+a whole division that we just
+didn&#39;t even have at JustinTV.
+
+00:04:30.540 --> 00:04:31.970
+We had no one at the company
+whose job it
+
+00:04:31.970 --> 00:04:33.510
+was to talk to our most
+important users.
+
+00:04:34.520 --> 00:04:37.360
+So so that was Twitch.
+
+00:04:37.360 --> 00:04:39.170
+And I&#39;m, I want to give you
+guys a little bit of
+
+00:04:39.170 --> 00:04:43.710
+a a little bit of an insight
+into.
+
+00:04:44.800 --> 00:04:46.130
+With Twitch.
+
+00:04:46.130 --> 00:04:47.420
+What, what that,
+
+00:04:47.420 --> 00:04:49.330
+what that meant, going to go
+talk to users.
+
+00:04:49.330 --> 00:04:50.310
+So, we determined that
+
+00:04:50.310 --> 00:04:52.070
+the broadcasters are the most
+important people.
+
+00:04:53.380 --> 00:04:57.830
+And the reason we determined
+that, was, when we went and
+
+00:04:57.830 --> 00:04:58.780
+looked into the market,
+
+00:04:58.780 --> 00:05:01.470
+we we looked into what, what
+determined.
+
+00:05:01.470 --> 00:05:04.330
+Why people watched a certain
+streamer or
+
+00:05:04.330 --> 00:05:05.660
+went to a certain website.
+
+00:05:05.660 --> 00:05:07.060
+They would just follow the
+content, right?
+
+00:05:07.060 --> 00:05:09.400
+You had a, you had a piece of
+content you loved and
+
+00:05:09.400 --> 00:05:11.890
+the broadcaster would come
+with you.
+
+00:05:11.890 --> 00:05:12.950
+And that&#39;s actually the one
+
+00:05:12.950 --> 00:05:14.780
+really important point about
+user interviews,
+
+00:05:14.780 --> 00:05:17.270
+which is that who you talk to
+is as important.
+
+00:05:17.270 --> 00:05:20.150
+As what questions you ask and
+you pull away from it.
+
+00:05:20.150 --> 00:05:23.900
+Because if you go and talk to
+a set of users, if we&#39;d gone
+
+00:05:23.900 --> 00:05:26.640
+and talked to viewers only, we
+have, a complete different set
+
+00:05:26.640 --> 00:05:29.230
+of feedback than talking to
+the broadcasters.
+
+00:05:29.230 --> 00:05:30.680
+And talking to the
+broadcasters gave us
+
+00:05:30.680 --> 00:05:33.310
+insight into how to build a
+link for them.
+
+00:05:33.310 --> 00:05:35.750
+That you&#39;re not to be
+strategically correct.
+
+00:05:35.750 --> 00:05:37.520
+I wish I could tell the recipe
+for
+
+00:05:37.520 --> 00:05:40.550
+figuring out who the target
+user is for your product and
+
+00:05:40.550 --> 00:05:41.630
+who your target user should
+be.
+
+00:05:41.630 --> 00:05:43.170
+But there isn&#39;t a recipe.
+
+00:05:43.170 --> 00:05:45.620
+It comes down to think really
+hard and, and use your,
+
+00:05:45.620 --> 00:05:46.710
+use your judgement to figure
+out,
+
+00:05:46.710 --> 00:05:47.820
+who you&#39;re really building
+this for?
+
+00:05:49.710 --> 00:05:52.920
+So what I want to do is a
+little bit,
+
+00:05:52.920 --> 00:05:55.334
+something a little bit
+interactive now, which is.
+
+00:05:55.334 --> 00:05:57.810
+sometging We&#39;re going to,
+
+00:05:57.810 --> 00:06:00.700
+I&#39;ve got a bunch of ideas
+from, from you guys actually.
+
+00:06:00.700 --> 00:06:02.460
+So, sort of suggested ideas.
+
+00:06:02.460 --> 00:06:04.540
+And i&#39;m going to pick one of
+them.
+
+00:06:04.540 --> 00:06:06.580
+And I want every one to sort
+of sit down and
+
+00:06:06.580 --> 00:06:09.250
+do, do step one of this
+process for me, right now.
+
+00:06:09.250 --> 00:06:13.440
+Which is think about who would
+you go ask about this.
+
+00:06:13.440 --> 00:06:14.320
+Like which people.,
+
+00:06:14.320 --> 00:06:17.120
+Where would you go to find the
+people you needed to talk
+
+00:06:17.120 --> 00:06:18.059
+to about this.
+
+00:06:19.150 --> 00:06:23.100
+In order to in order to learn
+about what you should build.
+
+00:06:23.100 --> 00:06:25.110
+And so the idea you&#39;re going
+to use is, let me see here.
+
+00:06:25.110 --> 00:06:26.340
+Of these ideas, so
+
+00:06:26.340 --> 00:06:28.020
+here it&#39;s a lecture focused
+note taking app.
+
+00:06:28.020 --> 00:06:30.760
+The idea is I don&#39;t think that
+the state of the art for
+
+00:06:30.760 --> 00:06:32.530
+note taking is good enough
+yet.
+
+00:06:32.530 --> 00:06:35.800
+And I want to make a note
+taking app that improves.
+
+00:06:35.800 --> 00:06:37.270
+You know, improves that
+experience.
+
+00:06:37.270 --> 00:06:39.730
+Makes taking notes in class
+better.
+
+00:06:39.730 --> 00:06:42.920
+Or taking notes by listening
+to a lecture online better.
+
+00:06:42.920 --> 00:06:45.540
+So you know, maybe it has
+collaboration features.
+
+00:06:45.540 --> 00:06:47.790
+Maybe it, like, helps you
+focus better somehow.
+
+00:06:47.790 --> 00:06:50.390
+It has multimedia
+enhancements.
+
+00:06:50.390 --> 00:06:51.290
+I don&#39;t know, right?
+
+00:06:51.290 --> 00:06:52.700
+All sorts of possible
+features.
+
+00:06:52.700 --> 00:06:53.770
+But that&#39;s the, that&#39;s the
+idea.
+
+00:06:53.770 --> 00:06:54.950
+So take, like,.
+
+00:06:56.570 --> 00:06:59.360
+Take 120 seconds right now,
+and think about not what you
+
+00:06:59.360 --> 00:07:00.730
+would ask, or what the right
+features for
+
+00:07:00.730 --> 00:07:02.770
+this app is, but who would you
+talk to?
+
+00:07:02.770 --> 00:07:03.740
+Who should the, who,
+
+00:07:03.740 --> 00:07:05.650
+who&#39;s going to give you that
+feedback that&#39;s going to tell
+
+00:07:05.650 --> 00:07:07.370
+you whether this is good or
+not?
+
+00:07:07.370 --> 00:07:09.950
+I actually mean it, right now.
+
+00:07:09.950 --> 00:07:12.090
+Take your laptop out, like
+type, write some stuff down.
+
+00:07:12.090 --> 00:07:14.680
+Think, think about, like, the,
+you can,
+
+00:07:14.680 --> 00:07:16.260
+it, it&#39;s good enough to.
+
+00:07:16.260 --> 00:07:17.520
+Like think of that in your
+head.
+
+00:07:17.520 --> 00:07:19.950
+But actually, like if you
+actually just write it down,
+
+00:07:19.950 --> 00:07:22.650
+and like just come up with the
+five people you talk to,
+
+00:07:22.650 --> 00:07:24.650
+the five types of people you
+talk to.
+
+00:07:24.650 --> 00:07:27.100
+And who you think the most
+important one was.
+
+00:07:27.100 --> 00:07:28.160
+LIke, actually do it.
+
+00:07:28.160 --> 00:07:30.000
+Because there&#39;s nothing like
+actually running
+
+00:07:30.000 --> 00:07:31.820
+through a practice of
+something and trying to do it
+
+00:07:31.820 --> 00:07:35.215
+to actually get into your
+head, the right way to do it.
+
+00:07:35.215 --> 00:07:36.950
+I&quot;m gratified to see here
+clicking in,
+
+00:07:36.950 --> 00:07:38.350
+of the keyboards now.
+
+00:07:38.350 --> 00:07:42.070
+If you&#39;re following along at
+home, pause, actually do it.
+
+00:07:42.070 --> 00:07:45.818
+Think about who you, who would
+you talk to?
+
+00:07:45.818 --> 00:07:54.618
+Because that&#39;s a, that is the
+first question
+
+00:07:54.618 --> 00:08:00.237
+for almost any startup that
+you need
+
+00:08:00.237 --> 00:08:05.853
+to answer is like who is my
+user and,
+
+00:08:05.853 --> 00:08:10.747
+and where am I going to find
+them?
+
+00:08:13.840 --> 00:08:19.697
+Alright that&#39;s like way
+shorter than
+
+00:08:19.697 --> 00:08:26.216
+you normally used to think
+about this problem.
+
+00:08:26.216 --> 00:08:28.764
+It&#39;s actually a really tricky
+problem in, like, figuring out
+
+00:08:28.764 --> 00:08:30.900
+where to source the people is
+pretty hard, but ,.
+
+00:08:32.770 --> 00:08:34.310
+We&#39;re going to move along
+anyways in the,
+
+00:08:34.310 --> 00:08:36.970
+in this highly abbreviated
+version of learning how to
+
+00:08:36.970 --> 00:08:39.130
+build a product and run a user
+interview.
+
+00:08:39.130 --> 00:08:43.910
+So can can I get one volunteer
+from the audience to
+
+00:08:43.910 --> 00:08:47.550
+come up and tell, tell us what
+who you would talk to?
+
+00:08:47.550 --> 00:08:48.460
+And we&#39;ll talk about it.
+
+00:08:50.060 --> 00:08:51.364
+You guys are all pre-selected.
+
+00:08:51.364 --> 00:08:52.280
+&gt;&gt;
+&gt;&gt; Here you go.
+
+00:08:52.280 --> 00:08:56.150
+I don&#39;t know, how to turn this
+thing on, here we go.
+
+00:08:56.150 --> 00:09:00.432
+So who do you talk to?
+
+00:09:00.432 --> 00:09:02.987
+I would definitely talk to n
+college students first,
+
+00:09:02.987 --> 00:09:05.370
+obviously because we sit in a
+lot of lectures, and
+
+00:09:05.370 --> 00:09:08.097
+specifically I want to talk to
+college students studying
+
+00:09:08.097 --> 00:09:10.593
+different subjects to see if
+maybe, you know,
+
+00:09:10.593 --> 00:09:12.012
+if you&#39;re an English major,
+
+00:09:12.012 --> 00:09:14.666
+if that makes a different,
+versus you&#39;re studying.
+
+00:09:14.666 --> 00:09:18.800
+Of not, Computer Science in
+terms of how you want to
+
+00:09:18.800 --> 00:09:20.920
+take notes in lectures.
+
+00:09:20.920 --> 00:09:22.600
+&gt;&gt; And so you,
+
+00:09:22.600 --> 00:09:24.670
+you&#39;re going to talk to a
+bunch of college students
+
+00:09:24.670 --> 00:09:27.280
+Would you pick any particular
+subset of college students?
+
+00:09:27.280 --> 00:09:29.200
+Like we&#39;re going to talk to
+all college students or
+
+00:09:29.200 --> 00:09:30.300
+like a broad array.
+
+00:09:30.300 --> 00:09:32.410
+&gt;&gt; I, I went out and talked to
+college students.
+
+00:09:32.410 --> 00:09:35.230
+like, and break down the
+divisions by like people who
+
+00:09:35.230 --> 00:09:36.500
+study different areas maybe.
+
+00:09:36.500 --> 00:09:38.580
+And then also maybe it would
+make sense for
+
+00:09:38.580 --> 00:09:40.520
+people who have like different
+study techniques.
+
+00:09:40.520 --> 00:09:41.910
+Because some people take a lot
+of notes.
+
+00:09:41.910 --> 00:09:43.210
+Some people don&#39;t take that
+many notes,
+
+00:09:43.210 --> 00:09:44.600
+but still jot stuff down.
+
+00:09:44.600 --> 00:09:45.230
+&gt;&gt; Right.
+
+00:09:45.230 --> 00:09:46.890
+So I mean that&#39;, that&#39;s a
+really good start.
+
+00:09:46.890 --> 00:09:48.980
+like that&#39;s, that is actually
+obviously a group of users you
+
+00:09:48.980 --> 00:09:51.080
+want to go talk to, especially
+if you&#39;re targeting something
+
+00:09:51.080 --> 00:09:55.020
+at, you know, at college
+students as the consumer.
+
+00:09:55.020 --> 00:09:56.190
+And if you&#39;re talking to
+college students,
+
+00:09:56.190 --> 00:09:56.790
+as a consumer.
+
+00:09:58.510 --> 00:10:01.000
+the, you&#39;re going to get a lot
+out of students,
+
+00:10:01.000 --> 00:10:04.140
+about, what their current note
+taking habits are.
+
+00:10:04.140 --> 00:10:06.070
+And, you know, what they would
+be excited about.
+
+00:10:06.070 --> 00:10:07.330
+One of the problems with
+selling things to
+
+00:10:07.330 --> 00:10:08.890
+college students, is that,
+college students don&#39;t
+
+00:10:08.890 --> 00:10:10.460
+actually spend very much
+money.
+
+00:10:10.460 --> 00:10:12.470
+it&#39;s, it&#39;s really hard to get
+you guys to open your wallets.
+
+00:10:12.470 --> 00:10:14.960
+Especially, if you want.
+
+00:10:14.960 --> 00:10:16.510
+Them to pay for a
+school-related thing.
+
+00:10:16.510 --> 00:10:18.217
+And if you don&#39;t even want to
+buy text books,
+
+00:10:18.217 --> 00:10:20.663
+right, I think you probably,
+probably all use or
+
+00:10:20.663 --> 00:10:23.178
+that you know, borrow it from
+your friend or whatever.
+
+00:10:23.178 --> 00:10:25.028
+And so one of the like,
+
+00:10:25.028 --> 00:10:28.730
+one of the things that I think
+you&#39;d be missing if you go
+
+00:10:28.730 --> 00:10:32.132
+after just the students,
+right, is you want to.
+
+00:10:32.132 --> 00:10:33.028
+Figure out who,
+
+00:10:33.028 --> 00:10:36.236
+who is the most important
+person to this, to this app.
+
+00:10:36.236 --> 00:10:38.220
+And if you&#39;re actually in a
+note-taking app,
+
+00:10:38.220 --> 00:10:40.353
+my guess is for colleges, the
+people most likely to
+
+00:10:40.353 --> 00:10:42.783
+actually buy a note-taking app
+that you guys would used,
+
+00:10:42.783 --> 00:10:44.570
+would be College IT.
+
+00:10:44.570 --> 00:10:46.550
+Right, I mean, presumably for
+most, for
+
+00:10:46.550 --> 00:10:48.630
+the most part, if you want to
+sell software to students,
+
+00:10:48.630 --> 00:10:49.520
+like the people who have to
+get
+
+00:10:49.520 --> 00:10:52.420
+bought into that is usually
+the school administrator.
+
+00:10:52.420 --> 00:10:53.620
+So that would be one, that
+would be one approach,
+
+00:10:53.620 --> 00:10:55.210
+if you like thought that they
+will.
+
+00:10:55.210 --> 00:10:57.100
+You presumably go talk to the
+College students and
+
+00:10:57.100 --> 00:10:58.800
+you find out they don&#39;t
+actually,
+
+00:10:58.800 --> 00:11:00.650
+buy any note-taking software
+right now at all.
+
+00:11:00.650 --> 00:11:02.130
+I mean, likely.
+
+00:11:02.130 --> 00:11:03.940
+It&#39;s possible they do in which
+case I&#39;m,
+
+00:11:03.940 --> 00:11:05.510
+I&#39;m complete wrong and this is
+where you actually have to go
+
+00:11:05.510 --> 00:11:07.190
+talk to the users but
+
+00:11:07.190 --> 00:11:10.160
+you then have to try to maybe
+try other, other groups right.
+
+00:11:10.160 --> 00:11:11.160
+So I would talk to college,
+
+00:11:11.160 --> 00:11:13.460
+I would talk to IT
+administrators, as well.
+
+00:11:13.460 --> 00:11:15.160
+Think that&#39;s another.
+
+00:11:15.160 --> 00:11:16.760
+Area that&#39;s really promising.
+
+00:11:16.760 --> 00:11:18.490
+You might lo, talk to parents.
+
+00:11:18.490 --> 00:11:19.520
+Right?
+Who, who,
+
+00:11:19.520 --> 00:11:21.210
+who spends money on their
+kids&#39; Education and
+
+00:11:21.210 --> 00:11:22.730
+is like willing to pull their
+wallet out?
+
+00:11:22.730 --> 00:11:24.550
+Like, the, you know, parents
+of kids.
+
+00:11:24.550 --> 00:11:26.130
+Parents of kids, who are
+freshmen who are going off to
+
+00:11:26.130 --> 00:11:27.540
+college for the first time.
+
+00:11:27.540 --> 00:11:29.310
+You need this app to make your
+kid productive so
+
+00:11:29.310 --> 00:11:30.880
+that they don&#39;t fail out of
+College.
+
+00:11:30.880 --> 00:11:34.010
+and, and as I see a lot of
+groups that are potential,
+
+00:11:34.010 --> 00:11:34.660
+that aren&#39;t necessarily,
+
+00:11:34.660 --> 00:11:36.770
+the obvious user, but who are
+critical,
+
+00:11:36.770 --> 00:11:38.780
+critical to your app&#39;s
+success, potentially.
+
+00:11:39.970 --> 00:11:43.230
+And when you, when you&#39;re at
+the very beginning of
+
+00:11:43.230 --> 00:11:45.000
+a startup like this, when
+you&#39;re like,
+
+00:11:45.000 --> 00:11:47.130
+you have this idea that you
+think is awesome.
+
+00:11:47.130 --> 00:11:50.170
+You want to have that broadest
+group you possibly can.
+
+00:11:50.170 --> 00:11:53.150
+You don&#39;t just want to talk to
+one type of person and,
+
+00:11:53.150 --> 00:11:53.820
+and, and learn that.
+
+00:11:53.820 --> 00:11:55.260
+You want to get familiar with
+the space.
+
+00:11:55.260 --> 00:11:57.200
+You want to get familiar with
+the various kinds of
+
+00:11:57.200 --> 00:11:58.420
+people who be contributing.
+
+00:11:58.420 --> 00:11:59.321
+All right.
+
+00:11:59.321 --> 00:12:03.382
+So lets lets have somebody
+come up and we&#39;re going to,
+
+00:12:03.382 --> 00:12:07.240
+we&#39;re going to pretend we&#39;re
+going to the senior interview.
+
+00:12:07.240 --> 00:12:09.390
+So we&#39;re going to talk to a
+college student and
+
+00:12:09.390 --> 00:12:12.290
+try to find out what we should
+build.
+
+00:12:12.290 --> 00:12:15.280
+You know, what we should get
+into this note-taking app.
+
+00:12:15.280 --> 00:12:17.761
+So, so, some, another
+volunteer please for, for
+
+00:12:17.761 --> 00:12:18.807
+running an interview.
+
+00:12:22.044 --> 00:12:22.880
+Yes.
+
+00:12:22.880 --> 00:12:26.400
+All right, so hello.
+
+00:12:26.400 --> 00:12:27.850
+&gt;&gt; Hi, I&#39;m Stephanie.
+
+00:12:27.850 --> 00:12:28.980
+&gt;&gt; Hi, Stephanie.
+&gt;&gt; Nice to meet you.
+
+00:12:28.980 --> 00:12:29.920
+&gt;&gt; Welcome, thank you for
+
+00:12:29.920 --> 00:12:31.298
+agreeing to do this user
+interview with us.
+
+00:12:31.298 --> 00:12:34.853
+So I, I wanted to, hear from
+you about you know,
+
+00:12:34.853 --> 00:12:37.310
+what are your note-taking
+habits.
+
+00:12:37.310 --> 00:12:38.900
+How do you take notes today?
+
+00:12:38.900 --> 00:12:41.500
+&gt;&gt; Sure, so I take notes in a
+variety of ways.
+
+00:12:41.500 --> 00:12:44.870
+I like to now because of speed
+and efficiency and
+
+00:12:44.870 --> 00:12:46.330
+just to come back to it later,
+it&#39;s easier for
+
+00:12:46.330 --> 00:12:48.240
+me to just take notes on my
+lap top.
+
+00:12:48.240 --> 00:12:51.630
+And so a lot of those notes
+will be primarily, text based.
+
+00:12:51.630 --> 00:12:53.040
+But in certain classes.
+
+00:12:53.040 --> 00:12:53.650
+So, for example,
+
+00:12:53.650 --> 00:12:57.080
+if I&#39;m taking a History class,
+most of it will be in text.
+
+00:12:57.080 --> 00:12:59.140
+But if I&#39;m taking it, taking a
+Physics class for
+
+00:12:59.140 --> 00:13:00.880
+example they&#39;re going to be
+more complex diagrams,
+
+00:13:00.880 --> 00:13:02.470
+different angles that I have
+to draw and
+
+00:13:02.470 --> 00:13:05.270
+so that&#39;s little harder work,
+harder for me to-
+
+00:13:05.270 --> 00:13:05.900
+&gt;&gt; What&#39;s-
+&gt;&gt; Get.
+
+00:13:05.900 --> 00:13:08.020
+&gt;&gt; What software do you use
+for this stuff today?
+
+00:13:08.020 --> 00:13:09.320
+&gt;&gt; I just do pen and paper for
+that.
+
+00:13:09.320 --> 00:13:10.630
+&gt;&gt; You do pen and paper, so
+you do a combination.
+
+00:13:10.630 --> 00:13:11.996
+You take notes with pen and
+paper, you take notes-
+
+00:13:11.996 --> 00:13:12.713
+&gt;&gt; Exactly.
+&gt;&gt; With your
+
+00:13:12.713 --> 00:13:14.480
+computer sometimes.
+
+00:13:14.480 --> 00:13:17.270
+&gt;&gt; Yeah.
+&gt;&gt; And when you take notes
+
+00:13:17.270 --> 00:13:19.340
+with when you take all these
+notes, again it&#39;s like,
+
+00:13:19.340 --> 00:13:20.110
+do you actually review them?
+
+00:13:20.110 --> 00:13:22.610
+Like, do you, be honest, do
+you actually go back and
+
+00:13:22.610 --> 00:13:23.910
+actually ever look at these
+notes?
+
+00:13:23.910 --> 00:13:25.790
+&gt;&gt; The pen and paper not so
+much.
+
+00:13:25.790 --> 00:13:30.110
+But yes to the software-based,
+because it&#39;s more easy to
+
+00:13:30.110 --> 00:13:33.170
+access and it&#39;s easier for me
+to, to share and collaborate
+
+00:13:33.170 --> 00:13:36.140
+and maybe even merge notes
+with classmates and friends.
+
+00:13:36.140 --> 00:13:37.330
+&gt;&gt; So what do what do you
+
+00:13:37.330 --> 00:13:38.740
+use to take notes today on
+your computer?
+
+00:13:40.450 --> 00:13:43.040
+Google Docs and Evernote.
+
+00:13:43.040 --> 00:13:44.645
+&gt;&gt; Google Docs and Evernote?
+
+00:13:44.645 --> 00:13:45.145
+&gt;&gt; Mm-hm.
+&gt;&gt; And ,.
+
+00:13:45.145 --> 00:13:45.740
+&gt;&gt; And.
+
+00:13:45.740 --> 00:13:46.330
+&gt;&gt; Tell me more about
+
+00:13:46.330 --> 00:13:49.720
+like why two things at the
+same time.
+
+00:13:49.720 --> 00:13:52.430
+&gt;&gt; So Evernote is easy, if I&#39;m
+trying to just collect it for
+
+00:13:52.430 --> 00:13:53.920
+myself, I think.
+
+00:13:53.920 --> 00:13:56.150
+And yes you can share, but I
+think Google Docs for
+
+00:13:56.150 --> 00:14:00.720
+me is easier to share and that
+depends also if, you know,
+
+00:14:00.720 --> 00:14:01.970
+a friend has already created a
+folder.
+
+00:14:01.970 --> 00:14:04.010
+For example on Google Docs and
+I just have to add to that
+
+00:14:04.010 --> 00:14:06.790
+folder if it&#39;s a group project
+for example versus if it&#39;s for
+
+00:14:06.790 --> 00:14:09.530
+my personal use I, I tend to
+go more toward.
+
+00:14:09.530 --> 00:14:10.280
+&gt;&gt; So it sounds like you do
+
+00:14:10.280 --> 00:14:11.870
+a lot of note-taking
+collaboration.
+
+00:14:11.870 --> 00:14:12.370
+&gt;&gt; Yeah.
+&gt;&gt; What-
+
+00:14:12.370 --> 00:14:13.633
+&gt;&gt; I wish it was integrated
+
+00:14:13.633 --> 00:14:15.633
+&gt;&gt; What tell me
+
+00:14:15.633 --> 00:14:17.310
+more about that.
+
+00:14:17.310 --> 00:14:19.379
+Like, like, do you take as,
+
+00:14:19.379 --> 00:14:22.060
+do you want up taking most of
+the notes, most of
+
+00:14:22.060 --> 00:14:24.140
+the value of the notes out of
+notes other people take?
+
+00:14:24.140 --> 00:14:25.790
+Or is it mostly your own notes
+you review at
+
+00:14:25.790 --> 00:14:26.400
+the end of a semester?
+
+00:14:26.400 --> 00:14:27.490
+How does that work?
+
+00:14:27.490 --> 00:14:30.820
+&gt;&gt; It&#39;s mostly, mine because
+I&#39;m pretty picky about
+
+00:14:30.820 --> 00:14:32.970
+the way I like things
+organized.
+
+00:14:32.970 --> 00:14:35.730
+like, design wise, or
+formatting.
+
+00:14:35.730 --> 00:14:38.070
+Even color, I&#39;m really
+particular with.
+
+00:14:38.070 --> 00:14:39.330
+And, like, the font that we
+use.
+
+00:14:39.330 --> 00:14:41.050
+And that really affects the
+way I study.
+
+00:14:41.050 --> 00:14:44.920
+So, I tend to like, to like,
+to like to personalize it,
+
+00:14:44.920 --> 00:14:46.360
+even after I merge.
+
+00:14:46.360 --> 00:14:48.070
+&gt;&gt; So, you, you pull in notes
+from other people.
+
+00:14:48.070 --> 00:14:50.830
+But then you merge them into,
+into the main.
+
+00:14:50.830 --> 00:14:51.790
+&gt;&gt; What works for me.
+
+00:14:51.790 --> 00:14:52.290
+&gt;&gt; Right.
+
+00:14:53.820 --> 00:14:54.570
+awesome.
+
+00:14:54.570 --> 00:14:59.300
+And if you, if you have
+Evernote notes and
+
+00:14:59.300 --> 00:15:03.085
+you have Google Docs notes and
+you have pen and paper notes.
+
+00:15:03.085 --> 00:15:04.380
+&gt;&gt; Mm-hm,
+&gt;&gt; Once the semester&#39;s over do
+
+00:15:04.380 --> 00:15:06.160
+you ever go back to any of
+that stuff or is it
+
+00:15:06.160 --> 00:15:08.070
+like the quarter end, you guys
+do have quarters here, right?
+
+00:15:08.070 --> 00:15:09.690
+&gt;&gt; Yeah.
+&gt;&gt; One the quarter&#39;s over
+
+00:15:09.690 --> 00:15:10.980
+do you ever go back to any of
+that stuff?
+
+00:15:10.980 --> 00:15:11.480
+Do you ever?
+
+00:15:12.990 --> 00:15:16.880
+&gt;&gt; For classes not so much but
+if it&#39;s notes I&#39;ve taken for
+
+00:15:16.880 --> 00:15:18.310
+like talks like these, for
+example, or
+
+00:15:18.310 --> 00:15:20.560
+if it&#39;s like interview prep
+that I&#39;m doing.
+
+00:15:20.560 --> 00:15:23.320
+I tend to go back because of
+things that I like to kind of
+
+00:15:23.320 --> 00:15:25.120
+keep fresh in my mind.
+
+00:15:25.120 --> 00:15:26.780
+And to help me prep for, for
+future things.
+
+00:15:26.780 --> 00:15:27.470
+&gt;&gt; So that&#39;s interesting.
+
+00:15:27.470 --> 00:15:28.190
+Tell more about that.
+
+00:15:28.190 --> 00:15:30.200
+Like you take notes not just
+in class?
+
+00:15:30.200 --> 00:15:34.090
+&gt;&gt; Yeah, so I take notes to,
+also to summarize main points.
+
+00:15:34.090 --> 00:15:35.830
+So if it&#39;s like inspirational
+quotes.
+
+00:15:35.830 --> 00:15:38.530
+For example talks that I go to
+like these.
+
+00:15:38.530 --> 00:15:40.470
+And then like, maybe I&#39;m going
+to an event where I&#39;m
+
+00:15:40.470 --> 00:15:42.590
+actually going to meet someone
+and it,
+
+00:15:42.590 --> 00:15:44.450
+it helps to actually to think
+about and
+
+00:15:44.450 --> 00:15:48.040
+to remember and recall what we
+shared at the time that,
+
+00:15:48.040 --> 00:15:50.290
+you know, I attended the talk
+or something.
+
+00:15:50.290 --> 00:15:50.970
+&gt;&gt; Awesome.
+
+00:15:50.970 --> 00:15:52.040
+All right.
+Well, normally I&#39;d
+
+00:15:52.040 --> 00:15:53.290
+actually dig into a lot more
+detail.
+
+00:15:53.290 --> 00:15:55.510
+There&#39;s a huge amount of like,
+open questions that
+
+00:15:55.510 --> 00:15:57.750
+are still in my mind after
+hearing that stuff.
+
+00:15:57.750 --> 00:16:00.140
+Questions about, which people
+do you collaborate with.
+
+00:16:00.140 --> 00:16:02.470
+Questions about whether or
+
+00:16:02.470 --> 00:16:05.370
+not you like, like what the
+volume of notes are.
+
+00:16:05.370 --> 00:16:07.900
+And like how, how long of, of
+note-taking stuff.
+
+00:16:07.900 --> 00:16:08.810
+Just sort of, digging in to
+
+00:16:08.810 --> 00:16:10.610
+like what the current behavior
+is.
+
+00:16:10.610 --> 00:16:12.722
+But like in interest of time
+and not like keeping everyone
+
+00:16:12.722 --> 00:16:14.658
+here hearing about the
+intricacies of one person&#39;s
+
+00:16:14.658 --> 00:16:16.790
+note-taking habits forever
+we&#39;re going to move on.
+
+00:16:16.790 --> 00:16:18.120
+But thank you very much
+Stephanie that was,
+
+00:16:18.120 --> 00:16:19.300
+appreciate that.
+
+00:16:19.300 --> 00:16:23.270
+So so that, that&#39;s like, that
+kind of stuff,
+
+00:16:23.270 --> 00:16:26.960
+you notice we&#39;re not talking
+about the actual content of
+
+00:16:26.960 --> 00:16:27.800
+the app at all.
+
+00:16:27.800 --> 00:16:28.430
+Like, I&#39;m not, I&#39;m not,
+
+00:16:28.430 --> 00:16:30.340
+I&#39;m not really interested in
+features.
+
+00:16:30.340 --> 00:16:33.117
+I don&#39;t really want to know
+about what they,
+
+00:16:33.117 --> 00:16:36.750
+the specific feature set in
+Google Docs and Evernote.
+
+00:16:36.750 --> 00:16:38.030
+I might start digging in a
+little bit more into,
+
+00:16:38.030 --> 00:16:39.300
+which features actually get
+used.
+
+00:16:39.300 --> 00:16:41.960
+Like if she&#39;s actively
+collaborating.
+
+00:16:41.960 --> 00:16:43.230
+You know is, how does that
+work?
+
+00:16:43.230 --> 00:16:44.550
+I heard some interesting
+things about oh,
+
+00:16:44.550 --> 00:16:45.380
+we, we use folders.
+
+00:16:45.380 --> 00:16:46.550
+That&#39;s interesting to me.
+
+00:16:46.550 --> 00:16:48.660
+But the main thing you&#39;re
+trying to do when you&#39;re
+
+00:16:48.660 --> 00:16:51.610
+running these first set of
+interviews is not necessarily
+
+00:16:51.610 --> 00:16:54.860
+get, like, questions about
+like user flows and
+
+00:16:54.860 --> 00:16:56.590
+like optimizing that, or
+questions about
+
+00:16:57.860 --> 00:17:02.970
+like the specifics of of, of
+any of that stuff.
+
+00:17:02.970 --> 00:17:05.880
+kind of can be distracting
+because users think they
+
+00:17:05.880 --> 00:17:07.630
+know what they want.
+
+00:17:07.630 --> 00:17:09.740
+But like you, you get the you
+get
+
+00:17:09.740 --> 00:17:13.850
+the horseless carriage effect,
+where you&#39;re, you&#39;re you&#39;re,
+
+00:17:13.850 --> 00:17:15.680
+you&#39;re getting asked for a
+faster horse instead of
+
+00:17:15.680 --> 00:17:18.630
+trying to design the actual
+real solution to the problem.
+
+00:17:18.630 --> 00:17:19.940
+If you start asking people
+about features, so
+
+00:17:19.940 --> 00:17:21.300
+you want to stay as far away
+from features as
+
+00:17:21.300 --> 00:17:22.950
+possible because the the
+things they tell you.
+
+00:17:22.950 --> 00:17:25.700
+Wind up feeling, almost
+overwhelmingly real.
+
+00:17:25.700 --> 00:17:27.050
+When you have a real user
+asking you for
+
+00:17:27.050 --> 00:17:29.332
+a feature, it&#39;s almost, it&#39;s
+very hard to say no to them.
+
+00:17:29.332 --> 00:17:32.440
+Because here&#39;s a real person
+who really has this problem,
+
+00:17:32.440 --> 00:17:34.380
+and they, they&#39;re saying build
+me this feature.
+
+00:17:34.380 --> 00:17:36.850
+But as you start to talk to
+lots of people and
+
+00:17:36.850 --> 00:17:38.880
+really get a sense for what,
+what their problems are, you
+
+00:17:38.880 --> 00:17:41.660
+figure out if this is actually
+a promising area or not.
+
+00:17:41.660 --> 00:17:44.166
+And like, based on what I
+heard there, it&#39;s like.
+
+00:17:44.166 --> 00:17:45.640
+Starting from that interview,
+
+00:17:45.640 --> 00:17:47.988
+I&#39;m not necessarily positive
+there is a problem or
+
+00:17:47.988 --> 00:17:50.773
+there&#39;s at least there&#39;s a,
+there&#39;s a big enough problem
+
+00:17:50.773 --> 00:17:53.515
+that it&#39;s worth building a
+whole new product for.
+
+00:17:53.515 --> 00:17:59.820
+Because I didn&#39;t hear a lot of
+like things were were were.
+
+00:17:59.820 --> 00:18:02.710
+There was a, a big blocker, or
+there was something really
+
+00:18:02.710 --> 00:18:04.840
+wrong with the way it, the way
+it was working.
+
+00:18:04.840 --> 00:18:07.280
+Unless I had some big idea I
+would take that as,
+
+00:18:07.280 --> 00:18:09.412
+you know, maybe a negative
+sign.
+
+00:18:09.412 --> 00:18:11.797
+But it doesn&#39;t necessarily
+mean that you can&#39;t,
+
+00:18:11.797 --> 00:18:14.463
+you can&#39;t move forward and
+keep talking to more people.
+
+00:18:14.463 --> 00:18:16.147
+Because just because you talk
+to the first person and
+
+00:18:16.147 --> 00:18:17.256
+you don&#39;t get anything out of
+it,
+
+00:18:17.256 --> 00:18:18.813
+doesn&#39;t mean there&#39;s not going
+to be.
+
+00:18:18.813 --> 00:18:21.340
+A ton more people, who
+actually have a problem.
+
+00:18:21.340 --> 00:18:23.500
+And you, once you talk to
+about six, seven,
+
+00:18:23.500 --> 00:18:26.280
+eight people you&#39;re usually
+about done.
+
+00:18:26.280 --> 00:18:27.890
+It&#39;s unlikely you&#39;re going to
+discover a bunch of
+
+00:18:27.890 --> 00:18:28.900
+new information there.
+
+00:18:30.440 --> 00:18:33.020
+Which is why it&#39;s important to
+talk to different extremes of
+
+00:18:33.020 --> 00:18:33.680
+people right.
+
+00:18:33.680 --> 00:18:34.550
+Go, go find people who
+
+00:18:34.550 --> 00:18:37.850
+are different different points
+because this is just six or
+
+00:18:37.850 --> 00:18:39.610
+seven Stanford college
+students, you&#39;re going to get
+
+00:18:39.610 --> 00:18:41.850
+a very different response when
+we talk to six or
+
+00:18:41.850 --> 00:18:45.996
+seven high school students, or
+six or seven parents.
+
+00:18:45.996 --> 00:18:53.508
+All right, one second, let me
+look at the So
+
+00:18:53.508 --> 00:18:59.100
+based on that though, right, I
+think the.
+
+00:18:59.100 --> 00:19:01.990
+I think it&#39;s possible you
+could come up with,
+
+00:19:01.990 --> 00:19:03.370
+a set of ideas, right?
+
+00:19:03.370 --> 00:19:06.400
+You have this information
+about how someone takes notes,
+
+00:19:06.400 --> 00:19:08.540
+you&#39;ve, you&#39;ve come up with,
+
+00:19:08.540 --> 00:19:10.530
+potentially when you came up
+with this idea you had,
+
+00:19:10.530 --> 00:19:12.330
+you had some ideas as to, you
+heard this idea, you had
+
+00:19:12.330 --> 00:19:15.140
+some ideas as to like how you
+could build something cool.
+
+00:19:16.260 --> 00:19:17.510
+And so, if you&#39;re going to
+build
+
+00:19:17.510 --> 00:19:20.460
+just one feature on top of
+Google Docs.
+
+00:19:20.460 --> 00:19:22.630
+What would that feature be,
+right?
+
+00:19:22.630 --> 00:19:26.550
+And that&#39;s for, for, for a new
+product like this, it might be
+
+00:19:26.550 --> 00:19:28.950
+a good way to like get started
+thinking about where to go.
+
+00:19:28.950 --> 00:19:29.802
+Which is,
+
+00:19:29.802 --> 00:19:33.520
+okay, they&#39;re extensively
+using this things, right now.
+
+00:19:33.520 --> 00:19:34.170
+How can we make that
+
+00:19:34.170 --> 00:19:36.060
+experience just one quantum
+better?
+
+00:19:36.060 --> 00:19:37.530
+Something that would be.
+
+00:19:37.530 --> 00:19:42.040
+Really exciting to this person
+to be one one step ahead, and
+
+00:19:42.040 --> 00:19:44.420
+so let me take two minutes,
+right now.
+
+00:19:44.420 --> 00:19:47.157
+And think about, what that
+feature might be?
+
+00:19:47.157 --> 00:19:50.780
+Actually like try to, try to
+come up with what,
+
+00:19:50.780 --> 00:19:54.024
+what you might do based on
+what you heard from,
+
+00:19:54.024 --> 00:19:56.817
+from Stephanie, that could
+convince her to
+
+00:19:56.817 --> 00:20:00.895
+switch away from her current
+collaborative, multi-person,
+
+00:20:00.895 --> 00:20:04.239
+all-working-together workflow
+on Google Docs?
+
+00:20:04.239 --> 00:20:06.131
+To your new, your new thing
+that is,
+
+00:20:06.131 --> 00:20:08.573
+has all the features of Google
+Docs plus this one
+
+00:20:08.573 --> 00:20:12.150
+special thing that&#39;s, like,
+going to make it,.
+
+00:20:12.150 --> 00:20:14.433
+It&#39;s going to make it more be,
+more useful, and, and
+
+00:20:14.433 --> 00:20:16.351
+convincing the stop using that
+they are using.
+
+00:21:04.998 --> 00:21:05.965
+Awesome, all right.
+
+00:21:05.965 --> 00:21:08.055
+So, I&#39;m going to invite our,
+our third guest, if you,
+
+00:21:08.055 --> 00:21:09.650
+if you have something up.
+
+00:21:09.650 --> 00:21:11.480
+I, I don&#39;t want to put you on
+the spot if
+
+00:21:11.480 --> 00:21:13.709
+you feel like you don&#39;t,
+you&#39;re not sure, but.
+
+00:21:15.710 --> 00:21:17.130
+&gt;&gt; Yeah.
+&gt;&gt; So what I, what I, is
+
+00:21:17.130 --> 00:21:17.700
+it on?
+
+00:21:17.700 --> 00:21:18.390
+&gt;&gt; Yes.
+
+00:21:18.390 --> 00:21:21.590
+&gt;&gt; What I thought about was
+like the, the reason she uses
+
+00:21:21.590 --> 00:21:25.770
+Everknow is like, of like,
+sticky note type notes like,
+
+00:21:25.770 --> 00:21:27.290
+like more thoughts and like
+details.
+
+00:21:27.290 --> 00:21:31.320
+So, I feel like, Google Docs
+has like documents and
+
+00:21:31.320 --> 00:21:33.300
+not like, smaller notes.
+
+00:21:33.300 --> 00:21:34.740
+So, I feel like a feature that
+will be like,
+
+00:21:34.740 --> 00:21:37.740
+super like, a mobile version
+of draw it
+
+00:21:37.740 --> 00:21:40.620
+that doesn&#39;t like, isn&#39;t that
+clunky and like, doesn&#39;t make
+
+00:21:40.620 --> 00:21:43.810
+you make real documents could
+be like, really useful.
+
+00:21:43.810 --> 00:21:44.530
+Awesome.
+
+00:21:44.530 --> 00:21:45.640
+So right.
+That&#39;s a,
+
+00:21:45.640 --> 00:21:46.460
+that&#39;s a good insight.
+
+00:21:46.460 --> 00:21:47.590
+Right, that&#39;s exactly,
+
+00:21:47.590 --> 00:21:48.810
+what&#39;s one of the thing that
+you get out of that,
+
+00:21:48.810 --> 00:21:49.370
+that user interview?
+
+00:21:49.370 --> 00:21:52.760
+And then, you&#39;ve got this
+idea.
+
+00:21:52.760 --> 00:21:55.380
+Right, you&#39;ve gotten this, I
+guess, user-fed feedback.
+
+00:21:55.380 --> 00:21:56.570
+You&#39;ve got this idea.
+
+00:21:56.570 --> 00:22:00.130
+What if we&#39;ve had a Google
+Docs that had
+
+00:22:00.130 --> 00:22:03.150
+the collaborative aspects and
+the group aspects of that, but
+
+00:22:03.150 --> 00:22:07.580
+where you you could pull in
+more little one off notes.
+
+00:22:07.580 --> 00:22:10.320
+And, it was, it was designed
+more around note taking.
+
+00:22:10.320 --> 00:22:12.270
+And so, the question is, now,
+once you have this idea,
+
+00:22:12.270 --> 00:22:13.470
+which I think it&#39;s the,
+
+00:22:13.470 --> 00:22:15.560
+it&#39;s actually probably a
+reasonable approach.
+
+00:22:15.560 --> 00:22:16.790
+Is this enough?
+
+00:22:16.790 --> 00:22:20.470
+Is this something people would
+actually switch just to have?
+
+00:22:20.470 --> 00:22:22.050
+And, the way to validate,
+
+00:22:22.050 --> 00:22:23.010
+there&#39;s two ways to validate
+that.
+
+00:22:23.010 --> 00:22:24.700
+One is if you&#39;re quick at
+programming,
+
+00:22:24.700 --> 00:22:26.330
+you can literally just go
+build it, and
+
+00:22:26.330 --> 00:22:28.860
+throw it out in the world and
+see what happens.
+
+00:22:28.860 --> 00:22:31.660
+and, that&#39;s that&#39;s great.
+
+00:22:31.660 --> 00:22:33.600
+And, if that, when that works
+that&#39;s
+
+00:22:33.600 --> 00:22:34.800
+that&#39;s an excellent way to
+approach it.
+
+00:22:34.800 --> 00:22:37.990
+But, a lot of the time that
+one little thing that&#39;s just
+
+00:22:37.990 --> 00:22:42.050
+a little bit better might take
+you three months to
+
+00:22:42.050 --> 00:22:45.170
+actually build something
+worthy of actually using.
+
+00:22:45.170 --> 00:22:47.060
+And so, you actually want to
+go out and
+
+00:22:47.060 --> 00:22:49.490
+validate that idea further
+before you go ahead and
+
+00:22:49.490 --> 00:22:50.720
+start building it.
+
+00:22:50.720 --> 00:22:51.950
+And so, you might take that
+idea, and
+
+00:22:51.950 --> 00:22:54.370
+you might go back go back out
+and
+
+00:22:54.370 --> 00:22:58.200
+you know, you can sit down
+with with diagrams.
+
+00:22:58.200 --> 00:23:03.130
+You can, you can draw what the
+what it looks like.
+
+00:23:03.130 --> 00:23:06.700
+Draw the work flow, and go
+bring that in front of people,
+
+00:23:06.700 --> 00:23:09.540
+but the one thing you really
+don&#39;t want to do is
+
+00:23:09.540 --> 00:23:11.440
+ask them this, this is sort of
+a trap, and
+
+00:23:11.440 --> 00:23:12.880
+I just want to warn you
+against doing it.
+
+00:23:12.880 --> 00:23:15.140
+Just don&#39;t go out and say, to
+come up with a feature idea,
+
+00:23:15.140 --> 00:23:16.930
+and go out and ask people.
+
+00:23:16.930 --> 00:23:18.400
+Are, you know?
+I&#39;ve got this great idea
+
+00:23:18.400 --> 00:23:18.970
+for a feature.
+
+00:23:18.970 --> 00:23:20.570
+Are you excited about it?
+
+00:23:20.570 --> 00:23:24.330
+Because, the, the feedback you
+get from users, if you tell
+
+00:23:24.330 --> 00:23:26.520
+them about a feature, and ask
+them, is this feature good?
+
+00:23:26.520 --> 00:23:27.670
+It&#39;s often, oh yeah, that&#39;s
+great.
+
+00:23:27.670 --> 00:23:29.000
+Like, that sounds like such a
+good idea.
+
+00:23:30.440 --> 00:23:34.310
+but, when you actually take
+that in front of people, and
+
+00:23:34.310 --> 00:23:34.950
+you actually build it.
+
+00:23:34.950 --> 00:23:37.090
+You then, find out that while
+they thought it
+
+00:23:37.090 --> 00:23:39.740
+was such a clever idea, no one
+actually, like,
+
+00:23:39.740 --> 00:23:41.200
+cares to switch to get it.
+
+00:23:41.200 --> 00:23:44.150
+And so, the one question you
+can&#39;t ask is this feature
+
+00:23:44.150 --> 00:23:45.650
+actually good or not?
+
+00:23:45.650 --> 00:23:46.230
+Yes, Sam?
+&gt;&gt; What is
+
+00:23:46.230 --> 00:23:47.820
+the minimum that you
+
+00:23:47.820 --> 00:23:50.350
+could do in your experience to
+actually if asking, you know,
+
+00:23:50.350 --> 00:23:54.510
+between asking and actually
+building that whole thing.
+
+00:23:54.510 --> 00:23:55.630
+&gt;&gt; Yeah.
+So, Sam&#39;s asking if
+
+00:23:55.630 --> 00:23:59.670
+what&#39;s the, what&#39;s the minimum
+you can actually get away with
+
+00:23:59.670 --> 00:24:01.640
+to validate, given that you
+can&#39;t actually just go and
+
+00:24:01.640 --> 00:24:03.300
+ask them is this good or not?
+
+00:24:04.380 --> 00:24:05.960
+and, it&#39;s, it&#39;s highly
+dependent the answer to
+
+00:24:05.960 --> 00:24:08.240
+that is highly dependent on
+the particular feature.
+
+00:24:08.240 --> 00:24:11.590
+But, usually the, the best
+thing you can do is, is, is,
+
+00:24:11.590 --> 00:24:13.650
+really just hack something
+together, right?
+
+00:24:13.650 --> 00:24:15.220
+It&#39;s, you find, if your, if
+your idea is to build
+
+00:24:15.220 --> 00:24:18.120
+something on top of Google
+Docs, don&#39;t, for your V1,
+
+00:24:18.120 --> 00:24:21.670
+go rebuild, an awesome Google
+Documents, but
+
+00:24:21.670 --> 00:24:23.850
+for note taking application.
+
+00:24:25.190 --> 00:24:27.780
+Find a way to write a browser
+extension, that, that,
+
+00:24:27.780 --> 00:24:31.910
+that stuffs just that little
+bit of incremental feature in,
+
+00:24:31.910 --> 00:24:34.870
+and, and see if it&#39;s actually
+useful for people.
+
+00:24:34.870 --> 00:24:36.610
+go, like actually, go,
+
+00:24:36.610 --> 00:24:38.940
+go find a way to cheat is what
+it comes down to,
+
+00:24:38.940 --> 00:24:40.740
+because if you can&#39;t actually
+put it in front of people
+
+00:24:42.360 --> 00:24:45.280
+it&#39;s really, really hard to to
+find that out.
+
+00:24:45.280 --> 00:24:47.360
+For bigger things, where
+you&#39;re actually trying to,
+
+00:24:47.360 --> 00:24:49.670
+get people to spend money, it
+actually gets a lot easier.
+
+00:24:49.670 --> 00:24:52.090
+So, if you&#39;re selling it it&#39;s
+great actually sales is
+
+00:24:52.090 --> 00:24:53.910
+this cure all for this
+problem.
+
+00:24:53.910 --> 00:24:55.390
+Get people to put, give you
+their credit card and
+
+00:24:55.390 --> 00:24:57.650
+I guarantee you they&#39;re
+actually using the feature.
+
+00:24:57.650 --> 00:24:59.780
+It&#39;s it&#39;s one of the most
+validating thing you
+
+00:24:59.780 --> 00:25:01.120
+can do for a product, is go
+out there and
+
+00:25:01.120 --> 00:25:03.780
+actually get them to commit to
+pay you up fron.
+
+00:25:03.780 --> 00:25:05.350
+And, the problem is when
+you&#39;re working on
+
+00:25:05.350 --> 00:25:06.780
+a student note taking app,
+that&#39;s going to be
+
+00:25:06.780 --> 00:25:10.610
+relatively hard because you
+probably unless your idea is
+
+00:25:10.610 --> 00:25:12.120
+that you&#39;re actually going to
+sell it.
+
+00:25:12.120 --> 00:25:14.100
+It&#39;s probably something where
+you&#39;re thinking at least the,
+
+00:25:14.100 --> 00:25:15.840
+if the trial version&#39;s free,
+and you&#39;re not necessarily
+
+00:25:15.840 --> 00:25:18.810
+going to learn that much by
+trying to charge people money.
+
+00:25:18.810 --> 00:25:20.220
+But, if you go out there and
+
+00:25:20.220 --> 00:25:21.710
+you can, if you can get people
+to say hey I&#39;m going to,
+
+00:25:21.710 --> 00:25:22.890
+I&#39;m going to give you money?
+
+00:25:22.890 --> 00:25:26.860
+The money test is amazing, it
+really does clarify whether or
+
+00:25:26.860 --> 00:25:28.410
+not, they&#39;re rereally excited,
+
+00:25:28.410 --> 00:25:30.390
+because if you&#39;re not
+five-dollars-excited about it,
+
+00:25:30.390 --> 00:25:31.690
+you&#39;re probably not very
+excited about it.
+
+00:25:32.738 --> 00:25:36.083
+so, the last thing I wanted to
+do was actually work
+
+00:25:36.083 --> 00:25:40.010
+through with you guys, what
+happened at Twitch.
+
+00:25:40.010 --> 00:25:42.640
+So I brought some slides of
+feedback that I would like to
+
+00:25:42.640 --> 00:25:43.172
+get put up.
+
+00:25:43.172 --> 00:25:45.400
+It&#39;s my, my only slides for
+
+00:25:45.400 --> 00:25:47.880
+the for the thing and it&#39;s,
+it&#39;s.
+
+00:25:47.880 --> 00:25:48.980
+What it is it&#39;s,
+
+00:25:48.980 --> 00:25:51.530
+it&#39;s, it&#39;s representative
+excerpts of Twitch feedback.
+
+00:25:51.530 --> 00:25:52.630
+I had a whole like,
+
+00:25:52.630 --> 00:25:54.260
+26 page document full of all
+the feedback.
+
+00:25:54.260 --> 00:25:55.240
+And then, I realized that
+
+00:25:55.240 --> 00:25:56.850
+reading that was going to be a
+little bit tedious and
+
+00:25:56.850 --> 00:25:58.540
+there was no way I&#39;d make it
+through it in a lecture.
+
+00:25:58.540 --> 00:26:02.409
+So, pretend that like this is
+stuff is all representative of
+
+00:26:05.090 --> 00:26:08.440
+like, lots of people sent this
+kind of thing out to,
+
+00:26:08.440 --> 00:26:09.700
+to ask for me ask them
+questions.
+
+00:26:09.700 --> 00:26:10.910
+And, I&#39;ve already pre
+condensed it for
+
+00:26:10.910 --> 00:26:13.310
+you in to the real feedback
+you got.
+
+00:26:13.310 --> 00:26:16.570
+So, when we were working on
+Twitch to go launch it,
+
+00:26:16.570 --> 00:26:18.300
+we we wouldn&#39;t talk too
+
+00:26:18.300 --> 00:26:21.370
+much about existing Justin.tv
+Broadcasters and asked them.
+
+00:26:21.370 --> 00:26:23.460
+About their experience
+broadcasting,
+
+00:26:23.460 --> 00:26:25.130
+what they liked about
+broadcasting,
+
+00:26:25.130 --> 00:26:27.120
+why they broadcasted, what
+they broadcasted,
+
+00:26:27.120 --> 00:26:29.020
+what else was going on in
+their life.
+
+00:26:29.020 --> 00:26:30.710
+And, the interesting thing is
+when you talk to users of
+
+00:26:30.710 --> 00:26:31.570
+your product who are,
+
+00:26:31.570 --> 00:26:34.590
+who are detailed users of your
+product, they come back to
+
+00:26:34.590 --> 00:26:38.190
+you with actually very detail
+things about features.
+
+00:26:38.190 --> 00:26:39.820
+Because they actually get
+mired in the feature and
+
+00:26:39.820 --> 00:26:41.050
+you have to sort of read
+between the lines.
+
+00:26:41.050 --> 00:26:43.960
+But they asked for first
+things like I want to be
+
+00:26:43.960 --> 00:26:45.810
+able to, way to clear the
+banlist in my chat room.
+
+00:26:45.810 --> 00:26:47.100
+Like, this, that was actually
+a very
+
+00:26:47.100 --> 00:26:48.880
+common request because there
+was
+
+00:26:48.880 --> 00:26:50.730
+a particular issue with how
+our chat rooms worked.
+
+00:26:50.730 --> 00:26:54.210
+People had asked for the
+ability to edit the titles of
+
+00:26:54.210 --> 00:26:56.050
+highlights after creating
+them.
+
+00:26:56.050 --> 00:26:56.880
+And, and it&#39;s,
+
+00:26:56.880 --> 00:26:58.940
+it&#39;s, the, this was like, this
+stuff was really consistent.
+
+00:26:58.940 --> 00:26:59.900
+As we talked to broadcasters,
+
+00:26:59.900 --> 00:27:03.430
+you probably talked to 12 fif,
+fo, 14, something like that
+
+00:27:03.430 --> 00:27:07.260
+broadcasters from the
+Justin.tv gaming platform.
+
+00:27:07.260 --> 00:27:08.940
+We got, we got all this
+feedback and,
+
+00:27:08.940 --> 00:27:09.980
+you know, what else do we
+have?
+
+00:27:09.980 --> 00:27:12.170
+We have your, your competitors
+have all these cool features
+
+00:27:12.170 --> 00:27:14.950
+like polls and scrolling text,
+you, I can personalize chat
+
+00:27:14.950 --> 00:27:19.890
+there and so, we have some
+positive feedback.
+
+00:27:19.890 --> 00:27:22.346
+They&#39;re like, oh, you guys
+don&#39;t have ads, that&#39;s great.
+
+00:27:22.346 --> 00:27:23.980
+I need to be able to ban.
+
+00:27:23.980 --> 00:27:25.280
+So, a bunch of stuff around
+chat.
+
+00:27:25.280 --> 00:27:28.180
+A bunch of stuff around
+interactivity with,
+
+00:27:28.180 --> 00:27:33.920
+with interactivity with the
+with their viewers.
+
+00:27:33.920 --> 00:27:35.310
+And, that was all really
+interesting.
+
+00:27:35.310 --> 00:27:36.940
+So, this was what the, this is
+what the Justin TV
+
+00:27:36.940 --> 00:27:39.270
+broadcasters wanted us to
+build.
+
+00:27:39.270 --> 00:27:40.640
+And, this is what they, what,
+
+00:27:40.640 --> 00:27:44.310
+what, where they felt pain
+using the, using the product.
+
+00:27:44.310 --> 00:27:47.860
+And so, if you thought that
+what we
+
+00:27:47.860 --> 00:27:50.800
+did was going to address these
+problems, you would be wrong.
+
+00:27:50.800 --> 00:27:53.140
+Because, actually, people who
+are using your service already
+
+00:27:53.140 --> 00:27:55.720
+and are willing to put up with
+all these issues, kind of,
+
+00:27:55.720 --> 00:27:56.250
+kind of means that
+
+00:27:56.250 --> 00:27:58.980
+these are probably not
+actually the biggest problems.
+
+00:27:58.980 --> 00:28:01.780
+Because if you&#39;re willing to
+ignore the fact that you can&#39;t
+
+00:28:01.780 --> 00:28:03.870
+edit the band lesson, titles
+are uneditable, and
+
+00:28:03.870 --> 00:28:05.490
+there&#39;s no way to get trolls
+out of your channel.
+
+00:28:05.490 --> 00:28:07.000
+And, you&#39;re using the service
+anyways,
+
+00:28:07.000 --> 00:28:08.280
+maybe those aren&#39;t huge
+problems.
+
+00:28:08.280 --> 00:28:09.240
+And so, that sort of
+
+00:28:09.240 --> 00:28:10.370
+brings up another really
+important point.
+
+00:28:10.370 --> 00:28:13.200
+Which is, you have to compare
+you have to
+
+00:28:13.200 --> 00:28:14.070
+compare groups of people, and
+
+00:28:14.070 --> 00:28:17.020
+compare the level at which
+they they argued with us.
+
+00:28:17.020 --> 00:28:20.565
+So, if you go to the next
+slide yes.
+
+00:28:20.565 --> 00:28:22.700
+Nice.
+
+00:28:22.700 --> 00:28:24.150
+We got competitor broadcaster
+feedback,
+
+00:28:24.150 --> 00:28:25.300
+which is really interesting.
+
+00:28:25.300 --> 00:28:28.680
+So, this is stuff that you&#39;ve,
+we heard a lot from people who
+
+00:28:28.680 --> 00:28:31.110
+are using other broadcast
+platforms.
+
+00:28:32.270 --> 00:28:34.460
+They wanted to be able to
+switch multiple people onto
+
+00:28:34.460 --> 00:28:36.500
+their channel at the same
+time.
+
+00:28:36.500 --> 00:28:38.400
+they, they complained about us
+not
+
+00:28:38.400 --> 00:28:40.900
+having a rev share program or
+they talked a lot
+
+00:28:40.900 --> 00:28:42.300
+about how they&#39;re trying to
+make a living.
+
+00:28:42.300 --> 00:28:45.140
+They really wanted to make
+money pursuing this
+
+00:28:45.140 --> 00:28:47.880
+pursuing this gaming
+broadcasting thing.
+
+00:28:47.880 --> 00:28:51.900
+And, they talked a lot about
+video stability.
+
+00:28:51.900 --> 00:28:55.410
+Our service wasn&#39;t good in
+Europe specifically but, but
+
+00:28:55.410 --> 00:28:57.840
+just globally, video stability
+is this huge,
+
+00:28:57.840 --> 00:28:59.490
+huge issue for them.
+
+00:28:59.490 --> 00:29:01.080
+And if you compare and
+
+00:29:01.080 --> 00:29:03.000
+contrast actually, it was
+really different.
+
+00:29:03.000 --> 00:29:03.800
+Like, the things that people
+who
+
+00:29:03.800 --> 00:29:06.830
+didn&#39;t use our service said
+about what they cared about,
+
+00:29:06.830 --> 00:29:08.670
+was completely different from
+the things that people who
+
+00:29:08.670 --> 00:29:10.400
+were using the service cared
+about.
+
+00:29:10.400 --> 00:29:12.100
+And we focused on this stuff
+because this was
+
+00:29:12.100 --> 00:29:15.000
+the stuff where, it was so bad
+that they
+
+00:29:15.000 --> 00:29:17.730
+weren&#39;t even willing to use
+our service because of it.
+
+00:29:17.730 --> 00:29:18.750
+And most of
+
+00:29:18.750 --> 00:29:20.680
+them actually had thought
+about this because we were,
+
+00:29:20.680 --> 00:29:24.090
+our user base happened to be a
+very well educated user base
+
+00:29:24.090 --> 00:29:27.330
+in the area who knew about all
+their options for, for this.
+
+00:29:27.330 --> 00:29:28.840
+And, they would, they
+actually, you know,
+
+00:29:28.840 --> 00:29:31.610
+reaching out to them meant
+they could,
+
+00:29:31.610 --> 00:29:33.290
+they probably already tried
+all four services and
+
+00:29:33.290 --> 00:29:33.990
+actually had an opinion.
+
+00:29:33.990 --> 00:29:35.780
+It&#39;s great when you can users
+who are that,
+
+00:29:35.780 --> 00:29:36.920
+that informed and that,
+
+00:29:36.920 --> 00:29:38.810
+that, they have understand the
+space that well.
+
+00:29:40.780 --> 00:29:42.290
+And and if you go to the.
+
+00:29:42.290 --> 00:29:43.791
+I&#39;m just going to go to the
+next slide.
+
+00:29:43.791 --> 00:29:44.520
+Yeah.
+
+00:29:44.520 --> 00:29:45.500
+Here we go.
+
+00:29:45.500 --> 00:29:46.780
+The other big thing we did
+that I thought was
+
+00:29:46.780 --> 00:29:51.210
+really important was we talked
+to non-broadcasters.
+
+00:29:51.210 --> 00:29:52.140
+so, we went up there and
+
+00:29:52.140 --> 00:29:54.860
+we talked to all the people
+who weren&#39;t using us
+
+00:29:54.860 --> 00:29:56.040
+or competitors.
+
+00:29:56.040 --> 00:29:56.720
+And in many ways,
+
+00:29:56.720 --> 00:29:57.960
+those are the most important
+people, right?
+
+00:29:57.960 --> 00:29:58.970
+Talking to your competitor&#39;s,
+
+00:29:58.970 --> 00:30:00.320
+that&#39;s your short term win,
+right?
+
+00:30:00.320 --> 00:30:02.440
+Someones using a competing,
+piece of competing software
+
+00:30:03.980 --> 00:30:07.270
+unless your piece of competing
+software is something like
+
+00:30:07.270 --> 00:30:09.900
+Google, which is a search
+engine, which everyone uses,.
+
+00:30:09.900 --> 00:30:10.480
+Okay.
+Then,
+
+00:30:10.480 --> 00:30:13.460
+there are no non-users to
+convert.
+
+00:30:13.460 --> 00:30:14.840
+But, in the case of gaming
+broadcasting,
+
+00:30:14.840 --> 00:30:16.360
+almost everyone&#39;s a non-user,
+right?
+
+00:30:16.360 --> 00:30:18.660
+The, the majority, this is
+true for most new products.
+
+00:30:18.660 --> 00:30:22.210
+The majority of people you&#39;re
+computing with are non-users.
+
+00:30:22.210 --> 00:30:24.330
+They are people who have never
+used your service before.
+
+00:30:24.330 --> 00:30:25.960
+And, what they say is actually
+the most important.
+
+00:30:25.960 --> 00:30:29.090
+What they say is, is the thing
+that blocks you from expanding
+
+00:30:29.090 --> 00:30:31.870
+from a, a, expanding the size
+of
+
+00:30:31.870 --> 00:30:33.420
+the market with your features,
+right?
+
+00:30:33.420 --> 00:30:36.090
+If you, all you do is look at
+your competitors and
+
+00:30:36.090 --> 00:30:37.780
+yourself, and all you do is
+talk to your,
+
+00:30:37.780 --> 00:30:39.620
+you know, your people who use
+your competitors products.
+
+00:30:39.620 --> 00:30:40.920
+People who use your products.
+
+00:30:40.920 --> 00:30:41.610
+You can never expand.
+
+00:30:41.610 --> 00:30:42.220
+Well, not never.
+
+00:30:42.220 --> 00:30:44.220
+But, you&#39;re not learning the
+things that help you
+
+00:30:44.220 --> 00:30:45.840
+expand the size of the market.
+
+00:30:45.840 --> 00:30:47.720
+You want to talk to people who
+aren&#39;t even trying to use
+
+00:30:47.720 --> 00:30:48.870
+one of these things, yet.
+
+00:30:48.870 --> 00:30:49.920
+Who, who have thought about
+it, maybe.
+
+00:30:49.920 --> 00:30:51.430
+But, who aren&#39;t who aren&#39;t
+into it.
+
+00:30:51.430 --> 00:30:52.960
+So, what did they say?
+
+00:30:52.960 --> 00:30:54.920
+My computer isn&#39;t fast enough.
+
+00:30:54.920 --> 00:30:56.430
+I&#39;m focused on training 12
+hours a day for
+
+00:30:56.430 --> 00:30:57.100
+the next tournament.
+
+00:30:58.460 --> 00:31:01.230
+I like making the perfect
+video, and like, editing it.
+
+00:31:01.230 --> 00:31:03.320
+And so, I just upload things
+to YouTube.
+
+00:31:03.320 --> 00:31:04.150
+I don&#39;t do live streaming.
+
+00:31:04.150 --> 00:31:06.750
+I don&#39;t, I, I, I have no
+desire to,
+
+00:31:06.750 --> 00:31:07.650
+to go into that space.
+
+00:31:09.400 --> 00:31:10.240
+or, or this is actually,
+
+00:31:10.240 --> 00:31:12.270
+particularly in Korea, this is
+a big problem.
+
+00:31:12.270 --> 00:31:14.010
+Once our strategy gets
+broadcast in
+
+00:31:14.010 --> 00:31:15.620
+a major tournament, we have to
+start over.
+
+00:31:15.620 --> 00:31:17.770
+We have to like, come up with
+an entirely new strategy.
+
+00:31:17.770 --> 00:31:19.890
+And so, the last thing we
+ever&#39;d want to do would be
+
+00:31:19.890 --> 00:31:22.134
+broadcast our practice
+sessions, are you crazy?
+
+00:31:22.134 --> 00:31:24.284
+That&#39;s going to hurt us in the
+next big tournament.
+
+00:31:24.284 --> 00:31:25.113
+And so, this became,
+
+00:31:25.113 --> 00:31:26.511
+this became a big outreach
+program for
+
+00:31:26.511 --> 00:31:28.621
+us, trying to figure out how
+we can get people over this.
+
+00:31:28.621 --> 00:31:30.055
+We bought people computers.
+
+00:31:30.055 --> 00:31:31.661
+We ,.
+
+00:31:31.661 --> 00:31:34.021
+We worked really closely with
+gaming broadcast,
+
+00:31:34.021 --> 00:31:35.714
+software companies to help,
+the who,
+
+00:31:35.714 --> 00:31:38.880
+who made the broadcasting
+software to make that better.
+
+00:31:38.880 --> 00:31:40.970
+We started building
+broadcasting into games and
+
+00:31:40.970 --> 00:31:43.730
+into platforms, like we built
+broadcasting into the Xbox,
+
+00:31:43.730 --> 00:31:46.510
+we built broadcasting into the
+Playstation 4.
+
+00:31:46.510 --> 00:31:47.050
+Because we wanted,
+
+00:31:47.050 --> 00:31:48.450
+needed to overcome this issue
+that, like,
+
+00:31:48.450 --> 00:31:52.440
+it was too hard, broadcasting
+wasn&#39;t, wasn&#39;t possible.
+
+00:31:52.440 --> 00:31:55.380
+And so you sort of combine
+these, for us, these
+
+00:31:55.380 --> 00:31:58.460
+are three, three big groups we
+looked at for broadcasting.
+
+00:31:58.460 --> 00:32:02.390
+And you combine that feedback
+and
+
+00:32:02.390 --> 00:32:04.080
+what it tells you is not the
+features to build.
+
+00:32:04.080 --> 00:32:05.470
+Right?
+Because the, the features they
+
+00:32:05.470 --> 00:32:09.370
+asked for things like polls
+things like
+
+00:32:09.370 --> 00:32:13.860
+a you know, the ability to
+have child account.
+
+00:32:13.860 --> 00:32:15.600
+Like, child accounts in your
+account.
+
+00:32:15.600 --> 00:32:16.769
+We haven&#39;t built most of that
+stuff.
+
+00:32:18.110 --> 00:32:21.150
+But what was important were
+the, were the, the issues,
+
+00:32:21.150 --> 00:32:23.180
+like the goals they were
+trying to accomplish there.
+
+00:32:23.180 --> 00:32:24.130
+People wanted money.
+
+00:32:24.130 --> 00:32:26.550
+People wanted stability and
+quality.
+
+00:32:26.550 --> 00:32:28.150
+People wanted universal access
+for
+
+00:32:28.150 --> 00:32:31.420
+viewers all around the world
+to be able to watch them.
+
+00:32:31.420 --> 00:32:33.470
+And so that became our focus,
+actually.
+
+00:32:33.470 --> 00:32:35.560
+And we dumped almost all of
+our resources into things that
+
+00:32:37.040 --> 00:32:39.370
+none, no one ever mentioned in
+an interview.
+
+00:32:39.370 --> 00:32:42.990
+But, those are the things that
+actually address the problem.
+
+00:32:42.990 --> 00:32:45.520
+And, and the way you could
+tell that it worked is, was as
+
+00:32:45.520 --> 00:32:47.410
+we, we would build these
+things, and then we would go
+
+00:32:47.410 --> 00:32:49.730
+back to this exact same people
+we interviewed and say hey,
+
+00:32:49.730 --> 00:32:51.540
+you told us you really cared a
+lot about making money.
+
+00:32:51.540 --> 00:32:53.720
+Well, we built you this
+subscription program,
+
+00:32:53.720 --> 00:32:55.180
+that will let you make money.
+
+00:32:55.180 --> 00:32:58.550
+And, it, it, it&#39;s astonishing
+because most people aren&#39;t,
+
+00:32:58.550 --> 00:32:59.940
+have never had that
+experience, actually.
+
+00:32:59.940 --> 00:33:02.030
+They&#39;ve never talked to
+someone and
+
+00:33:02.030 --> 00:33:05.140
+said it would be really great
+if your product had feature X.
+
+00:33:05.140 --> 00:33:06.960
+And then, and then, like, two
+months later or
+
+00:33:06.960 --> 00:33:09.160
+a month later, your product
+actually has feature X.
+
+00:33:11.020 --> 00:33:11.750
+Or at the very least,
+
+00:33:11.750 --> 00:33:14.420
+a feature that addresses the
+problem they brought up.
+
+00:33:14.420 --> 00:33:16.830
+And so, it was actually, the,
+
+00:33:16.830 --> 00:33:18.280
+the people we converted first
+to our
+
+00:33:18.280 --> 00:33:21.170
+product are the people that we
+talk to about user research.
+
+00:33:21.170 --> 00:33:23.420
+They are the ones who were
+actually the most impressed,
+
+00:33:23.420 --> 00:33:24.640
+which is kind of fun.
+
+00:33:24.640 --> 00:33:26.110
+But it really worked, because
+those,
+
+00:33:26.110 --> 00:33:27.490
+we picked people who are
+representative.
+
+00:33:27.490 --> 00:33:30.290
+We picked big broadcasters,
+small ones, medium ones.
+
+00:33:30.290 --> 00:33:32.300
+And we, we made sure we were
+addressing their concerns.
+
+00:33:32.300 --> 00:33:35.000
+And that, that was completely
+different from how we&#39;d
+
+00:33:35.000 --> 00:33:36.130
+approach the problem on
+JustinTV.
+
+00:33:36.130 --> 00:33:38.470
+Because in JustinTV, when we&#39;d
+try to do this,
+
+00:33:38.470 --> 00:33:40.190
+we&#39;d, we&#39;d sat down.
+
+00:33:40.190 --> 00:33:41.930
+We trolled through huge
+amounts of data.
+
+00:33:41.930 --> 00:33:44.630
+Like we, we spent tons of time
+looking at Google Analytics.
+
+00:33:44.630 --> 00:33:45.600
+Looking at mixed panel.
+
+00:33:45.600 --> 00:33:47.820
+Looking at in-house analytics
+tools.
+
+00:33:47.820 --> 00:33:49.470
+Figuring out how people use
+the service.
+
+00:33:49.470 --> 00:33:50.950
+Looking at where our traffic
+came from.
+
+00:33:52.040 --> 00:33:53.550
+Completion rates on flows.
+
+00:33:53.550 --> 00:33:54.930
+We spent all this time doing
+that.
+
+00:33:54.930 --> 00:33:56.880
+And that&#39;s good, I mean, you
+can learn things from that.
+
+00:33:56.880 --> 00:34:00.220
+I&#39;m not telling you not to
+look at your at your data.
+
+00:34:00.220 --> 00:34:04.790
+But it doesn&#39;t tell you where
+you need to go.
+
+00:34:04.790 --> 00:34:05.700
+It doesn&#39;t tell you where,
+
+00:34:05.700 --> 00:34:07.880
+what the problems are you need
+to address.
+
+00:34:07.880 --> 00:34:09.800
+And so we would just sort of
+invent these ideas in
+
+00:34:09.800 --> 00:34:10.900
+JustinTV.
+
+00:34:10.900 --> 00:34:13.180
+And then, nine times out of
+ten,
+
+00:34:13.180 --> 00:34:16.600
+without talking to someone,
+the idea turns out to be bad.
+
+00:34:16.600 --> 00:34:18.420
+And that&#39;s just one of those
+disappointing things about
+
+00:34:18.420 --> 00:34:20.150
+doing user interviews and user
+feedback.
+
+00:34:20.150 --> 00:34:22.060
+It&#39;s why, I think, so many
+people don&#39;t do it, which is,
+
+00:34:22.060 --> 00:34:24.270
+you&#39;re going to get negative
+news about your,
+
+00:34:24.270 --> 00:34:25.830
+your favorite pet feature most
+of the time.
+
+00:34:25.830 --> 00:34:27.570
+Like, you&#39;re going to have
+this great idea,
+
+00:34:27.570 --> 00:34:30.510
+and you&#39;re going to talk to
+the user, and it&#39;s going to
+
+00:34:30.510 --> 00:34:33.150
+turn out that that nobody
+actually wants that.
+
+00:34:33.150 --> 00:34:35.070
+Like no, no one&#39;s actually,
+they&#39;re actually completely
+
+00:34:35.070 --> 00:34:36.410
+concerned about completely
+different things and
+
+00:34:36.410 --> 00:34:38.790
+they don&#39;t care about what you
+thought was important at all.
+
+00:34:38.790 --> 00:34:41.790
+And and that&#39;s a little bit
+sad but just, just think about
+
+00:34:41.790 --> 00:34:44.790
+how sad you&#39;d be in four
+months when you launched that
+
+00:34:44.790 --> 00:34:48.280
+feature and it turns out no
+one actually wants to use it.
+
+00:34:48.280 --> 00:34:49.960
+So think that&#39;s about it for
+
+00:34:49.960 --> 00:34:52.290
+my the lecture section of what
+we&#39;re we&#39;re talking about.
+
+00:34:52.290 --> 00:34:54.260
+I want to take some questions
+from the audience.
+
+00:34:58.120 --> 00:35:01.340
+&gt;&gt; What you see startups get
+most wrong about?
+
+00:35:01.340 --> 00:35:03.090
+I mean, most startups don&#39;t do
+them at all, but
+
+00:35:03.090 --> 00:35:05.560
+the ones that do what are the
+most common mistakes?
+
+00:35:05.560 --> 00:35:07.670
+&gt;&gt; I&#39;d say, the most common
+mistakes are,
+
+00:35:07.670 --> 00:35:10.230
+showing people your product.
+
+00:35:10.230 --> 00:35:11.820
+don&#39;t, don&#39;t show them you&#39;re
+product.
+
+00:35:11.820 --> 00:35:13.350
+It&#39;s, it&#39;s sort of like
+telling them about a feature,
+
+00:35:14.650 --> 00:35:17.410
+you want to learn about what&#39;s
+already in their heads, your,
+
+00:35:17.410 --> 00:35:19.480
+you want to avoid putting
+things there.
+
+00:35:19.480 --> 00:35:22.850
+The other thing is, asking
+about your,
+
+00:35:22.850 --> 00:35:26.310
+your pet feature direction, so
+if you think you want to add,
+
+00:35:26.310 --> 00:35:28.440
+add subscriptions to your
+product.
+
+00:35:28.440 --> 00:35:30.430
+Going and asking people would
+you pay for a subscription.
+
+00:35:30.430 --> 00:35:31.980
+Going and asking them, would
+you use this feature.
+
+00:35:33.690 --> 00:35:36.820
+And I&#39;d say the the other big
+mistake people make is
+
+00:35:36.820 --> 00:35:39.620
+talking to who&#39;s available
+rather than talking to
+
+00:35:39.620 --> 00:35:40.850
+who they need to talk to.
+
+00:35:40.850 --> 00:35:44.544
+There&#39;s certain users that are
+really easy to get at,
+
+00:35:44.544 --> 00:35:49.617
+because they are say, members
+of your forum already.
+
+00:35:49.617 --> 00:35:51.320
+Right?
+You have some product forum,
+
+00:35:51.320 --> 00:35:53.680
+and you talk to the users on
+that forum because they&#39;re,
+
+00:35:53.680 --> 00:35:55.750
+they&#39;re easier to get access
+to.
+
+00:35:55.750 --> 00:35:58.130
+we, we spent like weeks
+digging for
+
+00:35:58.130 --> 00:35:59.090
+identity information, and
+
+00:35:59.090 --> 00:36:00.350
+figuring who these people
+were.
+
+00:36:01.400 --> 00:36:03.520
+So we could contact them, so
+we could talk to them.
+
+00:36:03.520 --> 00:36:05.200
+Because a lot of these people
+weren&#39;t, it wasn&#39;t obvious.
+
+00:36:05.200 --> 00:36:07.260
+They were just some user on a,
+on a site.
+
+00:36:07.260 --> 00:36:09.390
+And if that site didn&#39;t
+support messaging, there was,
+
+00:36:09.390 --> 00:36:10.880
+like, no obvious way to
+interact with them.
+
+00:36:12.260 --> 00:36:14.140
+And so we spent a bunch of
+time trying to network, and
+
+00:36:14.140 --> 00:36:15.930
+find those users, and bring
+them on.
+
+00:36:15.930 --> 00:36:18.760
+Because if you, if you just
+talk to who&#39;s easy to talk to,
+
+00:36:18.760 --> 00:36:22.570
+you&#39;re not really getting,
+getting the best data.
+
+00:36:22.570 --> 00:36:24.760
+The fortunate side there is
+that almost everyone is
+
+00:36:24.760 --> 00:36:26.704
+flattered to be asked what
+they think.
+
+00:36:26.704 --> 00:36:30.082
+And so most of them will
+actually talk to you and
+
+00:36:30.082 --> 00:36:31.268
+tell you things.
+
+00:36:31.268 --> 00:36:32.140
+Yeah?
+
+00:36:32.140 --> 00:36:32.690
+&gt;&gt; How hard is it to
+
+00:36:32.690 --> 00:36:35.180
+get buy in from the rest of
+your company?
+
+00:36:35.180 --> 00:36:36.120
+I mean, like, you can go and
+
+00:36:36.120 --> 00:36:37.140
+be like, whatever, I&#39;m in
+charge.
+
+00:36:37.140 --> 00:36:38.300
+So you&#39;re doing what I say.
+
+00:36:38.300 --> 00:36:40.395
+But it&#39;s probably not the best
+way of doing it.
+
+00:36:40.395 --> 00:36:42.270
+&gt;&gt; Mm-hm.
+&gt;&gt; So how did you get them to?
+
+00:36:42.270 --> 00:36:43.280
+&gt;&gt; That&#39;s a good question.
+
+00:36:43.280 --> 00:36:45.180
+So the question is how hard is
+it to get buy in
+
+00:36:45.180 --> 00:36:47.380
+from the rest of the company
+and how do you do it?
+
+00:36:47.380 --> 00:36:48.960
+Getting buy in if you just go
+to them and
+
+00:36:48.960 --> 00:36:50.380
+say, I figured out, I talked
+to the user,
+
+00:36:50.380 --> 00:36:52.860
+I figured it out we have to
+build this.
+
+00:36:52.860 --> 00:36:54.340
+Is really hard.
+
+00:36:54.340 --> 00:36:56.410
+Because people don&#39;t trust
+you.
+
+00:36:56.410 --> 00:36:57.980
+There&#39;s something magic about
+showing them in
+
+00:36:57.980 --> 00:36:58.600
+the interview though.
+
+00:36:58.600 --> 00:37:00.990
+So I really recommend you
+record interviews.
+
+00:37:00.990 --> 00:37:02.340
+Recording interviews is like
+magic.
+
+00:37:02.340 --> 00:37:04.340
+A, it stops you from taking
+notes in the middle.
+
+00:37:05.420 --> 00:37:06.850
+And taking notes is a little
+bit disruptive.
+
+00:37:06.850 --> 00:37:08.120
+It makes it harder for you to
+
+00:37:08.120 --> 00:37:10.400
+feel like you&#39;re actually
+engaged in the conversation.
+
+00:37:10.400 --> 00:37:12.710
+And b, you can then play that
+recording for people.
+
+00:37:12.710 --> 00:37:14.670
+So when, when they don&#39;t have
+to be there for
+
+00:37:14.670 --> 00:37:16.550
+the entirety of all of the
+interviews.
+
+00:37:16.550 --> 00:37:18.830
+But when you want to make a
+point about what,
+
+00:37:18.830 --> 00:37:21.368
+what we should be building and
+why.
+
+00:37:21.368 --> 00:37:24.380
+You just playback for the rest
+of the company that interview
+
+00:37:24.380 --> 00:37:28.040
+and it&#39;s it&#39;s like magic the
+influence it has on people&#39;s
+
+00:37:28.040 --> 00:37:30.420
+thoughts and what&#39;s what the
+right thing to build is.
+
+00:37:32.050 --> 00:37:33.430
+Yes.
+
+00:37:33.430 --> 00:37:36.001
+&gt;&gt; Since you mentioned
+recording did you try to
+
+00:37:36.001 --> 00:37:36.557
+insist on
+
+00:37:36.557 --> 00:37:39.620
+doing Skype interviews rather
+than over email or?
+
+00:37:39.620 --> 00:37:41.710
+&gt;&gt; What was your impression
+of?
+
+00:37:41.710 --> 00:37:43.260
+&gt;&gt; Yeah.
+So you definitely want to do
+
+00:37:43.260 --> 00:37:47.300
+Skype or sorry the question
+was,
+
+00:37:47.300 --> 00:37:49.110
+do we insist on Skype
+interviews for recording.
+
+00:37:50.700 --> 00:37:51.230
+You don&#39;t want to
+
+00:37:51.230 --> 00:37:53.330
+do interviews over email if
+you can avoid it
+
+00:37:53.330 --> 00:37:55.420
+because interviews over email
+are non interactive.
+
+00:37:55.420 --> 00:37:56.710
+And the most interesting
+things you learn in
+
+00:37:56.710 --> 00:38:00.240
+interviews come from the
+interesting, tell me more.
+
+00:38:00.240 --> 00:38:01.740
+because the instant that you
+hit, you hope this vein of
+
+00:38:01.740 --> 00:38:04.110
+they&#39;ll say something you
+didn&#39;t expect, and
+
+00:38:04.110 --> 00:38:05.780
+the instant they say something
+you didn&#39;t expect or didn&#39;t
+
+00:38:05.780 --> 00:38:08.270
+already know, you should drop
+into detective mode, and
+
+00:38:08.270 --> 00:38:11.730
+detective mode is huh, that&#39;s
+interesting.
+
+00:38:11.730 --> 00:38:13.230
+Can you tell me more about
+that?
+
+00:38:13.230 --> 00:38:14.310
+And people don&#39;t like silence,
+so
+
+00:38:14.310 --> 00:38:16.300
+they&#39;ll keep talking to fill
+the void.
+
+00:38:16.300 --> 00:38:19.020
+And the best part about doing
+it over Skype or
+
+00:38:19.020 --> 00:38:22.940
+doing it in person is you have
+that interactive feedback.
+
+00:38:22.940 --> 00:38:25.245
+And you can actually pull a
+lot more out of people.
+
+00:38:25.245 --> 00:38:26.920
+E-mail interviews are, they&#39;re
+okay.
+
+00:38:26.920 --> 00:38:28.750
+But they&#39;re basically useless.
+
+00:38:28.750 --> 00:38:29.370
+If you&#39;re in person or
+
+00:38:29.370 --> 00:38:32.090
+over Skype, they&#39;re actually
+also easy to record.
+
+00:38:32.090 --> 00:38:34.150
+Make sure you ask them if it&#39;s
+okay to record it.
+
+00:38:34.150 --> 00:38:36.240
+It&#39;s not polite to record
+people without their consent.
+
+00:38:36.240 --> 00:38:37.710
+But if they&#39;re willing to like
+give you like an in,
+
+00:38:37.710 --> 00:38:39.800
+a user interview, they&#39;re
+probably willing for
+
+00:38:39.800 --> 00:38:40.560
+you to record it as well.
+
+00:38:41.580 --> 00:38:43.280
+&gt;&gt; Sorry, but what about the
+international market?
+
+00:38:43.280 --> 00:38:45.852
+Like you mentioned if that you
+had a lot of
+
+00:38:45.852 --> 00:38:47.342
+interviews in Korea, and
+
+00:38:47.342 --> 00:38:50.613
+I don&#39;t know maybe feel
+comfortable with English, or.
+
+00:38:50.613 --> 00:38:52.991
+&gt;&gt; Yeah, so the question is
+like what about people in
+
+00:38:52.991 --> 00:38:55.088
+the international market where
+you&#39;re trying to do
+
+00:38:55.088 --> 00:38:57.630
+youth interviews with people
+who don&#39;t speak your language.
+
+00:38:57.630 --> 00:38:58.510
+That&#39;s just really hard.
+
+00:38:58.510 --> 00:39:01.280
+And actually to this day
+Twitch works way better in
+
+00:39:01.280 --> 00:39:02.690
+English speaking countries
+than it
+
+00:39:02.690 --> 00:39:03.970
+does in non English speaking
+countries.
+
+00:39:03.970 --> 00:39:06.880
+And I think a big part of that
+is, we are much better at
+
+00:39:06.880 --> 00:39:08.510
+talking to people in English
+speaking countries, and
+
+00:39:08.510 --> 00:39:09.480
+learning what their needs are.
+
+00:39:09.480 --> 00:39:11.360
+And we&#39;re not as good at it,
+in other countries.
+
+00:39:11.360 --> 00:39:12.210
+We&#39;ve tried to address that by
+
+00:39:12.210 --> 00:39:14.120
+hiring people who speak
+Korean.
+
+00:39:14.120 --> 00:39:14.950
+Having them translate.
+
+00:39:14.950 --> 00:39:18.650
+We&#39;ve tried to address that
+by, finding representative
+
+00:39:18.650 --> 00:39:20.920
+people in those countries who
+speak both English and
+
+00:39:20.920 --> 00:39:22.370
+Korean, and reaching out to
+them.
+
+00:39:22.370 --> 00:39:26.350
+But the problem with that, is,
+like the, you&#39;re
+
+00:39:26.350 --> 00:39:27.890
+not actually getting a
+representative sample.
+
+00:39:27.890 --> 00:39:29.220
+No matter how hard you try.
+
+00:39:29.220 --> 00:39:30.730
+The very fact that they are a
+fluent English
+
+00:39:30.730 --> 00:39:32.220
+speaker means they&#39;re not
+representative of
+
+00:39:32.220 --> 00:39:34.400
+all the people who don&#39;t speak
+fluent English.
+
+00:39:34.400 --> 00:39:35.690
+It&#39;s just a hard problem.
+
+00:39:35.690 --> 00:39:37.510
+It&#39;s why companies find it
+easier to wi,
+
+00:39:37.510 --> 00:39:38.720
+build markets that went in
+their home,
+
+00:39:38.720 --> 00:39:39.950
+in their home country.
+
+00:39:41.160 --> 00:39:43.050
+Much more easily than abroad.
+
+00:39:43.050 --> 00:39:44.760
+Because it&#39;s really hard to
+talk to users abroad.
+
+00:39:46.350 --> 00:39:47.450
+Yes.
+
+00:39:47.450 --> 00:39:51.069
+&gt;&gt; What channels did you use
+to reach out to them, and
+
+00:39:51.069 --> 00:39:53.390
+do you ever compensate them?
+
+00:39:53.390 --> 00:39:54.520
+&gt;&gt; So the channels we used to,
+
+00:39:54.520 --> 00:39:55.850
+what channels did we use to
+reach out to them and
+
+00:39:55.850 --> 00:39:57.140
+what did we ever compensate
+them?
+
+00:39:57.140 --> 00:39:59.460
+The channels we used to reach
+out to them,
+
+00:39:59.460 --> 00:40:02.820
+were, on site messaging
+systems.
+
+00:40:02.820 --> 00:40:05.330
+So like, if you&#39;re, most site
+websites have some way to
+
+00:40:05.330 --> 00:40:07.030
+contact the user, so if
+they&#39;re a visible user of
+
+00:40:07.030 --> 00:40:09.640
+another website you use that
+sites messaging system and
+
+00:40:09.640 --> 00:40:12.150
+say hey, I was watching your
+stream, or
+
+00:40:12.150 --> 00:40:14.290
+whatever this person was doing
+on the site.
+
+00:40:14.290 --> 00:40:17.740
+I&#39;d love to ask you some
+questions about your use
+
+00:40:17.740 --> 00:40:20.780
+would you mind hopping on a
+Skype call?
+
+00:40:20.780 --> 00:40:23.710
+And as for, the other thing we
+do is we find out who people
+
+00:40:23.710 --> 00:40:25.029
+were and we send them emails.
+
+00:40:26.450 --> 00:40:27.760
+we&#39;d, like, rented some at
+events.
+
+00:40:27.760 --> 00:40:29.370
+because a lot of these people
+go to the same events and we,
+
+00:40:29.370 --> 00:40:30.400
+like, would go to the events
+and,
+
+00:40:30.400 --> 00:40:32.520
+like, get, we wouldn&#39;t run the
+user interview at the event,
+
+00:40:32.520 --> 00:40:34.930
+but you get to know them, you
+exchange business cards or,
+
+00:40:34.930 --> 00:40:37.070
+you know, whatever it is you
+actually do now aren&#39;t,
+
+00:40:37.070 --> 00:40:38.290
+isn&#39;t business cards.
+
+00:40:38.290 --> 00:40:41.560
+And, and you, you get in touch
+with them.
+
+00:40:41.560 --> 00:40:42.950
+We tended not to compensate
+people.
+
+00:40:44.810 --> 00:40:47.310
+I think that if you, if no,
+
+00:40:47.310 --> 00:40:48.910
+if people don&#39;t care enough
+about the problem to,
+
+00:40:48.910 --> 00:40:50.640
+like, talk to someone who&#39;s
+trying to solve it.
+
+00:40:52.660 --> 00:40:53.920
+You&#39;re probably barking up the
+wrong tree.
+
+00:40:53.920 --> 00:40:55.240
+We never had any trouble
+getting people to
+
+00:40:55.240 --> 00:40:56.400
+talk to us about paying them.
+
+00:40:56.400 --> 00:40:58.340
+&gt;&gt; What about on site user
+feedback tools?
+
+00:40:58.340 --> 00:41:00.864
+Do you get a little feedback
+from that?
+
+00:41:00.864 --> 00:41:03.373
+&gt;&gt; So, so there&#39;s this whole
+second set of user feedback
+
+00:41:03.373 --> 00:41:07.100
+that&#39;s really important, that
+I should talk about,.
+
+00:41:07.100 --> 00:41:07.610
+The question was,
+
+00:41:07.610 --> 00:41:10.020
+what about, like, on site user
+feedback tools?
+
+00:41:10.020 --> 00:41:12.690
+And I think this stuff you&#39;re
+talking about is
+
+00:41:12.690 --> 00:41:14.420
+where you have like a, a new
+product and
+
+00:41:14.420 --> 00:41:16.710
+you want to see how, if it&#39;s
+actually going to work or not.
+
+00:41:16.710 --> 00:41:17.840
+And so you put it in front of
+people and
+
+00:41:17.840 --> 00:41:19.270
+you see how they use it or
+not.
+
+00:41:19.270 --> 00:41:20.410
+That&#39;s really important.
+
+00:41:20.410 --> 00:41:22.130
+That kind of work is super
+important and
+
+00:41:22.130 --> 00:41:25.020
+it can tell you lots of things
+about where you went wrong
+
+00:41:25.020 --> 00:41:28.250
+building something before you
+launch it, which is great.
+
+00:41:28.250 --> 00:41:29.960
+It doesn&#39;t tell you what to
+build.
+
+00:41:29.960 --> 00:41:32.010
+It it helps you iron out the
+kinks and
+
+00:41:32.010 --> 00:41:33.810
+edges of the thing you did
+build.
+
+00:41:33.810 --> 00:41:38.520
+But generally speaking we that
+wasn&#39;t kind of the user
+
+00:41:38.520 --> 00:41:40.180
+feedback we were getting I
+mean that&#39;s stuffs good
+
+00:41:40.180 --> 00:41:43.000
+it&#39;s good it&#39;s like it&#39;s much
+more similar to the,
+
+00:41:43.000 --> 00:41:44.480
+to the data driven approach.
+
+00:41:44.480 --> 00:41:45.545
+Right?
+You&#39;re finding out,
+
+00:41:45.545 --> 00:41:47.829
+why are people dropping off in
+this flow, you&#39;re not
+
+00:41:47.829 --> 00:41:50.216
+finding out what problems
+should I really be solving for
+
+00:41:50.216 --> 00:41:52.477
+them, and what, what do they
+care about as a human.
+
+00:41:52.477 --> 00:41:53.010
+And, for
+
+00:41:53.010 --> 00:41:56.007
+this kind of like really early
+stages interview which
+
+00:41:56.007 --> 00:41:59.484
+the kind of user interview
+that&#39;s crucial startups do,.
+
+00:41:59.484 --> 00:42:01.536
+&gt;&gt; That&#39;s the, that&#39;s where
+you want to focus, so
+
+00:42:01.536 --> 00:42:03.038
+we didn&#39;t bring on site
+actually it
+
+00:42:03.038 --> 00:42:04.401
+almost all over phone or
+Skype.
+
+00:42:06.275 --> 00:42:06.991
+Yes.
+
+00:42:06.991 --> 00:42:09.592
+&gt;&gt; So for the three different
+groups of people there are
+
+00:42:09.592 --> 00:42:12.547
+different kinds of feedback so
+as a startup time and
+
+00:42:12.547 --> 00:42:15.045
+resources, is that a good area
+to focus on first?
+
+00:42:15.045 --> 00:42:15.632
+&gt;&gt; Yeah.
+So
+
+00:42:15.632 --> 00:42:18.375
+with the three different kinds
+of people did we focused on
+
+00:42:18.375 --> 00:42:21.830
+one of them given that we had
+very limited resources, yes.
+
+00:42:21.830 --> 00:42:24.680
+We focused on the competing
+people using
+
+00:42:24.680 --> 00:42:25.510
+competing products.
+
+00:42:25.510 --> 00:42:28.180
+Because, we knew that they
+already were interested in
+
+00:42:28.180 --> 00:42:30.220
+the behavior that we needed
+and
+
+00:42:31.230 --> 00:42:33.685
+they were willing to do it at
+all.
+
+00:42:33.685 --> 00:42:36.210
+And therefore all we had to do
+is convince them to switch,
+
+00:42:36.210 --> 00:42:37.880
+which is a much easier thing
+to do than to try to
+
+00:42:37.880 --> 00:42:39.840
+create new behavior where none
+existed before.
+
+00:42:40.960 --> 00:42:43.600
+And we had to do that because
+we had to get some quick wins,
+
+00:42:43.600 --> 00:42:45.545
+because my gaming project
+inside of
+
+00:42:45.545 --> 00:42:46.990
+Justin.tv would have been
+killed if it wasn&#39;t
+
+00:42:46.990 --> 00:42:49.570
+showing 25% month over month
+growth every single month.
+
+00:42:49.570 --> 00:42:53.450
+So we did, and that meant
+focusing on
+
+00:42:53.450 --> 00:42:54.990
+short term get the people in
+right now.
+
+00:42:54.990 --> 00:42:58.800
+And that turned out to be good
+in general because it turns
+
+00:42:58.800 --> 00:43:01.400
+out that building something
+that some people want
+
+00:43:01.400 --> 00:43:05.230
+generally generalizes and so I
+want to bring in
+
+00:43:05.230 --> 00:43:06.780
+people who weren&#39;t even users
+of the service as well.
+
+00:43:08.480 --> 00:43:09.040
+Yes.
+
+00:43:09.040 --> 00:43:10.622
+&gt;&gt; Twitch has been around from
+the beginning so
+
+00:43:10.622 --> 00:43:12.510
+it filled up, for example the
+video game industry.
+
+00:43:12.510 --> 00:43:15.141
+In the beginning this industry
+was very like, decentralized,
+
+00:43:15.141 --> 00:43:17.526
+like there wasn&#39;t a lot of
+cohesion with like, you know,
+
+00:43:17.526 --> 00:43:18.403
+different video game
+
+00:43:18.403 --> 00:43:21.110
+companies consolidating where
+tournaments are and stuff.
+
+00:43:21.110 --> 00:43:22.290
+But now it&#39;s very different.
+
+00:43:22.290 --> 00:43:25.980
+So you said originally you
+spoke to like broadcasters and
+
+00:43:25.980 --> 00:43:29.170
+you know streamers themselves,
+how does that change when
+
+00:43:29.170 --> 00:43:32.950
+like, for example like Riot
+has you know, banned users or
+
+00:43:32.950 --> 00:43:35.088
+professional players from
+streaming their own stuff.
+
+00:43:35.088 --> 00:43:37.240
+Have you tried to you know,
+gain leverage with that or?
+
+00:43:37.240 --> 00:43:38.600
+&gt;&gt; Yeah, so the question is
+
+00:43:38.600 --> 00:43:40.290
+what about the game publishers
+basically, right?
+
+00:43:40.290 --> 00:43:41.280
+The game publishers is huge
+
+00:43:41.280 --> 00:43:42.520
+important people in this
+space.
+
+00:43:44.010 --> 00:43:45.890
+a, the game publisher is and
+any big company for
+
+00:43:45.890 --> 00:43:47.670
+that matter isn&#39;t going to
+give you the time of day as
+
+00:43:47.670 --> 00:43:49.060
+a small start up.
+
+00:43:49.060 --> 00:43:50.980
+Which is both good and bad.
+
+00:43:50.980 --> 00:43:52.005
+It means you don&#39;t really
+need,
+
+00:43:52.005 --> 00:43:53.428
+need to talk to them because,
+
+00:43:53.428 --> 00:43:56.380
+they&#39;re they&#39;re not interested
+in you.
+
+00:43:56.380 --> 00:43:58.370
+But it means you actually just
+can&#39;t talk to them,
+
+00:43:58.370 --> 00:44:00.840
+I mean we tried but no one
+wanted to talk to us.
+
+00:44:00.840 --> 00:44:05.350
+And they did once we started
+getting some traction and, and
+
+00:44:05.350 --> 00:44:06.140
+becoming a little bit,
+
+00:44:06.140 --> 00:44:07.348
+slightly bit of a player in
+the space.
+
+00:44:07.348 --> 00:44:08.645
+I don&#39;t want to like, talk
+that bad about of them
+
+00:44:08.645 --> 00:44:11.560
+because they, they, they were
+nice about it enough about it
+
+00:44:11.560 --> 00:44:12.790
+it&#39;s just that you know, when
+you&#39;re, when you&#39;re
+
+00:44:12.790 --> 00:44:14.990
+a tiny little start up there&#39;s
+lots of tiny start ups and
+
+00:44:14.990 --> 00:44:16.470
+they, they don&#39;t have the time
+to talk to all of you.
+
+00:44:17.620 --> 00:44:19.380
+As we&#39;ve gotten bigger
+actually the point that,
+
+00:44:19.380 --> 00:44:20.630
+you know, game publishers have
+
+00:44:20.630 --> 00:44:23.290
+become an increasingly
+important constituency for us.
+
+00:44:23.290 --> 00:44:26.310
+And if I was to talk about who
+Twitch does user interviews
+
+00:44:26.310 --> 00:44:31.530
+with now, who we who we pulled
+information from now it would
+
+00:44:31.530 --> 00:44:33.920
+include game publishers
+definitely because they&#39;d be,
+
+00:44:33.920 --> 00:44:35.570
+they&#39;ve become much more
+active in the space.
+
+00:44:35.570 --> 00:44:37.600
+It was something that they
+weren&#39;t particularly active
+
+00:44:37.600 --> 00:44:39.640
+three or four years ago as
+much as they are now.
+
+00:44:39.640 --> 00:44:42.017
+And that&#39;s another really
+important point about user
+
+00:44:42.017 --> 00:44:42.950
+interviews in general.
+
+00:44:42.950 --> 00:44:44.533
+Which is that the pool of
+people you care about is
+
+00:44:44.533 --> 00:44:45.410
+going to shift over time.
+
+00:44:46.470 --> 00:44:47.620
+The people who get you
+started,
+
+00:44:47.620 --> 00:44:49.540
+like the crucial people to get
+your product started for
+
+00:44:49.540 --> 00:44:50.940
+the first six months,
+
+00:44:50.940 --> 00:44:52.720
+are not who will be using it
+three years later.
+
+00:44:52.720 --> 00:44:55.460
+And it&#39;s very important you
+keep, doing this stuff.
+
+00:44:55.460 --> 00:44:56.700
+Because one thing that&#39;s
+really easy to do,
+
+00:44:56.700 --> 00:44:58.450
+is to do a little bit of it in
+the beginning.
+
+00:44:58.450 --> 00:45:02.105
+And, and achieve some level of
+success, and then you sort of,
+
+00:45:02.105 --> 00:45:03.540
+stop talking to new people.
+
+00:45:03.540 --> 00:45:05.560
+And that&#39;s a good way to make
+the, the next set of
+
+00:45:05.560 --> 00:45:08.760
+features you build be not as
+good as the first ones.
+
+00:45:08.760 --> 00:45:09.284
+&gt;&gt; How about one more
+question?
+
+00:45:09.284 --> 00:45:09.953
+&gt;&gt; Yeah.
+
+00:45:09.953 --> 00:45:10.809
+Yes?
+
+00:45:10.809 --> 00:45:14.785
+&gt;&gt; How do you give good user
+feedback, if you&#39;re a user?
+
+00:45:14.785 --> 00:45:16.996
+&gt;&gt; so, how do you give good
+user feedback,
+
+00:45:16.996 --> 00:45:18.693
+it&#39;s a really good question.
+
+00:45:18.693 --> 00:45:23.276
+So I think what I, what I want
+a user to do is I
+
+00:45:23.276 --> 00:45:28.092
+want a user to tell me about
+what they, like,
+
+00:45:28.092 --> 00:45:32.147
+what they&#39;re really thinking,
+right?
+
+00:45:32.147 --> 00:45:34.831
+And what, what, what they&#39;re
+problems really are.
+
+00:45:34.831 --> 00:45:36.430
+And to just sort of ramble.
+
+00:45:36.430 --> 00:45:37.500
+Like I want someone to just
+tell,
+
+00:45:37.500 --> 00:45:40.230
+tell me about stuff in their
+life.
+
+00:45:40.230 --> 00:45:43.580
+Because the, the more you
+learn about them as a person.
+
+00:45:43.580 --> 00:45:46.020
+And sort of the, the, their,
+
+00:45:46.020 --> 00:45:48.784
+what&#39;s going on in the context
+of what they&#39;re doing the is
+
+00:45:48.784 --> 00:45:52.430
+easier to understand why they
+want the things they want.
+
+00:45:52.430 --> 00:45:53.770
+And that&#39;s really the critical
+question.
+
+00:45:53.770 --> 00:45:56.600
+So I&#39;d say like, you know,
+what I&#39;m looking for in a,
+
+00:45:56.600 --> 00:45:59.710
+in someone, when I&#39;m doing a
+user interview, it&#39;s someone
+
+00:45:59.710 --> 00:46:03.220
+who is going to be willing to
+talk a lot and be willing to,
+
+00:46:03.220 --> 00:46:06.130
+to really give me a full, give
+me a full picture.
+
+00:46:06.130 --> 00:46:08.200
+So that&#39;s what, I guess on the
+flip side,
+
+00:46:08.200 --> 00:46:10.614
+if you want to be a good, if
+you want to help people out
+
+00:46:10.614 --> 00:46:13.778
+with good user interview
+feedback ramble, like, be,
+
+00:46:13.778 --> 00:46:16.276
+just, just talk about stuff
+and everything.
+
+00:46:16.276 --> 00:46:17.138
+All right, great.
+
+00:46:17.138 --> 00:46:17.874
+Well, thank you very much.
+
+00:46:17.874 --> 00:46:18.527
+&gt;&gt; Thank you very much.
+

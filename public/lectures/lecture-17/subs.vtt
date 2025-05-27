@@ -1,0 +1,4829 @@
+WEBVTT
+
+00:00:00.220 --> 00:00:02.520
+Very exciting, and thank you,
+Sam for having me.
+
+00:00:02.520 --> 00:00:03.790
+Sam and I have known each
+other for, for
+
+00:00:03.790 --> 00:00:06.530
+a long time because we were
+fellow Sequoia companies and
+
+00:00:06.530 --> 00:00:08.800
+we met in the early days of
+when he was on his
+
+00:00:09.820 --> 00:00:11.530
+company journey and so it&#39;s
+cool.
+
+00:00:11.530 --> 00:00:14.560
+So what he asked me to talk
+about today, was a little bit
+
+00:00:14.560 --> 00:00:17.740
+about sort of the hardware
+journey of building products.
+
+00:00:17.740 --> 00:00:19.460
+So what I want to do is give
+you guys a little bit of
+
+00:00:19.460 --> 00:00:21.130
+an overview of Jawbone.
+
+00:00:21.130 --> 00:00:23.700
+What we do how we think about
+the world, and
+
+00:00:23.700 --> 00:00:25.520
+that informs how we build
+products and
+
+00:00:25.520 --> 00:00:28.770
+goes specifically into in the
+process of how we design,
+
+00:00:28.770 --> 00:00:31.125
+how we develop, and how that
+all kind of comes together.
+
+00:00:31.125 --> 00:00:33.490
+And sort of what we do to
+change categories.
+
+00:00:33.490 --> 00:00:36.410
+So first off, I always like to
+start with, with sort of
+
+00:00:36.410 --> 00:00:39.870
+the broadest thinking and, and
+the way we look at the world.
+
+00:00:39.870 --> 00:00:41.890
+As we think of ourselves at
+this intersection of,
+
+00:00:41.890 --> 00:00:46.740
+of really crafted innovation
+in engineering that&#39;s
+
+00:00:46.740 --> 00:00:48.540
+almost invisible to the user,
+
+00:00:48.540 --> 00:00:50.260
+in terms of it&#39;s functionality
+and
+
+00:00:50.260 --> 00:00:52.430
+that&#39;s at the intersection of
+even beyond design we&#39;ve been
+
+00:00:52.430 --> 00:00:55.330
+doing design products for you
+know well over a decade now.
+
+00:00:55.330 --> 00:00:57.390
+We think of it as going, the
+conversation has
+
+00:00:57.390 --> 00:00:59.190
+shifted even beyond design
+into beauty.
+
+00:00:59.190 --> 00:01:01.720
+And it&#39;s that intersection of
+engineering meets beauty,
+
+00:01:01.720 --> 00:01:04.590
+and the whole point is to help
+people with a better life
+
+00:01:04.590 --> 00:01:05.380
+with technology.
+
+00:01:06.650 --> 00:01:10.680
+And largely speaking, we, we
+do play in this world of
+
+00:01:10.680 --> 00:01:12.890
+what everyone&#39;s talking about
+now is Internet of Things.
+
+00:01:12.890 --> 00:01:16.180
+We were there much longer
+before there was such a,
+
+00:01:16.180 --> 00:01:17.290
+a moniker.
+
+00:01:17.290 --> 00:01:19.250
+And the way we think about
+that is it&#39;s smart
+
+00:01:19.250 --> 00:01:22.640
+devices that have computing
+power and connectivity with
+
+00:01:22.640 --> 00:01:25.530
+sensors in them that are
+measuring all kinds of things.
+
+00:01:25.530 --> 00:01:26.710
+They&#39;re wirelessly connected
+and
+
+00:01:26.710 --> 00:01:27.570
+they&#39;re all talking to you,
+
+00:01:27.570 --> 00:01:30.160
+and we started on this journey
+really, really early, right,
+
+00:01:30.160 --> 00:01:32.650
+actually out of engineering
+school here.
+
+00:01:32.650 --> 00:01:34.250
+And we were developing core
+technology,
+
+00:01:34.250 --> 00:01:36.630
+we decided to build consumer
+products around that.
+
+00:01:36.630 --> 00:01:38.570
+Our first consumer product was
+the headset.
+
+00:01:38.570 --> 00:01:41.650
+We, we sort of created a
+headset that
+
+00:01:41.650 --> 00:01:42.790
+become a wearable computer.
+
+00:01:42.790 --> 00:01:44.770
+It was the first Jawbone
+headset.
+
+00:01:44.770 --> 00:01:45.280
+That was when we
+
+00:01:45.280 --> 00:01:47.560
+started thinking about
+wearable computing.
+
+00:01:47.560 --> 00:01:52.640
+We then invented the wireless
+speaker space around Bluetooth
+
+00:01:52.640 --> 00:01:54.900
+audio and I&#39;ll talk a little
+bit about that journey.
+
+00:01:54.900 --> 00:01:56.620
+And then most recently, we
+focused our attention on
+
+00:01:56.620 --> 00:01:58.910
+through this whole wearable
+health revolution and
+
+00:01:58.910 --> 00:02:00.200
+using a lot of the sensors
+that
+
+00:02:00.200 --> 00:02:03.540
+we did in the first generation
+of headsets and applying them
+
+00:02:03.540 --> 00:02:06.570
+to other parts of the body to
+understand more about users.
+
+00:02:06.570 --> 00:02:09.900
+So our view of, of this world,
+having been here for
+
+00:02:09.900 --> 00:02:12.860
+a long time, is that it&#39;s a
+little bit of a mess
+
+00:02:12.860 --> 00:02:13.710
+in the internet of things.
+
+00:02:13.710 --> 00:02:15.810
+Everything in the world is
+smart and
+
+00:02:15.810 --> 00:02:18.100
+connected, and everything has
+an app built to it.
+
+00:02:18.100 --> 00:02:20.880
+That doesn&#39;t mean that it&#39;s
+easy for users, right?
+
+00:02:20.880 --> 00:02:23.230
+Your microwave, your
+refrigerator, your car,
+
+00:02:23.230 --> 00:02:26.300
+your XBox, your Xfinity,
+Comcast,
+
+00:02:26.300 --> 00:02:27.220
+everything has an app.
+
+00:02:27.220 --> 00:02:28.330
+It doesn&#39;t talk to each other.
+
+00:02:28.330 --> 00:02:30.140
+It&#39;s really confusing for the
+user.
+
+00:02:30.140 --> 00:02:32.730
+So we think that there&#39;s a
+desperate need for
+
+00:02:32.730 --> 00:02:34.700
+an organizing principle around
+all of this.
+
+00:02:34.700 --> 00:02:36.140
+And this is sort of the core
+of
+
+00:02:36.140 --> 00:02:37.830
+when we start to think about
+how we build and
+
+00:02:37.830 --> 00:02:39.740
+opportunities to sort of
+create products,
+
+00:02:39.740 --> 00:02:41.050
+we think about where is the
+world going?
+
+00:02:41.050 --> 00:02:44.020
+And so, if there is going to
+be such a world that,
+
+00:02:44.020 --> 00:02:45.720
+that everyone&#39;s talking about
+around The Internet Of Things
+
+00:02:45.720 --> 00:02:47.900
+which is happening, you do
+desperately need
+
+00:02:47.900 --> 00:02:51.520
+these organizing principles so
+that it&#39;s easier for users to
+
+00:02:51.520 --> 00:02:54.100
+understand how to come in and
+interact with these services.
+
+00:02:54.100 --> 00:02:57.320
+So we think the thinking needs
+to shift from being less about
+
+00:02:57.320 --> 00:03:01.060
+the actual things to being
+about the individual user.
+
+00:03:01.060 --> 00:03:02.780
+And so ultimately, when
+everyone&#39;s talking about
+
+00:03:02.780 --> 00:03:04.940
+wearables and you have things
+like Google Glass and
+
+00:03:04.940 --> 00:03:07.980
+you have the stuff that we do
+and, you know, Apple Watch and
+
+00:03:07.980 --> 00:03:10.540
+all this stuff, ultimately
+what we believe is that
+
+00:03:10.540 --> 00:03:13.002
+when you have things on your
+body 24/7,
+
+00:03:13.002 --> 00:03:17.250
+they become this kind of
+perfect context engine for
+
+00:03:17.250 --> 00:03:19.240
+everything in the world around
+you, right?
+
+00:03:19.240 --> 00:03:20.550
+So my phone is not on me,
+
+00:03:20.550 --> 00:03:22.990
+it&#39;s in my jacket or sometimes
+on the charger.
+
+00:03:22.990 --> 00:03:23.890
+But my Up is on me, and it,
+
+00:03:23.890 --> 00:03:25.680
+it understands everything
+that&#39;s happening with me.
+
+00:03:25.680 --> 00:03:26.510
+It&#39;s tracking my heart rate.
+
+00:03:26.510 --> 00:03:27.990
+It&#39;s tracking my respiration.
+
+00:03:27.990 --> 00:03:29.490
+It&#39;s tracking all these
+different things.
+
+00:03:29.490 --> 00:03:32.500
+And when I, when I say context
+engine, I know I can
+
+00:03:32.500 --> 00:03:35.870
+tell the smart thermostat in
+my nest that I&#39;m hot or cold.
+
+00:03:35.870 --> 00:03:37.980
+That device doesn&#39;t have that
+understanding.
+
+00:03:37.980 --> 00:03:40.770
+I can tell it&#39;s hot, that
+device I&#39;m hot because I&#39;m
+
+00:03:40.770 --> 00:03:43.500
+sick, went for a run, it&#39;s hot
+outside.
+
+00:03:43.500 --> 00:03:45.780
+I can tell your car that
+you&#39;re falling asleep,
+
+00:03:45.780 --> 00:03:47.648
+that you&#39;re agitated or
+irritated.
+
+00:03:47.648 --> 00:03:50.290
+So this is ultimately where we
+think the world is moving,
+
+00:03:50.290 --> 00:03:52.880
+is that wearables are going to
+be the center of this,
+
+00:03:52.880 --> 00:03:54.840
+this revolution around
+everything being connected and
+
+00:03:54.840 --> 00:03:57.560
+smart and they&#39;re going to
+drive what a lot of those
+
+00:03:57.560 --> 00:04:00.170
+interactions are going to be
+and how they&#39;re going to work.
+
+00:04:00.170 --> 00:04:01.040
+Right?
+And so, that&#39;s sort of
+
+00:04:01.040 --> 00:04:02.940
+the first principle that we
+think about when we
+
+00:04:02.940 --> 00:04:05.170
+start to think about okay,
+where are things going, and
+
+00:04:05.170 --> 00:04:06.840
+what we should, should we
+build, and,
+
+00:04:06.840 --> 00:04:09.220
+and how do we think about new
+categories, right?
+
+00:04:09.220 --> 00:04:10.260
+So in order for
+
+00:04:10.260 --> 00:04:13.090
+the vision of what we&#39;re
+talking about to happen,
+
+00:04:13.090 --> 00:04:15.410
+you actually need to be great
+at almost everything.
+
+00:04:15.410 --> 00:04:17.460
+We need to be great at what we
+call the full stack.
+
+00:04:17.460 --> 00:04:20.620
+We have to be amazing at
+building hardware, and
+
+00:04:20.620 --> 00:04:22.890
+these are hardware experiences
+that people have to
+
+00:04:22.890 --> 00:04:24.220
+keep on all the time.
+
+00:04:24.220 --> 00:04:25.880
+Right, you have to wear them
+24/7,
+
+00:04:25.880 --> 00:04:27.760
+because if you don&#39;t, then
+everything that I&#39;m
+
+00:04:27.760 --> 00:04:29.848
+talking about is sort of a
+castle in the air, right.
+
+00:04:29.848 --> 00:04:32.770
+You can&#39;t actually create a
+service that people will
+
+00:04:32.770 --> 00:04:33.830
+engage with, or
+
+00:04:33.830 --> 00:04:36.530
+get lots of data off it to
+then go power all these other
+
+00:04:36.530 --> 00:04:38.280
+things, if it doesn&#39;t start
+with great hardware.
+
+00:04:38.280 --> 00:04:39.680
+So that&#39;s where we start.
+
+00:04:39.680 --> 00:04:42.070
+We try to build, you know,
+these magical experiences in
+
+00:04:42.070 --> 00:04:45.210
+hardware that absolutely
+powered by software.
+
+00:04:45.210 --> 00:04:48.220
+We have developed world class
+software
+
+00:04:48.220 --> 00:04:50.030
+application expertise.
+
+00:04:50.030 --> 00:04:52.250
+We&#39;ve gotta be as good there
+from an engagement
+
+00:04:52.250 --> 00:04:55.030
+perspective as something like
+an Instagram or Whatsapp.
+
+00:04:55.030 --> 00:04:57.020
+And then on the data side
+we&#39;ve gotta know what to do
+
+00:04:57.020 --> 00:04:59.480
+with this, this massive amount
+of information, and
+
+00:04:59.480 --> 00:05:02.730
+process it and push it, and
+have it work for the user.
+
+00:05:02.730 --> 00:05:05.770
+So we really see ourselves as
+being at the intersection, for
+
+00:05:05.770 --> 00:05:07.940
+the first time, of a company
+that&#39;s doing hardware,
+
+00:05:07.940 --> 00:05:11.633
+software, and data, as three
+kind of equal stools that have
+
+00:05:11.633 --> 00:05:15.260
+to work together in order to
+unlock that experience around
+
+00:05:15.260 --> 00:05:17.480
+somethings that&#39;s on you,
+knowing what&#39;s happening.
+
+00:05:17.480 --> 00:05:19.460
+And then talking to the rest
+of the world around you.
+
+00:05:19.460 --> 00:05:21.820
+So that&#39;s a pretty key piece
+of what we do.
+
+00:05:21.820 --> 00:05:23.500
+I think it&#39;s different than
+what a lot of
+
+00:05:23.500 --> 00:05:24.460
+other companies do.
+
+00:05:24.460 --> 00:05:26.080
+And it allows us and
+
+00:05:26.080 --> 00:05:27.720
+requires us to play at all
+levels of stack.
+
+00:05:27.720 --> 00:05:30.930
+Now this was a complicated
+thing for us to put together.
+
+00:05:30.930 --> 00:05:33.430
+Because typically, you know,
+people who are great at
+
+00:05:33.430 --> 00:05:35.850
+hardware understand mechanical
+engineering,
+
+00:05:35.850 --> 00:05:38.024
+electrical engineering, how
+those things interact,
+
+00:05:38.024 --> 00:05:41.920
+wow you build at scale, how
+you build tools, etc.
+
+00:05:43.230 --> 00:05:45.290
+They&#39;re not typically great at
+building software and
+
+00:05:45.290 --> 00:05:46.070
+services, right.
+
+00:05:46.070 --> 00:05:47.390
+It&#39;s a very different
+discipline and
+
+00:05:47.390 --> 00:05:48.340
+a very different skill set.
+
+00:05:48.340 --> 00:05:51.760
+So when we first put those
+pieces together, that created
+
+00:05:51.760 --> 00:05:53.510
+a lot of interesting friction
+in the company.
+
+00:05:53.510 --> 00:05:55.780
+Our software and application
+team was so
+
+00:05:55.780 --> 00:05:58.110
+used to moving really, really
+fast and iterating.
+
+00:05:58.110 --> 00:05:59.240
+Whereas in the hardware world,
+
+00:05:59.240 --> 00:06:02.540
+you gotta take your time
+because your iteration cycles
+
+00:06:02.540 --> 00:06:03.450
+are much more deliberate.
+
+00:06:03.450 --> 00:06:05.840
+You have tooling that takes 16
+weeks.
+
+00:06:05.840 --> 00:06:07.310
+You can&#39;t just tweak stuff,
+and
+
+00:06:07.310 --> 00:06:09.130
+you can&#39;t hack it in the same
+way.
+
+00:06:09.130 --> 00:06:11.180
+And so what was interesting to
+see is we put all these
+
+00:06:11.180 --> 00:06:14.070
+pieces together, the hardware
+team learning to move faster,
+
+00:06:14.070 --> 00:06:17.100
+the software guys thinking
+more about how do they
+
+00:06:17.100 --> 00:06:20.330
+resolve experiences before you
+actually have to ship it
+
+00:06:20.330 --> 00:06:23.246
+versus just throwing something
+out and AB testing it and
+
+00:06:23.246 --> 00:06:26.610
+then the data science sort of
+informs all of that with sort
+
+00:06:26.610 --> 00:06:29.020
+of more information to make
+different kinds of decisions.
+
+00:06:29.020 --> 00:06:31.340
+So how do we think about, how
+do we go,
+
+00:06:31.340 --> 00:06:33.920
+how do we build products, how
+do we change categories?
+
+00:06:33.920 --> 00:06:36.470
+First of all, everything for
+us is a system.
+
+00:06:36.470 --> 00:06:39.040
+Right, we don&#39;t think about it
+discreetly just as a piece of
+
+00:06:39.040 --> 00:06:41.270
+hardware, discreetly as an
+application or
+
+00:06:41.270 --> 00:06:43.320
+discretely as a, as a
+platform.
+
+00:06:43.320 --> 00:06:45.260
+We think about it across the
+whole thing, and
+
+00:06:45.260 --> 00:06:47.910
+so this is an example with Up,
+right, where we
+
+00:06:47.910 --> 00:06:51.380
+have these tracking sensors on
+the body, algorithms there.
+
+00:06:51.380 --> 00:06:54.310
+It connects to the phone where
+you have this
+
+00:06:54.310 --> 00:06:56.180
+engaging application service
+experience.
+
+00:06:56.180 --> 00:06:58.030
+We use the sensors in the
+phone.
+
+00:06:58.030 --> 00:06:59.980
+That talks to a lot of stuff
+that we&#39;re doing in the cloud,
+
+00:06:59.980 --> 00:07:01.710
+where we&#39;re taking all that
+information,
+
+00:07:01.710 --> 00:07:02.730
+driving insight on it and
+
+00:07:02.730 --> 00:07:05.910
+then we have a huge platform
+of thousands of developers
+
+00:07:05.910 --> 00:07:08.350
+where they have thousands of
+apps that then plug in and
+
+00:07:08.350 --> 00:07:09.970
+also create more experiences.
+
+00:07:09.970 --> 00:07:12.600
+And so we think about it
+across the whole spectrum and
+
+00:07:12.600 --> 00:07:15.130
+I&#39;ll, I&#39;ll come back to this
+system think in a,
+
+00:07:15.130 --> 00:07:16.180
+in a second.
+
+00:07:16.180 --> 00:07:19.440
+So what is the actual process
+of, of creation look like?
+
+00:07:19.440 --> 00:07:20.320
+And this is fun for
+
+00:07:20.320 --> 00:07:22.180
+me cause we don&#39;t actually
+talk about this very often.
+
+00:07:22.180 --> 00:07:25.280
+It&#39;s quite you know sort of,
+we keep in confidential and
+
+00:07:25.280 --> 00:07:27.890
+private and I know that we are
+talking, now that we,
+
+00:07:27.890 --> 00:07:29.870
+we&#39;re on sort of a live cast
+everywhere.
+
+00:07:29.870 --> 00:07:32.545
+So it&#39;s fun for me to talk
+about this for the first time,
+
+00:07:32.545 --> 00:07:33.170
+because it&#39;s not or
+
+00:07:33.170 --> 00:07:35.940
+it&#39;s, it&#39;s quite a deliberate
+process, right.
+
+00:07:35.940 --> 00:07:37.740
+And this is a little bit at
+what it looks like.
+
+00:07:37.740 --> 00:07:41.650
+And, and this is kind of a map
+where we are very unbridled in
+
+00:07:41.650 --> 00:07:43.660
+our imagination in the
+exploration phase.
+
+00:07:43.660 --> 00:07:46.110
+We start to validate some of
+our concepts,
+
+00:07:46.110 --> 00:07:48.830
+bring those ideas tighter and
+tighter and tighter and
+
+00:07:48.830 --> 00:07:51.330
+then we actually start to
+build a product, launch it and
+
+00:07:51.330 --> 00:07:52.330
+then iterate, right?
+
+00:07:52.330 --> 00:07:53.530
+That&#39;s the simplest way to
+look at.
+
+00:07:53.530 --> 00:07:55.550
+I&#39;ll take you through each of
+these steps.
+
+00:07:55.550 --> 00:07:58.720
+So in the exploration phase,
+it is very wild.
+
+00:07:58.720 --> 00:07:59.580
+It&#39;s imaginative.
+
+00:07:59.580 --> 00:08:01.920
+We think about the vision of
+where the world&#39;s going,
+
+00:08:01.920 --> 00:08:04.760
+what our strategy is, what
+does the brand stand for.
+
+00:08:06.080 --> 00:08:08.880
+And we think of it a lot of,
+of what you guys do here.
+
+00:08:08.880 --> 00:08:11.280
+You&#39;re dreaming, you&#39;re
+imagining it,
+
+00:08:11.280 --> 00:08:14.320
+how do you disrupt, what&#39;s the
+future going to look like?
+
+00:08:14.320 --> 00:08:16.050
+Right?
+It is a little bit science
+
+00:08:16.050 --> 00:08:19.600
+projecty sometimes, and we
+talk about it in that way,
+
+00:08:19.600 --> 00:08:21.850
+right, and we do build from
+inspiration and insight.
+
+00:08:21.850 --> 00:08:24.410
+And that&#39;s, it&#39;s sort of raw
+creativity.
+
+00:08:24.410 --> 00:08:26.200
+And we want to create, and we
+try to create,
+
+00:08:26.200 --> 00:08:27.410
+a form where that&#39;s okay.
+
+00:08:27.410 --> 00:08:30.400
+because a lot of times in
+companies, that gets lost.
+
+00:08:30.400 --> 00:08:32.430
+And then, when we sort of
+bring it to early validation,
+
+00:08:32.430 --> 00:08:33.520
+where I always say, like,
+look,
+
+00:08:33.520 --> 00:08:35.140
+everyone, when you&#39;re doing
+this stuff,
+
+00:08:35.140 --> 00:08:37.370
+you have to now take those
+concepts and
+
+00:08:37.370 --> 00:08:39.710
+prove them a little bit like
+you do a PhD thesis, right?
+
+00:08:39.710 --> 00:08:42.080
+Where you have your
+conclusions, you&#39;ve done your,
+
+00:08:42.080 --> 00:08:43.430
+you know, empirical data
+collection,
+
+00:08:43.430 --> 00:08:46.250
+and you start to say hey look,
+here&#39;s where we see it going.
+
+00:08:46.250 --> 00:08:47.700
+Here&#39;s what it&#39;s going to do,
+right?
+
+00:08:47.700 --> 00:08:48.750
+And you outline the story.
+
+00:08:48.750 --> 00:08:50.860
+And then once we&#39;ve sort of
+signed it off on
+
+00:08:50.860 --> 00:08:52.630
+that phase that we think okay,
+you know what,
+
+00:08:52.630 --> 00:08:54.550
+there, there, this theory&#39;s
+right.
+
+00:08:54.550 --> 00:08:56.890
+We start to go into a
+concepting phase where we
+
+00:08:56.890 --> 00:09:00.500
+start to really think about
+what is the experience and
+
+00:09:00.500 --> 00:09:01.430
+what&#39;s possible.
+
+00:09:01.430 --> 00:09:04.160
+And this is a, this is another
+interesting opportunity for
+
+00:09:04.160 --> 00:09:07.010
+innovation at a more specific
+level of how this thing
+
+00:09:07.010 --> 00:09:09.750
+will come to life, or what it
+is, and how would we sell that
+
+00:09:09.750 --> 00:09:11.860
+experience, and how would we
+tell that story.
+
+00:09:11.860 --> 00:09:14.380
+And then it, and then we
+decide that it&#39;s a program.
+
+00:09:14.380 --> 00:09:15.950
+And it goes into a heavy
+planning phase,
+
+00:09:15.950 --> 00:09:17.770
+where we start to look at and
+say, okay.
+
+00:09:17.770 --> 00:09:18.342
+We&#39;re doing this.
+
+00:09:18.342 --> 00:09:19.980
+We&#39;ve gotta ship it.
+
+00:09:19.980 --> 00:09:21.310
+There is no turning back
+right?
+
+00:09:21.310 --> 00:09:24.030
+What are the trade-offs
+between all the creativity and
+
+00:09:24.030 --> 00:09:26.910
+all the ideas we want versus
+what does the physics dictate?
+
+00:09:26.910 --> 00:09:29.020
+What are the you know battery
+power or
+
+00:09:29.020 --> 00:09:31.170
+all the different constraints
+that we have and
+
+00:09:31.170 --> 00:09:33.640
+start making those trade-offs
+and start to look at,
+
+00:09:33.640 --> 00:09:35.650
+you know, how do we pull that
+together?
+
+00:09:35.650 --> 00:09:38.460
+And then we move into a
+development phase where it&#39;s
+
+00:09:38.460 --> 00:09:40.800
+a hand off between various
+stages.
+
+00:09:40.800 --> 00:09:42.730
+and, and really various
+functional teams in
+
+00:09:42.730 --> 00:09:44.770
+the company and you pull it
+together and
+
+00:09:44.770 --> 00:09:47.470
+you&#39;re solving problems as you
+go implement this.
+
+00:09:47.470 --> 00:09:50.370
+And you launch it and you
+learn.
+
+00:09:50.370 --> 00:09:51.470
+And you see what users think.
+
+00:09:51.470 --> 00:09:54.540
+And then you start to think
+about where does this stand in
+
+00:09:54.540 --> 00:09:57.250
+that experience continuum that
+you&#39;ve been imagining where
+
+00:09:57.250 --> 00:09:58.520
+the world&#39;s going to go.
+
+00:09:58.520 --> 00:09:59.860
+What have we achieved, what
+haven&#39;t?
+
+00:09:59.860 --> 00:10:01.790
+What have we learned from our
+users?
+
+00:10:01.790 --> 00:10:03.630
+How does that change what
+we&#39;re thinking?
+
+00:10:03.630 --> 00:10:06.030
+And then we start right over
+again, right?
+
+00:10:06.030 --> 00:10:08.870
+So that&#39;s the broadest way to
+think about it.
+
+00:10:08.870 --> 00:10:11.470
+A little bit deeper on the
+exploration phase, right?
+
+00:10:11.470 --> 00:10:13.860
+So it is very much like a
+building and
+
+00:10:13.860 --> 00:10:15.670
+tinkering process, right.
+
+00:10:15.670 --> 00:10:18.269
+And, and a lot of it is driven
+by what we call demo Fridays,
+
+00:10:18.269 --> 00:10:20.287
+where people kind of have an
+opportunity to go
+
+00:10:20.287 --> 00:10:21.312
+showcase their work.
+
+00:10:21.312 --> 00:10:24.286
+because we find that that&#39;s a
+great way to pull it together,
+
+00:10:24.286 --> 00:10:26.816
+pull it in a form that others
+can consume it, and
+
+00:10:26.816 --> 00:10:28.166
+give feedback, right.
+
+00:10:28.166 --> 00:10:31.267
+And it&#39;s a, it&#39;s a, it&#39;s a
+really, it is a show and tell.
+
+00:10:31.267 --> 00:10:33.278
+Obviously hack-a-thons are a
+big part of it,
+
+00:10:33.278 --> 00:10:35.310
+there&#39;s lots of data that,
+that gets driven.
+
+00:10:35.310 --> 00:10:37.550
+And it&#39;s lead by our, our
+strategic developments,
+
+00:10:37.550 --> 00:10:39.857
+in which is traditionally
+called sort of an R&amp;D team.
+
+00:10:39.857 --> 00:10:42.225
+And there&#39;s participation from
+product and
+
+00:10:42.225 --> 00:10:43.846
+engineering both hardware and
+
+00:10:43.846 --> 00:10:46.773
+software but they&#39;re sort of
+taking a back seat and
+
+00:10:46.773 --> 00:10:50.160
+they&#39;re looking at what these
+explorations are, right?
+
+00:10:50.160 --> 00:10:51.390
+And, the executives in
+
+00:10:51.390 --> 00:10:53.770
+the company at this phase are
+more of a sounding board.
+
+00:10:53.770 --> 00:10:55.510
+They&#39;re there to poke and prod
+and
+
+00:10:55.510 --> 00:10:57.644
+tell people, hey think about
+this, or did you thought,
+
+00:10:57.644 --> 00:11:00.520
+did you try that, how does
+that work, right.
+
+00:11:00.520 --> 00:11:02.170
+So, in, in this phase,
+
+00:11:02.170 --> 00:11:04.360
+in order to move to the next
+threshold we think about it
+
+00:11:04.360 --> 00:11:06.515
+literally as, hey would I give
+this guy 50 grand?
+
+00:11:06.515 --> 00:11:08.780
+It&#39;s a little bit like an
+angel investment, right?
+
+00:11:08.780 --> 00:11:12.280
+Would I give this guy 50 grand
+to go explore this and
+
+00:11:12.280 --> 00:11:15.240
+see if there&#39;s a there there,
+is there something to do.
+
+00:11:15.240 --> 00:11:18.110
+And our CTO is the, is the
+sort of final decision maker.
+
+00:11:18.110 --> 00:11:20.650
+He gets to sort of pick those
+things internally and
+
+00:11:20.650 --> 00:11:22.810
+say, you know what I, I like
+all the feedback.
+
+00:11:22.810 --> 00:11:24.460
+This is the one I want to go
+chase down and
+
+00:11:24.460 --> 00:11:25.480
+see what happens, right?
+
+00:11:25.480 --> 00:11:27.640
+So then we get into this
+validation phase, and
+
+00:11:27.640 --> 00:11:29.660
+this is where it starts to get
+really interesting.
+
+00:11:29.660 --> 00:11:33.020
+Still led by R&amp;D, but they&#39;re
+really poking at it and
+
+00:11:33.020 --> 00:11:35.390
+they&#39;re saying, how does this
+work?
+
+00:11:35.390 --> 00:11:36.810
+We have these leadership
+meetings with
+
+00:11:36.810 --> 00:11:38.050
+the broader cross-functional
+team.
+
+00:11:38.050 --> 00:11:39.360
+I have to show results.
+
+00:11:39.360 --> 00:11:43.650
+I have to go through a
+scientific process to outline,
+
+00:11:43.650 --> 00:11:45.500
+you know, why this works.
+
+00:11:45.500 --> 00:11:47.200
+Why, why is it going to
+happen.
+
+00:11:47.200 --> 00:11:48.000
+And, and you&#39;ll hear.
+
+00:11:48.000 --> 00:11:50.220
+This is really when we start
+formulating a really
+
+00:11:50.220 --> 00:11:52.020
+important tool that we use in
+the company,
+
+00:11:52.020 --> 00:11:53.280
+which is what we call, why&#39;s.
+
+00:11:53.280 --> 00:11:55.610
+Defining the, why are we doing
+this?
+
+00:11:55.610 --> 00:11:56.700
+Why does this exist?
+
+00:11:56.700 --> 00:11:57.780
+What problem does it solve?
+
+00:11:57.780 --> 00:11:59.930
+I&#39;m going to come back to
+that, in deeper in,
+
+00:11:59.930 --> 00:12:01.770
+in a minute, right?
+
+00:12:01.770 --> 00:12:03.440
+And so at this point, it&#39;s
+still an R&amp;D lead.
+
+00:12:03.440 --> 00:12:06.860
+But this is when a lot of our
+industrial design team,
+
+00:12:06.860 --> 00:12:08.500
+you have Bahar, and, and a few
+project guys.
+
+00:12:08.500 --> 00:12:10.040
+They come in, they start to
+think about, okay,
+
+00:12:10.040 --> 00:12:12.220
+how can I pull this concept
+into something physical that&#39;s
+
+00:12:12.220 --> 00:12:13.930
+hardware, and how is that
+going to interact with
+
+00:12:13.930 --> 00:12:15.700
+the rest of the pieces of the
+system?
+
+00:12:15.700 --> 00:12:18.208
+Our product experience team is
+still also driving a lot of
+
+00:12:18.208 --> 00:12:20.570
+the core values and, and what
+the storyboarding is.
+
+00:12:20.570 --> 00:12:23.270
+But it starts to become a lot
+more real, and this is when we
+
+00:12:23.270 --> 00:12:25.930
+start thinking about, okay,
+how would we build this?
+
+00:12:25.930 --> 00:12:27.320
+You know, how expensive is
+going to be,
+
+00:12:27.320 --> 00:12:29.317
+what&#39;s the budget going to be,
+etc, right?
+
+00:12:30.930 --> 00:12:32.310
+And at that point, right,
+
+00:12:32.310 --> 00:12:36.560
+we start to really validate,
+can we actually build it?
+
+00:12:36.560 --> 00:12:38.860
+Or do we have to wait three
+years for
+
+00:12:38.860 --> 00:12:41.290
+batteries to be there or, or
+do we have to wait for
+
+00:12:41.290 --> 00:12:44.430
+this other innovation to
+happen, or do we have to wait
+
+00:12:44.430 --> 00:12:46.260
+from a budget perspective, or
+whatever it is.
+
+00:12:46.260 --> 00:12:48.170
+Is there a business viability,
+and
+
+00:12:48.170 --> 00:12:51.510
+then we start to, really start
+to sketch kind of briefs.
+
+00:12:51.510 --> 00:12:53.040
+And this is where I come in,
+and, and
+
+00:12:53.040 --> 00:12:53.970
+make the final decision on,
+
+00:12:53.970 --> 00:12:56.370
+okay, I think this is the,
+there&#39;s really a there there.
+
+00:12:56.370 --> 00:12:59.020
+We can now take this to the
+next level and
+
+00:12:59.020 --> 00:13:01.220
+get it into, into a play.
+
+00:13:01.220 --> 00:13:02.820
+And then we go into the
+concept phase, right?
+
+00:13:02.820 --> 00:13:06.040
+And this is now when the, the
+responsibility shifts from
+
+00:13:06.040 --> 00:13:08.310
+the R&amp;D folks to what we call
+product experience team.
+
+00:13:08.310 --> 00:13:10.403
+And the way we think about
+product experience in
+
+00:13:10.403 --> 00:13:11.186
+Jawbone is sort of
+
+00:13:11.186 --> 00:13:13.813
+what everyone thinks of this
+sort of conventional design.
+
+00:13:13.813 --> 00:13:15.952
+So from industrial design to,
+
+00:13:15.952 --> 00:13:19.243
+you know, software design to
+audio design to,
+
+00:13:19.243 --> 00:13:23.340
+you know, anything in that
+touches that experience.
+
+00:13:23.340 --> 00:13:24.740
+We have writers on that team,
+
+00:13:24.740 --> 00:13:26.990
+story tellers, we have, you
+know,
+
+00:13:26.990 --> 00:13:29.960
+ID people like Eve who are you
+know, genius creatives.
+
+00:13:29.960 --> 00:13:31.490
+We have amazing, you know,
+
+00:13:31.490 --> 00:13:33.110
+app level designers, graphic
+designers, everything.
+
+00:13:33.110 --> 00:13:35.343
+It&#39;s all in one team, and we
+call that product experience.
+
+00:13:35.343 --> 00:13:38.718
+And their job is sort of from
+bits to atoms and back and
+
+00:13:38.718 --> 00:13:43.006
+all the way through to unify
+as, as one organization.
+
+00:13:43.006 --> 00:13:45.383
+And that&#39;s when they sort of
+take a hold of this, and
+
+00:13:45.383 --> 00:13:48.031
+they start to really kind of
+work out what is, what is, and
+
+00:13:48.031 --> 00:13:49.003
+this is what we call,
+
+00:13:49.003 --> 00:13:51.740
+when you&#39;re starting to really
+drive the why&#39;s, right?
+
+00:13:51.740 --> 00:13:54.231
+Thinking about what&#39;s
+possible, there&#39;s a lot of
+
+00:13:54.231 --> 00:13:57.122
+innovation and creativity now
+in the actual implementation
+
+00:13:57.122 --> 00:13:59.740
+of how we&#39;re going to build
+and create a product.
+
+00:13:59.740 --> 00:14:00.470
+And we start to say like,
+
+00:14:00.470 --> 00:14:02.460
+what are the most important
+things in that product?
+
+00:14:02.460 --> 00:14:03.350
+That, what are the most
+
+00:14:03.350 --> 00:14:04.640
+important problems we&#39;re going
+to solve?
+
+00:14:04.640 --> 00:14:06.090
+We call them hero experiences,
+right?
+
+00:14:06.090 --> 00:14:07.920
+What are we going to to do.
+
+00:14:07.920 --> 00:14:09.323
+How, what is the bar that,
+
+00:14:09.323 --> 00:14:12.314
+that will be acceptable, etc,
+right.
+
+00:14:12.314 --> 00:14:15.086
+And at this point we start to
+really resolve what we call
+
+00:14:15.086 --> 00:14:18.115
+these why&#39;s, which I&#39;ll show
+you again in a minute.
+
+00:14:18.115 --> 00:14:21.430
+And why is that different from
+what anyone else has done.
+
+00:14:21.430 --> 00:14:23.740
+From the competition from the
+category.
+
+00:14:23.740 --> 00:14:25.535
+And then what is, where does
+it go, right.
+
+00:14:25.535 --> 00:14:27.560
+It&#39;s we don&#39;t like to do just
+one off things,
+
+00:14:27.560 --> 00:14:29.340
+we have to see a broader
+vision.
+
+00:14:29.340 --> 00:14:31.730
+And this is part of that, that
+creation experience,
+
+00:14:31.730 --> 00:14:34.160
+is we look at, at where do we
+think the world is moving,
+
+00:14:34.160 --> 00:14:36.870
+and how is this thing going to
+be a stepping-stone to
+
+00:14:36.870 --> 00:14:38.660
+that ultimate end vision.
+
+00:14:38.660 --> 00:14:40.450
+And that&#39;s where the road map
+starts to get fleshed out,
+
+00:14:40.450 --> 00:14:42.630
+get, I have the ability here
+to come in and
+
+00:14:42.630 --> 00:14:44.490
+sort of be the final decision
+maker with my team and
+
+00:14:44.490 --> 00:14:47.930
+say, yep, we&#39;re going to move
+this to this next phase.
+
+00:14:47.930 --> 00:14:51.910
+And here is also where we look
+at some of these things.
+
+00:14:51.910 --> 00:14:52.780
+and, and when I get into some
+of
+
+00:14:52.780 --> 00:14:55.610
+the specific examples we have
+fast track programs, right.
+
+00:14:55.610 --> 00:14:56.980
+So we took, for example,
+
+00:14:56.980 --> 00:14:58.580
+the Jambox when we were in
+this phase and
+
+00:14:58.580 --> 00:15:00.370
+we we said, we&#39;re not going to
+go through that phase, we&#39;re
+
+00:15:00.370 --> 00:15:02.630
+going to go straight into the
+development process, right.
+
+00:15:02.630 --> 00:15:04.070
+Because we want to get this
+thing out,
+
+00:15:04.070 --> 00:15:06.290
+we want to test it and market
+it, and move really quickly.
+
+00:15:06.290 --> 00:15:07.920
+So we have the ability to sort
+of
+
+00:15:07.920 --> 00:15:10.560
+circumvent our own process now
+and say like, okay let&#39;s go,
+
+00:15:10.560 --> 00:15:14.630
+let&#39;s go really rapid and fast
+track it, and recalibrate,
+
+00:15:14.630 --> 00:15:17.020
+kind of, the go to market
+possibilities, right?
+
+00:15:17.020 --> 00:15:18.780
+So this is when we, after this
+stage now,
+
+00:15:18.780 --> 00:15:22.000
+it shifts from that product
+experience team to our product
+
+00:15:22.000 --> 00:15:25.240
+managers, who are really
+defining the business plan.
+
+00:15:25.240 --> 00:15:26.220
+When&#39;s it going to launch?
+
+00:15:26.220 --> 00:15:28.230
+When&#39;s it going to get into
+the retail calendar?
+
+00:15:28.230 --> 00:15:30.882
+When do, what is the, you
+know, software release cycle.
+
+00:15:30.882 --> 00:15:34.100
+Really prototyping actually
+starting to feel it and you&#39;re
+
+00:15:34.100 --> 00:15:36.280
+starting to make as I call a
+lot of those trade offs.
+
+00:15:36.280 --> 00:15:39.260
+Where like, okay we wanted to
+build this, we can&#39;t do that,
+
+00:15:39.260 --> 00:15:40.370
+but here&#39;s what we can do.
+
+00:15:40.370 --> 00:15:42.430
+We want to be this way we have
+to,
+
+00:15:42.430 --> 00:15:44.350
+you know, we want these
+functional experiences, but
+
+00:15:44.350 --> 00:15:46.350
+we&#39;re going to sacrifice
+battery life.
+
+00:15:46.350 --> 00:15:48.670
+Whatever it is, that&#39;s where
+we start to really
+
+00:15:48.670 --> 00:15:51.470
+kind of pool those decisions
+and start looking at it.
+
+00:15:51.470 --> 00:15:54.411
+And, and it&#39;s really a big
+juggling act frankly at that,
+
+00:15:54.411 --> 00:15:55.470
+at that point right.
+
+00:15:55.470 --> 00:15:57.260
+And so the, the product guys
+are, are driving that.
+
+00:15:57.260 --> 00:16:00.580
+And that&#39;s when again you know
+we, we sort of look at and
+
+00:16:00.580 --> 00:16:04.580
+synthesize all of what we&#39;ve
+put together and we say okay,
+
+00:16:04.580 --> 00:16:07.980
+does it actually cross enough
+things off our list.
+
+00:16:07.980 --> 00:16:11.270
+Does it meet that, that
+minimum viability, right?
+
+00:16:11.270 --> 00:16:13.406
+because we, we alway start
+with a very, as you can tell,
+
+00:16:13.406 --> 00:16:15.495
+like this very big wish list
+of what&#39;s possible and
+
+00:16:15.495 --> 00:16:16.143
+what we can do.
+
+00:16:16.143 --> 00:16:18.148
+And then we start to whittle
+it down and
+
+00:16:18.148 --> 00:16:21.092
+say, is this cross enough of
+the value threshold that we
+
+00:16:21.092 --> 00:16:24.075
+think that it&#39;s, it&#39;s worth
+pursuing.
+
+00:16:24.075 --> 00:16:27.600
+And now can we actually move
+it into the development phase
+
+00:16:27.600 --> 00:16:29.480
+where again product management
+continues to lead it,
+
+00:16:29.480 --> 00:16:33.320
+but now you&#39;re starting to
+really get deep.
+
+00:16:33.320 --> 00:16:34.960
+And this is where engineering
+comes in and
+
+00:16:34.960 --> 00:16:37.670
+is really starting to sign off
+on like we can build it,
+
+00:16:37.670 --> 00:16:40.020
+here&#39;s a time schedule and how
+we ship.
+
+00:16:40.020 --> 00:16:40.950
+And then again, you know,
+
+00:16:40.950 --> 00:16:43.970
+product team is looking at how
+should we go deeper on this,
+
+00:16:43.970 --> 00:16:46.840
+how can we increase engagement
+with a little innovations.
+
+00:16:46.840 --> 00:16:49.790
+Or the tuning, what are all
+the things that we need to do
+
+00:16:49.790 --> 00:16:51.106
+to sort of make that?
+
+00:16:51.106 --> 00:16:53.833
+You know one of the things
+that we&#39;ve been fortunate to
+
+00:16:53.833 --> 00:16:54.543
+have is a lot of
+
+00:16:54.543 --> 00:16:57.349
+wonderful response to the
+products that we&#39;ve built.
+
+00:16:57.349 --> 00:16:59.962
+And, and, and we take a lot of
+care and time and
+
+00:16:59.962 --> 00:17:02.776
+detail really in, in sort of
+this development and
+
+00:17:02.776 --> 00:17:06.059
+concepting phase around little
+details that create these
+
+00:17:06.059 --> 00:17:07.410
+magical experiences.
+
+00:17:07.410 --> 00:17:09.838
+So for example when we turn on
+Jambox, you know,
+
+00:17:09.838 --> 00:17:13.037
+we have this pretty cool sound
+design that go and you know,
+
+00:17:13.037 --> 00:17:13.984
+that, that took,
+
+00:17:13.984 --> 00:17:16.853
+you know, months to come up
+with the right audio tuning.
+
+00:17:16.853 --> 00:17:18.628
+We worked with a lot of
+different, you know,
+
+00:17:18.628 --> 00:17:20.406
+choreographers to, to create
+that sound but
+
+00:17:20.406 --> 00:17:22.900
+every time someone turns it on
+I see them smile.
+
+00:17:22.900 --> 00:17:23.400
+And they laugh.
+
+00:17:23.400 --> 00:17:26.350
+The feel of the rubber
+prototyping and there&#39;s one
+
+00:17:26.350 --> 00:17:29.580
+manufacturer in world that was
+able to make the rubber at
+
+00:17:29.580 --> 00:17:31.290
+the quality and durometer that
+we wanted and
+
+00:17:31.290 --> 00:17:33.540
+the colors that we wanted for
+the first Jambox.
+
+00:17:33.540 --> 00:17:35.608
+Right, so all of those little
+magical details how to
+
+00:17:35.608 --> 00:17:37.120
+resolve, even in software,
+right.
+
+00:17:37.120 --> 00:17:39.350
+When we had the first up and
+when it plugged in and
+
+00:17:39.350 --> 00:17:40.400
+your sleep graph showed up.
+
+00:17:40.400 --> 00:17:42.024
+Even just the animations of
+how,
+
+00:17:42.024 --> 00:17:44.054
+you know, the bars would show
+up and, and
+
+00:17:44.054 --> 00:17:46.379
+the way the cards would, would
+flow in and out.
+
+00:17:46.379 --> 00:17:47.923
+That was a detail that we had
+thought about,
+
+00:17:47.923 --> 00:17:48.968
+how&#39;s this going to interact,
+
+00:17:48.968 --> 00:17:50.389
+how&#39;s the user going to
+experience that,
+
+00:17:50.389 --> 00:17:51.450
+how&#39;re they going to feel it?
+
+00:17:51.450 --> 00:17:54.970
+Right, so this, a lot of that
+kind of stuff happens even at
+
+00:17:54.970 --> 00:17:57.570
+this stage where you sign off
+on a program it&#39;s going.
+
+00:17:57.570 --> 00:17:59.580
+But you&#39;re making those kinds
+of decisions all the way
+
+00:17:59.580 --> 00:18:01.290
+through and you&#39;re trading
+them off and
+
+00:18:01.290 --> 00:18:04.480
+you&#39;re doing it in the context
+of, of this bigger picture.
+
+00:18:04.480 --> 00:18:07.750
+So and continued innovation is
+an opportunity to keep
+
+00:18:07.750 --> 00:18:09.960
+refining, keep doing all that
+stuff so.
+
+00:18:11.150 --> 00:18:13.870
+So how do we think about it
+now you know it, kind of
+
+00:18:13.870 --> 00:18:16.800
+at a broader level, sort of
+what is the framework for
+
+00:18:16.800 --> 00:18:18.610
+how we think about these
+signature experiences?
+
+00:18:18.610 --> 00:18:20.730
+Well we do start with these
+why&#39;s.
+
+00:18:20.730 --> 00:18:22.300
+Right, which is that
+articulation of
+
+00:18:22.300 --> 00:18:24.190
+a problem that we&#39;re solving.
+
+00:18:24.190 --> 00:18:25.920
+And then the themes around how
+these
+
+00:18:25.920 --> 00:18:28.480
+become actionable concepts,
+right?
+
+00:18:28.480 --> 00:18:30.550
+And then there&#39;s, there&#39;s what
+we do is we build these
+
+00:18:30.550 --> 00:18:33.680
+cross functional pods that
+take a person from the product
+
+00:18:33.680 --> 00:18:35.670
+experience team, a person from
+hardware engineering,
+
+00:18:35.670 --> 00:18:37.450
+a person from software
+engineering.
+
+00:18:37.450 --> 00:18:40.177
+A person from the data team,
+and we put them together and
+
+00:18:40.177 --> 00:18:41.454
+they&#39;re kind of person,
+
+00:18:41.454 --> 00:18:44.486
+there&#39;s, this is the pod that
+owns that theme or that track.
+
+00:18:44.486 --> 00:18:45.821
+And they continue to sort of
+
+00:18:45.821 --> 00:18:47.970
+build that out against the
+hero features and
+
+00:18:47.970 --> 00:18:50.540
+inside features into how we
+put that together.
+
+00:18:50.540 --> 00:18:53.830
+So, I&#39;m going to go in now in,
+into more specifics around
+
+00:18:53.830 --> 00:18:56.260
+what we call these why&#39;s,
+because this is where I,
+
+00:18:56.260 --> 00:18:58.910
+I spend a lot of my time
+really asking a question.
+
+00:18:58.910 --> 00:19:01.020
+And what it does is it serves
+as a really interesting
+
+00:19:01.020 --> 00:19:05.080
+framework for us to be able to
+come back and say,
+
+00:19:05.080 --> 00:19:07.170
+hey do we meet those questions
+that we ask?
+
+00:19:07.170 --> 00:19:09.070
+Does this thing actually do
+it?
+
+00:19:09.070 --> 00:19:13.150
+And it serves also as a really
+good guide post for
+
+00:19:13.150 --> 00:19:15.210
+a lot of our creativity and a
+lot of our innovation so
+
+00:19:15.210 --> 00:19:17.290
+that it&#39;s not unbridled,
+right?
+
+00:19:17.290 --> 00:19:20.720
+So, it really comes down to a
+very simple question for us.
+
+00:19:20.720 --> 00:19:24.660
+Which is, what is the user
+problem that we solve
+
+00:19:24.660 --> 00:19:26.300
+through this experience,
+whether it&#39;s in hardware,
+
+00:19:26.300 --> 00:19:28.580
+software, data, platform,
+whatever it is.
+
+00:19:28.580 --> 00:19:31.350
+That once we solve it people
+can&#39;t live without it, right?
+
+00:19:31.350 --> 00:19:34.130
+They may have a absolutely
+burning need to go solve this
+
+00:19:34.130 --> 00:19:35.120
+problem and they can&#39;t, you
+know,
+
+00:19:35.120 --> 00:19:36.840
+they, they&#39;re looking for a
+solution.
+
+00:19:36.840 --> 00:19:38.790
+Or it&#39;s things like, you know,
+
+00:19:38.790 --> 00:19:41.840
+that once you have it you
+never thought you needed it,
+
+00:19:41.840 --> 00:19:44.120
+but now you can&#39;t live without
+it, right?
+
+00:19:44.120 --> 00:19:46.210
+And again, the Jambox is a
+great of example of that.
+
+00:19:46.210 --> 00:19:48.562
+We did, you know, we talked to
+some people when we
+
+00:19:48.562 --> 00:19:50.748
+were thinking about making
+that product, and
+
+00:19:50.748 --> 00:19:52.162
+it was interesting because.
+
+00:19:52.162 --> 00:19:53.193
+Little story for
+
+00:19:53.193 --> 00:19:57.093
+you guys, when we launched the
+Jambox in the fall of 2010,
+
+00:19:57.093 --> 00:20:00.258
+the market for wireless
+speakers as a percentage of
+
+00:20:00.258 --> 00:20:03.583
+the overall speaker market was
+0%, right, 0%.
+
+00:20:03.583 --> 00:20:05.615
+Last Christmas, which was you
+know,
+
+00:20:05.615 --> 00:20:08.930
+Christmas of 2013, it was 78%
+of the market, right.
+
+00:20:10.580 --> 00:20:13.640
+So in a few years we were able
+to transform this entire
+
+00:20:13.640 --> 00:20:15.420
+industry that&#39;d been around
+for you know,
+
+00:20:15.420 --> 00:20:17.930
+since the 50s and 60s, turn it
+on its head.
+
+00:20:17.930 --> 00:20:20.330
+And if I had gone out and
+asked a bunch of people and
+
+00:20:20.330 --> 00:20:22.630
+I said who wants, who wants
+$199 speaker for
+
+00:20:22.630 --> 00:20:23.980
+your mobile phone.
+
+00:20:23.980 --> 00:20:25.902
+I guarantee you that in that
+focus group 0% of
+
+00:20:25.902 --> 00:20:28.071
+those people would have said
+that I want that thing or
+
+00:20:28.071 --> 00:20:29.961
+I need it or that I&#39;d be
+willing to pay for it.
+
+00:20:29.961 --> 00:20:30.968
+But yet when we did it,
+
+00:20:30.968 --> 00:20:32.670
+it transformed an industry,
+right?
+
+00:20:32.670 --> 00:20:34.056
+And so what we, and, and
+
+00:20:34.056 --> 00:20:36.960
+this is where these why&#39;s
+become super important,
+
+00:20:36.960 --> 00:20:40.700
+is just really focusing in on
+what you&#39;re doing, right?
+
+00:20:40.700 --> 00:20:43.264
+And I&#39;ll go through one
+example in the audio space
+
+00:20:43.264 --> 00:20:45.584
+which is the Jambox example in
+the audio, and
+
+00:20:45.584 --> 00:20:48.575
+then I&#39;ll take you through a
+little bit of how we did it
+
+00:20:48.575 --> 00:20:50.308
+in op in particular UP24.
+
+00:20:50.308 --> 00:20:52.216
+But it starts with what we
+call kind of our,
+
+00:20:52.216 --> 00:20:53.490
+our category strategy, and
+
+00:20:53.490 --> 00:20:55.675
+this is the sort of experience
+framework right?
+
+00:20:55.675 --> 00:20:58.986
+And, and our view was, look,
+all of your content and
+
+00:20:58.986 --> 00:21:01.570
+media experiences are now on
+your phone.
+
+00:21:01.570 --> 00:21:04.100
+All right, they are no longer
+on your iPad, iPod, or
+
+00:21:04.100 --> 00:21:04.730
+your computer.
+
+00:21:04.730 --> 00:21:08.140
+And so we need a different way
+to interact with it
+
+00:21:08.140 --> 00:21:11.450
+that needs to be as mobile, as
+portable, as high quality.
+
+00:21:11.450 --> 00:21:14.450
+All right, that was our, our
+fundamental thinking.
+
+00:21:14.450 --> 00:21:16.287
+And then we said that
+experience needs to
+
+00:21:16.287 --> 00:21:19.045
+be seamless across time and
+space, so anywhere through it,
+
+00:21:19.045 --> 00:21:21.153
+different car, you know,
+traveling, in and
+
+00:21:21.153 --> 00:21:23.206
+out of your house, around the
+house, that,
+
+00:21:23.206 --> 00:21:26.072
+that was fundamentally what we
+were doing and we said: that&#39;s
+
+00:21:26.072 --> 00:21:28.811
+the whole point of why this
+category should exist, right?
+
+00:21:28.811 --> 00:21:30.970
+And that was the human
+problem.
+
+00:21:30.970 --> 00:21:33.160
+And then we said, okay, what&#39;s
+in it for Jawbone?
+
+00:21:33.160 --> 00:21:34.850
+Right, why, why should we do
+this?
+
+00:21:34.850 --> 00:21:37.580
+And so if you think about that
+broader macro context that I
+
+00:21:37.580 --> 00:21:40.910
+was talking around, the
+internet of things, for us,
+
+00:21:40.910 --> 00:21:43.170
+this was our entry into your
+home, right?
+
+00:21:43.170 --> 00:21:46.630
+And so while everybody talks
+about all these new things in
+
+00:21:46.630 --> 00:21:48.090
+your house from, you know,
+
+00:21:48.090 --> 00:21:50.800
+lights and, and thermostats
+and cable boxes and
+
+00:21:50.800 --> 00:21:53.360
+fridges and, and, you know,
+smoke alarms or whatever,
+
+00:21:53.360 --> 00:21:55.650
+being connected, media&#39;s still
+the killer app in your house.
+
+00:21:55.650 --> 00:21:57.410
+It&#39;s where we sell millions
+and millions and
+
+00:21:57.410 --> 00:21:58.810
+millions of units, right?
+
+00:21:58.810 --> 00:21:59.890
+So we said, well speakers can
+be
+
+00:21:59.890 --> 00:22:02.480
+our entry into that world
+that&#39;s around you.
+
+00:22:02.480 --> 00:22:05.420
+And, and it can be the hub of
+things that we want to do from
+
+00:22:05.420 --> 00:22:08.250
+a software and service
+perspective in your home.
+
+00:22:08.250 --> 00:22:10.490
+So there&#39;s, there&#39;s this
+interesting strategy both,
+
+00:22:10.490 --> 00:22:11.510
+at solving user problem, but
+
+00:22:11.510 --> 00:22:12.700
+then why does it matter to
+Java?
+
+00:22:12.700 --> 00:22:16.690
+So those two have to go
+together because, you know, A,
+
+00:22:16.690 --> 00:22:18.570
+we&#39;re not in, you know,
+philanthropic, not for
+
+00:22:18.570 --> 00:22:23.210
+profit industry, but B, this
+is, if you do this well,
+
+00:22:23.210 --> 00:22:25.050
+it allows you to keep doing
+great products, and
+
+00:22:25.050 --> 00:22:26.870
+it allows you to keep moving
+forward, and
+
+00:22:26.870 --> 00:22:27.700
+doing interesting things.
+
+00:22:27.700 --> 00:22:29.120
+So that&#39;s sort of how we put
+that together.
+
+00:22:31.230 --> 00:22:33.200
+And then we built this sort
+of,
+
+00:22:33.200 --> 00:22:34.460
+what we think the experience,
+
+00:22:34.460 --> 00:22:36.760
+what we call the experience
+continuum is.
+
+00:22:36.760 --> 00:22:38.440
+Where is it today, right?
+
+00:22:38.440 --> 00:22:41.090
+And when we started it was a
+Bluetooth speaker, right?
+
+00:22:41.090 --> 00:22:43.300
+That was the core enabling
+technology that allowed us to
+
+00:22:43.300 --> 00:22:44.410
+connect to stuff.
+
+00:22:44.410 --> 00:22:46.640
+Where do we think that it&#39;s
+going to go tomorrow?
+
+00:22:46.640 --> 00:22:48.800
+And then, what happens when we
+can dream in
+
+00:22:48.800 --> 00:22:50.000
+the future, right?
+
+00:22:50.000 --> 00:22:52.140
+And we start to really try to
+live in tomorrow and
+
+00:22:52.140 --> 00:22:53.010
+the future and
+
+00:22:53.010 --> 00:22:55.290
+the sort of thing about what
+we build today as a gradu,
+
+00:22:55.290 --> 00:22:57.940
+as a stepping stone to
+graduate users starting in
+
+00:22:57.940 --> 00:23:00.620
+one place, continue to move,
+continue to move through that.
+
+00:23:00.620 --> 00:23:03.690
+And that gives us a view of
+how we also make
+
+00:23:03.690 --> 00:23:05.240
+these trade offs, right?
+
+00:23:05.240 --> 00:23:05.900
+because we said, you know
+what,
+
+00:23:05.900 --> 00:23:07.820
+we&#39;re not going to put this
+into this product, but
+
+00:23:07.820 --> 00:23:10.440
+we got a spacer in the next
+one and we know that we can
+
+00:23:10.440 --> 00:23:13.650
+move users to that and they&#39;ll
+be ready for it, right?
+
+00:23:13.650 --> 00:23:16.170
+and, and that&#39;s, that&#39;s a lot
+of,
+
+00:23:16.170 --> 00:23:17.840
+of, of the way we build stuff
+is we sort of
+
+00:23:17.840 --> 00:23:20.320
+define that experience
+continuum right?
+
+00:23:20.320 --> 00:23:23.070
+And then it&#39;s, and then we, we
+do talk about this a lot.
+
+00:23:23.070 --> 00:23:25.360
+We don&#39;t think of ourselves as
+a hardware team or
+
+00:23:25.360 --> 00:23:27.830
+software team or data company
+or whatever it is.
+
+00:23:27.830 --> 00:23:30.470
+We think of ourselves as an
+experiences company, right?
+
+00:23:30.470 --> 00:23:32.640
+It&#39;s not just about that
+physical device or
+
+00:23:32.640 --> 00:23:35.490
+the feature, the object, it&#39;s
+about the system,
+
+00:23:35.490 --> 00:23:37.760
+it&#39;s about how the pieces come
+together.
+
+00:23:37.760 --> 00:23:40.110
+And so when we start to define
+these whys,
+
+00:23:40.110 --> 00:23:41.390
+they become the problem
+statement, and
+
+00:23:41.390 --> 00:23:44.870
+we say okay, how do we use a
+piece of hardware.
+
+00:23:44.870 --> 00:23:46.890
+How do we use the service in
+the cloud?
+
+00:23:46.890 --> 00:23:51.400
+How do we use, you know, an
+application, a sound, a button
+
+00:23:51.400 --> 00:23:54.140
+to solve this user experience
+problem that we have?
+
+00:23:54.140 --> 00:23:56.190
+And what&#39;s the right
+distribution across that
+
+00:23:56.190 --> 00:23:59.230
+system of where you should
+attack the problem, right?
+
+00:23:59.230 --> 00:24:00.250
+And where do we need to
+innovate?
+
+00:24:00.250 --> 00:24:02.080
+And where do we need to pull
+together?
+
+00:24:02.080 --> 00:24:04.780
+So that&#39;s a big, big, big part
+of the thinking.
+
+00:24:04.780 --> 00:24:06.730
+It helps us do it, right?
+
+00:24:06.730 --> 00:24:09.530
+And, you know, it, it, it&#39;s
+when we think about these here
+
+00:24:09.530 --> 00:24:12.850
+experiences, right, we, we say
+it&#39;s really around the context
+
+00:24:12.850 --> 00:24:16.330
+of why it&#39;s magical to the
+user, right?
+
+00:24:16.330 --> 00:24:16.930
+And then like I said,
+
+00:24:16.930 --> 00:24:19.620
+the system is a flagship, and
+then it has to go
+
+00:24:20.930 --> 00:24:22.710
+to the level of emotional
+connection, right?
+
+00:24:22.710 --> 00:24:25.590
+Where you feel without it
+you&#39;re lost.
+
+00:24:25.590 --> 00:24:26.790
+Like, I&#39;m going to go back
+home and
+
+00:24:26.790 --> 00:24:28.190
+get it if I don&#39;t have it,
+right?
+
+00:24:28.190 --> 00:24:29.060
+And so those are the kind of
+
+00:24:29.060 --> 00:24:31.070
+principles that govern all
+these things.
+
+00:24:31.070 --> 00:24:33.410
+And we have to keep asking
+ourselves those questions,
+
+00:24:33.410 --> 00:24:34.070
+is it doing that?
+
+00:24:34.070 --> 00:24:37.010
+So we pull this all together
+in experience framework.
+
+00:24:37.010 --> 00:24:40.040
+This becomes essentially a
+brief for
+
+00:24:40.040 --> 00:24:42.130
+your engineering team and your
+design team, and
+
+00:24:42.130 --> 00:24:43.630
+all the people that work on
+this in the company.
+
+00:24:43.630 --> 00:24:44.870
+That they can go back to and
+
+00:24:44.870 --> 00:24:47.230
+say, what are we doing, and
+why are we doing it?
+
+00:24:47.230 --> 00:24:47.990
+And how does that work?
+
+00:24:47.990 --> 00:24:49.980
+And then how do we create
+against that, right?
+
+00:24:50.990 --> 00:24:53.460
+And then we have a sort of
+whole process,
+
+00:24:53.460 --> 00:24:55.620
+Blueberry is one of the
+internal code names.
+
+00:24:55.620 --> 00:24:56.950
+But the user experience
+process starts with
+
+00:24:56.950 --> 00:24:57.700
+a better resource, so
+
+00:24:57.700 --> 00:24:59.840
+we do actually listen to users
+and talk to &#39;em.
+
+00:24:59.840 --> 00:25:01.610
+But we talk to &#39;em in a very
+specific way.
+
+00:25:01.610 --> 00:25:03.910
+Start looking for those key
+insights.
+
+00:25:03.910 --> 00:25:06.490
+We concept &#39;em and then we
+start to build, right?
+
+00:25:06.490 --> 00:25:08.850
+And this is why we go to find
+those lists of
+
+00:25:08.850 --> 00:25:10.060
+consumer problems.
+
+00:25:10.060 --> 00:25:12.890
+The principles, how do we
+think about approaching that?
+
+00:25:12.890 --> 00:25:15.350
+What are the solutions?
+
+00:25:15.350 --> 00:25:16.080
+And then what&#39;s
+
+00:25:16.080 --> 00:25:18.750
+required in the product to
+make that happen.
+
+00:25:18.750 --> 00:25:19.250
+Sam?
+
+00:25:20.690 --> 00:25:24.030
+&gt;&gt; Could, could you talk about
+how you balance the fact that
+
+00:25:24.030 --> 00:25:25.470
+a user would never, told you
+they wanted to pay $200 for
+
+00:25:25.470 --> 00:25:26.240
+a wireless speaker.
+
+00:25:26.240 --> 00:25:27.250
+&gt;&gt; Yeah.
+&gt;&gt; With user research in
+
+00:25:27.250 --> 00:25:28.500
+front of this process.
+
+00:25:28.500 --> 00:25:29.120
+&gt;&gt; Yeah.
+
+00:25:29.120 --> 00:25:30.760
+Well, there&#39;s two different,
+there&#39;s two different,
+
+00:25:30.760 --> 00:25:33.780
+there&#39;s a lot of layers to, to
+users research, right?
+
+00:25:33.780 --> 00:25:34.890
+So what we look at,
+
+00:25:34.890 --> 00:25:37.480
+that&#39;s a great question, so
+there&#39;s, there&#39;s, you know,
+
+00:25:37.480 --> 00:25:38.940
+you guys probably aren&#39;t
+familiar enough with this yet,
+
+00:25:38.940 --> 00:25:40.510
+but there are sort of standard
+tools for
+
+00:25:40.510 --> 00:25:42.790
+what people do in focus
+grouping, where they say,
+
+00:25:42.790 --> 00:25:43.900
+you know, would you try this,
+would you do,
+
+00:25:43.900 --> 00:25:45.430
+would you pay this, do you
+want this feature,
+
+00:25:45.430 --> 00:25:47.130
+do I want this feature, what
+do you care about.
+
+00:25:47.130 --> 00:25:48.320
+That&#39;s one way to do it.
+
+00:25:48.320 --> 00:25:51.790
+And we don&#39;t usually get there
+is really great answers.
+
+00:25:51.790 --> 00:25:53.420
+We ask different kinds of
+questions.
+
+00:25:53.420 --> 00:25:57.710
+We say, you know, how much
+music do you listen to
+
+00:25:57.710 --> 00:25:59.470
+when you are with other
+people?
+
+00:26:01.000 --> 00:26:02.820
+Wha, how do you play that
+music?
+
+00:26:02.820 --> 00:26:04.200
+Do you listen to a headphones,
+or
+
+00:26:04.200 --> 00:26:06.560
+do you listen over the
+speakers on your,
+
+00:26:06.560 --> 00:26:07.950
+on your phone, okay.
+
+00:26:07.950 --> 00:26:09.120
+How often are you with other
+people?
+
+00:26:09.120 --> 00:26:10.440
+How often do you want a
+personalized experience?
+
+00:26:10.440 --> 00:26:11.460
+How often do you want to
+share?
+
+00:26:11.460 --> 00:26:12.030
+How often do you?
+
+00:26:12.030 --> 00:26:13.930
+So, we ask, like, we ask a lot
+of questions.
+
+00:26:13.930 --> 00:26:15.420
+We just ask different ones.
+
+00:26:15.420 --> 00:26:17.030
+And we don&#39;t ask them specific
+things about,
+
+00:26:17.030 --> 00:26:18.410
+do you want this or do you
+want that.
+
+00:26:18.410 --> 00:26:19.640
+We ask them: how do they
+behave?
+
+00:26:19.640 --> 00:26:21.040
+How do they live?
+
+00:26:21.040 --> 00:26:21.920
+And you say to them,
+
+00:26:21.920 --> 00:26:26.010
+hey, if you had something that
+allowed you to take, you know?
+
+00:26:26.010 --> 00:26:26.950
+A great example is iPod,
+
+00:26:26.950 --> 00:26:28.960
+If you said to somebody, you
+know,
+
+00:26:28.960 --> 00:26:30.600
+if you could put a thousand
+songs in your pocket and
+
+00:26:30.600 --> 00:26:33.180
+take them anywhere, that&#39;s
+cool.
+
+00:26:33.180 --> 00:26:33.690
+Not do you want
+
+00:26:33.690 --> 00:26:35.820
+a digital portable music
+player that, you know?
+
+00:26:35.820 --> 00:26:38.230
+So again it&#39;s, it&#39;s at a price
+that was, you know,
+
+00:26:38.230 --> 00:26:40.040
+more than your phone, right?
+
+00:26:40.040 --> 00:26:43.380
+So, you know, you gotta, you
+sort of have to separate what
+
+00:26:43.380 --> 00:26:46.580
+are questions that you can ask
+that are going to
+
+00:26:46.580 --> 00:26:50.690
+help make you smarter about
+your thesis versus trying to
+
+00:26:50.690 --> 00:26:53.060
+get somebody to validate it
+for you, right?
+
+00:26:53.060 --> 00:26:54.660
+And I think that&#39;s the real
+separation.
+
+00:26:54.660 --> 00:26:55.560
+Is it&#39;s that,
+
+00:26:55.560 --> 00:26:57.440
+no one&#39;s going to tell you
+what to build,
+
+00:26:57.440 --> 00:27:01.080
+if they do then they should do
+it, right, and not you.
+
+00:27:01.080 --> 00:27:03.410
+And so you, you&#39;re the one
+who&#39;s making that decision,
+
+00:27:03.410 --> 00:27:05.970
+you&#39;ve got the thesis, you&#39;ve
+got the creative idea,
+
+00:27:05.970 --> 00:27:07.390
+you&#39;ve got the innovation.
+
+00:27:07.390 --> 00:27:09.550
+You gotta use these people to
+help you make it better and
+
+00:27:09.550 --> 00:27:10.610
+to refine your thinking.
+
+00:27:10.610 --> 00:27:11.520
+That&#39;s the difference.
+
+00:27:11.520 --> 00:27:12.020
+Make sense?
+
+00:27:13.630 --> 00:27:14.680
+Okay.
+
+00:27:14.680 --> 00:27:17.620
+So, I&#39;m going to switch over
+to some Up24,
+
+00:27:17.620 --> 00:27:21.080
+which is the product that
+we&#39;ve had on the market, our,
+
+00:27:21.080 --> 00:27:23.940
+our wireless products for
+health tracking.
+
+00:27:23.940 --> 00:27:26.550
+And the whys of Up24 are
+really simple, right?
+
+00:27:26.550 --> 00:27:29.060
+Well, first of all, let me
+start with the whys for Up.
+
+00:27:29.060 --> 00:27:31.610
+The idea there was there&#39;s so
+
+00:27:31.610 --> 00:27:33.830
+much that we know about the
+world today, through Twitter,
+
+00:27:33.830 --> 00:27:37.400
+Facebook, social media, access
+to the internet, Google,
+
+00:27:37.400 --> 00:27:40.350
+et cetera, but we know nothing
+about ourselves.
+
+00:27:40.350 --> 00:27:43.340
+We have no idea why some days
+I sleep eight hours and
+
+00:27:43.340 --> 00:27:46.080
+feel terrible some days I
+sleep three and feel awesome.
+
+00:27:46.080 --> 00:27:47.440
+Like I just have no idea,
+right?
+
+00:27:47.440 --> 00:27:49.900
+And so I, our thought was:
+could we take a lot of
+
+00:27:49.900 --> 00:27:51.930
+this sensor technology, ma,
+
+00:27:51.930 --> 00:27:54.960
+help people understand more
+about themselves and start to
+
+00:27:54.960 --> 00:27:57.690
+then make better decisions
+about how they live better.
+
+00:27:57.690 --> 00:27:59.190
+So this, that was the first
+product.
+
+00:27:59.190 --> 00:28:01.599
+This was the second product we
+said: okay,
+
+00:28:01.599 --> 00:28:05.130
+great, now that we have
+wireless connectivity,
+
+00:28:05.130 --> 00:28:07.030
+it&#39;s not just about Bluetooth
+or wireless,
+
+00:28:07.030 --> 00:28:10.870
+it&#39;s about the fact that I can
+use that real time flow of
+
+00:28:10.870 --> 00:28:14.480
+information to understand
+what&#39;s happening with me, and,
+
+00:28:14.480 --> 00:28:16.860
+and, and go, and take action
+on it, right?
+
+00:28:16.860 --> 00:28:19.500
+I can get the data in a more
+meaningful, relevant,
+
+00:28:19.500 --> 00:28:23.600
+contextually important way at
+the moment that it matters.
+
+00:28:23.600 --> 00:28:25.030
+I can also get back guidance
+in
+
+00:28:25.030 --> 00:28:27.630
+a structured way that can help
+me go do things.
+
+00:28:27.630 --> 00:28:29.410
+And I want that ongoing
+encouragement,
+
+00:28:29.410 --> 00:28:30.910
+because everybody, you know,
+
+00:28:30.910 --> 00:28:32.060
+knows that they want to be
+better, but
+
+00:28:32.060 --> 00:28:33.980
+they fall down or do whatever.
+
+00:28:33.980 --> 00:28:36.080
+And they want to, a fluid way
+to interact with this.
+
+00:28:36.080 --> 00:28:39.550
+So this is what we, we&#39;re sort
+of building in Up24, right?
+
+00:28:39.550 --> 00:28:43.640
+We had this very crisp set of
+five things that were
+
+00:28:43.640 --> 00:28:45.610
+the whys of why we&#39;re building
+this product and
+
+00:28:45.610 --> 00:28:46.240
+why we&#39;re doing it.
+
+00:28:47.360 --> 00:28:51.190
+And our point of view was that
+it was going to,
+
+00:28:51.190 --> 00:28:53.310
+we had this sort of
+fundamental narrative going,
+
+00:28:53.310 --> 00:28:54.740
+going back to the experience
+framework where we
+
+00:28:54.740 --> 00:28:57.590
+said everything we do in UP is
+about, you know,
+
+00:28:57.590 --> 00:28:59.500
+helping people track and
+understand them,
+
+00:28:59.500 --> 00:29:02.040
+track themselves, was
+understand, which is
+
+00:29:02.040 --> 00:29:04.840
+taking all that data and
+converting it into knowledge.
+
+00:29:04.840 --> 00:29:06.570
+And then the third part was
+act, so
+
+00:29:06.570 --> 00:29:07.570
+track, understand, and act.
+
+00:29:07.570 --> 00:29:09.850
+That is our narrative for
+everything we do in the,
+
+00:29:09.850 --> 00:29:12.000
+in the kind of wearable health
+space, fundamental.
+
+00:29:12.000 --> 00:29:14.860
+And, and it will be for, for
+the entirety of what we do.
+
+00:29:14.860 --> 00:29:17.820
+It&#39;s sort of, help people get
+more information on results.
+
+00:29:17.820 --> 00:29:19.450
+Data is great, understanding
+is better,
+
+00:29:19.450 --> 00:29:21.670
+convert that into things that
+they can, have,
+
+00:29:21.670 --> 00:29:23.860
+create real knowledge that
+they can then take action on.
+
+00:29:23.860 --> 00:29:27.000
+So anything that we can do to
+keep the device on, get more
+
+00:29:27.000 --> 00:29:31.410
+information, help them be
+engaged and then find ways of,
+
+00:29:31.410 --> 00:29:35.240
+of guiding that behavior was
+really, really interesting and
+
+00:29:35.240 --> 00:29:37.670
+this is the sort of framework
+for the system.
+
+00:29:37.670 --> 00:29:39.390
+And then you can start to
+think about, well,
+
+00:29:39.390 --> 00:29:41.930
+that designs how you build
+your data infrastructure,
+
+00:29:41.930 --> 00:29:44.420
+your insight system, how you
+process it,
+
+00:29:44.420 --> 00:29:47.470
+how you build the application
+experience that surfaces it.
+
+00:29:47.470 --> 00:29:50.610
+And this is a little bit more
+of a blowout around track,
+
+00:29:50.610 --> 00:29:52.350
+understand and act, right?
+
+00:29:52.350 --> 00:29:54.650
+So we got it in and, and this
+is, the, the tracking part is
+
+00:29:54.650 --> 00:29:56.550
+really fundamentally about the
+hardware too.
+
+00:29:56.550 --> 00:29:58.540
+It&#39;s sort of, how do you
+design the batteries?
+
+00:29:58.540 --> 00:30:00.930
+How do you design the embedded
+systems and materials?
+
+00:30:00.930 --> 00:30:02.210
+The way it latches on you.
+
+00:30:02.210 --> 00:30:03.390
+How easy is it?
+
+00:30:03.390 --> 00:30:04.100
+So that you keep,
+
+00:30:04.100 --> 00:30:07.100
+create the habit of keeping it
+on your body, right?
+
+00:30:07.100 --> 00:30:08.520
+Then you gotta take all that
+data, and
+
+00:30:08.520 --> 00:30:11.510
+it&#39;s not just visualization of
+information.
+
+00:30:11.510 --> 00:30:13.840
+Like, you know, if I told you
+you guys&#39; heart rate was 75,
+
+00:30:13.840 --> 00:30:14.530
+is that good or bad?
+
+00:30:14.530 --> 00:30:17.450
+Who knows the answer to that
+question?
+
+00:30:17.450 --> 00:30:18.080
+I don&#39;t.
+
+00:30:18.080 --> 00:30:20.370
+It depends, right, on what
+you&#39;re doing and
+
+00:30:20.370 --> 00:30:21.430
+who you are and, and what&#39;s
+happening.
+
+00:30:21.430 --> 00:30:23.560
+So just the data surfacing is
+not enough.
+
+00:30:23.560 --> 00:30:25.680
+You gotta contextualize why
+that matters,
+
+00:30:25.680 --> 00:30:26.940
+turn it into action.
+
+00:30:26.940 --> 00:30:28.220
+And that&#39;s the third part,
+right?
+
+00:30:28.220 --> 00:30:29.380
+Is action is the key.
+
+00:30:29.380 --> 00:30:30.960
+So let me understand the data.
+
+00:30:30.960 --> 00:30:34.040
+Let me understand that when I
+work out at four o&#39;clock,
+
+00:30:34.040 --> 00:30:36.430
+I get four more hours of deep
+sleep at night.
+
+00:30:36.430 --> 00:30:37.450
+That&#39;s awesome.
+
+00:30:37.450 --> 00:30:40.590
+So let me, like, get a
+reminder at four o&#39;clock to go
+
+00:30:40.590 --> 00:30:41.820
+work out, or do whatever,
+right?
+
+00:30:41.820 --> 00:30:42.780
+And that&#39;s what we&#39;ve built.
+
+00:30:42.780 --> 00:30:44.920
+And that&#39;s a lot of
+infrastructure to sort of
+
+00:30:44.920 --> 00:30:45.620
+create that experience.
+
+00:30:45.620 --> 00:30:47.990
+But that&#39;s how we build
+software.
+
+00:30:47.990 --> 00:30:49.120
+That&#39;s how we build hardware.
+
+00:30:49.120 --> 00:30:51.900
+That&#39;s how we build sort of
+the whole system.
+
+00:30:51.900 --> 00:30:55.730
+And then often, we, we will
+talk about different kinds of
+
+00:30:55.730 --> 00:30:59.410
+users and what they care about
+and what we think our user
+
+00:30:59.410 --> 00:31:03.810
+base is made of and, you know,
+who&#39;s more into weight loss,
+
+00:31:03.810 --> 00:31:06.600
+who wants the sort of social
+acceptance,
+
+00:31:06.600 --> 00:31:10.558
+who, are, people who are vain,
+that just want to look better.
+
+00:31:10.558 --> 00:31:12.680
+and, and why, it&#39;s, it&#39;s true.
+
+00:31:12.680 --> 00:31:14.877
+So, you know, there&#39;s lots of
+different things.
+
+00:31:14.877 --> 00:31:16.787
+And we, and there are people
+who have, sort of,
+
+00:31:16.787 --> 00:31:18.521
+medical reasons for the use of
+our product.
+
+00:31:18.521 --> 00:31:21.120
+And we design different kinds
+of experiences, right?
+
+00:31:21.120 --> 00:31:22.868
+And we think about using.
+
+00:31:22.868 --> 00:31:24.915
+The platforms like the phones
+and, and
+
+00:31:24.915 --> 00:31:26.528
+ways to push notifications and
+
+00:31:26.528 --> 00:31:28.460
+as part of the system think,
+right.
+
+00:31:28.460 --> 00:31:30.980
+We think of notifications as a
+tool for
+
+00:31:30.980 --> 00:31:32.110
+behavior change, right?
+
+00:31:33.280 --> 00:31:35.550
+And the we actually start to
+go map out these things.
+
+00:31:35.550 --> 00:31:37.280
+What is a smart action?
+
+00:31:37.280 --> 00:31:39.470
+Right, is it real time, is it
+feel customizable,
+
+00:31:39.470 --> 00:31:40.920
+does it feel progressive, does
+it help me,
+
+00:31:40.920 --> 00:31:43.140
+is it really tailored to me?
+
+00:31:43.140 --> 00:31:43.820
+Right?
+And then for
+
+00:31:43.820 --> 00:31:46.330
+this particular type of user,
+we&#39;d go out and
+
+00:31:46.330 --> 00:31:47.600
+storyboard and then,
+
+00:31:47.600 --> 00:31:51.010
+these storyboards go to our,
+our design engineering teams.
+
+00:31:51.010 --> 00:31:51.730
+We work together and
+
+00:31:51.730 --> 00:31:54.050
+they actually start to build
+off of this.
+
+00:31:54.050 --> 00:31:54.780
+And what his does for
+
+00:31:54.780 --> 00:31:57.050
+us is it creates a nice set of
+constraints.
+
+00:31:58.130 --> 00:32:00.550
+You know, my experience has
+been constraints are really
+
+00:32:00.550 --> 00:32:04.050
+great because they serve as
+opportunities to resolve,
+
+00:32:04.050 --> 00:32:05.600
+to refine,
+
+00:32:05.600 --> 00:32:10.650
+to simplify and push you to
+find the right answer that is,
+
+00:32:10.650 --> 00:32:13.680
+that it will solve the user
+problem in the simplest way.
+
+00:32:13.680 --> 00:32:15.180
+Right?
+And so we, we create a lot of
+
+00:32:15.180 --> 00:32:16.610
+those constraints around what
+we&#39;re doing.
+
+00:32:16.610 --> 00:32:20.020
+This is this is the, the sort
+of storyboarding for,
+
+00:32:20.020 --> 00:32:22.260
+you know, getting someone to
+the goal and, and
+
+00:32:22.260 --> 00:32:25.370
+how they do it and what we use
+in, in real time.
+
+00:32:25.370 --> 00:32:27.520
+So and then, and
+
+00:32:27.520 --> 00:32:30.020
+then we put in sort of the
+secondary experiences right?
+
+00:32:30.020 --> 00:32:31.800
+Which is if we can do this and
+we can fit it in,
+
+00:32:31.800 --> 00:32:34.710
+it&#39;s not too cluttered or
+confusing we&#39;ll put it in.
+
+00:32:34.710 --> 00:32:36.753
+So that&#39;s a little bit of a
+snap shot in the,
+
+00:32:36.753 --> 00:32:38.908
+into how we build and we&#39;ve
+few minutes left so
+
+00:32:38.908 --> 00:32:40.691
+I&#39;d love to answer any
+questions or.
+
+00:32:42.951 --> 00:32:44.001
+Yeah the person&#39;s great.
+
+00:32:44.001 --> 00:32:45.760
+&gt;&gt; Yeah.
+
+00:32:45.760 --> 00:32:47.800
+&gt;&gt; Got about 15 minutes.
+
+00:32:47.800 --> 00:32:48.378
+&gt;&gt; Go ahead.
+&gt;&gt; So
+
+00:32:48.378 --> 00:32:50.242
+let&#39;s say you have this
+product right,
+
+00:32:50.242 --> 00:32:52.399
+you have all these features
+that you want to do right,
+
+00:32:52.399 --> 00:32:53.198
+all these things.
+
+00:32:53.198 --> 00:32:53.969
+&gt;&gt; Yeah.
+
+00:32:53.969 --> 00:32:58.390
+&gt;&gt; To satisfy and you&#39;re into
+your design process right?
+
+00:32:58.390 --> 00:33:01.280
+How do you approach the whole
+problem right?
+
+00:33:01.280 --> 00:33:03.655
+How do you break it down so
+that it&#39;s all business?
+
+00:33:03.655 --> 00:33:07.564
+To satisfy, you know, this
+problem in this way, right?
+
+00:33:07.564 --> 00:33:08.325
+But then,
+
+00:33:08.325 --> 00:33:12.222
+cause each design feature is
+not mutually exclusive.
+
+00:33:12.222 --> 00:33:14.194
+How do you project
+holistically?
+
+00:33:14.194 --> 00:33:15.023
+&gt;&gt; Yeah.
+
+00:33:15.023 --> 00:33:16.827
+&gt;&gt; Sort of.
+
+00:33:16.827 --> 00:33:18.530
+&gt;&gt; Can you repeat the question
+for the recording?
+
+00:33:18.530 --> 00:33:19.874
+&gt;&gt; Yeah.
+I mean, so that, I,
+
+00:33:19.874 --> 00:33:23.247
+I think the question was when
+you have a number of different
+
+00:33:23.247 --> 00:33:26.176
+features and functions that
+you&#39;re trying to build,
+
+00:33:26.176 --> 00:33:29.039
+how do you look at it at a
+system level to understand not
+
+00:33:29.039 --> 00:33:31.523
+within that one silo what the
+trade offs are but
+
+00:33:31.523 --> 00:33:34.226
+what the trade offs are across
+the entire system?
+
+00:33:34.226 --> 00:33:36.009
+I think that&#39;s the answer to
+your question.
+
+00:33:36.009 --> 00:33:39.423
+You do exactly that, you don&#39;t
+think about it in one silo.
+
+00:33:39.423 --> 00:33:40.510
+You have to force a lot of,
+
+00:33:40.510 --> 00:33:42.883
+you know, when it&#39;s a small
+team, it&#39;s really easy because
+
+00:33:42.883 --> 00:33:45.050
+you guys are all sitting
+around the table.
+
+00:33:45.050 --> 00:33:46.010
+You&#39;re looking at each other.
+
+00:33:46.010 --> 00:33:48.070
+You&#39;re making those decisions
+in real time.
+
+00:33:48.070 --> 00:33:51.501
+As you get bigger and a larger
+company, you have to force
+
+00:33:51.501 --> 00:33:54.714
+a lot of communication where
+everyone is in a room and
+
+00:33:54.714 --> 00:33:58.510
+they, that person says, you
+know, what if you build, if I,
+
+00:33:58.510 --> 00:34:01.027
+if you were contraining this
+way.
+
+00:34:01.027 --> 00:34:05.697
+Then I can&#39;t get the quality
+spec that you need me to make.
+
+00:34:05.697 --> 00:34:08.005
+And this guy&#39;s going to say
+well, if you do that, and
+
+00:34:08.005 --> 00:34:10.367
+you give me that much space,
+then I can&#39;t fit all the
+
+00:34:10.367 --> 00:34:13.050
+algorithms in at the battery
+performance that you want.
+
+00:34:13.050 --> 00:34:15.508
+And so when you start to look
+across the system,
+
+00:34:15.508 --> 00:34:18.585
+you start to see everyone has
+to share what their pains are.
+
+00:34:18.585 --> 00:34:19.333
+And they actually don&#39;t
+understand.
+
+00:34:19.333 --> 00:34:21.550
+If I make this tradeoff, it&#39;s
+going to affect me over here.
+
+00:34:21.550 --> 00:34:23.610
+And so you have to put them
+all together in a room,
+
+00:34:23.610 --> 00:34:24.790
+and start hashing that.
+
+00:34:24.790 --> 00:34:26.880
+But what&#39;s on the board and on
+the walls, and
+
+00:34:26.880 --> 00:34:29.800
+on everywhere, is what are we
+trying to do?
+
+00:34:29.800 --> 00:34:32.320
+And does that, does that
+tradeoff still meet it, right?
+
+00:34:32.320 --> 00:34:34.500
+Across all those, all those
+different silos.
+
+00:34:34.500 --> 00:34:36.260
+Because everyone&#39;s thinking
+about the tradeoffs in
+
+00:34:36.260 --> 00:34:38.720
+their and they know what they
+need to accomplish, right?
+
+00:34:38.720 --> 00:34:41.654
+But again, it is how does that
+affect the whole thing.
+
+00:34:41.654 --> 00:34:43.551
+We just went through this with
+three,
+
+00:34:43.551 --> 00:34:46.160
+which is a product we are
+shipping in a couple of weeks
+
+00:34:46.160 --> 00:34:48.946
+that sort of defined the next
+wave of what is happening in
+
+00:34:48.946 --> 00:34:51.720
+the wearable space on the
+health tracking side.
+
+00:34:51.720 --> 00:34:55.360
+We invented a totally new
+sensing system, right?
+
+00:34:55.360 --> 00:34:58.240
+There was raw science that had
+been developed that we
+
+00:34:58.240 --> 00:34:59.670
+prioritized really fast, and
+
+00:34:59.670 --> 00:35:02.890
+even just trade offs on what
+the electrode materials were.
+
+00:35:02.890 --> 00:35:06.460
+How it affects on reliability,
+sourcing, you know,
+
+00:35:06.460 --> 00:35:07.490
+signal performance.
+
+00:35:07.490 --> 00:35:09.200
+And they just, these guys
+weren&#39;t talking to each other.
+
+00:35:09.200 --> 00:35:10.330
+We had to get in a room.
+
+00:35:10.330 --> 00:35:11.800
+Do daily calls for three
+hours,
+
+00:35:11.800 --> 00:35:13.180
+where they&#39;re going thru each
+of their things.
+
+00:35:13.180 --> 00:35:14.830
+It tedious, but we&#39;re figuring
+it out.
+
+00:35:14.830 --> 00:35:15.470
+We knock it down.
+
+00:35:15.470 --> 00:35:16.060
+So it&#39;s a little.
+
+00:35:16.060 --> 00:35:17.060
+When you, when you&#39;re small
+it&#39;s
+
+00:35:17.060 --> 00:35:18.886
+really easy because your just,
+sure I&#39;ll look at it.
+
+00:35:18.886 --> 00:35:21.690
+But you have to always have
+that definition of what
+
+00:35:21.690 --> 00:35:23.630
+you&#39;re trying to do across the
+system, and that&#39;s why a lot
+
+00:35:23.630 --> 00:35:25.700
+of what I was talking about
+was much higher level.
+
+00:35:25.700 --> 00:35:26.950
+What problem are we solving?
+
+00:35:26.950 --> 00:35:28.330
+Where&#39;s it go over time and
+
+00:35:28.330 --> 00:35:29.620
+then how do all these pieces
+inform it?
+
+00:35:31.050 --> 00:35:31.890
+Go ahead.
+
+00:35:31.890 --> 00:35:34.930
+&gt;&gt; If a startup wants to build
+a system eventually, should
+
+00:35:34.930 --> 00:35:37.842
+it start focusing on one small
+thing or should it start
+
+00:35:37.842 --> 00:35:40.964
+looking at systems itself and
+how to do them altogether.
+
+00:35:40.964 --> 00:35:43.342
+&gt;&gt; How do you get, I think
+system think is, is,
+
+00:35:43.342 --> 00:35:45.630
+it&#39;s a way, it&#39;s a mindset.
+
+00:35:45.630 --> 00:35:47.060
+Right?
+It&#39;s not a,
+
+00:35:47.060 --> 00:35:50.350
+it&#39;s not actually a system
+like the simple systems,
+
+00:35:50.350 --> 00:35:51.520
+there are complex ones.
+
+00:35:52.640 --> 00:35:55.820
+You know, I, the, the, you
+know, a plane is
+
+00:35:55.820 --> 00:35:58.033
+a very complex system, a car
+is a very complex system.
+
+00:35:58.033 --> 00:35:58.950
+There&#39;s other products,
+
+00:35:58.950 --> 00:36:00.360
+we make that a more simpler
+phone as
+
+00:36:00.360 --> 00:36:03.720
+a complex an application, you
+should think of as a system.
+
+00:36:03.720 --> 00:36:04.270
+Right?
+
+00:36:04.270 --> 00:36:05.500
+And how all the pieces work
+together.
+
+00:36:05.500 --> 00:36:08.930
+Your storage you know, the fun
+and experience, what you&#39;re
+
+00:36:08.930 --> 00:36:11.360
+doing, the connectivity,
+that&#39;s all a system, right?
+
+00:36:11.360 --> 00:36:13.395
+And so that&#39;s more what we
+mean about system.
+
+00:36:13.395 --> 00:36:13.949
+Yes, for
+
+00:36:13.949 --> 00:36:16.718
+us, system is hardware,
+software and data but
+
+00:36:16.718 --> 00:36:20.467
+I think within even anything,
+there&#39;s always system things.
+
+00:36:20.467 --> 00:36:22.915
+And so it&#39;s more just thinking
+about how trade offs work
+
+00:36:22.915 --> 00:36:25.377
+across all the different
+pieces as they come together.
+
+00:36:25.377 --> 00:36:26.023
+Does that make sense?
+
+00:36:26.023 --> 00:36:27.318
+&gt;&gt; Yes.
+
+00:36:27.318 --> 00:36:28.315
+&gt;&gt; Go ahead.
+
+00:36:28.315 --> 00:36:29.242
+&gt;&gt; I have a question.
+
+00:36:29.242 --> 00:36:33.654
+What&#39;s the decision making
+process between creating like
+
+00:36:33.654 --> 00:36:36.195
+related products in the same
+space?
+
+00:36:36.195 --> 00:36:40.195
+Like for fitness tracking,
+there&#39;s different versions of,
+
+00:36:40.195 --> 00:36:41.405
+for, for Jambox.
+
+00:36:41.405 --> 00:36:43.059
+Use different versions of
+Jambox.
+
+00:36:43.059 --> 00:36:45.750
+And, you know, what goes into
+that?
+
+00:36:45.750 --> 00:36:49.190
+&gt;&gt; We do have a grand unified
+theory.
+
+00:36:49.190 --> 00:36:50.280
+At some point.
+
+00:36:50.280 --> 00:36:52.130
+Around how these experiences
+come together.
+
+00:36:52.130 --> 00:36:53.981
+And what happens and it
+touches a little bit
+
+00:36:53.981 --> 00:36:55.842
+that point that I was making
+to you around.
+
+00:36:55.842 --> 00:36:58.345
+A context engine, when you
+have things on your body that
+
+00:36:58.345 --> 00:37:01.200
+can make everything in the
+world around you smarter.
+
+00:37:01.200 --> 00:37:02.870
+Like if I know the emotional
+state of a user,
+
+00:37:02.870 --> 00:37:05.720
+I can tell Spotify what song
+it should play you
+
+00:37:05.720 --> 00:37:07.350
+on the jam box, right?
+
+00:37:07.350 --> 00:37:09.860
+I can tell the TV that you
+didn&#39;t like that commercial,
+
+00:37:09.860 --> 00:37:11.170
+they should fast forward to
+the next one.
+
+00:37:11.170 --> 00:37:12.990
+Or I can tell you not to watch
+Game of Thrones on
+
+00:37:12.990 --> 00:37:15.040
+a Sunday night, because you
+don&#39;t sleep well.
+
+00:37:15.040 --> 00:37:16.280
+Right?
+And so you start to see
+
+00:37:17.580 --> 00:37:18.550
+I&#39;m serious, right?
+
+00:37:18.550 --> 00:37:20.790
+And so these pieces start to,
+to go together.
+
+00:37:20.790 --> 00:37:23.155
+And so we do think at that
+level, and then we start to
+
+00:37:23.155 --> 00:37:25.415
+say what are the building
+blocks that get there?
+
+00:37:25.415 --> 00:37:26.840
+Now how do we establish
+credibility?
+
+00:37:26.840 --> 00:37:28.931
+How do we establish a
+distribution system?
+
+00:37:28.931 --> 00:37:30.953
+How do we establish
+manufacturing scale?
+
+00:37:30.953 --> 00:37:32.770
+How do these pieces start to
+come together?
+
+00:37:32.770 --> 00:37:35.710
+So there is a grand unified
+vision for us.
+
+00:37:35.710 --> 00:37:36.880
+And, and we look at different
+categories and
+
+00:37:36.880 --> 00:37:38.860
+different categories have
+different dynamics.
+
+00:37:38.860 --> 00:37:40.150
+They move at different paces.
+
+00:37:40.150 --> 00:37:42.070
+They have different
+replacement cycles.
+
+00:37:42.070 --> 00:37:43.640
+A great example of this right
+now is what&#39;s going on
+
+00:37:43.640 --> 00:37:45.390
+with iPad and iPhone.
+
+00:37:45.390 --> 00:37:46.400
+We&#39;re all very used to
+
+00:37:46.400 --> 00:37:48.830
+replacing our phones every
+single year.
+
+00:37:48.830 --> 00:37:51.890
+iPads are not following that
+same trajectory, right?
+
+00:37:51.890 --> 00:37:53.470
+So the replacement cycle is
+different.
+
+00:37:53.470 --> 00:37:54.970
+The use case is different.
+
+00:37:54.970 --> 00:37:56.760
+The problem its solving is
+different.
+
+00:37:56.760 --> 00:37:58.250
+So you&#39;ve gotta adapt to that,
+right?
+
+00:37:58.250 --> 00:38:00.040
+You don&#39;t replace your nest
+every year.
+
+00:38:00.040 --> 00:38:03.600
+It&#39;s a 15 year install, so how
+do they build in that kind of
+
+00:38:03.600 --> 00:38:05.450
+a world and how do they think
+about.
+
+00:38:05.450 --> 00:38:07.250
+So it&#39;s just, you gotta think
+about your category,
+
+00:38:07.250 --> 00:38:08.160
+the replacement cycle,
+
+00:38:08.160 --> 00:38:10.740
+the usage, how these things
+come together and, and
+
+00:38:10.740 --> 00:38:11.646
+the dynamics are different.
+
+00:38:11.646 --> 00:38:12.232
+Right?
+
+00:38:12.232 --> 00:38:13.131
+Go ahead.
+
+00:38:14.146 --> 00:38:19.011
+&gt;&gt; First of all, how you would
+canvas this unique.
+
+00:38:19.011 --> 00:38:21.075
+Community of Babylon was to
+face?
+
+00:38:21.075 --> 00:38:24.307
+And it&#39;s a you have this idea,
+or
+
+00:38:24.307 --> 00:38:27.115
+you think the functionality is
+somewhat important?
+
+00:38:27.115 --> 00:38:28.097
+&gt;&gt; Which piece are you talking
+about?
+
+00:38:28.097 --> 00:38:28.798
+You&#39;re talking about the
+texture?
+
+00:38:28.798 --> 00:38:30.874
+&gt;&gt; The texture, yeah.
+
+00:38:30.874 --> 00:38:32.110
+&gt;&gt; Need a tech show.
+
+00:38:32.110 --> 00:38:34.220
+Succeeding at every job and
+product.
+
+00:38:34.220 --> 00:38:35.049
+&gt;&gt; Yeah, I know.
+A lot of
+
+00:38:35.049 --> 00:38:37.840
+that was developed by, by Eve
+and our design team.
+
+00:38:37.840 --> 00:38:40.900
+And, and sort of, you know,
+coming up with a branded look.
+
+00:38:40.900 --> 00:38:41.500
+So that, you know,
+
+00:38:41.500 --> 00:38:44.660
+you saw the icon and you knew
+what it was, right?
+
+00:38:44.660 --> 00:38:46.360
+Whether it&#39;s here or, or
+anything.
+
+00:38:46.360 --> 00:38:49.110
+So that was part of, sort of,
+our, our mission.
+
+00:38:49.110 --> 00:38:52.340
+We wanted to convey a certain
+emotional quality, etcetera.
+
+00:38:52.340 --> 00:38:53.800
+Some people like it, some
+people don&#39;t.
+
+00:38:53.800 --> 00:38:54.760
+That&#39;s sort of the nature of
+the design.
+
+00:38:54.760 --> 00:38:56.970
+But that was all part of the
+same process.
+
+00:38:56.970 --> 00:38:57.560
+Right?
+
+00:38:57.560 --> 00:38:58.060
+Go ahead.
+
+00:38:59.540 --> 00:39:00.800
+&gt;&gt; Sorry.
+
+00:39:00.800 --> 00:39:02.387
+&gt;&gt; yeah, so.
+This is kind of going off of
+
+00:39:02.387 --> 00:39:03.356
+the other questions.
+
+00:39:03.356 --> 00:39:05.563
+But when you get a certain
+product,
+
+00:39:05.563 --> 00:39:08.168
+how does your processing
+unnecessarily changed, and
+
+00:39:08.168 --> 00:39:10.262
+how do you take into account
+information you
+
+00:39:10.262 --> 00:39:13.109
+might have learned from, let&#39;s
+say, like,.
+
+00:39:13.109 --> 00:39:15.421
+Like how does the framework
+and processes work?
+
+00:39:15.421 --> 00:39:16.776
+&gt;&gt; that&#39;s, it&#39;s a good
+question.
+
+00:39:16.776 --> 00:39:18.000
+I&#39;m actually going to go back
+to that.
+
+00:39:18.000 --> 00:39:21.355
+So the question was, it&#39;s sort
+of not on the initial product,
+
+00:39:21.355 --> 00:39:23.826
+but as you&#39;ve launched the
+initial product,
+
+00:39:23.826 --> 00:39:25.599
+what happens to your thinking
+and
+
+00:39:25.599 --> 00:39:28.210
+how does that evolve the
+process, right?
+
+00:39:28.210 --> 00:39:31.348
+So I&#39;m going to, going to take
+it back to that,
+
+00:39:31.348 --> 00:39:35.443
+that slide that shows the
+kind of the how we create and
+
+00:39:35.443 --> 00:39:38.509
+the process flow, right here.
+
+00:39:38.509 --> 00:39:44.179
+So, sorry I gotta go through
+these builds.
+
+00:39:44.179 --> 00:39:47.910
+So it&#39;s actually a great
+question.
+
+00:39:47.910 --> 00:39:49.250
+So this is, you know,
+
+00:39:49.250 --> 00:39:51.190
+say this is you&#39;re starting
+something totally new from,
+
+00:39:51.190 --> 00:39:53.430
+from scratch, and you come out
+here and
+
+00:39:53.430 --> 00:39:55.960
+you do all this stuff and you
+get it to here.
+
+00:39:55.960 --> 00:39:57.090
+And then you learn a lot.
+
+00:39:57.090 --> 00:39:58.470
+And in the first iteration of
+Up,
+
+00:39:58.470 --> 00:39:59.958
+you know, in 2011, it broke.
+
+00:39:59.958 --> 00:40:00.544
+It didn&#39;t work.
+
+00:40:00.544 --> 00:40:02.776
+So we had to actually go back
+to the drawing board.
+
+00:40:02.776 --> 00:40:05.624
+And so what that did here is
+we actually ended up
+
+00:40:05.624 --> 00:40:08.982
+telling these guys a bunch of
+things that they should be
+
+00:40:08.982 --> 00:40:10.151
+thinking about and
+
+00:40:10.151 --> 00:40:13.306
+sort of unlocking a lot of
+problems we had to solve.
+
+00:40:13.306 --> 00:40:14.950
+That they then started working
+on
+
+00:40:14.950 --> 00:40:17.416
+it at a different pace because
+sometimes this will
+
+00:40:17.416 --> 00:40:19.008
+take years to come to
+fruition.
+
+00:40:19.008 --> 00:40:22.371
+We can dream a lot faster that
+what&#39;s possible, right?
+
+00:40:22.371 --> 00:40:25.434
+And so even at core technology
+levels it censored.
+
+00:40:25.434 --> 00:40:28.810
+Batteries, I mean, chips,
+right?
+
+00:40:28.810 --> 00:40:30.040
+You know, processing.
+
+00:40:30.040 --> 00:40:31.120
+What we can do with storage.
+
+00:40:31.120 --> 00:40:32.390
+Like, all that kind of stuff.
+
+00:40:32.390 --> 00:40:33.610
+We&#39;ll say, well you know what?
+
+00:40:33.610 --> 00:40:34.540
+If we have,
+
+00:40:34.540 --> 00:40:37.660
+those are the problems that
+we&#39;re facing, what if we start
+
+00:40:37.660 --> 00:40:39.910
+running parallel threads to go
+fix that.
+
+00:40:39.910 --> 00:40:42.200
+And so we&#39;ll, we&#39;ll start
+doing some work here.
+
+00:40:42.200 --> 00:40:43.010
+They&#39;ll look at it in
+
+00:40:43.010 --> 00:40:44.050
+different parts of the
+process.
+
+00:40:44.050 --> 00:40:46.220
+So there&#39;s room for innovation
+in all these different things.
+
+00:40:46.220 --> 00:40:48.700
+But we may see something here
+that we say.
+
+00:40:48.700 --> 00:40:50.240
+Let&#39;s go straight into
+planning and development.
+
+00:40:50.240 --> 00:40:52.190
+We don&#39;t need to go all the
+way back, right?
+
+00:40:52.190 --> 00:40:54.510
+So we have the flexibility to
+sort of jump through and
+
+00:40:54.510 --> 00:40:56.310
+say we don&#39;t need to do these
+things.
+
+00:40:56.310 --> 00:40:58.120
+We know that.
+
+00:40:58.120 --> 00:41:00.050
+Like it wasn&#39;t a big struggle
+for us to know to go
+
+00:41:00.050 --> 00:41:02.540
+from a solution to plug in to
+go wireless.
+
+00:41:02.540 --> 00:41:05.493
+Like I wasn&#39;t concerned that
+we had to a lot of
+
+00:41:05.493 --> 00:41:06.984
+concept evaluating.
+
+00:41:06.984 --> 00:41:08.568
+Right?
+So we can kind of skip through
+
+00:41:08.568 --> 00:41:10.878
+those steps if you know how to
+make those decisions.
+
+00:41:10.878 --> 00:41:14.302
+But this is more for us in a
+lot of ways is a way of kind
+
+00:41:14.302 --> 00:41:18.058
+of taking a lot of innovative
+spirit and creativity and
+
+00:41:18.058 --> 00:41:22.180
+giving it a very focused way
+to actually get out.
+
+00:41:22.180 --> 00:41:23.190
+Right?
+
+00:41:23.190 --> 00:41:24.115
+And so that, that&#39;s what we
+think about.
+
+00:41:24.115 --> 00:41:26.839
+We have the ability to sort of
+go back and forth and
+
+00:41:26.839 --> 00:41:28.571
+skip over steps as necessary.
+
+00:41:28.571 --> 00:41:29.421
+Go ahead.
+
+00:41:29.421 --> 00:41:32.564
+&gt;&gt; I&#39;m just curious how large
+is in terms of the number of
+
+00:41:32.564 --> 00:41:35.405
+employees and then as you&#39;ve
+added more employees what
+
+00:41:35.405 --> 00:41:38.246
+were some of the kinks that
+you encountered of having you
+
+00:41:38.246 --> 00:41:39.888
+know, not just a group of
+five.
+
+00:41:39.888 --> 00:41:42.278
+But more people working on one
+project, and
+
+00:41:42.278 --> 00:41:44.151
+then everybody getting heard,
+or
+
+00:41:44.151 --> 00:41:47.648
+some organizational tools to,
+to facilitate that.
+
+00:41:47.648 --> 00:41:49.020
+&gt;&gt; Yeah, yeah.
+
+00:41:49.020 --> 00:41:49.757
+That&#39;s a good question.
+
+00:41:49.757 --> 00:41:51.485
+So the question is how big are
+we.
+
+00:41:51.485 --> 00:41:54.300
+&gt;&gt; And then as we grew from,
+you know, few to many how did
+
+00:41:54.300 --> 00:41:57.306
+it change our, our thinking
+around process and tools and
+
+00:41:57.306 --> 00:41:59.660
+how we kind of work together,
+right?
+
+00:41:59.660 --> 00:42:04.360
+So we&#39;re about 500 people and
+we have a very remote setup.
+
+00:42:04.360 --> 00:42:05.300
+We&#39;ve got an office is
+Sunnyvale,
+
+00:42:05.300 --> 00:42:07.980
+headquarters in San Fransisco,
+offices in Seattle,
+
+00:42:07.980 --> 00:42:10.910
+Shanghai Pittsburgh, London.
+
+00:42:10.910 --> 00:42:14.590
+And so we have a very you
+know, distributed team that
+
+00:42:14.590 --> 00:42:17.410
+poses a lot of interesting
+communication zones.
+
+00:42:17.410 --> 00:42:20.390
+But also allows us to get
+where the talent is and, and
+
+00:42:20.390 --> 00:42:21.640
+where there are interesting
+people in
+
+00:42:21.640 --> 00:42:23.400
+specific areas that we&#39;re
+doing.
+
+00:42:23.400 --> 00:42:25.460
+I would say the single biggest
+thing that,
+
+00:42:25.460 --> 00:42:28.160
+that we continue to always try
+to get better at is that
+
+00:42:28.160 --> 00:42:31.240
+communication between all
+these different people.
+
+00:42:31.240 --> 00:42:32.650
+Working in different ways and
+
+00:42:32.650 --> 00:42:35.410
+forcing them to sit at the
+table, and say,
+
+00:42:35.410 --> 00:42:38.480
+here&#39;s what I&#39;m working on,
+here&#39;s where my tradeoffs are.
+
+00:42:38.480 --> 00:42:39.990
+This is what I think it should
+affect you.
+
+00:42:39.990 --> 00:42:42.670
+Listening to other people, and
+sort of understanding it.
+
+00:42:42.670 --> 00:42:45.100
+And then remembering that we
+are building this system and
+
+00:42:45.100 --> 00:42:47.440
+here&#39;s what happens when all
+the pieces come together.
+
+00:42:47.440 --> 00:42:48.570
+And then, how do we, we solve
+problems?
+
+00:42:48.570 --> 00:42:51.550
+But it&#39;s a lot of that,
+forcing that communication.
+
+00:42:51.550 --> 00:42:55.774
+And doing things like, I, I,
+literally on UP3, have a daily
+
+00:42:55.774 --> 00:42:59.760
+call that&#39;s two and a half
+hours with the entire team,
+
+00:42:59.760 --> 00:43:04.388
+from materials, sourcing,
+manufacturing, design sensor,
+
+00:43:04.388 --> 00:43:08.820
+you know, firmware, mechanical
+engineering, all together.
+
+00:43:08.820 --> 00:43:10.524
+And they all have to sit
+through each others updates
+
+00:43:10.524 --> 00:43:12.268
+and but then understand what
+those tradeoffs are and
+
+00:43:12.268 --> 00:43:14.400
+I sort of for, force that
+communication.
+
+00:43:14.400 --> 00:43:17.100
+So go ahead.
+
+00:43:18.460 --> 00:43:21.360
+&gt;&gt; what, at what point did you
+decide to expand?
+
+00:43:21.360 --> 00:43:24.716
+And how did you decide where
+to expand to first?
+
+00:43:24.716 --> 00:43:26.140
+&gt;&gt; You&#39;re talking about geo,
+so
+
+00:43:26.140 --> 00:43:28.060
+the question is, how did we
+decide to expand and when?
+
+00:43:28.060 --> 00:43:31.070
+Are you, is that geographical,
+is that our team,
+
+00:43:31.070 --> 00:43:32.900
+was that markets?
+
+00:43:32.900 --> 00:43:35.830
+&gt;&gt; Yeah who, how did, how did
+you find the connections to
+
+00:43:35.830 --> 00:43:37.980
+each other in the other?
+
+00:43:37.980 --> 00:43:40.870
+&gt;&gt; I mean, I think a lot of it
+some it&#39;s deliberate.
+
+00:43:40.870 --> 00:43:42.870
+You know we, we, we sort of
+say obviously we,
+
+00:43:42.870 --> 00:43:44.410
+we build a lot of things in
+China, so
+
+00:43:44.410 --> 00:43:46.650
+we need to have a presence
+there and manage things.
+
+00:43:46.650 --> 00:43:48.470
+So at some point we got big
+enough that we
+
+00:43:48.470 --> 00:43:50.540
+wanted our own team on the
+ground.
+
+00:43:50.540 --> 00:43:52.760
+You know, we&#39;ve expanded
+sales.
+
+00:43:52.760 --> 00:43:55.105
+I think we&#39;re in 56 countries
+globally,
+
+00:43:55.105 --> 00:43:56.470
+100,000 points of sale.
+
+00:43:56.470 --> 00:43:58.360
+So that was, you know, we
+started in North America,
+
+00:43:58.360 --> 00:44:00.280
+we went to Europe, we went to
+Asia.
+
+00:44:00.280 --> 00:44:02.450
+Now we think a little bit
+differently about when we
+
+00:44:02.450 --> 00:44:03.930
+launch what geographies we go
+to.
+
+00:44:03.930 --> 00:44:06.220
+So it&#39;s, it&#39;s some of it&#39;s
+deliberate and
+
+00:44:06.220 --> 00:44:07.490
+planned, some of it takes
+time.
+
+00:44:07.490 --> 00:44:09.080
+And again, it&#39;s part of that,
+you know,
+
+00:44:09.080 --> 00:44:10.630
+we want to be here, here&#39;s how
+we want to grow,
+
+00:44:10.630 --> 00:44:12.620
+we want to migrate our
+business this way.
+
+00:44:12.620 --> 00:44:14.952
+And then a lot of it is also
+opportunistic, right?
+
+00:44:14.952 --> 00:44:18.280
+There are markets that we&#39;ve
+entered where you know,
+
+00:44:18.280 --> 00:44:19.680
+we had a really good partner.
+
+00:44:19.680 --> 00:44:22.190
+We had a really, you know,
+strong proposition.
+
+00:44:22.190 --> 00:44:24.940
+The, the culture was really
+well suited to what we
+
+00:44:24.940 --> 00:44:25.440
+were doing.
+
+00:44:25.440 --> 00:44:29.810
+You know, we, we, for UP,
+China&#39;s a huge market for us.
+
+00:44:29.810 --> 00:44:31.260
+We went in with Apple in, in
+Apple stores.
+
+00:44:31.260 --> 00:44:33.450
+And that was a great stamp of
+credibility and
+
+00:44:33.450 --> 00:44:34.900
+we sort of rode that wave.
+
+00:44:34.900 --> 00:44:36.550
+So, you know, again, it&#39;s,
+it&#39;s, it,
+
+00:44:36.550 --> 00:44:37.680
+but we knew we wanted to be in
+China, and
+
+00:44:37.680 --> 00:44:39.290
+that was a great entry point
+for us.
+
+00:44:39.290 --> 00:44:42.510
+So I think it depends on what
+you&#39;re doing specifically and,
+
+00:44:42.510 --> 00:44:44.200
+and, and, you know, what&#39;s
+appropriate for
+
+00:44:44.200 --> 00:44:44.810
+that situation.
+
+00:44:44.810 --> 00:44:46.060
+Go ahead.
+
+00:44:46.060 --> 00:44:49.380
+&gt;&gt; Why haven&#39;t you made any
+headphones?
+
+00:44:50.631 --> 00:44:53.040
+&gt;&gt; I mean, you know, for us,
+like any category,
+
+00:44:53.040 --> 00:44:54.880
+I get asked about a lot of
+different things, you know,
+
+00:44:54.880 --> 00:44:56.290
+headphones is, is sort of one.
+
+00:44:57.920 --> 00:44:59.080
+First it&#39;s like, you know,
+
+00:44:59.080 --> 00:45:02.850
+when we come into a space, we
+want to blow it wide open and
+
+00:45:02.850 --> 00:45:05.520
+make sure we have a
+proposition that makes it
+
+00:45:05.520 --> 00:45:07.580
+better for the user than
+what&#39;s there today.
+
+00:45:07.580 --> 00:45:10.300
+And make it better in sort of
+a order of magnitude or
+
+00:45:10.300 --> 00:45:12.330
+two order of magnitudes and,
+and do stuff.
+
+00:45:12.330 --> 00:45:14.650
+So, sometimes the market&#39;s not
+ready.
+
+00:45:14.650 --> 00:45:17.030
+Sometimes the technology base
+isn&#39;t ready.
+
+00:45:17.030 --> 00:45:18.920
+Sometimes we&#39;re not ready.
+
+00:45:18.920 --> 00:45:21.540
+We don&#39;t have the right
+capabilities to synthesize and
+
+00:45:21.540 --> 00:45:22.490
+pull those pieces together.
+
+00:45:22.490 --> 00:45:25.993
+So, it&#39;s a combination of
+factors whatever the,
+
+00:45:25.993 --> 00:45:29.668
+whatever the product or the
+category is, all right?
+
+00:45:29.668 --> 00:45:30.706
+&gt;&gt; All right, one more
+question.
+
+00:45:30.706 --> 00:45:32.210
+&gt;&gt; Go ahead, in the red
+sweater.
+
+00:45:32.210 --> 00:45:33.897
+&gt;&gt; Hi, for a hardware company
+or a system
+
+00:45:33.897 --> 00:45:36.290
+company the product in recycle
+is always a headache.
+
+00:45:37.310 --> 00:45:40.260
+Sam mentioned one early
+faculty who had tried to run
+
+00:45:40.260 --> 00:45:42.120
+a hardware company and a
+software company and
+
+00:45:42.120 --> 00:45:45.720
+I was wondering is there
+anything you can share there?
+
+00:45:45.720 --> 00:45:48.050
+Are you trying to run Jobo
+more like a close a software
+
+00:45:48.050 --> 00:45:52.170
+company to get user feedback
+along, along the way or
+
+00:45:52.170 --> 00:45:53.400
+along the process?
+
+00:45:53.400 --> 00:45:56.280
+&gt;&gt; Uh-huh.
+So I think the question was
+
+00:45:56.280 --> 00:45:59.470
+hardware companies are sort of
+hard to run,
+
+00:45:59.470 --> 00:46:01.100
+they&#39;re different from
+software companies.
+
+00:46:01.100 --> 00:46:05.700
+How are we trying to run Jobo,
+right?
+
+00:46:05.700 --> 00:46:10.420
+I would say there&#39;s no model
+for what we&#39;re trying to do.
+
+00:46:10.420 --> 00:46:11.790
+It&#39;s never been done before,
+so
+
+00:46:11.790 --> 00:46:13.730
+we feel like we&#39;re at the tip
+of the arrow.
+
+00:46:13.730 --> 00:46:15.330
+We&#39;re putting together
+disciplines that have
+
+00:46:15.330 --> 00:46:19.030
+never had to work side by side
+to create experiences.
+
+00:46:19.030 --> 00:46:20.340
+It&#39;s very painful sometimes.
+
+00:46:20.340 --> 00:46:21.270
+It&#39;s very fun.
+
+00:46:21.270 --> 00:46:23.140
+We try to take the best of
+everything.
+
+00:46:23.140 --> 00:46:25.520
+Try to take the best practices
+of what make, you know,
+
+00:46:25.520 --> 00:46:27.540
+rapid software iteration.
+
+00:46:27.540 --> 00:46:28.100
+Testing and
+
+00:46:28.100 --> 00:46:30.700
+development, deployment, try
+to apply that to hardware.
+
+00:46:30.700 --> 00:46:33.800
+We try to take the resolution
+that you require in
+
+00:46:33.800 --> 00:46:37.700
+hardware and apply that to
+software design, because web
+
+00:46:37.700 --> 00:46:39.720
+software is very different
+than mobile software.
+
+00:46:39.720 --> 00:46:42.170
+And it turned out that
+building mobile software was
+
+00:46:42.170 --> 00:46:44.310
+actually a lot more like
+building hardware.
+
+00:46:44.310 --> 00:46:45.450
+Where you actually had one
+shot and
+
+00:46:45.450 --> 00:46:46.730
+you had to get it right right
+out of the gate.
+
+00:46:46.730 --> 00:46:49.430
+So, we try to take the lessons
+from each place and
+
+00:46:49.430 --> 00:46:50.560
+make ourselves really good.
+
+00:46:51.770 --> 00:46:53.080
+And that&#39;s my job and
+
+00:46:53.080 --> 00:46:55.100
+that&#39;s the job of some of the
+other senior leadership is to
+
+00:46:55.100 --> 00:46:57.290
+look at those opportunities of
+how you kind of
+
+00:46:57.290 --> 00:46:59.500
+take the best of everything
+and put it together.
+
+00:46:59.500 --> 00:47:01.960
+But I don&#39;t think there&#39;s ever
+been a company that&#39;s
+
+00:47:01.960 --> 00:47:04.330
+been great at, equally great
+at hardware or software data.
+
+00:47:04.330 --> 00:47:07.410
+And that&#39;s what we&#39;re trying
+to do, so.
+
+00:47:07.410 --> 00:47:08.260
+&gt;&gt; Okay, thank you very much.
+
+00:47:08.260 --> 00:47:08.820
+&gt;&gt; All right.
+
+00:47:08.820 --> 00:47:11.320
+Thank you guys.
+
