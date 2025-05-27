@@ -223,16 +223,17 @@ export default function Home() {
         {lectures.map((lecture) => (
           <li
             key={lecture.title}
-            className={` hover:cursor-pointer hover:opacity-70 ${lecture.title === activeLecture?.title ? "outline-4 outline-blue-500" : "border"}`}
+            className={`hover:cursor-pointer`}
             onClick={() => setActiveLecture({ ...lecture })}
           >
             <Image
               src={lecture.poster}
-              className="object-cover h-full w-auto"
+              className={`object-cove border border-black hover:opacity-70 ${lecture.title === activeLecture?.title ? "outline-4 outline-blue-500 border-blue-500" : ""}`}
               width={1280}
               height={720}
               alt={lecture.title + " thumbnail"}
             />
+            <p className="my-2">{lecture.title}</p>
           </li>
         ))}
       </ol>
