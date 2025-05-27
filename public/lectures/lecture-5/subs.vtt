@@ -1,0 +1,4354 @@
+WEBVTT
+
+00:00:03.833 --> 00:00:05.798
+Good afternoon.
+
+00:00:05.798 --> 00:00:08.151
+Today&#39;s speaker is Peter
+Thiel.
+
+00:00:08.151 --> 00:00:10.568
+Peter, was the founder of
+PayPal, and
+
+00:00:10.568 --> 00:00:14.159
+Palantir, and Founders Fund,
+and has invested in most of
+
+00:00:14.159 --> 00:00:16.591
+the tech companies in
+Silicon Valley.
+
+00:00:16.591 --> 00:00:19.279
+And he&#39;s going to talk about
+strategy and competition.
+
+00:00:19.279 --> 00:00:19.790
+Thank you for coming, Peter.
+&gt;&gt; Awesome.
+
+00:00:19.790 --> 00:00:20.640
+Thanks, Sam.
+
+00:00:22.210 --> 00:00:23.410
+Thanks for inviting me.
+
+00:00:23.410 --> 00:00:24.542
+Thanks for having me.
+
+00:00:24.542 --> 00:00:29.118
+I sorta, I have a single a
+day
+
+00:00:29.118 --> 00:00:33.040
+fixed that I&#39;m completely
+obsessed with in.
+
+00:00:33.040 --> 00:00:36.080
+On the business side which
+is that, if you&#39;re starting
+
+00:00:36.080 --> 00:00:38.120
+a company, if you&#39;re the
+founder,
+
+00:00:38.120 --> 00:00:39.670
+entrepreneur starting a
+company,
+
+00:00:39.670 --> 00:00:40.680
+you always want to aim for
+
+00:00:40.680 --> 00:00:46.240
+monopoly, and that you want
+to always avoid competition.
+
+00:00:47.900 --> 00:00:50.250
+Hence, competition is for
+losers.
+
+00:00:50.250 --> 00:00:51.740
+Something we&#39;ll be talking
+about today.
+
+00:00:54.030 --> 00:00:57.930
+I&#39;d like to start by saying
+something
+
+00:00:57.930 --> 00:01:02.980
+about the basic idea of when
+you start one
+
+00:01:02.980 --> 00:01:06.580
+of these companies how you
+go about, creating value?
+
+00:01:06.580 --> 00:01:09.992
+And this question, what
+makes a business valuable?
+
+00:01:09.992 --> 00:01:12.180
+And I wanna, suggest that
+there&#39;s basically,
+
+00:01:12.180 --> 00:01:15.080
+a very simple very simple
+formula that
+
+00:01:16.990 --> 00:01:20.430
+you, have a valuable company
+two things are true.
+
+00:01:20.430 --> 00:01:24.210
+Number one, that it creates
+X dollars of value for
+
+00:01:24.210 --> 00:01:25.250
+the world.
+
+00:01:25.250 --> 00:01:29.339
+And number two, that you
+capture Y% of X.
+
+00:01:29.339 --> 00:01:34.460
+And the critical thing that
+I think people always miss
+
+00:01:34.460 --> 00:01:37.970
+in the sort of analysis is
+that X and y are completely
+
+00:01:37.970 --> 00:01:42.710
+independent variables, and
+so X can be very big.
+
+00:01:42.710 --> 00:01:44.960
+Y can be very small.
+
+00:01:44.960 --> 00:01:46.830
+X can be of intermediate
+size.
+
+00:01:46.830 --> 00:01:49.450
+And if Y is, is reasonably
+big you can still get
+
+00:01:49.450 --> 00:01:50.780
+a very big business.
+
+00:01:50.780 --> 00:01:52.900
+So, to create a valuable
+company you have to
+
+00:01:52.900 --> 00:01:55.910
+basically, both create
+something of value and
+
+00:01:55.910 --> 00:01:57.180
+capture some fraction of
+
+00:01:57.180 --> 00:01:59.160
+the value of what you&#39;ve
+created.
+
+00:02:00.350 --> 00:02:00.930
+And sort of,
+
+00:02:00.930 --> 00:02:05.070
+just to illustrate this is a
+contrast.
+
+00:02:06.410 --> 00:02:11.190
+If you sorta, compare the US
+airline industry with
+
+00:02:11.190 --> 00:02:13.440
+a company like Google on
+search.
+
+00:02:13.440 --> 00:02:16.470
+If you sorta, measure by
+
+00:02:16.470 --> 00:02:19.160
+the size of these industries
+you could, you could say
+
+00:02:19.160 --> 00:02:21.920
+that airlines are still more
+important than search.
+
+00:02:21.920 --> 00:02:24.400
+If you just measure it say
+by revenues.
+
+00:02:24.400 --> 00:02:25.930
+There&#39;s 195 billion.
+
+00:02:25.930 --> 00:02:27.750
+In domestic revenues in
+2012.
+
+00:02:27.750 --> 00:02:30.310
+Google had just north of 50
+billion.
+
+00:02:30.310 --> 00:02:36.390
+And certainly, sort of on
+some intuitive level,
+
+00:02:36.390 --> 00:02:38.520
+if you said, if you were
+given a choice and
+
+00:02:38.520 --> 00:02:41.350
+said well do you want to get
+rid of all air travel.
+
+00:02:41.350 --> 00:02:42.690
+Or do you want to get rid of
+your ability to
+
+00:02:42.690 --> 00:02:43.940
+use search engines?
+
+00:02:43.940 --> 00:02:45.520
+The intuition would be that
+air travel is
+
+00:02:45.520 --> 00:02:47.300
+something that&#39;s more
+important than search.
+
+00:02:47.300 --> 00:02:48.850
+And this is, of course, just
+the domestic numbers.
+
+00:02:48.850 --> 00:02:52.490
+If you had looked at this
+globally, airlines are much,
+
+00:02:52.490 --> 00:02:57.920
+much bigger than search, or
+Google, is But
+
+00:02:57.920 --> 00:03:00.520
+the profit margins are quite
+a bit less.
+
+00:03:00.520 --> 00:03:01.060
+You know,
+
+00:03:01.060 --> 00:03:04.180
+they were marginally
+profitable in 2012.
+
+00:03:04.180 --> 00:03:05.750
+Think entire hundred year
+history of
+
+00:03:05.750 --> 00:03:06.940
+the airline industry.
+
+00:03:06.940 --> 00:03:08.310
+The cumulative profits in
+the U.S.
+
+00:03:08.310 --> 00:03:10.030
+have been approximately
+zero.
+
+00:03:10.030 --> 00:03:11.180
+The companies make money.
+
+00:03:11.180 --> 00:03:12.510
+They episodically go
+bankrupt.
+
+00:03:12.510 --> 00:03:14.130
+They get re-capitalized and
+
+00:03:14.130 --> 00:03:16.400
+you sort of cycle and
+repeat.
+
+00:03:16.400 --> 00:03:19.480
+And this is reflected in you
+know the combined market
+
+00:03:19.480 --> 00:03:22.780
+capitalization of the
+airline industries maybe
+
+00:03:22.780 --> 00:03:25.400
+something of the U.S.
+airline industry.
+
+00:03:25.400 --> 00:03:27.760
+Something like a quarter
+that of Google.
+
+00:03:27.760 --> 00:03:31.400
+So, you have a search engine
+much,
+
+00:03:31.400 --> 00:03:34.880
+much smaller than air travel
+but much more valuable and
+
+00:03:34.880 --> 00:03:38.740
+I think this reflects these
+very different valuations on
+
+00:03:38.740 --> 00:03:39.370
+X and Y.
+
+00:03:40.460 --> 00:03:45.070
+So, you know, if we look at
+perfect competition.
+
+00:03:46.410 --> 00:03:49.570
+You know there are, sort of,
+there&#39;s some pros and
+
+00:03:49.570 --> 00:03:52.270
+cons to the world of perfect
+competition.
+
+00:03:52.270 --> 00:03:55.550
+On a high level it&#39;s always,
+
+00:03:55.550 --> 00:03:57.720
+this is what you study in
+Econ One.
+
+00:03:57.720 --> 00:04:00.010
+It&#39;s always, it&#39;s easy to
+model, which I think is why
+
+00:04:00.010 --> 00:04:03.060
+Econ professors like talking
+about perfect competition.
+
+00:04:03.060 --> 00:04:05.290
+It somehow is efficient,
+especially,
+
+00:04:05.290 --> 00:04:07.290
+in a world where things are
+static because you have all
+
+00:04:07.290 --> 00:04:09.990
+the consumer surplus gets
+captured by everybody.
+
+00:04:09.990 --> 00:04:13.810
+And politically, it&#39;s what
+we&#39;re told is good in
+
+00:04:13.810 --> 00:04:16.260
+our society, that you want
+to have competition and
+
+00:04:16.260 --> 00:04:17.950
+this is somehow a good
+thing.
+
+00:04:17.950 --> 00:04:19.710
+Of course, there are a lot
+of negatives.
+
+00:04:19.710 --> 00:04:21.870
+It&#39;s generally not that good
+if you&#39;re.
+
+00:04:21.870 --> 00:04:24.095
+You&#39;re involvement in
+anything that&#39;s
+
+00:04:24.095 --> 00:04:26.280
+hyper-competitive because
+you often don&#39;t
+
+00:04:26.280 --> 00:04:28.700
+make money off, come back to
+this a little bit later.
+
+00:04:28.700 --> 00:04:31.960
+So, I think at one end of
+the spectrum you have
+
+00:04:31.960 --> 00:04:34.490
+industries that are
+perfectly competitive.
+
+00:04:34.490 --> 00:04:37.330
+And at the other end of the
+spectrum you have
+
+00:04:37.330 --> 00:04:39.950
+things that, I would say,
+are monopolies.
+
+00:04:39.950 --> 00:04:44.910
+And they&#39;re much stable,
+longer term businesses,
+
+00:04:44.910 --> 00:04:46.010
+you have more capital.
+
+00:04:47.380 --> 00:04:49.700
+And if you get a creative
+monopoly for
+
+00:04:49.700 --> 00:04:52.800
+inventing something new, I
+think it&#39;s symptomatic of
+
+00:04:52.800 --> 00:04:56.060
+having created something
+really valuable.
+
+00:04:56.060 --> 00:05:01.370
+And so I do think this, the
+extreme binary view of
+
+00:05:01.370 --> 00:05:03.110
+the world I always
+articulate is that
+
+00:05:03.110 --> 00:05:05.930
+there are exactly two kinds
+of businesses in this world.
+
+00:05:05.930 --> 00:05:07.870
+There are businesses that
+are perfectly competitive
+
+00:05:07.870 --> 00:05:10.380
+and there are businesses
+that are monopolies.
+
+00:05:10.380 --> 00:05:14.200
+And, there&#39;s shockingly
+little that is in between.
+
+00:05:14.200 --> 00:05:17.260
+And this dichotomy is not
+understood very
+
+00:05:17.260 --> 00:05:21.670
+well because people are
+constantly lying
+
+00:05:21.670 --> 00:05:24.190
+about the nature of the
+businesses they&#39;re in.
+
+00:05:24.190 --> 00:05:24.750
+And this is why,
+
+00:05:24.750 --> 00:05:26.750
+this is in my mind, this is
+the most important.
+
+00:05:26.750 --> 00:05:28.070
+It&#39;s not necessarily the
+most important thing in
+
+00:05:28.070 --> 00:05:29.060
+business, but I think it&#39;s
+the most
+
+00:05:29.060 --> 00:05:32.000
+important business idea that
+people don&#39;t understand.
+
+00:05:32.000 --> 00:05:34.520
+That there are just these
+two kinds of businesses.
+
+00:05:34.520 --> 00:05:35.130
+And so let me
+
+00:05:35.130 --> 00:05:37.356
+say a little bit about the
+lies that people tell.
+
+00:05:37.356 --> 00:05:42.420
+And so you basically, the
+basic, if you sort of
+
+00:05:42.420 --> 00:05:45.680
+imagine that there was a
+spectrum of companies from
+
+00:05:45.680 --> 00:05:48.190
+perfect competition to
+monopoly.
+
+00:05:48.190 --> 00:05:51.570
+The apparent differences are
+quite small.
+
+00:05:51.570 --> 00:05:55.680
+Because the people who have
+monopolies pretend not to.
+
+00:05:55.680 --> 00:05:58.470
+They will basically say, and
+it&#39;s because you
+
+00:05:58.470 --> 00:06:00.280
+don&#39;t want to get regulated
+by the government, you
+
+00:06:00.280 --> 00:06:01.480
+don&#39;t want the government to
+come after you.
+
+00:06:01.480 --> 00:06:03.520
+So you will never say that
+you have a monopoly.
+
+00:06:03.520 --> 00:06:06.330
+So, anyone who has a
+monopoly will pretend that
+
+00:06:06.330 --> 00:06:09.040
+they&#39;re in incredible
+competition.
+
+00:06:09.040 --> 00:06:11.110
+And on the other end of the
+spectrum, if you
+
+00:06:11.110 --> 00:06:14.210
+are incredibly competitive,
+and if you&#39;re in some sort
+
+00:06:14.210 --> 00:06:16.720
+of business will you will
+never make any money.
+
+00:06:16.720 --> 00:06:20.380
+You will be tempted to tell
+a lie that goes in
+
+00:06:20.380 --> 00:06:21.130
+the other direction.
+
+00:06:21.130 --> 00:06:23.120
+Where you will say that
+you&#39;re doing something
+
+00:06:23.120 --> 00:06:28.980
+unique that is somehow less
+competitive than it looks.
+
+00:06:28.980 --> 00:06:32.400
+Because you will want to
+differentiate, you
+
+00:06:32.400 --> 00:06:35.300
+will want to track capital
+or something like that.
+
+00:06:35.300 --> 00:06:37.760
+So, if the monopolists
+pretend not to have
+
+00:06:37.760 --> 00:06:39.700
+a monopolies the
+non-monopolists pretend to
+
+00:06:39.700 --> 00:06:40.850
+have monopolies.
+
+00:06:40.850 --> 00:06:42.960
+The apparent difference is
+very small.
+
+00:06:42.960 --> 00:06:46.000
+Where as the real difference
+I would submit is
+
+00:06:46.000 --> 00:06:46.800
+actually quite big.
+
+00:06:46.800 --> 00:06:49.190
+And so there&#39;s this
+distortion that happens
+
+00:06:49.190 --> 00:06:52.660
+because of the lies people
+tell about their businesses.
+
+00:06:52.660 --> 00:06:55.830
+And the lies are sort of in
+these opposite directions.
+
+00:06:55.830 --> 00:06:59.160
+Let me, drill a little bit
+down further on the way
+
+00:06:59.160 --> 00:07:00.238
+these lies work.
+
+00:07:00.238 --> 00:07:04.121
+And so
+
+00:07:04.121 --> 00:07:08.630
+the basic lie you tell as
+
+00:07:08.630 --> 00:07:12.590
+a non-monopoly is that we&#39;re
+in a very small market.
+
+00:07:12.590 --> 00:07:14.570
+The basic lie you tell as a
+monopoly is
+
+00:07:14.570 --> 00:07:17.169
+that the market you&#39;re in is
+much bigger than it looks.
+
+00:07:19.470 --> 00:07:20.770
+And so typically,
+
+00:07:20.770 --> 00:07:23.310
+if you want to think this in
+sort of set theoretic terms.
+
+00:07:23.310 --> 00:07:27.580
+You could say that a
+monopoly tells a why,
+
+00:07:27.580 --> 00:07:30.670
+where you describe your
+business as the union of
+
+00:07:30.670 --> 00:07:33.430
+these vastly different
+markets, and
+
+00:07:33.430 --> 00:07:36.132
+the non-monopolies describes
+it as the intersection.
+
+00:07:36.132 --> 00:07:42.030
+So, that in effect, if
+you&#39;re non-monopolist, you
+
+00:07:42.030 --> 00:07:45.510
+will rhetorically describe
+your market as super small.
+
+00:07:45.510 --> 00:07:47.660
+You&#39;re the only person in
+that market.
+
+00:07:47.660 --> 00:07:51.540
+If you have monopoly, you&#39;ll
+describe it as super big,
+
+00:07:51.540 --> 00:07:54.550
+and there&#39;s lots of
+competition in it.
+
+00:07:54.550 --> 00:07:58.930
+So some examples of how this
+works in practice.
+
+00:07:58.930 --> 00:08:01.470
+So I always use restaurants
+as the example of
+
+00:08:01.470 --> 00:08:02.460
+a terrible business.
+
+00:08:02.460 --> 00:08:03.780
+And there&#39;s always, sort of,
+ideas that,
+
+00:08:03.780 --> 00:08:06.370
+you know, capitalism and
+competition are antonyms.
+
+00:08:06.370 --> 00:08:09.150
+Capital, someone who
+accumulates capital.
+
+00:08:09.150 --> 00:08:10.450
+World of perfect competition
+is
+
+00:08:10.450 --> 00:08:13.000
+a world where all the
+capital gets competed away.
+
+00:08:13.000 --> 00:08:15.430
+So, you&#39;re opening a
+restaurant business.
+
+00:08:15.430 --> 00:08:17.670
+No one wants to invest
+because you just lose money.
+
+00:08:17.670 --> 00:08:20.280
+So you have to tell some
+idiosyncratic narrative.
+
+00:08:20.280 --> 00:08:22.100
+And you will say something
+like, well,
+
+00:08:22.100 --> 00:08:24.780
+we&#39;re the only British food
+restaurant in Paolo Alto.
+
+00:08:24.780 --> 00:08:27.460
+So, it&#39;s British, Paolo
+Alto.
+
+00:08:27.460 --> 00:08:28.310
+And of course,
+
+00:08:28.310 --> 00:08:31.000
+that&#39;s too small a market
+because people may be able
+
+00:08:31.000 --> 00:08:34.220
+to drive all the way to
+Mountain View or even Park.
+
+00:08:34.220 --> 00:08:37.800
+And there probably no people
+who eat nothing but
+
+00:08:37.800 --> 00:08:38.440
+British food.
+
+00:08:38.440 --> 00:08:41.080
+At least, no people are
+still alive.
+
+00:08:41.080 --> 00:08:46.090
+And so that is sort of a
+fictitiously narrow market.
+
+00:08:47.350 --> 00:08:51.130
+There&#39;s sort of a Hollywood
+version of this where.
+
+00:08:51.130 --> 00:08:54.560
+The way movies always get
+pitched is, it&#39;s like
+
+00:08:54.560 --> 00:08:59.570
+a college football star,
+joins an elite group of
+
+00:08:59.570 --> 00:09:05.840
+hackers to catch the shark
+that killed his friends.
+
+00:09:07.550 --> 00:09:10.960
+So, that is a movie that has
+not been made.
+
+00:09:12.420 --> 00:09:15.280
+But the question is,
+
+00:09:15.280 --> 00:09:18.680
+is that the right category
+or is the correct category?
+
+00:09:18.680 --> 00:09:21.380
+It&#39;s just another movie, in
+which case, you know,
+
+00:09:21.380 --> 00:09:23.570
+there are lots of those,
+it&#39;s super competitive,
+
+00:09:23.570 --> 00:09:25.170
+incredibly had to make
+money.
+
+00:09:25.170 --> 00:09:27.690
+No one ever makes money in
+Hollywood doing movies.
+
+00:09:27.690 --> 00:09:28.570
+It&#39;s really hard.
+
+00:09:30.052 --> 00:09:32.940
+And so you always have this
+question about.
+
+00:09:32.940 --> 00:09:34.410
+Does the intersection, does,
+
+00:09:34.410 --> 00:09:36.290
+is it real, does it make
+sense,
+
+00:09:36.290 --> 00:09:37.940
+does it have value that one
+should ask?
+
+00:09:37.940 --> 00:09:40.210
+And of course, there are
+start up versions of this.
+
+00:09:40.210 --> 00:09:43.210
+Where you, and the sort of
+the really bad versions you
+
+00:09:43.210 --> 00:09:45.620
+just take a whole series of
+buzz words.
+
+00:09:45.620 --> 00:09:48.170
+Sharing, mobile, social,
+apps, you combine them,
+
+00:09:48.170 --> 00:09:50.270
+and you have some kind of
+narrative.
+
+00:09:50.270 --> 00:09:52.640
+And, whether or not, that&#39;s
+a real business or not,
+
+00:09:52.640 --> 00:09:55.860
+is, it&#39;s generally a bad
+sign.
+
+00:09:55.860 --> 00:09:58.120
+So it&#39;s, it&#39;s almost this
+pattern recognition when you
+
+00:09:58.120 --> 00:10:00.070
+have this rhetoric of this
+
+00:10:00.070 --> 00:10:04.760
+sort of intersections, it
+generally does not work.
+
+00:10:04.760 --> 00:10:05.350
+The something of
+
+00:10:05.350 --> 00:10:08.680
+somewhere is really mostly
+just the nothing of nowhere.
+
+00:10:08.680 --> 00:10:10.310
+It&#39;s like the Stanford of
+North Dakota.
+
+00:10:12.040 --> 00:10:13.960
+One of a kind, but it&#39;s not
+Stanford.
+
+00:10:16.540 --> 00:10:17.800
+So, let&#39;s look at the
+opposite.
+
+00:10:17.800 --> 00:10:21.451
+The opposite lie, is if you
+are, let&#39;s say,
+
+00:10:21.451 --> 00:10:26.140
+the search, company, that&#39;s
+down the street from here.
+
+00:10:26.140 --> 00:10:32.040
+And has about a happy 66%
+market share and, you know?
+
+00:10:32.040 --> 00:10:35.100
+Is completely dominant in
+the search market.
+
+00:10:35.100 --> 00:10:39.000
+Google has not almost never
+describes itself.
+
+00:10:39.000 --> 00:10:41.310
+As a search engine, these
+days.
+
+00:10:41.310 --> 00:10:44.180
+And instead, it describes
+itself in all these
+
+00:10:44.180 --> 00:10:44.760
+different ways.
+
+00:10:44.760 --> 00:10:47.590
+So, it sometimes says it&#39;s
+an advertising company.
+
+00:10:47.590 --> 00:10:50.570
+So, if it was search, you&#39;d
+say, well, it&#39;s, like, it
+
+00:10:50.570 --> 00:10:53.420
+has this huge market share
+that&#39;s really, really crazy.
+
+00:10:53.420 --> 00:10:55.310
+It&#39;s like a incredible
+monopoly.
+
+00:10:55.310 --> 00:10:57.010
+It&#39;s much bigger than, it&#39;s
+much,
+
+00:10:57.010 --> 00:10:59.140
+much more robust monopoly
+than Microsoft,
+
+00:10:59.140 --> 00:11:00.380
+ever had in the 90s.
+
+00:11:00.380 --> 00:11:02.510
+Maybe that&#39;s why it&#39;s making
+so much money.
+
+00:11:02.510 --> 00:11:06.010
+But if you say it&#39;s an
+advertising market,
+
+00:11:06.010 --> 00:11:06.930
+you could say,
+
+00:11:06.930 --> 00:11:09.590
+well, there&#39;s search
+advertising is 17 billion.
+
+00:11:09.590 --> 00:11:13.490
+And that&#39;s part of online
+advertising,
+
+00:11:13.490 --> 00:11:14.450
+which is much bigger.
+
+00:11:15.530 --> 00:11:19.000
+And then, all US advertising
+is bigger.
+
+00:11:19.000 --> 00:11:21.330
+And then by the time you get
+to global advertising,
+
+00:11:21.330 --> 00:11:23.300
+that&#39;s close to 500 billion.
+
+00:11:23.300 --> 00:11:26.322
+And so you&#39;re talking about
+3.5%.
+
+00:11:26.322 --> 00:11:30.810
+So a tiny part of this much
+larger market.
+
+00:11:32.135 --> 00:11:35.150
+Or if you don&#39;t want it to
+be an advertising company
+
+00:11:35.150 --> 00:11:37.930
+you could always say that
+you&#39;re a technology company.
+
+00:11:37.930 --> 00:11:43.250
+And so sorry.
+
+00:11:43.250 --> 00:11:44.622
+Let me just see.
+
+00:11:44.622 --> 00:11:48.660
+And so
+
+00:11:48.660 --> 00:11:51.780
+the technology market is
+something like a $1 trillion
+
+00:11:51.780 --> 00:11:54.690
+market, and the narrative
+that you tell is that Google
+
+00:11:54.690 --> 00:11:58.430
+in the technology market is
+well we&#39;re competing with
+
+00:11:58.430 --> 00:12:01.160
+all the car companies with
+our self-driving cars,
+
+00:12:01.160 --> 00:12:05.470
+we&#39;re competing with Apple
+on TVs and iPhones.
+
+00:12:05.470 --> 00:12:07.010
+We&#39;re competing with
+Facebook.
+
+00:12:07.010 --> 00:12:09.760
+We&#39;re competing with
+Microsoft on office
+
+00:12:09.760 --> 00:12:12.200
+products, we&#39;re competing
+with Amazon on cloud
+
+00:12:12.200 --> 00:12:16.490
+services, and so, we are in
+this giant technology market
+
+00:12:16.490 --> 00:12:20.090
+where there&#39;s competition in
+every direction you look.
+
+00:12:20.090 --> 00:12:20.880
+And no we&#39;re
+
+00:12:20.880 --> 00:12:23.180
+not the monopoly the
+government&#39;s looking for and
+
+00:12:23.180 --> 00:12:25.830
+we should not get regulated
+in any way whatsoever.
+
+00:12:25.830 --> 00:12:28.870
+And so I think one has to
+always be super aware that
+
+00:12:28.870 --> 00:12:32.280
+there are these very
+powerful incentives
+
+00:12:32.280 --> 00:12:35.290
+to distort the nature of
+these markets
+
+00:12:35.290 --> 00:12:36.380
+one way or the other.
+
+00:12:38.010 --> 00:12:41.920
+So, the evidence of the
+narrow markets in
+
+00:12:41.920 --> 00:12:46.490
+the tech industry is if you
+basically just.
+
+00:12:47.720 --> 00:12:50.320
+If you look at sort of the,
+some of the big
+
+00:12:50.320 --> 00:12:52.370
+tech companies, Apple,
+Google, Microsoft,
+
+00:12:52.370 --> 00:12:56.720
+Amazon, they just they&#39;ve
+just been building up
+
+00:12:56.720 --> 00:13:00.860
+cash for year after year and
+you have these incredibly
+
+00:13:00.860 --> 00:13:04.250
+high profit margins and I
+would, I would say that the.
+
+00:13:04.250 --> 00:13:07.900
+That one of the reasons the
+tech industry in the US.
+
+00:13:07.900 --> 00:13:11.220
+Has been so successful
+financially.
+
+00:13:11.220 --> 00:13:14.300
+Is because it&#39;s prone to
+creating all these monopoly
+
+00:13:14.300 --> 00:13:15.170
+like business.
+
+00:13:15.170 --> 00:13:17.040
+And that&#39;s and
+
+00:13:17.040 --> 00:13:20.070
+it&#39;s reflected by these
+companies.
+
+00:13:20.070 --> 00:13:21.890
+Just accumulate so much
+cash.
+
+00:13:21.890 --> 00:13:23.330
+That they don&#39;t know what to
+do with it
+
+00:13:23.330 --> 00:13:24.308
+beyond a certain point.
+
+00:13:24.308 --> 00:13:28.490
+And so let me
+
+00:13:28.490 --> 00:13:33.200
+say a few things about how
+to build a monopoly.
+
+00:13:33.200 --> 00:13:37.767
+And, I think one of the sort
+of very counter
+
+00:13:37.767 --> 00:13:42.420
+intuitive ideas that comes
+out of this monopoly thread.
+
+00:13:42.420 --> 00:13:46.290
+Is that you want to go after
+small markets.
+
+00:13:46.290 --> 00:13:47.170
+If you&#39;re a startup.
+
+00:13:48.470 --> 00:13:50.670
+You want to get to monopoly.
+
+00:13:50.670 --> 00:13:52.040
+You&#39;re starting a new
+company,
+
+00:13:52.040 --> 00:13:53.150
+you want to get to monopoly.
+
+00:13:54.560 --> 00:13:56.910
+Monopolies you have a large
+share of a market,
+
+00:13:56.910 --> 00:13:58.710
+how do you get to a large
+share of a market?
+
+00:13:58.710 --> 00:14:01.190
+You start with a really
+small market and
+
+00:14:01.190 --> 00:14:03.720
+you take over that whole
+market, and then.
+
+00:14:03.720 --> 00:14:07.070
+And then over time you find
+ways to expand that market
+
+00:14:07.070 --> 00:14:09.080
+in concentric circles.
+
+00:14:09.080 --> 00:14:12.190
+And the thing that&#39;s always
+a big mistake is going
+
+00:14:12.190 --> 00:14:15.730
+after a giant market on day
+one.
+
+00:14:15.730 --> 00:14:18.800
+Because that&#39;s typically
+evidence that you
+
+00:14:18.800 --> 00:14:21.650
+somehow haven&#39;t defined the
+categories correctly.
+
+00:14:21.650 --> 00:14:23.790
+And it normally means that
+there is going to be
+
+00:14:23.790 --> 00:14:25.260
+too much competition.
+
+00:14:25.260 --> 00:14:26.490
+In one way or another.
+
+00:14:26.490 --> 00:14:30.340
+And so I think almost all
+the successful companies
+
+00:14:30.340 --> 00:14:33.620
+in Silicon Valley had some
+model of
+
+00:14:33.620 --> 00:14:36.760
+starting with small markets
+and expanding.
+
+00:14:36.760 --> 00:14:40.740
+And if you take Amazon, you
+start with.
+
+00:14:42.680 --> 00:14:44.870
+Just a bookstore.
+
+00:14:44.870 --> 00:14:46.450
+We have all the books in the
+world.
+
+00:14:46.450 --> 00:14:49.580
+So it&#39;s a better bookstore
+than anybody else
+
+00:14:49.580 --> 00:14:50.360
+has in the world.
+
+00:14:50.360 --> 00:14:52.130
+When it&#39;s starts in the
+90&#39;s, it&#39;s online,
+
+00:14:52.130 --> 00:14:54.130
+there&#39;s things you can do
+you can&#39;t do before.
+
+00:14:54.130 --> 00:14:57.145
+And then you gradually
+expand into all sorts of
+
+00:14:57.145 --> 00:14:59.465
+different forms of
+e-commerce and
+
+00:14:59.465 --> 00:15:01.252
+other things beyond that.
+
+00:15:01.252 --> 00:15:04.816
+You know, eBay you start
+with Pez dispensers.
+
+00:15:04.816 --> 00:15:06.986
+You move on to Beanie Babies
+and
+
+00:15:06.986 --> 00:15:10.574
+eventually it&#39;s all these
+different auctions for
+
+00:15:10.574 --> 00:15:13.740
+all these sorts of different
+goods.
+
+00:15:13.740 --> 00:15:16.810
+And what was very counter
+intuitive about many of
+
+00:15:16.810 --> 00:15:19.700
+these companies is they
+often start with
+
+00:15:19.700 --> 00:15:23.560
+markets that are so small
+that people don&#39;t think
+
+00:15:23.560 --> 00:15:27.020
+that they&#39;re valuable at all
+when you get started.
+
+00:15:28.380 --> 00:15:34.370
+The PayPal version of this
+was, we started with
+
+00:15:34.370 --> 00:15:38.730
+power sellers on eBay which
+was about 20,000 people.
+
+00:15:38.730 --> 00:15:41.480
+When we first saw this
+happening in December of 99,
+
+00:15:41.480 --> 00:15:44.250
+January of 2000 right after
+we launched,
+
+00:15:44.250 --> 00:15:47.130
+there was a sense that these
+were all,
+
+00:15:47.130 --> 00:15:49.610
+it was such a small market
+it was terrible.
+
+00:15:49.610 --> 00:15:51.860
+We thought these were
+terrible customers to have.
+
+00:15:51.860 --> 00:15:54.010
+It&#39;s just people selling
+junk on the internet.
+
+00:15:54.010 --> 00:15:54.960
+Why in the world do we want
+to
+
+00:15:54.960 --> 00:15:56.800
+be going after this market?
+
+00:15:56.800 --> 00:15:59.920
+But, you know, there was a
+way to get a product that
+
+00:15:59.920 --> 00:16:02.040
+was much better for
+everybody in that market.
+
+00:16:02.040 --> 00:16:05.060
+You could, and we got to
+something like 25, 30%,
+
+00:16:05.060 --> 00:16:08.510
+you know, market penetration
+in two or three months.
+
+00:16:08.510 --> 00:16:09.700
+And you got some walk in.
+
+00:16:09.700 --> 00:16:11.130
+You got brand recognition
+and
+
+00:16:11.130 --> 00:16:13.300
+your able to build the
+business from there.
+
+00:16:13.300 --> 00:16:15.850
+So I always think these,
+
+00:16:15.850 --> 00:16:19.220
+these very small markets are
+quite underrated.
+
+00:16:19.220 --> 00:16:22.550
+The Facebook version of this
+I always give is that you
+
+00:16:22.550 --> 00:16:23.700
+know if the initial market
+of
+
+00:16:23.700 --> 00:16:27.150
+Facebook was 10,000 people
+at Harvard, it went from
+
+00:16:27.150 --> 00:16:29.910
+zero to sixty percent market
+share in ten days.
+
+00:16:29.910 --> 00:16:32.020
+That was a very auspicious
+start.
+
+00:16:32.020 --> 00:16:34.246
+The way this gets analyzed
+in business schools is
+
+00:16:34.246 --> 00:16:35.711
+always, that&#39;s ridiculous,
+
+00:16:35.711 --> 00:16:38.330
+it&#39;s such a small market it
+can&#39;t have any value at all.
+
+00:16:38.330 --> 00:16:41.230
+And so, I think the business
+school analysis of
+
+00:16:41.230 --> 00:16:44.900
+Facebook early on, or of
+PayPal early on, or
+
+00:16:44.900 --> 00:16:48.240
+of eBay early on is that the
+markets were perhaps, so
+
+00:16:48.240 --> 00:16:51.820
+small as to have, almost no
+value.
+
+00:16:51.820 --> 00:16:53.620
+And they, they would have
+had little value had
+
+00:16:53.620 --> 00:16:56.450
+they stayed small, but it
+turned out they were ways to
+
+00:16:56.450 --> 00:16:59.230
+grow them concentrically
+and, that&#39;s what made them,
+
+00:16:59.230 --> 00:17:01.260
+that&#39;s what made them so
+valuable.
+
+00:17:01.260 --> 00:17:03.730
+Now I think the opposite
+version of this,
+
+00:17:03.730 --> 00:17:06.890
+is always where you have
+super big markets.
+
+00:17:06.890 --> 00:17:08.910
+And, and I, there&#39;s so much,
+
+00:17:08.910 --> 00:17:10.650
+so many different things
+that went wrong with all
+
+00:17:10.650 --> 00:17:13.670
+the clean tech companies in
+the last decade.
+
+00:17:13.670 --> 00:17:15.740
+But, but, one,
+
+00:17:15.740 --> 00:17:18.620
+one theme that ran through
+almost all of them,
+
+00:17:18.620 --> 00:17:21.070
+was that they all started
+with massive markets.
+
+00:17:21.070 --> 00:17:23.850
+And every clean tech
+PowerPoint presentation that
+
+00:17:23.850 --> 00:17:25.900
+one saw in the years 2005 to
+2008,
+
+00:17:25.900 --> 00:17:29.830
+which was the clean tech
+bubble in Silicon Valley.
+
+00:17:29.830 --> 00:17:32.330
+Started with, we&#39;re in the
+energy market,
+
+00:17:32.330 --> 00:17:34.070
+we&#39;re in a market that&#39;s
+measured in hundreds of
+
+00:17:34.070 --> 00:17:36.510
+billions of trillions of
+dollars.
+
+00:17:36.510 --> 00:17:42.180
+And then once you&#39;re a
+minnow in a vast ocean.
+
+00:17:42.180 --> 00:17:43.860
+That&#39;s not a good place to
+be.
+
+00:17:43.860 --> 00:17:46.440
+That means that you have
+tons of competitors and
+
+00:17:46.440 --> 00:17:48.080
+you don&#39;t even know who all
+the competitors are.
+
+00:17:48.080 --> 00:17:52.930
+And so you want to be a one
+of a kind company,
+
+00:17:52.930 --> 00:17:55.740
+where it&#39;s the only one in a
+small ecosystem.
+
+00:17:55.740 --> 00:17:56.300
+You don&#39;t want to
+
+00:17:56.300 --> 00:17:58.750
+be the fourth online pet
+food company.
+
+00:17:58.750 --> 00:17:59.330
+You don&#39;t want to be
+
+00:17:59.330 --> 00:18:01.780
+the tenth thin film solar
+panel company.
+
+00:18:01.780 --> 00:18:03.322
+You don&#39;t want to be the
+100th restaurant in
+
+00:18:03.322 --> 00:18:04.300
+Palo Alto.
+
+00:18:04.300 --> 00:18:06.550
+Your restaurant industry is
+a trillion dollar industry,
+
+00:18:06.550 --> 00:18:09.140
+so if you do a market size
+analysis you conclude
+
+00:18:09.140 --> 00:18:11.730
+restaurants are a fantastic
+business to go into, and
+
+00:18:11.730 --> 00:18:15.580
+it&#39;s often, large markets,
+large existing markets
+
+00:18:15.580 --> 00:18:19.180
+typically mean that you have
+tons of competition, very,
+
+00:18:19.180 --> 00:18:21.160
+very hard to differentiate.
+
+00:18:21.160 --> 00:18:25.780
+So the first very
+counterintuitive into a idea
+
+00:18:25.780 --> 00:18:29.000
+is to go after small
+markets, often markets that
+
+00:18:29.000 --> 00:18:31.380
+are so small people don&#39;t
+even notice them.
+
+00:18:31.380 --> 00:18:33.200
+They don&#39;t think that they
+make sense.
+
+00:18:33.200 --> 00:18:34.900
+That&#39;s where you got a
+foothold, and
+
+00:18:34.900 --> 00:18:37.380
+then if those markets are
+able to expand,
+
+00:18:37.380 --> 00:18:40.740
+you can scale into a big
+monopoly business.
+
+00:18:44.150 --> 00:18:47.260
+You know, a second sort of,
+the sort of several
+
+00:18:47.260 --> 00:18:50.890
+different characteristics of
+these monopoly businesses,
+
+00:18:50.890 --> 00:18:53.480
+that I like to focus on.
+
+00:18:53.480 --> 00:18:56.670
+There&#39;s probably no sort of
+single formula to it.
+
+00:18:56.670 --> 00:19:00.130
+I also ways think that that
+in technology there
+
+00:19:00.130 --> 00:19:01.470
+is always a sense that you
+know,
+
+00:19:01.470 --> 00:19:03.800
+the history of technology is
+such that every.
+
+00:19:03.800 --> 00:19:06.670
+Every moment happens only
+once, so you know the next
+
+00:19:06.670 --> 00:19:09.110
+Mark Zuckerberg won&#39;t build
+a social network.
+
+00:19:09.110 --> 00:19:12.800
+The next Larry Page won&#39;t be
+building a search engine.
+
+00:19:12.800 --> 00:19:14.080
+The next Bill Gates won&#39;t be
+
+00:19:14.080 --> 00:19:15.750
+building an operating
+system.
+
+00:19:15.750 --> 00:19:17.402
+And if you&#39;re copying these
+people,
+
+00:19:17.402 --> 00:19:18.450
+you&#39;re not learning from
+them.
+
+00:19:18.450 --> 00:19:19.950
+But it&#39;s, and so,
+
+00:19:19.950 --> 00:19:23.600
+there is always these very
+unique businesses that
+
+00:19:23.600 --> 00:19:26.930
+are doing something that&#39;s
+not been done before,
+
+00:19:26.930 --> 00:19:31.320
+end up, end of having the
+potential to be a monopoly.
+
+00:19:31.320 --> 00:19:35.330
+The opening line in Anna
+Karenina that all
+
+00:19:35.330 --> 00:19:38.770
+happy companies, sorry, all
+happy families.
+
+00:19:38.770 --> 00:19:40.760
+All happy families are
+alike.
+
+00:19:40.760 --> 00:19:42.490
+All unhappy families are
+unhappy in
+
+00:19:42.490 --> 00:19:44.000
+their own special way.
+
+00:19:44.000 --> 00:19:45.550
+And the opposite is true in
+business,
+
+00:19:45.550 --> 00:19:48.180
+where I think all happy
+companies are different
+
+00:19:48.180 --> 00:19:50.510
+because they&#39;re doing
+something very unique.
+
+00:19:50.510 --> 00:19:53.470
+All unhappy companies are
+alike because they fail to
+
+00:19:53.470 --> 00:19:55.330
+escape the essential
+sameness that
+
+00:19:55.330 --> 00:19:57.100
+is competition, and so
+
+00:19:57.100 --> 00:20:01.410
+one sort of characteristic
+of a monopoly technology
+
+00:20:01.410 --> 00:20:05.500
+company is some sort of
+proprietary technology.
+
+00:20:05.500 --> 00:20:07.680
+My sort of crazy, somewhat
+arbitrary,
+
+00:20:07.680 --> 00:20:10.940
+rule of thumb is you want to
+have a technology that&#39;s
+
+00:20:10.940 --> 00:20:14.210
+an order of magnitude better
+than the next best thing.
+
+00:20:14.210 --> 00:20:16.460
+So Amazon had over ten times
+as many books,
+
+00:20:16.460 --> 00:20:18.300
+maybe not that high tech,
+but you figure out a way to
+
+00:20:18.300 --> 00:20:22.030
+sell ten times as many books
+in an efficient online way.
+
+00:20:22.030 --> 00:20:23.630
+You know, PayPal, the
+alternative for
+
+00:20:23.630 --> 00:20:29.160
+PayPal was using checks to
+send money on eBay,
+
+00:20:29.160 --> 00:20:30.590
+took seven to ten days to
+clear.
+
+00:20:30.590 --> 00:20:33.560
+PayPal could do it more than
+ten times as fast.
+
+00:20:33.560 --> 00:20:36.770
+So you wanna have some sort
+of very
+
+00:20:36.770 --> 00:20:41.360
+powerful improvement in some
+order, maybe an order of
+
+00:20:41.360 --> 00:20:44.150
+magnitude improvement on
+some key dimension.
+
+00:20:45.170 --> 00:20:45.940
+Of course, you know,
+
+00:20:45.940 --> 00:20:49.030
+if you actually come with
+something totally new it&#39;s,
+
+00:20:49.030 --> 00:20:51.200
+it&#39;s just, it&#39;s just like an
+infinite improvement.
+
+00:20:51.200 --> 00:20:51.990
+So I would say the,
+
+00:20:51.990 --> 00:20:54.820
+the iPhone was the first
+smartphone that worked and
+
+00:20:54.820 --> 00:20:56.530
+so that&#39;s, you know that&#39;s
+like I mean,
+
+00:20:56.530 --> 00:20:57.690
+I mean maybe not infinite,
+but
+
+00:20:57.690 --> 00:21:00.150
+it&#39;s sort of definitely
+order of magnitude or
+
+00:21:00.150 --> 00:21:01.190
+more of improvement.
+
+00:21:01.190 --> 00:21:05.030
+So I think, the, the
+technology is designed to
+
+00:21:05.030 --> 00:21:08.880
+give you a massive delta
+over, over the next,
+
+00:21:08.880 --> 00:21:09.950
+the next best thing.
+
+00:21:11.060 --> 00:21:14.580
+I think, I think there often
+are network effects that
+
+00:21:14.580 --> 00:21:16.820
+can kick in that, really
+help.
+
+00:21:16.820 --> 00:21:18.430
+The thing that&#39;s very, and
+these,
+
+00:21:18.430 --> 00:21:19.720
+these lead to monopolies
+over time,
+
+00:21:19.720 --> 00:21:22.800
+the thing that&#39;s very tricky
+about network effects is,
+
+00:21:22.800 --> 00:21:23.740
+they&#39;re often.
+
+00:21:23.740 --> 00:21:27.440
+They&#39;re often very hard to
+get started.
+
+00:21:27.440 --> 00:21:29.370
+So even though everyone
+understands how
+
+00:21:29.370 --> 00:21:30.880
+valuable they are, there is
+
+00:21:30.880 --> 00:21:33.400
+always this incredibly
+tricky question why is it
+
+00:21:33.400 --> 00:21:35.660
+valuable to the first person
+who is doing something?
+
+00:21:36.960 --> 00:21:39.860
+Economies of scale, if you
+have something of
+
+00:21:39.860 --> 00:21:43.720
+a very high fixed costs,
+very low marginal cost.
+
+00:21:43.720 --> 00:21:46.520
+That&#39;s typically a monopoly
+like business.
+
+00:21:46.520 --> 00:21:50.110
+And then there&#39;s this thing
+of branding.
+
+00:21:50.110 --> 00:21:53.220
+Which is sort of like this
+idea that gets lodged in
+
+00:21:53.220 --> 00:21:54.420
+people&#39;s brains.
+
+00:21:54.420 --> 00:21:57.700
+I never quite understand how
+branding works, so I never
+
+00:21:57.700 --> 00:21:59.920
+invest in companies where
+it&#39;s just about branding.
+
+00:21:59.920 --> 00:22:00.670
+But it is, I think,
+
+00:22:00.670 --> 00:22:05.320
+a real phenomenon that
+creates real value.
+
+00:22:05.320 --> 00:22:07.330
+I think one of the things,
+I&#39;m gonna come back to
+
+00:22:07.330 --> 00:22:08.990
+this a little bit, towards
+the end.
+
+00:22:08.990 --> 00:22:11.410
+But one of the things that&#39;s
+very striking,
+
+00:22:11.410 --> 00:22:15.190
+is that software businesses
+are often, are, for
+
+00:22:15.190 --> 00:22:17.980
+some reason, very good at
+some of these things.
+
+00:22:17.980 --> 00:22:20.660
+They&#39;re especially good at
+the economies of scale part.
+
+00:22:20.660 --> 00:22:23.290
+Because, the marginal cost
+of software is zero.
+
+00:22:23.290 --> 00:22:26.860
+And so if you get something
+that works in software.
+
+00:22:26.860 --> 00:22:29.080
+It&#39;s often significantly
+better
+
+00:22:29.080 --> 00:22:31.350
+than the existing solution.
+
+00:22:31.350 --> 00:22:33.210
+And then you have these
+tremendous economies of
+
+00:22:33.210 --> 00:22:35.500
+scale, and you can scale
+fairly quickly.
+
+00:22:35.500 --> 00:22:37.640
+So even if the market starts
+small,
+
+00:22:37.640 --> 00:22:41.940
+you can grow your business
+quickly enough to stay at
+
+00:22:41.940 --> 00:22:44.350
+the same size as the growing
+market.
+
+00:22:44.350 --> 00:22:48.190
+And maintain the sort of
+monopoly power.
+
+00:22:48.190 --> 00:22:51.880
+Now, the critical thing
+about these monopolies is,
+
+00:22:51.880 --> 00:22:56.370
+it&#39;s not enough to have a
+monopoly for just a moment.
+
+00:22:56.370 --> 00:22:57.320
+The critical thing is to
+
+00:22:57.320 --> 00:23:00.130
+have one that lasts over
+time.
+
+00:23:00.130 --> 00:23:02.120
+And so in Silicon Valley
+there&#39;s always this idea
+
+00:23:02.120 --> 00:23:04.120
+that you wanna be the first
+mover.
+
+00:23:04.120 --> 00:23:07.260
+And I, I always think it&#39;s,
+it&#39;s, in some ways,
+
+00:23:07.260 --> 00:23:09.670
+the better framing is you
+wanna be the last mover, or
+
+00:23:09.670 --> 00:23:13.000
+you wanna be the last
+company in a category.
+
+00:23:13.000 --> 00:23:14.430
+Those are the ones that are
+really valid.
+
+00:23:14.430 --> 00:23:16.760
+Microsoft was the last
+operating system,
+
+00:23:16.760 --> 00:23:18.430
+at least for many decades.
+
+00:23:18.430 --> 00:23:20.650
+Google is the last search
+engine.
+
+00:23:20.650 --> 00:23:23.140
+Facebook will be valuable if
+it turns out to be the last,
+
+00:23:23.140 --> 00:23:25.010
+social networking site.
+
+00:23:25.010 --> 00:23:27.760
+One way to think of
+
+00:23:27.760 --> 00:23:31.950
+this last mover of value is
+this idea that most of
+
+00:23:31.950 --> 00:23:34.890
+the value in these companies
+exists far in the future.
+
+00:23:36.430 --> 00:23:39.770
+If you do a discounted cash
+flow analysis of a business.
+
+00:23:39.770 --> 00:23:42.160
+You look at, you have sort
+of all these profit streams.
+
+00:23:42.160 --> 00:23:43.360
+You have a growth rate.
+
+00:23:43.360 --> 00:23:44.640
+The growth rate&#39;s much
+higher than
+
+00:23:44.640 --> 00:23:45.880
+the discount rate.
+
+00:23:45.880 --> 00:23:48.900
+And so most of the value
+exists far in the future.
+
+00:23:48.900 --> 00:23:52.783
+I did this exercise At
+PayPal in March of 2001.
+
+00:23:52.783 --> 00:23:55.110
+We&#39;d been in business for
+about 27 months.
+
+00:23:56.345 --> 00:24:00.660
+And we sort of had, the
+growth rate was 100% a year.
+
+00:24:00.660 --> 00:24:03.890
+We were discounting future
+cashflows by about 30%.
+
+00:24:03.890 --> 00:24:06.460
+And it turned out that about
+three quarters of
+
+00:24:06.460 --> 00:24:09.310
+the value of the business,
+as of 2001,
+
+00:24:09.310 --> 00:24:12.180
+came from cash flows in
+years 2011 and beyond.
+
+00:24:12.180 --> 00:24:16.260
+And whenever you do the math
+on any of these tech
+
+00:24:16.260 --> 00:24:18.840
+companies, you get an answer
+that&#39;s something like that.
+
+00:24:18.840 --> 00:24:21.020
+So if you are trying to
+analyze any other
+
+00:24:21.020 --> 00:24:24.170
+tech companies in Silicon
+Valley, Arabian B, Twitter.
+
+00:24:24.170 --> 00:24:27.390
+Facebook, any emerging
+internet companies,
+
+00:24:27.390 --> 00:24:29.570
+any of the ones in
+Y-Combinator.
+
+00:24:29.570 --> 00:24:33.215
+The math tells you that
+three quarters, 80,
+
+00:24:33.215 --> 00:24:36.620
+85% of the value is coming
+from cash flows in
+
+00:24:36.620 --> 00:24:38.780
+years 2024 and beyond.
+
+00:24:38.780 --> 00:24:40.910
+It&#39;s very, very far in the
+future.
+
+00:24:40.910 --> 00:24:44.010
+And, so one of the things
+that we always overvalue in
+
+00:24:44.010 --> 00:24:46.570
+Silicon Valley is growth
+rates, and
+
+00:24:46.570 --> 00:24:48.730
+we undervalue durability.
+
+00:24:48.730 --> 00:24:51.300
+Because, growth is something
+you can measure in the here
+
+00:24:51.300 --> 00:24:55.040
+and now, and you can always
+track that very precisely.
+
+00:24:55.040 --> 00:24:57.240
+The question of whether a
+company&#39;s still gonna be
+
+00:24:57.240 --> 00:24:59.070
+around a decade from now.
+
+00:24:59.070 --> 00:25:00.300
+That&#39;s actually what,
+
+00:25:00.300 --> 00:25:02.520
+what dominates the value
+equation and
+
+00:25:02.520 --> 00:25:06.510
+that sort of is a much more
+qualitative sort of a thing.
+
+00:25:06.510 --> 00:25:09.570
+And so if we, if we went
+back to this idea of these
+
+00:25:09.570 --> 00:25:12.700
+characteristics of monopoly,
+proprietary technology,
+
+00:25:12.700 --> 00:25:17.360
+network effects, economies
+of scale, You can think
+
+00:25:17.360 --> 00:25:20.270
+of these characteristics as
+ones that exist at a moment
+
+00:25:20.270 --> 00:25:23.190
+in time when you capture a
+market and take it over.
+
+00:25:23.190 --> 00:25:24.880
+But you also want to think
+about,
+
+00:25:24.880 --> 00:25:27.370
+are these things going to
+last over time.
+
+00:25:27.370 --> 00:25:28.350
+And, so, there&#39;s a time
+
+00:25:28.350 --> 00:25:30.440
+dimension to all these
+characteristics.
+
+00:25:30.440 --> 00:25:33.030
+So, net worth effects also
+have a great time element,
+
+00:25:33.030 --> 00:25:35.010
+where as the network scales
+the network
+
+00:25:35.010 --> 00:25:36.750
+effects actually get more
+robust, and so
+
+00:25:36.750 --> 00:25:39.430
+if you have a network effect
+business that&#39;s often one
+
+00:25:39.430 --> 00:25:46.120
+that can become a bigger and
+stronger monopoly over time.
+
+00:25:46.120 --> 00:25:48.710
+Proprietary technology is
+always a little bit of
+
+00:25:48.710 --> 00:25:49.520
+a tricky one, so
+
+00:25:49.520 --> 00:25:52.180
+you want something that&#39;s
+order magnitude better.
+
+00:25:52.180 --> 00:25:55.620
+Than, the state of the art
+in the world today.
+
+00:25:55.620 --> 00:25:57.890
+And that&#39;s how you get
+people&#39;s attention.
+
+00:25:57.890 --> 00:25:59.900
+That&#39;s how you initially
+break through.
+
+00:25:59.900 --> 00:26:02.960
+But then, you don&#39;t wanna be
+superseded by somebody else.
+
+00:26:02.960 --> 00:26:05.580
+And so there are all these
+areas of innovation where,
+
+00:26:05.580 --> 00:26:07.500
+there was tremendous
+innovation, but
+
+00:26:07.500 --> 00:26:08.650
+no one made any money.
+
+00:26:08.650 --> 00:26:09.310
+So, you know?
+
+00:26:09.310 --> 00:26:12.360
+Describe manufacturing in
+the 1980&#39;s.
+
+00:26:12.360 --> 00:26:13.340
+You could im-,
+
+00:26:13.340 --> 00:26:14.410
+you could do a better disk,
+
+00:26:14.410 --> 00:26:16.500
+build a better disk drive
+than anybody else.
+
+00:26:16.500 --> 00:26:18.260
+You could take over the
+whole world.
+
+00:26:18.260 --> 00:26:20.960
+And two years later someone
+else would come along and
+
+00:26:20.960 --> 00:26:22.070
+replace yours.
+
+00:26:22.070 --> 00:26:23.810
+And the course of 15 years,
+
+00:26:23.810 --> 00:26:26.520
+you got vastly improved disk
+drives, so
+
+00:26:26.520 --> 00:26:29.760
+it had great benefit to
+consumers, but it didn&#39;t
+
+00:26:29.760 --> 00:26:32.140
+actually help the people who
+started these companies.
+
+00:26:32.140 --> 00:26:35.590
+And so there&#39;s always this
+question about having a huge
+
+00:26:35.590 --> 00:26:38.640
+breakthrough in technology,
+but then also being able to
+
+00:26:38.640 --> 00:26:43.490
+say, explain why, yours will
+be the last breakthrough, or
+
+00:26:43.490 --> 00:26:44.660
+at least the last
+breakthrough for
+
+00:26:44.660 --> 00:26:46.960
+a long time, or when you
+make a breakthrough.
+
+00:26:46.960 --> 00:26:49.110
+And then you can keep
+improving on it
+
+00:26:49.110 --> 00:26:51.790
+at a quick enough pace that
+no one can ever catch up.
+
+00:26:51.790 --> 00:26:55.620
+So, if you have a structure
+of structure of
+
+00:26:55.620 --> 00:26:58.530
+the future where there&#39;s a
+lot of innovation and
+
+00:26:58.530 --> 00:27:00.690
+other people will come up
+with new things in
+
+00:27:00.690 --> 00:27:02.430
+the thing you&#39;re working on.
+
+00:27:02.430 --> 00:27:04.050
+That&#39;s great for society.
+
+00:27:04.050 --> 00:27:06.090
+It&#39;s actually not that good
+for
+
+00:27:06.090 --> 00:27:07.600
+your business, typically.
+
+00:27:07.600 --> 00:27:11.560
+And then economies of scale,
+we&#39;ve already talked about.
+
+00:27:11.560 --> 00:27:15.070
+So I think this last mover
+thing is very critical.
+
+00:27:15.070 --> 00:27:16.520
+I&#39;m always, you know,
+
+00:27:16.520 --> 00:27:19.200
+I don&#39;t wanna overdo the
+chess analogies, but
+
+00:27:19.200 --> 00:27:22.350
+the first mover in chess is
+someone who plays white.
+
+00:27:22.350 --> 00:27:23.860
+White is about a 1/3 of a
+pawn advantage, so
+
+00:27:23.860 --> 00:27:27.370
+there&#39;s a small advantage to
+going first.
+
+00:27:27.370 --> 00:27:30.980
+You wanna be the last mover,
+who wins the game, so
+
+00:27:30.980 --> 00:27:33.911
+there&#39;s always the,
+Capablanca world champion,
+
+00:27:33.911 --> 00:27:38.670
+Capablanca must begin by
+studying the end game, and
+
+00:27:38.670 --> 00:27:41.440
+I do think that&#39;s, while I
+wouldn&#39;t say that&#39;s the only
+
+00:27:41.440 --> 00:27:42.550
+thing you should study.
+
+00:27:42.550 --> 00:27:44.870
+I think the sort of
+perspective of
+
+00:27:44.870 --> 00:27:47.330
+asking these questions, why
+will this still be
+
+00:27:47.330 --> 00:27:50.230
+the leading company 10, 15,
+20 years from now, is a,
+
+00:27:50.230 --> 00:27:52.598
+is a really critical one to
+try to think through.
+
+00:27:52.598 --> 00:27:56.920
+Let me, let me sort of,
+
+00:27:56.920 --> 00:27:59.810
+I want to sort of go in two
+slightly other directions
+
+00:27:59.810 --> 00:28:02.930
+with this monopoly vs
+competition idea.
+
+00:28:02.930 --> 00:28:08.170
+And I think so I think this
+is the, the central idea,
+
+00:28:08.170 --> 00:28:10.210
+in my mind for, for business
+for starting business for
+
+00:28:10.210 --> 00:28:13.850
+thinking about them and
+there are some, interesting
+
+00:28:13.850 --> 00:28:16.960
+perspectives I think it
+gives on the whole you know,
+
+00:28:16.960 --> 00:28:19.050
+on the whole history of
+innovation and
+
+00:28:19.050 --> 00:28:20.540
+technology and science.
+
+00:28:20.540 --> 00:28:27.040
+Because, yeah we&#39;ve, we&#39;ve
+lived through,
+
+00:28:27.040 --> 00:28:31.490
+250, 300 years of incredible
+technological progress in
+
+00:28:31.490 --> 00:28:33.170
+you know many, many
+different domains.
+
+00:28:33.170 --> 00:28:36.670
+You know, steam engine to
+railways to
+
+00:28:38.310 --> 00:28:42.040
+telephones, refrigeration,
+household appliances,
+
+00:28:42.040 --> 00:28:45.750
+you know the computer
+revolution, aviation.
+
+00:28:45.750 --> 00:28:47.230
+All sorts of different areas
+of
+
+00:28:47.230 --> 00:28:49.680
+technological innovation and
+then there&#39;s sort of
+
+00:28:49.680 --> 00:28:52.170
+analogous thing that one can
+say about science,
+
+00:28:52.170 --> 00:28:55.630
+where we&#39;ve lived through
+centuries of enormous
+
+00:28:55.630 --> 00:28:59.150
+amounts of innovation in
+science as well.
+
+00:28:59.150 --> 00:29:03.990
+And the thing that I think
+people always miss when
+
+00:29:03.990 --> 00:29:08.860
+they think about these
+things is that because X and
+
+00:29:08.860 --> 00:29:12.580
+Y are independent variables,
+some of these things can be
+
+00:29:12.580 --> 00:29:15.520
+extremely valuable
+innovations.
+
+00:29:15.520 --> 00:29:17.200
+But the people who invent
+them,
+
+00:29:17.200 --> 00:29:20.360
+who come up with them, do
+not get rewarded for this.
+
+00:29:20.360 --> 00:29:23.130
+And certainly, you can go
+back to, you need to
+
+00:29:23.130 --> 00:29:26.650
+create X dollars in value,
+you create Y percent of X.
+
+00:29:26.650 --> 00:29:29.750
+I would suggest that the
+history of science has
+
+00:29:29.750 --> 00:29:33.420
+generally been one where Y
+is 0% across the board.
+
+00:29:33.420 --> 00:29:35.720
+The scientists never make
+any money.
+
+00:29:35.720 --> 00:29:38.310
+They&#39;re always deluded into
+thinking that they live in
+
+00:29:38.310 --> 00:29:40.680
+a just universe that will
+reward them for
+
+00:29:40.680 --> 00:29:42.820
+their work and for their
+inventions.
+
+00:29:42.820 --> 00:29:45.530
+And this is probably the
+fundamental delusion that
+
+00:29:45.530 --> 00:29:49.190
+scientists tend to suffer
+from in our society.
+
+00:29:49.190 --> 00:29:52.116
+And even in technology,
+there are, sort of,
+
+00:29:52.116 --> 00:29:54.518
+many different areas of
+technology,
+
+00:29:54.518 --> 00:29:57.594
+where there were great
+innovations that created
+
+00:29:57.594 --> 00:29:59.632
+tremendous value for
+society.
+
+00:29:59.632 --> 00:30:04.499
+But the people did not
+actually capture that much
+
+00:30:04.499 --> 00:30:05.928
+of the value.
+
+00:30:05.928 --> 00:30:10.761
+And so I think there is a
+sort of whole history of.
+
+00:30:10.761 --> 00:30:11.491
+Science and
+
+00:30:11.491 --> 00:30:14.632
+technology that can be told
+from the perspective of
+
+00:30:14.632 --> 00:30:17.050
+how much value was actually
+captured.
+
+00:30:18.105 --> 00:30:22.020
+And certainly, there are
+entire sectors where
+
+00:30:22.020 --> 00:30:23.800
+people didn&#39;t capture
+anything.
+
+00:30:23.800 --> 00:30:26.550
+So you&#39;re the smartest
+Physicist of the 20th
+
+00:30:26.550 --> 00:30:28.860
+century, you come up with
+special relativity,
+
+00:30:28.860 --> 00:30:30.290
+you come up with general
+relativity.
+
+00:30:30.290 --> 00:30:32.010
+You don&#39;t get to be a
+billionaire,
+
+00:30:32.010 --> 00:30:33.460
+you don&#39;t even get to be a
+millionaire.
+
+00:30:35.010 --> 00:30:37.640
+It somehow doesn&#39;t work that
+way.
+
+00:30:37.640 --> 00:30:39.640
+The railroads, incredibly
+valuable.
+
+00:30:39.640 --> 00:30:40.928
+Most of them just went
+bankrupt,
+
+00:30:40.928 --> 00:30:42.539
+because there was too much
+competition.
+
+00:30:43.580 --> 00:30:46.290
+Wright brothers, you fly the
+first plane,
+
+00:30:46.290 --> 00:30:47.490
+you don&#39;t make any money.
+
+00:30:47.490 --> 00:30:49.120
+And so I think there is sort
+of a structure to
+
+00:30:49.120 --> 00:30:52.150
+these industries, that&#39;s
+very important.
+
+00:30:52.150 --> 00:30:56.011
+And I think the thing that&#39;s
+actually rare,
+
+00:30:56.011 --> 00:30:58.050
+are the success cases.
+
+00:30:58.050 --> 00:31:00.366
+Most the, so it&#39;s actually
+unique when you really think
+
+00:31:00.366 --> 00:31:02.584
+about the history in this,
+in this 250 year sweep,
+
+00:31:02.584 --> 00:31:04.650
+it&#39;s unusual, Y is almost
+always zero percent.
+
+00:31:04.650 --> 00:31:06.390
+It&#39;s always zero in science.
+
+00:31:06.390 --> 00:31:08.360
+It&#39;s almost always in
+technology, and
+
+00:31:08.360 --> 00:31:10.980
+so it&#39;s very rare where
+people made money.
+
+00:31:10.980 --> 00:31:11.710
+You know, the early,
+
+00:31:11.710 --> 00:31:14.870
+the late 18th, early 19th
+century, the first
+
+00:31:14.870 --> 00:31:18.240
+industrial revolution was
+textile mills, steam engine,
+
+00:31:18.240 --> 00:31:19.780
+the sort of automated
+things.
+
+00:31:19.780 --> 00:31:21.490
+And you had these relentless
+improvements,
+
+00:31:21.490 --> 00:31:23.380
+that people improved
+efficiency of
+
+00:31:23.380 --> 00:31:26.470
+textile factories,
+manufacturing generally.
+
+00:31:26.470 --> 00:31:29.090
+At a clip of 5 to 7% every
+year.
+
+00:31:29.090 --> 00:31:31.000
+Year after year, decade
+after decade.
+
+00:31:31.000 --> 00:31:33.580
+You had 60, 70 years of
+
+00:31:33.580 --> 00:31:37.434
+tremendous improvement from
+1780 to 1850.
+
+00:31:39.400 --> 00:31:42.170
+But even in 1850, most of
+the wealth in Britain
+
+00:31:42.170 --> 00:31:45.140
+was still held by the landed
+aristocracy.
+
+00:31:45.140 --> 00:31:46.195
+The workers didn&#39;t, you
+know,
+
+00:31:46.195 --> 00:31:47.364
+the workers didn&#39;t make that
+much,
+
+00:31:47.364 --> 00:31:48.920
+the capitalists didn&#39;t make
+that much either.
+
+00:31:48.920 --> 00:31:49.820
+It was all competed away.
+
+00:31:49.820 --> 00:31:50.910
+There were hundreds of
+
+00:31:50.910 --> 00:31:53.220
+people running textiles
+factories.
+
+00:31:53.220 --> 00:31:54.675
+It was an industry that
+just,
+
+00:31:54.675 --> 00:31:58.050
+the structure of the
+competition prevented people
+
+00:31:58.050 --> 00:31:59.370
+from making any money.
+
+00:32:00.650 --> 00:32:02.740
+And so I think there are, in
+my mind,
+
+00:32:02.740 --> 00:32:06.180
+there probably are only two
+broad categories in
+
+00:32:06.180 --> 00:32:08.750
+the entire history, the last
+250 years,
+
+00:32:08.750 --> 00:32:11.870
+where people have actually
+come up with new things, and
+
+00:32:11.870 --> 00:32:13.438
+made money doing so.
+
+00:32:13.438 --> 00:32:16.580
+One is these sort of
+vertically integrated
+
+00:32:16.580 --> 00:32:19.940
+complex monopolies which
+people did build in
+
+00:32:19.940 --> 00:32:22.100
+the second industrial
+revolution at the end of
+
+00:32:22.100 --> 00:32:24.440
+the 19th and started the
+20th century.
+
+00:32:24.440 --> 00:32:26.770
+And so this was like Ford,
+it was the vertically
+
+00:32:26.770 --> 00:32:29.190
+integrated oil companies
+like Standard Oil.
+
+00:32:29.190 --> 00:32:32.066
+And what these vertically
+integrated monopolies
+
+00:32:32.066 --> 00:32:35.690
+typically required was this
+very complex coordination.
+
+00:32:35.690 --> 00:32:37.560
+You&#39;ve got a lot of pieces
+to fit together in
+
+00:32:37.560 --> 00:32:40.280
+just the right way, when you
+assembled it,
+
+00:32:40.280 --> 00:32:42.190
+you had a tremendous
+advantage.
+
+00:32:42.190 --> 00:32:45.000
+This is actually done
+surprisingly little today.
+
+00:32:45.000 --> 00:32:48.030
+And so I think this is sort
+of a business form that
+
+00:32:49.100 --> 00:32:51.930
+when people can pull it off
+is very valuable.
+
+00:32:51.930 --> 00:32:54.560
+It&#39;s typically fairly
+capital intensive.
+
+00:32:54.560 --> 00:32:57.885
+We live sort of in a, in a
+culture where is very hard
+
+00:32:57.885 --> 00:33:01.055
+to get people to buy into
+anything that&#39;s super
+
+00:33:01.055 --> 00:33:04.520
+complicated, and it takes
+very long to build.
+
+00:33:04.520 --> 00:33:05.594
+But I, you know,
+
+00:33:05.594 --> 00:33:08.464
+when I sort of think about
+my colleague Elon Musk
+
+00:33:08.464 --> 00:33:11.549
+from PayPal success with
+Tesla and Space X, I think
+
+00:33:11.549 --> 00:33:14.779
+the key to these companies
+was the complex vertically
+
+00:33:14.779 --> 00:33:17.700
+integrated monopoly
+structure they had.
+
+00:33:17.700 --> 00:33:20.302
+So if you sort of look at
+Tesla or Space X you ask,
+
+00:33:20.302 --> 00:33:23.430
+you know, was there sort of
+single breakthrough?
+
+00:33:23.430 --> 00:33:26.190
+They certainly innovated on
+a lot of dimensions.
+
+00:33:26.190 --> 00:33:26.800
+I don&#39;t think there was
+
+00:33:26.800 --> 00:33:30.110
+a single tennex breakthrough
+and battery storage,
+
+00:33:30.110 --> 00:33:33.400
+or you know, maybe working
+on some things in rocketry.
+
+00:33:33.400 --> 00:33:34.145
+But they hadn&#39;t,
+
+00:33:34.145 --> 00:33:37.330
+there was no sort of single
+massive breakthrough, but
+
+00:33:37.330 --> 00:33:40.290
+what was really impressive
+was integrating all these
+
+00:33:40.290 --> 00:33:43.390
+pieces together, and doing
+it in a way that was more
+
+00:33:43.390 --> 00:33:45.640
+vertically integrated than
+most of their competitors.
+
+00:33:45.640 --> 00:33:46.590
+So, Tesla,
+
+00:33:46.590 --> 00:33:48.560
+you also integrated the car
+distributors, so
+
+00:33:48.560 --> 00:33:51.280
+they wouldn&#39;t steal all the
+money, as has happened with
+
+00:33:51.280 --> 00:33:53.186
+the rest of the car industry
+in the US.
+
+00:33:53.186 --> 00:33:56.450
+Or SpaceX, you basically
+pulled in
+
+00:33:56.450 --> 00:34:01.000
+all the subcontractors where
+most of the large aerospace
+
+00:34:01.000 --> 00:34:04.020
+companies have single source
+subcontractors that are able
+
+00:34:04.020 --> 00:34:06.940
+to sort of charge monopoly
+profits, and
+
+00:34:06.940 --> 00:34:08.200
+make it very hard for
+
+00:34:08.200 --> 00:34:10.600
+the integrated aerospace
+companies to make money.
+
+00:34:10.600 --> 00:34:14.040
+And so vertical integration
+I think is sort of a very
+
+00:34:14.040 --> 00:34:17.721
+under explored modality of
+technological progress,
+
+00:34:17.721 --> 00:34:20.530
+that people would do well to
+look at more.
+
+00:34:20.530 --> 00:34:23.756
+And then I think there is,
+there is something about
+
+00:34:23.756 --> 00:34:27.790
+software itself that&#39;s very,
+very powerful.
+
+00:34:27.790 --> 00:34:29.870
+Software has these
+incredible economies of
+
+00:34:29.870 --> 00:34:32.990
+scale, these low marginal
+costs and there is something
+
+00:34:32.990 --> 00:34:35.460
+about the world of bits, as
+opposed to the world of
+
+00:34:35.460 --> 00:34:38.350
+adams, where you can often
+get very fast adoption.
+
+00:34:38.350 --> 00:34:41.680
+And, and the fast adoption
+is critical to capturing and
+
+00:34:41.680 --> 00:34:43.670
+taking over markets because
+even if you
+
+00:34:43.670 --> 00:34:46.510
+have a small market if the
+adoption rate is too slow,
+
+00:34:46.510 --> 00:34:48.050
+there&#39;ll be enough time for
+other people to
+
+00:34:48.050 --> 00:34:50.220
+enter that market, and
+compete with you.
+
+00:34:50.220 --> 00:34:53.110
+Whereas if you have a small
+to mid size market, and
+
+00:34:53.110 --> 00:34:54.540
+have a fast adoption rate.
+
+00:34:54.540 --> 00:34:56.090
+You cannot take over this
+market.
+
+00:34:56.090 --> 00:34:57.630
+And so I think this is
+
+00:34:57.630 --> 00:35:00.490
+one of the reasons Silicon
+Valley has done so well, and
+
+00:35:00.490 --> 00:35:03.820
+why software has been this
+phenomenal industry.
+
+00:35:03.820 --> 00:35:06.480
+And what I, what I would
+suggest, what I would want
+
+00:35:06.480 --> 00:35:08.780
+to leave you with is there
+are sort of these different
+
+00:35:08.780 --> 00:35:13.450
+rationalizations people give
+for why certain things work,
+
+00:35:13.450 --> 00:35:15.100
+and why certain things don&#39;t
+work.
+
+00:35:15.100 --> 00:35:17.020
+And I think these
+rationalizations always
+
+00:35:17.020 --> 00:35:20.960
+obscure this question of
+creating X dollars in value,
+
+00:35:20.960 --> 00:35:23.020
+and capturing Y percent of
+X.
+
+00:35:23.020 --> 00:35:24.890
+So the science
+rationalization we&#39;re
+
+00:35:24.890 --> 00:35:26.290
+always told, is that
+
+00:35:26.290 --> 00:35:28.420
+the scientists aren&#39;t
+interested in making money.
+
+00:35:28.420 --> 00:35:29.060
+They&#39;re doing it for
+
+00:35:29.060 --> 00:35:31.060
+charitable reasons, and that
+you&#39;re not
+
+00:35:31.060 --> 00:35:33.360
+a good scientist if you&#39;re
+motivated by money.
+
+00:35:33.360 --> 00:35:34.850
+And I&#39;m not even saying
+people should
+
+00:35:34.850 --> 00:35:37.880
+always be motivated by money
+or something like this.
+
+00:35:37.880 --> 00:35:41.420
+But I think we should be a
+little more critical of this
+
+00:35:41.420 --> 00:35:42.430
+as a rationalization.
+
+00:35:42.430 --> 00:35:44.710
+We should ask, is this a
+rationalization
+
+00:35:45.870 --> 00:35:48.730
+to obscure the fact that Y
+equals zero percent.
+
+00:35:48.730 --> 00:35:51.750
+And the scientists are
+operating in this sort of
+
+00:35:51.750 --> 00:35:53.865
+world where all the
+innovation is
+
+00:35:53.865 --> 00:35:55.979
+effectively competed away,
+and
+
+00:35:55.979 --> 00:35:59.190
+they can&#39;t capture any of it
+directly.
+
+00:35:59.190 --> 00:36:02.720
+The software distortion that
+often happens,
+
+00:36:02.720 --> 00:36:05.130
+is because people are making
+such a vast fortunes in
+
+00:36:05.130 --> 00:36:07.740
+software, we infer that this
+is the most
+
+00:36:07.740 --> 00:36:11.400
+valuable thing in the world
+being done full stop.
+
+00:36:11.400 --> 00:36:14.830
+And so if people at Twitter
+make billions of dollars,
+
+00:36:14.830 --> 00:36:18.120
+it must be that Twitter is
+worth far more than anything
+
+00:36:18.120 --> 00:36:21.120
+that Einstein did.
+
+00:36:21.120 --> 00:36:22.800
+What that sort of
+rationalization tends to
+
+00:36:22.800 --> 00:36:26.090
+obscure, is again that X and
+Y are independent variables.
+
+00:36:26.090 --> 00:36:27.630
+And there are these
+businesses where you
+
+00:36:27.630 --> 00:36:30.250
+capture a lot of X and there
+others where you don&#39;t.
+
+00:36:30.250 --> 00:36:33.694
+And so, I do think the
+history of innovation has
+
+00:36:33.694 --> 00:36:37.053
+been this history where the
+microeconomics,
+
+00:36:37.053 --> 00:36:40.499
+the structure of these
+industries has mattered
+
+00:36:40.499 --> 00:36:42.162
+a tremendous amount.
+
+00:36:42.162 --> 00:36:46.960
+And when there is sort of
+this
+
+00:36:46.960 --> 00:36:49.430
+story where some people have
+made vast fortunes, because
+
+00:36:49.430 --> 00:36:52.050
+they were in industries with
+the right structure, and
+
+00:36:52.050 --> 00:36:56.930
+other people made nothing at
+all, because they were in
+
+00:36:56.930 --> 00:36:58.760
+these sort of very
+competitive things.
+
+00:36:58.760 --> 00:37:00.330
+And we shouldn&#39;t just
+rationalize that away,
+
+00:37:00.330 --> 00:37:02.640
+I think it&#39;s worth
+understanding this better.
+
+00:37:02.640 --> 00:37:05.060
+And then finally, let me
+come back to this
+
+00:37:06.160 --> 00:37:08.330
+sort of overarching theme
+for
+
+00:37:08.330 --> 00:37:11.370
+this talk, this competition
+is for losers idea.
+
+00:37:11.370 --> 00:37:14.030
+Which is always a
+provocative way to
+
+00:37:14.030 --> 00:37:16.780
+title things, because we
+always think of
+
+00:37:16.780 --> 00:37:20.150
+the losers as the people who
+are not good at competing.
+
+00:37:20.150 --> 00:37:23.540
+We think of the losers as
+the people who are slow on
+
+00:37:23.540 --> 00:37:26.390
+the sports team, on the
+track team in high school,
+
+00:37:26.390 --> 00:37:28.520
+or who do a little bit less
+well on the standardized
+
+00:37:28.520 --> 00:37:31.870
+tests, and don&#39;t get into
+the right schools.
+
+00:37:31.870 --> 00:37:35.220
+So we always think of losers
+as people who can&#39;t compete,
+
+00:37:35.220 --> 00:37:37.300
+and I want us to really
+rethink,
+
+00:37:37.300 --> 00:37:40.460
+and revalue this and
+consider whether it&#39;s
+
+00:37:40.460 --> 00:37:43.980
+possible that competition
+itself is off.
+
+00:37:43.980 --> 00:37:46.450
+That we&#39;ve sort of, it&#39;s not
+just the case and
+
+00:37:46.450 --> 00:37:47.420
+we don&#39;t understand this
+
+00:37:47.420 --> 00:37:50.280
+monopoly competition
+dichotomy intellectually.
+
+00:37:50.280 --> 00:37:51.000
+So that&#39;s, sort of,
+
+00:37:52.090 --> 00:37:53.540
+why you wouldn&#39;t understand
+intellectually,
+
+00:37:53.540 --> 00:37:55.840
+because people lie about it.
+
+00:37:55.840 --> 00:37:56.500
+It&#39;s distorted.
+
+00:37:56.500 --> 00:37:59.730
+We have all these history of
+innovation
+
+00:37:59.730 --> 00:38:01.720
+rationalizes what&#39;s
+happening in all these very,
+
+00:38:01.720 --> 00:38:02.900
+very strange ways.
+
+00:38:02.900 --> 00:38:05.040
+But I think it&#39;s more than
+just an intellectual blind
+
+00:38:05.040 --> 00:38:07.560
+spot, I think it&#39;s also a
+psychological blind spot
+
+00:38:07.560 --> 00:38:10.370
+where we find ourselves, you
+know, very attracted to
+
+00:38:10.370 --> 00:38:13.810
+competition in one form or
+another.
+
+00:38:13.810 --> 00:38:16.600
+We find it reassuring if
+other people do things.
+
+00:38:16.600 --> 00:38:18.590
+The word ape, already in the
+time of Shakespeare,
+
+00:38:18.590 --> 00:38:20.720
+meant both primate and
+imitate.
+
+00:38:20.720 --> 00:38:21.330
+And there is
+
+00:38:21.330 --> 00:38:24.340
+something about human nature
+that&#39;s deeply mimetic.
+
+00:38:24.340 --> 00:38:25.690
+Imitative.
+
+00:38:25.690 --> 00:38:28.600
+Apelike, sheeplike,
+lemminglike, herdlike.
+
+00:38:28.600 --> 00:38:31.755
+And it&#39;s this very
+problematic thing that we
+
+00:38:31.755 --> 00:38:35.250
+need to always think through
+and try to overcome.
+
+00:38:35.250 --> 00:38:38.653
+And there is always this
+question about
+
+00:38:38.653 --> 00:38:42.280
+competition as a form of
+validation.
+
+00:38:42.280 --> 00:38:43.580
+Where we go for
+
+00:38:43.580 --> 00:38:46.220
+things that lots of other
+people are going for,
+
+00:38:46.220 --> 00:38:48.980
+and it&#39;s not that there is
+wisdom in crowds, it&#39;s
+
+00:38:48.980 --> 00:38:51.220
+not when lots of people are
+trying to do something that,
+
+00:38:51.220 --> 00:38:53.180
+that&#39;s proof of it being
+valuable.
+
+00:38:53.180 --> 00:38:55.782
+I think it&#39;s when lots of
+people are trying to do
+
+00:38:55.782 --> 00:38:58.200
+something that is often
+proof of insanity.
+
+00:38:58.200 --> 00:39:00.460
+There are twenty thousand
+people a year who move to
+
+00:39:00.460 --> 00:39:02.570
+Los Angeles to become movie
+stars,
+
+00:39:02.570 --> 00:39:03.700
+about 20 of them make it.
+
+00:39:03.700 --> 00:39:07.086
+I think the Olympics are a
+little bit better,
+
+00:39:07.086 --> 00:39:10.829
+because you can figure out
+pretty quickly whether
+
+00:39:10.829 --> 00:39:14.748
+you&#39;re good or not, so
+there&#39;s a little bit less of
+
+00:39:14.748 --> 00:39:17.083
+a dead weight loss to
+society.
+
+00:39:17.083 --> 00:39:18.265
+You know?
+
+00:39:18.265 --> 00:39:20.034
+&gt;&gt; You the sort of
+educational experience at
+
+00:39:20.034 --> 00:39:22.317
+a place, the pre Stanford
+educational experience.
+
+00:39:22.317 --> 00:39:23.332
+There&#39;s always sort of
+
+00:39:23.332 --> 00:39:25.413
+a non-competitive
+characterization, where I
+
+00:39:25.413 --> 00:39:27.746
+think most of the people in
+this room had machine guns,
+
+00:39:27.746 --> 00:39:30.097
+that were competing with
+people with bows and arrows.
+
+00:39:30.097 --> 00:39:32.266
+So it wasn&#39;t exactly a
+parallel competition when
+
+00:39:32.266 --> 00:39:35.310
+you were in junior high
+school and high school.
+
+00:39:35.310 --> 00:39:36.530
+There&#39;s always a question,
+
+00:39:36.530 --> 00:39:38.725
+does the tournament make
+sense as you keep going?
+
+00:39:38.725 --> 00:39:42.670
+And there is always this
+question if people go on to
+
+00:39:42.670 --> 00:39:43.930
+grad school, or
+
+00:39:43.930 --> 00:39:47.270
+post doctoral educations,
+does the intensity of
+
+00:39:47.270 --> 00:39:48.780
+the competition really make
+sense?
+
+00:39:48.780 --> 00:39:52.360
+There&#39;s the classic Henry
+Kissinger line
+
+00:39:53.440 --> 00:39:55.680
+describing his fellow
+faculty at Harvard.
+
+00:39:55.680 --> 00:39:58.620
+That the battles were so
+
+00:39:58.620 --> 00:40:00.990
+ferocious, because the
+stakes were so small.
+
+00:40:00.990 --> 00:40:02.570
+Describing sort of academia.
+
+00:40:02.570 --> 00:40:04.984
+And you start to think on
+one level this is
+
+00:40:04.984 --> 00:40:06.690
+a description of insanity.
+
+00:40:06.690 --> 00:40:09.620
+Why would people fight like
+crazy when the stakes are so
+
+00:40:09.620 --> 00:40:10.500
+small?
+
+00:40:10.500 --> 00:40:11.210
+But it&#39;s also,
+
+00:40:11.210 --> 00:40:14.390
+I think simply a function of
+the logic of the situation.
+
+00:40:14.390 --> 00:40:17.140
+When it&#39;s really hard to
+differentiate yourself from
+
+00:40:17.140 --> 00:40:17.970
+other people.
+
+00:40:17.970 --> 00:40:19.170
+When the differences are,
+when
+
+00:40:19.170 --> 00:40:21.690
+the objective differences
+really are small.
+
+00:40:21.690 --> 00:40:24.948
+Then you have to compete
+ferociously to maintain
+
+00:40:24.948 --> 00:40:26.696
+a difference of one sort or
+
+00:40:26.696 --> 00:40:30.580
+another, that&#39;s often more
+imaginary than real.
+
+00:40:30.580 --> 00:40:33.550
+There&#39;s always a sort of a
+personal version of
+
+00:40:33.550 --> 00:40:37.830
+this that I tell where I was
+sort of hyper tracked.
+
+00:40:37.830 --> 00:40:39.580
+My 8th grade junior high
+school yearbook,
+
+00:40:39.580 --> 00:40:40.540
+one of my friends wrote in,
+
+00:40:40.540 --> 00:40:43.390
+I know you&#39;ll get into
+Stanford in four years
+
+00:40:43.390 --> 00:40:46.150
+as a Sophomore, sort of when
+it is going to Stanford four
+
+00:40:46.150 --> 00:40:48.530
+years later, the end of high
+school.
+
+00:40:48.530 --> 00:40:50.780
+Went to Stanford Law School.
+
+00:40:50.780 --> 00:40:53.805
+You know, ended up at a big
+law firm in New York,
+
+00:40:53.805 --> 00:40:57.070
+where from the outside
+everybody wanted to get in.
+
+00:40:57.070 --> 00:40:59.380
+On the inside everybody
+wanted to leave.
+
+00:41:01.370 --> 00:41:03.910
+&gt;&gt; And it was this very
+strange dynamic, where after
+
+00:41:03.910 --> 00:41:06.765
+I sort of realized that this
+was not the best idea,
+
+00:41:06.765 --> 00:41:10.830
+and left after seven months
+and three days.
+
+00:41:10.830 --> 00:41:13.700
+You know, one of the people
+down the hall from me told
+
+00:41:13.700 --> 00:41:15.860
+me, it&#39;s really reassuring
+to see you leave, Peter.
+
+00:41:15.860 --> 00:41:17.390
+I had no idea that it was
+possible to
+
+00:41:17.390 --> 00:41:18.607
+escape from Alcatraz.
+
+00:41:18.607 --> 00:41:21.430
+Which of course, all you had
+to do was go out the front
+
+00:41:21.430 --> 00:41:22.900
+door and not come back.
+
+00:41:22.900 --> 00:41:26.170
+But so much of people
+identities got
+
+00:41:26.170 --> 00:41:29.960
+wrapped in winning these
+competitions,
+
+00:41:29.960 --> 00:41:32.530
+that they somehow lost site
+of what was important.
+
+00:41:32.530 --> 00:41:33.180
+What was valuable.
+
+00:41:33.180 --> 00:41:36.290
+And you know, competition
+does make you better
+
+00:41:36.290 --> 00:41:38.340
+at whatever it is you&#39;re
+competing on.
+
+00:41:38.340 --> 00:41:39.405
+Because when you&#39;re
+competing,
+
+00:41:39.405 --> 00:41:42.240
+you&#39;re comparing yourself
+with the people around you.
+
+00:41:42.240 --> 00:41:43.060
+You&#39;re figuring out,
+
+00:41:43.060 --> 00:41:44.620
+how do I beat the people
+next to me?
+
+00:41:44.620 --> 00:41:46.560
+How do I do somewhat better
+at whatever it
+
+00:41:46.560 --> 00:41:47.880
+is they&#39;re doing.
+
+00:41:47.880 --> 00:41:49.470
+And you will get better at
+that thing.
+
+00:41:49.470 --> 00:41:52.187
+I&#39;m not questioning that,
+I&#39;m not denying that.
+
+00:41:52.187 --> 00:41:56.120
+But, it often comes at this
+tremendous price that you
+
+00:41:56.120 --> 00:41:57.660
+stop asking some bigger
+questions,
+
+00:41:57.660 --> 00:42:01.008
+about what&#39;s truly important
+and truly valuable.
+
+00:42:01.008 --> 00:42:04.560
+And so I would say, don&#39;t
+always go through the tiny
+
+00:42:04.560 --> 00:42:06.860
+little door that everyone&#39;s
+trying to rush through.
+
+00:42:06.860 --> 00:42:08.020
+Maybe go around the corner,
+and
+
+00:42:08.020 --> 00:42:10.420
+go through the vast gate
+that no one&#39;s taking.
+
+00:42:10.420 --> 00:42:11.926
+Thank you very much.
+
+00:42:11.926 --> 00:42:13.908
+I guess there&#39;s time for,
+
+00:42:13.908 --> 00:42:16.499
+do you want to take a few
+questions?
+
+00:42:20.674 --> 00:42:21.463
+&gt;&gt; Sorry?
+
+00:42:23.656 --> 00:42:25.211
+&gt;&gt; Oh yes, people want to
+take,
+
+00:42:25.211 --> 00:42:27.835
+I&#39;ll take a few questions
+with few minutes time.
+
+00:42:27.835 --> 00:42:28.792
+Yeah, go ahead.
+
+00:42:28.792 --> 00:42:30.685
+&gt;&gt; Since, yeah, as you
+mentioned,
+
+00:42:30.685 --> 00:42:33.433
+you already mentioned
+further competition often
+
+00:42:33.433 --> 00:42:35.525
+look similar because the
+narrative of
+
+00:42:35.525 --> 00:42:36.913
+people tell our selves.
+
+00:42:38.100 --> 00:42:39.300
+Do you have any ways to
+
+00:42:39.300 --> 00:42:40.960
+easily determine the
+difference when your
+
+00:42:40.960 --> 00:42:42.690
+looking at an idea that is
+better than your own idea?
+
+00:42:43.940 --> 00:42:46.680
+&gt;&gt; Well I&#39;d say the question
+I always try to focus on is
+
+00:42:46.680 --> 00:42:47.960
+what is the actual market?
+
+00:42:47.960 --> 00:42:49.650
+So not what&#39;s the narrative
+of the market,
+
+00:42:49.650 --> 00:42:51.660
+because you can always tell
+a fictional story about
+
+00:42:51.660 --> 00:42:53.810
+a market that&#39;s much bigger
+or much smaller.
+
+00:42:53.810 --> 00:42:56.690
+But what is the real
+objective market?
+
+00:42:56.690 --> 00:42:59.020
+So, it&#39;s always, yeah, you
+always try to figure it out.
+
+00:42:59.020 --> 00:42:59.980
+And you realize people have
+
+00:42:59.980 --> 00:43:03.820
+incentives to powerfully
+distort these things.
+
+00:43:03.820 --> 00:43:04.820
+Yeah?
+
+00:43:04.820 --> 00:43:06.770
+&gt;&gt; Which of the aspects of
+monopolies that you
+
+00:43:06.770 --> 00:43:11.898
+mentioned would you say
+&gt;&gt; Well
+
+00:43:11.898 --> 00:43:15.720
+they have network effects
+with the ad network.
+
+00:43:15.720 --> 00:43:17.620
+They had proprietary
+technology that gave them
+
+00:43:17.620 --> 00:43:19.380
+the initial lead, because
+they had the page
+
+00:43:19.380 --> 00:43:21.760
+rank algorithm which was
+sort of, an order of
+
+00:43:21.760 --> 00:43:24.590
+magnitude better than any
+other search engine.
+
+00:43:24.590 --> 00:43:26.200
+You have economies of scale,
+
+00:43:26.200 --> 00:43:30.350
+because of the need to store
+all these different sites.
+
+00:43:30.350 --> 00:43:31.320
+And at this point, you have
+brand, so
+
+00:43:31.320 --> 00:43:32.980
+Google has all four.
+
+00:43:32.980 --> 00:43:34.770
+Maybe the proprietary
+technology&#39;s somewhat
+
+00:43:34.770 --> 00:43:35.710
+weaker at this point.
+
+00:43:35.710 --> 00:43:37.790
+But, definitely, it had all
+four, and
+
+00:43:37.790 --> 00:43:38.960
+maybe three out of four now.
+
+00:43:40.250 --> 00:43:40.760
+Yeah.
+
+00:43:40.760 --> 00:43:43.980
+&gt;&gt; How does this apply to
+and, second, what&#39;s it like.
+
+00:43:43.980 --> 00:43:45.445
+The seconds what?
+
+00:43:45.445 --> 00:43:46.240
+&gt;&gt; What&#39;s with the i-Phone?
+&gt;&gt; That&#39;s
+
+00:43:48.260 --> 00:43:51.610
+sort of a set of companies
+that are doing
+
+00:43:51.610 --> 00:43:54.560
+different copycat payment
+systems on mobile phones.
+
+00:43:54.560 --> 00:43:56.270
+There&#39;s Square, there&#39;s
+PayPal.
+
+00:43:56.270 --> 00:43:58.200
+They just have sort of
+different shapes.
+
+00:43:58.200 --> 00:43:59.700
+That&#39;s how they
+differentiate themselves.
+
+00:43:59.700 --> 00:44:01.400
+One is a triangle, one is a
+square.
+
+00:44:01.400 --> 00:44:03.770
+And so you know...
+
+00:44:03.770 --> 00:44:05.250
+&gt;&gt; Maybe at some point the
+apes weren&#39;t out of shape or
+
+00:44:05.250 --> 00:44:05.960
+something like that.
+
+00:44:05.960 --> 00:44:09.249
+But I think, pounds here we
+started with focus on
+
+00:44:09.249 --> 00:44:13.182
+the intelligence community
+which is small sub-market,
+
+00:44:13.182 --> 00:44:16.072
+you had a proprietary
+technology that used
+
+00:44:16.072 --> 00:44:18.710
+a very different approach.
+
+00:44:18.710 --> 00:44:22.670
+Were it was focused on the
+human
+
+00:44:24.080 --> 00:44:28.340
+computer synthesis rather
+than the substitution,
+
+00:44:28.340 --> 00:44:29.620
+which I think is the
+dominant paradigm.
+
+00:44:29.620 --> 00:44:31.180
+So there&#39;s a whole set of
+things I would say on
+
+00:44:31.180 --> 00:44:35.120
+the market approach, and on
+the proprietary technology.
+
+00:44:36.930 --> 00:44:37.480
+Yes?
+
+00:44:37.480 --> 00:44:40.712
+&gt;&gt; When you have design
+thinking methodology in
+
+00:44:40.712 --> 00:44:44.710
+a start-up thinking, which
+is used to mitigate risk by
+
+00:44:44.710 --> 00:44:48.220
+not creating things that
+people don&#39;t want.
+
+00:44:48.220 --> 00:44:51.436
+But I think young innovators
+have inspiration create
+
+00:44:51.436 --> 00:44:54.170
+complex systems that last&#39;s
+through time.
+
+00:44:54.170 --> 00:44:55.430
+&gt;&gt; Could you repeat the
+question?
+
+00:44:55.430 --> 00:44:56.926
+&gt;&gt; Yeah.
+So the quest is what do I
+
+00:44:56.926 --> 00:45:00.332
+think about lean start-up&#39;s,
+iterative thinking,
+
+00:45:00.332 --> 00:45:02.578
+where you get feedback from
+people,
+
+00:45:02.578 --> 00:45:04.908
+versus complexity that may
+not work.
+
+00:45:04.908 --> 00:45:07.961
+So, I am personally quite
+skeptical of all the lean
+
+00:45:07.961 --> 00:45:09.529
+start-up methodology.
+
+00:45:09.529 --> 00:45:13.382
+I think the really great
+companies did something that
+
+00:45:13.382 --> 00:45:14.501
+was, sort of.
+
+00:45:14.501 --> 00:45:16.759
+Somewhat more of a quantum
+improvement that
+
+00:45:16.759 --> 00:45:19.390
+really differentiated them
+from everybody else.
+
+00:45:20.720 --> 00:45:23.790
+They typically did not do
+massive, you know,
+
+00:45:23.790 --> 00:45:25.230
+customer surveys.
+
+00:45:25.230 --> 00:45:27.600
+The people who ran these
+companies sometimes,
+
+00:45:27.600 --> 00:45:29.950
+not always, suffer from mild
+forms of Aspberger&#39;s, so
+
+00:45:29.950 --> 00:45:31.410
+they were not actually that
+influenced,
+
+00:45:31.410 --> 00:45:33.800
+not that easily deterred by
+what other people thought or
+
+00:45:33.800 --> 00:45:34.570
+told them to do.
+
+00:45:34.570 --> 00:45:39.840
+So I do think we&#39;re way too
+focused on iteration as
+
+00:45:39.840 --> 00:45:45.720
+a modality, and not enough
+on trying to have a virtual
+
+00:45:45.720 --> 00:45:51.199
+esp link with the public and
+figuring it out ourselves.
+
+00:45:51.199 --> 00:45:56.890
+I would say that, the risk
+question
+
+00:45:56.890 --> 00:46:01.160
+is always a very tricky one
+because there are, you know?
+
+00:46:01.160 --> 00:46:03.740
+They&#39;re, they&#39;re, it&#39;s not,
+it&#39;s often.
+
+00:46:03.740 --> 00:46:05.010
+I think it&#39;s often the case
+that you
+
+00:46:05.010 --> 00:46:07.950
+don&#39;t have enough time to
+really mitigate risk.
+
+00:46:07.950 --> 00:46:09.460
+If, if you&#39;re gonna take
+enough time to
+
+00:46:09.460 --> 00:46:11.370
+figure out what people want.
+
+00:46:11.370 --> 00:46:13.480
+You often will have missed
+the boat by then.
+
+00:46:14.550 --> 00:46:17.590
+and, and then, of course,
+there&#39;s always the risk of,
+
+00:46:17.590 --> 00:46:21.050
+of doing something that&#39;s,
+that&#39;s not that,
+
+00:46:21.050 --> 00:46:22.120
+significant or meaningful.
+
+00:46:22.120 --> 00:46:25.600
+So, you know?
+You could say a track in
+
+00:46:25.600 --> 00:46:28.740
+law school is a low risk
+track from one
+
+00:46:28.740 --> 00:46:31.430
+perspective, it may still be
+a very high risk track in
+
+00:46:31.430 --> 00:46:34.040
+the sense that maybe your
+not, have a high risk of
+
+00:46:34.040 --> 00:46:35.950
+not doing something
+meaningful with your life.
+
+00:46:35.950 --> 00:46:38.800
+So, we have to think about
+risk in these,
+
+00:46:38.800 --> 00:46:39.980
+very complicated way.
+
+00:46:39.980 --> 00:46:42.472
+I think risk is for a very
+complicated concept.
+
+00:46:42.472 --> 00:46:44.320
+Yes.
+I was just checking for
+
+00:46:44.320 --> 00:46:45.690
+the last advantage, but then
+doesn&#39;t that
+
+00:46:45.690 --> 00:46:47.920
+imply that there&#39;s already
+competition to begin with
+
+00:46:47.920 --> 00:46:51.040
+between the chess pieces on
+the chess board?
+
+00:46:51.040 --> 00:46:53.900
+&gt;&gt; Yeah, so, there&#39;s always
+this terminology thing,
+
+00:46:53.900 --> 00:46:58.190
+so I would say that there
+are categories in
+
+00:46:58.190 --> 00:47:00.840
+which people sort of are
+bundled together.
+
+00:47:00.840 --> 00:47:04.320
+I would say the monopoly
+businesses were in effect
+
+00:47:04.320 --> 00:47:07.580
+they really were a big first
+mover in some sense.
+
+00:47:07.580 --> 00:47:09.910
+You could say Google was not
+the first search engine.
+
+00:47:09.910 --> 00:47:12.062
+There were other search
+engines before, but
+
+00:47:12.062 --> 00:47:12.968
+on one dimension,
+
+00:47:12.968 --> 00:47:15.515
+they were dramatically
+better than everybody else,
+
+00:47:15.515 --> 00:47:17.381
+they were the first one with
+page rank,
+
+00:47:17.381 --> 00:47:19.650
+with sort of an automated
+approach.
+
+00:47:19.650 --> 00:47:22.890
+Facebook was not the first
+social networking site.
+
+00:47:22.890 --> 00:47:24.550
+My friend, Reed Hoffman,
+started one in 1997,
+
+00:47:24.550 --> 00:47:26.900
+and they called it Social
+Net.
+
+00:47:26.900 --> 00:47:28.170
+So they already had the
+name,
+
+00:47:28.170 --> 00:47:31.070
+Social networking, in the
+name of their company,
+
+00:47:31.070 --> 00:47:33.180
+seven years before Facebook.
+
+00:47:33.180 --> 00:47:34.990
+Their idea was that it was
+gonna be this virtual
+
+00:47:34.990 --> 00:47:37.440
+cyberspace, where I&#39;d be a
+dog and you&#39;d be a cat.
+
+00:47:37.440 --> 00:47:39.270
+And we&#39;d have all these
+different rules about how
+
+00:47:39.270 --> 00:47:40.735
+we&#39;d interact with each
+other.
+
+00:47:40.735 --> 00:47:42.310
+&gt;&gt; In this virtual alternate
+reality.
+
+00:47:42.310 --> 00:47:44.770
+Facebook was the first one
+to get real identity.
+
+00:47:44.770 --> 00:47:46.910
+So, it was, so I would say,
+
+00:47:46.910 --> 00:47:49.440
+I hope Facebook will be the
+last social networking site,
+
+00:47:49.440 --> 00:47:51.780
+it was the first one in a
+very important dimension.
+
+00:47:51.780 --> 00:47:53.760
+People often would not think
+of it as the first because
+
+00:47:53.760 --> 00:47:55.680
+they, sort of, lump all
+these things together.
+
+00:47:56.780 --> 00:47:57.715
+&gt;&gt; I have one more question.
+
+00:47:57.715 --> 00:47:59.650
+&gt;&gt; Okay, one question, let&#39;s
+take one here.
+
+00:47:59.650 --> 00:48:02.390
+&gt;&gt; If you&#39;re theoretically
+someone who,
+
+00:48:02.390 --> 00:48:05.050
+worked at Golden College and
+left there after six months,
+
+00:48:05.050 --> 00:48:11.180
+and is now going to do
+science at Standford.
+
+00:48:11.180 --> 00:48:12.770
+How would you recommend
+rethinking
+
+00:48:16.408 --> 00:48:20.140
+&gt;&gt; I don&#39;t have a great,
+
+00:48:20.140 --> 00:48:22.650
+I&#39;m not great at the
+psychotherapy stuff so
+
+00:48:22.650 --> 00:48:27.020
+I don&#39;t quite know how to
+&gt;&gt; solve this.
+
+00:48:27.020 --> 00:48:30.300
+There are these very odd
+studies they&#39;ve
+
+00:48:30.300 --> 00:48:32.530
+done on people who go to
+business school.
+
+00:48:32.530 --> 00:48:34.680
+There&#39;s one they&#39;ve done at
+Harvard Business school
+
+00:48:34.680 --> 00:48:38.860
+where it&#39;s sort of the
+anti-Asperger, personality.
+
+00:48:38.860 --> 00:48:40.910
+We have people who are super
+extroverted,
+
+00:48:40.910 --> 00:48:44.290
+generally have low
+convictions, few ideas.
+
+00:48:44.290 --> 00:48:45.970
+And you have sort of a
+hothouse environment.
+
+00:48:45.970 --> 00:48:48.200
+You put all these people in
+for two years.
+
+00:48:48.200 --> 00:48:51.110
+And at the end of it, they
+systematically end up,
+
+00:48:51.110 --> 00:48:53.040
+the largest cohort
+systematically ends up
+
+00:48:53.040 --> 00:48:53.770
+doing the wrong thing.
+
+00:48:53.770 --> 00:48:55.700
+They tried to catch the last
+wave.
+
+00:48:55.700 --> 00:48:58.120
+You know in 1989 everyone in
+Harvard tried to work for
+
+00:48:58.120 --> 00:48:59.150
+Mike Milken, it was one or
+
+00:48:59.150 --> 00:49:00.880
+two years before he went to
+jail for
+
+00:49:00.880 --> 00:49:02.150
+all the junk bond stuff.
+
+00:49:02.150 --> 00:49:04.040
+They were never interested
+in Silicon Valley or
+
+00:49:04.040 --> 00:49:06.810
+tech, except for &#39;99 and
+2000 when they timed the dot
+
+00:49:06.810 --> 00:49:08.660
+com bubble peaking
+perfectly.
+
+00:49:09.830 --> 00:49:12.890
+They did, and then &#39;05 to
+&#39;07 was housing.
+
+00:49:12.890 --> 00:49:14.770
+Private equity, stuff like
+this.
+
+00:49:14.770 --> 00:49:18.640
+I do think this tendency for
+
+00:49:18.640 --> 00:49:23.190
+us to see competition as
+validation is very deep.
+
+00:49:23.190 --> 00:49:26.170
+I don&#39;t think there&#39;s any
+sort of
+
+00:49:26.170 --> 00:49:29.800
+easy psychological formula
+to avoid it.
+
+00:49:29.800 --> 00:49:33.210
+I don&#39;t know what sort of
+therapy to recommend.
+
+00:49:34.800 --> 00:49:36.260
+&gt;&gt; But my first.
+
+00:49:36.260 --> 00:49:37.609
+My first starting point,
+
+00:49:37.609 --> 00:49:40.061
+which is only like maybe ten
+percent of the way,
+
+00:49:40.061 --> 00:49:42.740
+is to never under estimate
+how big a problem it is.
+
+00:49:42.740 --> 00:49:43.480
+We always think this is
+
+00:49:43.480 --> 00:49:45.080
+something that afflicts
+other people.
+
+00:49:45.080 --> 00:49:45.580
+It&#39;s easy for
+
+00:49:45.580 --> 00:49:47.490
+me to point to people in
+business schools or people
+
+00:49:47.490 --> 00:49:50.500
+at Harvard or people on Wall
+Street, I think it actually
+
+00:49:50.500 --> 00:49:52.900
+does afflict all of us to a
+very profound degree.
+
+00:49:52.900 --> 00:49:54.150
+We always think of
+advertising as
+
+00:49:54.150 --> 00:49:55.960
+things that work on other
+people.
+
+00:49:55.960 --> 00:49:57.780
+How, who are all these
+stupid people who fall for
+
+00:49:57.780 --> 00:49:58.710
+all those ads on tv,
+
+00:49:58.710 --> 00:50:01.370
+they obviously work to some
+extent and
+
+00:50:01.370 --> 00:50:03.340
+they work, to a disturbing
+extant on all of us.
+
+00:50:03.340 --> 00:50:05.210
+And it&#39;s something we, we
+all should work to overcome.
+
+00:50:09.850 --> 00:50:12.460
+Thank you very much.
+

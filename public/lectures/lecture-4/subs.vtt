@@ -1,0 +1,4340 @@
+WEBVTT
+
+00:00:04.773 --> 00:00:06.318
+&gt;&gt; Thanks for having me.
+
+00:00:06.318 --> 00:00:10.993
+So today I am going to be
+talking about how to go
+
+00:00:10.993 --> 00:00:14.740
+from zero users to many
+users.
+
+00:00:14.740 --> 00:00:17.760
+I&#39;m just assuming that you
+have many great ideas in
+
+00:00:17.760 --> 00:00:19.376
+your head at this moment and
+
+00:00:19.376 --> 00:00:22.550
+you&#39;re kind of thinking
+about what the next step is.
+
+00:00:23.680 --> 00:00:26.620
+So I wrote this up early
+this morning,
+
+00:00:26.620 --> 00:00:29.880
+and a lot of this is based
+off of mistakes I&#39;ve
+
+00:00:29.880 --> 00:00:31.170
+made in the past.
+
+00:00:31.170 --> 00:00:35.370
+So as Sam mentioned, I went
+through YC in 2010 and
+
+00:00:35.370 --> 00:00:38.740
+spent a number, three years
+basically, going back and
+
+00:00:38.740 --> 00:00:40.290
+forth pivoting a bunch of
+times,
+
+00:00:40.290 --> 00:00:42.200
+starting over a bunch of
+times.
+
+00:00:42.200 --> 00:00:45.560
+And have learned a lot about
+what not to do if I
+
+00:00:45.560 --> 00:00:49.340
+were to start another
+startup after Homejoy if
+
+00:00:49.340 --> 00:00:50.690
+that should ever happen.
+
+00:00:50.690 --> 00:00:52.994
+And so a lot of it comes
+from failure and
+
+00:00:52.994 --> 00:00:56.379
+just telling you about what
+you shouldn&#39;t do and kind of
+
+00:00:56.379 --> 00:00:59.117
+making generalizations of
+what you should do
+
+00:00:59.117 --> 00:00:59.852
+from that.
+
+00:00:59.852 --> 00:01:01.788
+So just a reminder that this
+is,
+
+00:01:01.788 --> 00:01:04.728
+sort of, you know, all
+advice you should take as
+
+00:01:04.728 --> 00:01:07.456
+directionally good guidance,
+like if all,
+
+00:01:07.456 --> 00:01:10.569
+like it&#39;s, it&#39;s kind of in
+the right direction.
+
+00:01:10.569 --> 00:01:12.541
+But every business is
+different,
+
+00:01:12.541 --> 00:01:14.853
+you are different, I&#39;m not
+you, and so
+
+00:01:14.853 --> 00:01:17.920
+just take everything with,
+you know, that in mind.
+
+00:01:19.050 --> 00:01:22.060
+So since this is a college
+course, you know,
+
+00:01:22.060 --> 00:01:25.670
+when you start a startup you
+should basically have lots
+
+00:01:25.670 --> 00:01:29.120
+of time on your hands to
+concentrate on the start up.
+
+00:01:29.120 --> 00:01:30.639
+And I&#39;m not saying you
+should you know,
+
+00:01:30.639 --> 00:01:32.031
+quit school or you should
+quit work.
+
+00:01:32.031 --> 00:01:35.485
+What I&#39;m saying is you
+should have a lot of time,
+
+00:01:35.485 --> 00:01:37.346
+compressed time in a row.
+
+00:01:37.346 --> 00:01:39.258
+Really dedicated to
+immersing yourself in
+
+00:01:39.258 --> 00:01:41.487
+the idea and developing
+problems, or developing
+
+00:01:41.487 --> 00:01:44.860
+the solutions to the problem
+you&#39;re trying to solve.
+
+00:01:44.860 --> 00:01:46.910
+So for example if you&#39;re in
+school, you know,
+
+00:01:46.910 --> 00:01:47.980
+it&#39;s better to have one or
+
+00:01:47.980 --> 00:01:51.520
+two days straight of per
+week on working on your idea
+
+00:01:51.520 --> 00:01:55.640
+versus you know, spending
+two hours here and there
+
+00:01:55.640 --> 00:01:57.250
+every single day during the
+course of the week.
+
+00:01:57.250 --> 00:02:01.410
+It&#39;s sort of like, I think
+this is an engineering class
+
+00:02:01.410 --> 00:02:02.269
+so it&#39;s sort of like coding.
+
+00:02:02.269 --> 00:02:04.050
+Like there&#39;s a lot of
+context switching and
+
+00:02:04.050 --> 00:02:07.920
+just being able to really
+focus, really, really focus
+
+00:02:07.920 --> 00:02:10.390
+and immerse yourself is very
+very important.
+
+00:02:10.390 --> 00:02:13.460
+So, like I said, I sort of
+first,
+
+00:02:13.460 --> 00:02:15.720
+when I wrote this up was
+thinking what
+
+00:02:18.220 --> 00:02:22.520
+are things that some people
+do or most people do that is
+
+00:02:22.520 --> 00:02:27.070
+not the correct way to do a
+startup and sort of
+
+00:02:27.070 --> 00:02:30.560
+the novice approach I think
+is what you see up here.
+
+00:02:30.560 --> 00:02:32.630
+Which is, you know, I have
+this really great idea.
+
+00:02:32.630 --> 00:02:34.500
+I don&#39;t wanna tell anyone
+about it.
+
+00:02:34.500 --> 00:02:35.986
+I&#39;m gonna build, build,
+build, build.
+
+00:02:35.986 --> 00:02:37.470
+I&#39;m gonna be telling one or
+
+00:02:37.470 --> 00:02:40.100
+two people and then I&#39;m
+gonna launch it on,
+
+00:02:40.100 --> 00:02:42.710
+you know, I&#39;m gonna launch
+it on TechCrunch or some,
+
+00:02:42.710 --> 00:02:45.760
+somewhere like that, then
+I&#39;m gonna get lots of users.
+
+00:02:45.760 --> 00:02:47.520
+But what really happens is
+because you did not
+
+00:02:47.520 --> 00:02:49.640
+get a lot of that feedback
+and stuff like that,
+
+00:02:49.640 --> 00:02:52.260
+you know maybe you get a lot
+of people to your site,
+
+00:02:52.260 --> 00:02:54.560
+but no one sticks around
+because you didn&#39;t get
+
+00:02:54.560 --> 00:02:56.110
+that initial user feedback.
+
+00:02:56.110 --> 00:02:57.230
+And then, you know, if you,
+
+00:02:57.230 --> 00:02:59.670
+you know, if lucky enough
+you have some money in
+
+00:02:59.670 --> 00:03:02.490
+the bank you might go buy
+some users but sort of,
+
+00:03:02.490 --> 00:03:05.780
+it just whittles out over
+time and you just give up.
+
+00:03:05.780 --> 00:03:07.503
+This is sort of a vicious
+cycle and
+
+00:03:07.503 --> 00:03:09.596
+you know, I actually did
+this once, and
+
+00:03:09.596 --> 00:03:11.011
+I did this while I was in
+YC,
+
+00:03:11.011 --> 00:03:13.595
+and that was you know like,
+when I went through YC I
+
+00:03:13.595 --> 00:03:15.257
+didn&#39;t even launch a
+product,
+
+00:03:15.257 --> 00:03:18.150
+like I didn&#39;t even launch in
+TechCrunch which is a thing
+
+00:03:18.150 --> 00:03:19.600
+you should definitely do.
+
+00:03:21.130 --> 00:03:22.950
+And so you don&#39;t want to
+ever get into that
+
+00:03:22.950 --> 00:03:26.780
+cycle because you&#39;ll just
+end up with nothing good.
+
+00:03:26.780 --> 00:03:32.120
+So, the next thing is you
+know, you have an idea and
+
+00:03:32.120 --> 00:03:38.080
+you should really think
+about what the idea
+
+00:03:38.080 --> 00:03:39.060
+is really solving.
+
+00:03:39.060 --> 00:03:40.720
+Like what is the actual
+problem?
+
+00:03:40.720 --> 00:03:42.480
+And so their problem
+statements you should be
+
+00:03:42.480 --> 00:03:44.480
+able to describe it in one
+sentence.
+
+00:03:44.480 --> 00:03:45.610
+And then you should think,
+
+00:03:45.610 --> 00:03:47.200
+how does that problem relate
+to me?
+
+00:03:47.200 --> 00:03:49.420
+Am I really passionate about
+that problem?
+
+00:03:49.420 --> 00:03:51.720
+And then you should think,
+okay, it&#39;s a problem I have,
+
+00:03:51.720 --> 00:03:53.420
+is it a problem that other
+people have?
+
+00:03:53.420 --> 00:03:56.805
+And sort of verify that by,
+you know, just going out and
+
+00:03:56.805 --> 00:03:58.040
+talking to people.
+
+00:03:58.040 --> 00:04:01.674
+One of the biggest mistakes
+I&#39;ve made is you know,
+
+00:04:01.674 --> 00:04:04.210
+we started, my co-founder
+and I,
+
+00:04:04.210 --> 00:04:06.322
+who is also my brother, he
+and
+
+00:04:06.322 --> 00:04:10.653
+I started a company called
+Pathjoy in 2009, 2010.
+
+00:04:10.653 --> 00:04:13.360
+And our goal was basically
+to you know,
+
+00:04:13.360 --> 00:04:16.971
+we had two goals in mind one
+is to create a company that
+
+00:04:16.971 --> 00:04:20.584
+made people really happy,
+and create a company that
+
+00:04:20.584 --> 00:04:23.784
+was very, very impactful, so
+a good proxy for
+
+00:04:23.784 --> 00:04:26.847
+that is to just create a
+huge, big company.
+
+00:04:26.847 --> 00:04:28.589
+And so we thought, okay,
+
+00:04:28.589 --> 00:04:32.075
+here&#39;s sort of what we&#39;re
+gonna solve is you know,
+
+00:04:32.075 --> 00:04:35.720
+make people happier, and we
+first went to the notion of
+
+00:04:35.720 --> 00:04:38.590
+who are the people that made
+people happy?
+
+00:04:38.590 --> 00:04:39.438
+And you know,
+
+00:04:39.438 --> 00:04:42.500
+we came up with life coaches
+and therapists.
+
+00:04:42.500 --> 00:04:43.790
+So it seemed kind of obvious
+to
+
+00:04:43.790 --> 00:04:46.920
+just create a platform for
+life coaches and therapists.
+
+00:04:46.920 --> 00:04:49.380
+And what happened as a
+result though was that you
+
+00:04:49.380 --> 00:04:53.180
+know, when we started using
+the product ourselves we,
+
+00:04:53.180 --> 00:04:55.560
+you know, we&#39;re not cynical
+people by any means,
+
+00:04:55.560 --> 00:04:57.450
+but life coaches and
+therapists are just not
+
+00:04:57.450 --> 00:04:59.890
+people we would use
+ourselves.
+
+00:04:59.890 --> 00:05:01.790
+It was sort of useless to
+us.
+
+00:05:01.790 --> 00:05:03.470
+And so, it wasn&#39;t even a
+problem we had, and
+
+00:05:03.470 --> 00:05:04.420
+certainly wasn&#39;t something
+we
+
+00:05:04.420 --> 00:05:06.360
+were super passionate about
+building out.
+
+00:05:06.360 --> 00:05:07.400
+Yet we spent, you know,
+
+00:05:07.400 --> 00:05:09.470
+almost a year trying to do
+this.
+
+00:05:09.470 --> 00:05:11.670
+And so, if you just start,
+you know,
+
+00:05:11.670 --> 00:05:14.470
+from tegel zero, just like
+think about this before you
+
+00:05:14.470 --> 00:05:15.760
+even build any product.
+
+00:05:15.760 --> 00:05:17.300
+I think you can save
+yourself a lot of
+
+00:05:17.300 --> 00:05:18.210
+headache down the road
+
+00:05:19.710 --> 00:05:21.167
+from doing something you
+don&#39;t wanna do.
+
+00:05:22.630 --> 00:05:25.510
+So, say you have a problem
+and you&#39;re able to state it.
+
+00:05:27.340 --> 00:05:29.520
+Where do you start?
+
+00:05:29.520 --> 00:05:31.609
+Like, how do you think of
+solutions?
+
+00:05:32.870 --> 00:05:35.957
+So the first thing you
+should do is think of
+
+00:05:35.957 --> 00:05:40.920
+what the industry that you
+are getting yourself into.
+
+00:05:40.920 --> 00:05:43.070
+Whether it&#39;s big, whether
+it&#39;s huge,
+
+00:05:43.070 --> 00:05:45.470
+you should really immerse
+yourself in that industry.
+
+00:05:45.470 --> 00:05:47.710
+There&#39;s a number of ways to
+do this.
+
+00:05:47.710 --> 00:05:50.790
+One is, you know, to really
+become a cog in
+
+00:05:50.790 --> 00:05:52.910
+that industry for a little
+bit.
+
+00:05:52.910 --> 00:05:55.000
+And so it might seem a
+little counter-intuitive to
+
+00:05:55.000 --> 00:05:57.270
+do this, because most people
+say, you know,
+
+00:05:57.270 --> 00:05:59.330
+if you really wanna disrupt
+an industry, you
+
+00:05:59.330 --> 00:06:02.330
+should really not be this,
+you know, player in it.
+
+00:06:02.330 --> 00:06:05.280
+You should, you know,
+someone who spent 20 or
+
+00:06:05.280 --> 00:06:08.770
+30 years in an industry
+probably you know, is set in
+
+00:06:08.770 --> 00:06:11.990
+their ways and is just used
+to the way things work and
+
+00:06:11.990 --> 00:06:14.090
+really can&#39;t think about
+what the inefficiencies are
+
+00:06:14.090 --> 00:06:17.220
+or the things that you can,
+quote, unquote, disrupt.
+
+00:06:17.220 --> 00:06:21.060
+But, however as a noob like
+coming into the industry,
+
+00:06:21.060 --> 00:06:23.350
+you really should take one
+or
+
+00:06:23.350 --> 00:06:26.170
+two months just really
+understanding what all
+
+00:06:26.170 --> 00:06:28.880
+the little bits and pieces
+of the industry are, and how
+
+00:06:28.880 --> 00:06:31.790
+it works because it&#39;s when
+you get into the details,
+
+00:06:31.790 --> 00:06:34.270
+that&#39;s when you start seeing
+things you can exploit.
+
+00:06:34.270 --> 00:06:36.710
+Things you can really,
+things that are really,
+
+00:06:36.710 --> 00:06:39.450
+really inefficient and
+provide you know huge
+
+00:06:39.450 --> 00:06:42.590
+overhead costs that you can
+cut down.
+
+00:06:42.590 --> 00:06:44.740
+And, so an example of this
+is, you know,
+
+00:06:44.740 --> 00:06:47.560
+when we start Homejoy and
+we, we decided to go,
+
+00:06:47.560 --> 00:06:50.670
+we started with the cleaning
+industry and when we
+
+00:06:50.670 --> 00:06:54.180
+started, you know, we just
+were cleaners ourselves.
+
+00:06:54.180 --> 00:06:55.800
+And we started to clean
+houses and
+
+00:06:55.800 --> 00:06:58.970
+we found out really quickly
+was that
+
+00:06:58.970 --> 00:07:00.450
+we were very bad cleaners.
+
+00:07:01.790 --> 00:07:04.380
+And so as a result, you
+know, we said, okay, we
+
+00:07:04.380 --> 00:07:08.298
+got to learn more about this
+and we went to buy books.
+
+00:07:08.298 --> 00:07:12.790
+And we bought books about
+how to clean,
+
+00:07:12.790 --> 00:07:14.320
+which helped maybe a little
+bit,
+
+00:07:14.320 --> 00:07:17.180
+we learned a little bit more
+about cleaning supplies.
+
+00:07:17.180 --> 00:07:20.520
+But it&#39;s sort of like
+basketball you know,
+
+00:07:20.520 --> 00:07:21.220
+you can watch and you can
+learn,
+
+00:07:21.220 --> 00:07:23.740
+or you can watch and you can
+read about basketball, but
+
+00:07:23.740 --> 00:07:24.830
+you&#39;re not gonna get any
+better at
+
+00:07:24.830 --> 00:07:28.510
+it if you don&#39;t actually you
+know, train and you know,
+
+00:07:28.510 --> 00:07:30.826
+throw a basketball around
+and throw it into the hoop.
+
+00:07:30.826 --> 00:07:35.740
+And so we decided one of us
+basically had to go and
+
+00:07:35.740 --> 00:07:36.570
+learn how to clean.
+
+00:07:36.570 --> 00:07:37.395
+And so we went or
+
+00:07:37.395 --> 00:07:40.314
+get trained by you know, a
+professional, some sort of
+
+00:07:40.314 --> 00:07:43.578
+a professional training
+programs that existed.
+
+00:07:43.578 --> 00:07:46.230
+And that meant, we actually
+went to get a job at
+
+00:07:46.230 --> 00:07:47.319
+a cleaning company itself.
+
+00:07:48.730 --> 00:07:51.680
+And the cool thing was that
+you know, I learned how to
+
+00:07:51.680 --> 00:07:55.460
+clean from you know,
+training for the few weeks
+
+00:07:55.460 --> 00:07:57.690
+that I was there at the
+cleaning company.
+
+00:07:57.690 --> 00:08:01.113
+But the even better thing
+was that I learned a lot
+
+00:08:01.113 --> 00:08:04.289
+about how a local cleaning
+company worked.
+
+00:08:04.289 --> 00:08:07.489
+And in that sense you know,
+I learned why a local
+
+00:08:07.489 --> 00:08:11.170
+cleaning company could not
+become huge like Homejoy is
+
+00:08:11.170 --> 00:08:14.450
+today and that&#39;s because
+they have, you know,
+
+00:08:14.450 --> 00:08:16.531
+they&#39;re pretty old school
+and
+
+00:08:16.531 --> 00:08:19.892
+they have a lot of things,
+just from anywhere from
+
+00:08:19.892 --> 00:08:23.094
+booking the customer to
+optimizing the cleaner
+
+00:08:23.094 --> 00:08:26.245
+schedules was just done very
+inefficiently.
+
+00:08:26.245 --> 00:08:30.737
+And so there is, so, if you
+are in a situation like mine
+
+00:08:30.737 --> 00:08:34.937
+where you know, there&#39;s a
+service element to it,
+
+00:08:34.937 --> 00:08:38.900
+you should go and do that
+service yourself.
+
+00:08:38.900 --> 00:08:41.510
+You know, if your thing is
+related to restaurants you
+
+00:08:41.510 --> 00:08:44.640
+should become a waiter it&#39;s
+really to you know,
+
+00:08:44.640 --> 00:08:46.790
+if it&#39;s painting you know
+become a painter kind of
+
+00:08:46.790 --> 00:08:50.960
+get in the shoes of your
+customers from all angles of
+
+00:08:50.960 --> 00:08:51.850
+what you&#39;re trying to build.
+
+00:08:53.520 --> 00:08:55.910
+The other thing is there&#39;s
+also levels of obsessiveness
+
+00:08:55.910 --> 00:08:58.340
+that you should have with it
+too as well.
+
+00:08:58.340 --> 00:09:00.900
+You should be so obsessed to
+know what everybody in
+
+00:09:00.900 --> 00:09:02.190
+the space is doing.
+
+00:09:02.190 --> 00:09:05.290
+And it&#39;s things like, you
+know,
+
+00:09:05.290 --> 00:09:07.660
+running a list of all the
+potential competitors or
+
+00:09:07.660 --> 00:09:10.990
+similar types of companies,
+Google searching it, and
+
+00:09:10.990 --> 00:09:12.290
+clicking on every single
+link and
+
+00:09:12.290 --> 00:09:14.860
+reading every single article
+from like,
+
+00:09:14.860 --> 00:09:17.660
+search result 1 to 1,000.
+
+00:09:17.660 --> 00:09:21.950
+You know, I found all
+potential competitors,
+
+00:09:21.950 --> 00:09:22.590
+big and small, and
+
+00:09:22.590 --> 00:09:24.610
+if they&#39;re public, I would
+go read their S1&#39;s,
+
+00:09:24.610 --> 00:09:27.570
+I would go read all their
+quarterly financials,
+
+00:09:27.570 --> 00:09:30.000
+I would, you know, sit on
+the earnings calls.
+
+00:09:30.000 --> 00:09:32.730
+There&#39;s, you know, most of
+these you don&#39;t get much out
+
+00:09:32.730 --> 00:09:35.390
+of it, but there&#39;s just
+these golden nuggets that
+
+00:09:35.390 --> 00:09:37.440
+you&#39;ll find once in a while
+and you can&#39;t,
+
+00:09:37.440 --> 00:09:38.600
+you won&#39;t be able to find
+that unless you
+
+00:09:38.600 --> 00:09:40.290
+actually go through the work
+of,
+
+00:09:40.290 --> 00:09:42.870
+you know, getting all that
+information in your head.
+
+00:09:45.080 --> 00:09:48.000
+So yeah, you should become
+an expert in the industry.
+
+00:09:48.000 --> 00:09:50.120
+There should be no doubt
+when you&#39;re building this
+
+00:09:50.120 --> 00:09:52.550
+that you are the expert so
+that people will trust you
+
+00:09:52.550 --> 00:09:53.680
+when you&#39;re building this
+product.
+
+00:09:54.720 --> 00:09:55.500
+The second thing is
+
+00:09:55.500 --> 00:09:57.340
+identifying customer
+segments.
+
+00:09:57.340 --> 00:10:00.610
+So you know, ideally at the
+end of the day,
+
+00:10:00.610 --> 00:10:02.670
+in the end game, you built a
+product or
+
+00:10:02.670 --> 00:10:05.434
+a business that everybody in
+the world is using.
+
+00:10:05.434 --> 00:10:07.910
+But realistically in the
+beginning you kind of
+
+00:10:07.910 --> 00:10:12.160
+want to corner off a certain
+part of the customer base so
+
+00:10:12.160 --> 00:10:14.321
+that you can really optimize
+for them, and that&#39;s just
+
+00:10:14.321 --> 00:10:16.860
+you know, it&#39;s just about a
+matter of focus and a matter
+
+00:10:16.860 --> 00:10:21.860
+of you know, just catering
+towards whether it&#39;s
+
+00:10:21.860 --> 00:10:25.205
+teenage girls or whether
+it&#39;s you know, soccer moms.
+
+00:10:25.205 --> 00:10:27.150
+You would just be able to
+you know,
+
+00:10:27.150 --> 00:10:29.609
+like I said focus a lot on
+their needs.
+
+00:10:30.830 --> 00:10:35.640
+And, lastly before before
+you even create the product,
+
+00:10:35.640 --> 00:10:40.230
+before you put code down,
+you should really storyboard
+
+00:10:40.230 --> 00:10:43.490
+out the ideal user
+experience of how you&#39;re,
+
+00:10:43.490 --> 00:10:45.800
+how you&#39;re gonna solve the
+problem.
+
+00:10:45.800 --> 00:10:47.820
+And that, and that&#39;s not
+just meaning, you know,
+
+00:10:47.820 --> 00:10:50.310
+the web site itself, it&#39;s
+meaning, you know,
+
+00:10:50.310 --> 00:10:53.210
+how does the customer find
+out about you.
+
+00:10:53.210 --> 00:10:54.910
+You know, whether it&#39;s, you
+know,
+
+00:10:54.910 --> 00:10:56.620
+it could be through an ad or
+through word of mouth or
+
+00:10:56.620 --> 00:10:58.590
+whatever, so they find out
+about you.
+
+00:10:58.590 --> 00:11:01.760
+They come to your site, they
+learn more about you, what&#39;s
+
+00:11:01.760 --> 00:11:04.670
+all that text say, what are
+you communicating to them.
+
+00:11:04.670 --> 00:11:06.340
+So the actual, when they
+sign up for the product or
+
+00:11:06.340 --> 00:11:07.790
+they purchase the service,
+
+00:11:07.790 --> 00:11:09.430
+what are they actually
+getting,
+
+00:11:09.430 --> 00:11:11.420
+to after they finish using
+the product or
+
+00:11:11.420 --> 00:11:13.800
+after they finish using the
+service.
+
+00:11:13.800 --> 00:11:15.100
+What&#39;s you know, there&#39;s
+sort of
+
+00:11:15.100 --> 00:11:17.525
+like an evaluation period,
+like they leave a review, or
+
+00:11:17.525 --> 00:11:21.660
+they leave comments or
+whatnot, and just being able
+
+00:11:21.660 --> 00:11:26.720
+to go through that whole
+flow and visualize in your
+
+00:11:26.720 --> 00:11:29.628
+head, like just envision
+what the perfect user
+
+00:11:29.628 --> 00:11:32.370
+experience is and then put
+it down on paper and
+
+00:11:32.370 --> 00:11:35.008
+then put it into code, and
+then start from there.
+
+00:11:35.008 --> 00:11:40.530
+So you have all these ideas
+in your head now,
+
+00:11:40.530 --> 00:11:43.320
+you kind of know what the
+core customer base you
+
+00:11:43.320 --> 00:11:45.210
+want to go after is.
+
+00:11:45.210 --> 00:11:47.354
+And you know like everything
+about the industry,
+
+00:11:47.354 --> 00:11:48.810
+what do you do next?
+
+00:11:48.810 --> 00:11:50.650
+So you start building your
+products.
+
+00:11:51.800 --> 00:11:54.160
+And you know, the common
+phrase that most people
+
+00:11:54.160 --> 00:11:56.652
+use these days is you should
+build a minimum viable,
+
+00:11:56.652 --> 00:11:58.250
+the MVP, minimum viable
+product.
+
+00:11:58.250 --> 00:11:59.500
+And I know I&#39;m viable
+because I
+
+00:11:59.500 --> 00:12:01.950
+think a lot of people skip
+that part,
+
+00:12:01.950 --> 00:12:05.200
+and they just go out with a
+feature and then the whole
+
+00:12:05.200 --> 00:12:09.121
+user experience in the very
+beginning like is flat.
+
+00:12:09.121 --> 00:12:13.190
+So the minimum viable
+product pretty much
+
+00:12:13.190 --> 00:12:14.189
+means you know,
+
+00:12:14.189 --> 00:12:18.340
+what is the smallest feature
+set that you should build
+
+00:12:19.350 --> 00:12:21.370
+to solve the problem that
+you&#39;re trying to solve.
+
+00:12:22.450 --> 00:12:24.818
+And I think if you go
+through the whole storyboard
+
+00:12:24.818 --> 00:12:27.549
+experience, you can kind of
+figure that very quickly.
+
+00:12:28.570 --> 00:12:31.050
+But again you have to be
+talking to users right,
+
+00:12:31.050 --> 00:12:32.724
+potential users, you have to
+be
+
+00:12:32.724 --> 00:12:35.266
+seeing what exists out there
+already and what you
+
+00:12:35.266 --> 00:12:38.025
+should be building to solve
+their immediate needs.
+
+00:12:38.025 --> 00:12:42.305
+And the second thing is,
+before you put
+
+00:12:42.305 --> 00:12:45.260
+in things in front of a user
+you should really have your
+
+00:12:45.260 --> 00:12:47.790
+simple product positioning
+down.
+
+00:12:47.790 --> 00:12:50.400
+And what I mean by that is
+that you know,
+
+00:12:50.400 --> 00:12:52.080
+you should be able to go to
+you know a person, and
+
+00:12:52.080 --> 00:12:56.490
+you should be able to say,
+hey you know this does x, y,
+
+00:12:56.490 --> 00:12:58.030
+and z within a sentence.
+
+00:12:58.030 --> 00:13:02.860
+And so for example you know,
+at Homejoy we started off
+
+00:13:02.860 --> 00:13:04.790
+with something actually
+super complicated.
+
+00:13:04.790 --> 00:13:07.660
+We&#39;re like we&#39;re an online
+platform for home services.
+
+00:13:07.660 --> 00:13:10.465
+We started with cleaning and
+you can choose you know,
+
+00:13:10.465 --> 00:13:12.640
+blah, and it just went off
+for
+
+00:13:12.640 --> 00:13:13.770
+paragraphs and paragraphs.
+
+00:13:15.170 --> 00:13:16.650
+We were present and we want
+to you
+
+00:13:16.650 --> 00:13:18.400
+know potential users to come
+onto our platform.
+
+00:13:18.400 --> 00:13:21.675
+They just get kinda get
+bored after that first
+
+00:13:21.675 --> 00:13:23.810
+few sentences.
+
+00:13:23.810 --> 00:13:28.010
+And so what we found out was
+that we really need this one
+
+00:13:28.010 --> 00:13:30.460
+liner, the one liner is very
+important an it kinda
+
+00:13:30.460 --> 00:13:33.208
+describes the functional
+benefit of what you do,
+
+00:13:33.208 --> 00:13:36.250
+you know, in the future when
+your trying to build a brand
+
+00:13:36.250 --> 00:13:38.770
+you should, you know, be
+able to describe, you know,
+
+00:13:38.770 --> 00:13:40.640
+what are emotional benefits
+and stuff like that.
+
+00:13:40.640 --> 00:13:42.680
+But, you&#39;re starting with
+new users, you really need
+
+00:13:42.680 --> 00:13:44.210
+to tell them what they&#39;re
+gonna get out of it.
+
+00:13:44.210 --> 00:13:46.930
+So we simply, after we
+changed our positioning to
+
+00:13:46.930 --> 00:13:47.975
+get your place clean for
+
+00:13:47.975 --> 00:13:52.090
+$20 an hour, then everyone
+got it, and we&#39;re able to
+
+00:13:52.090 --> 00:13:55.860
+get you know users to, users
+in the door that way.
+
+00:13:55.860 --> 00:14:01.020
+So you have a MVP going out
+there now how
+
+00:14:01.020 --> 00:14:04.180
+do you get your first few
+users to start trying it.
+
+00:14:07.500 --> 00:14:09.790
+So your first few users
+should be you know,
+
+00:14:10.920 --> 00:14:11.570
+the obvious people,
+
+00:14:11.570 --> 00:14:13.580
+the people that you&#39;re
+connected with.
+
+00:14:13.580 --> 00:14:15.800
+You should use it obviously,
+you and
+
+00:14:15.800 --> 00:14:18.280
+your co-founder should be
+using it.
+
+00:14:18.280 --> 00:14:19.670
+Your mom and dad should be
+using it.
+
+00:14:19.670 --> 00:14:22.530
+Your friends and co-workers
+should be using it.
+
+00:14:22.530 --> 00:14:26.060
+Beyond that you wanna get
+more user feedback, and
+
+00:14:26.060 --> 00:14:29.890
+so you, and I&#39;ve listed here
+kind of some of
+
+00:14:29.890 --> 00:14:31.280
+the obvious places to go to.
+
+00:14:31.280 --> 00:14:34.200
+And depending on what you&#39;re
+selling, you know,
+
+00:14:34.200 --> 00:14:37.448
+you can take your pick of
+the, pick of the draw here.
+
+00:14:37.448 --> 00:14:39.872
+So online communities
+there&#39;s, you know,
+
+00:14:39.872 --> 00:14:42.179
+on Hacker News now, there&#39;s
+the show HM.
+
+00:14:42.179 --> 00:14:43.906
+That&#39;s a great place
+especially if
+
+00:14:43.906 --> 00:14:45.978
+you&#39;re building tools for
+developers and
+
+00:14:45.978 --> 00:14:46.906
+things like that.
+
+00:14:46.906 --> 00:14:48.435
+Local communities, so
+
+00:14:48.435 --> 00:14:51.035
+if you&#39;re building consumer
+product,
+
+00:14:51.035 --> 00:14:54.703
+you know, there are a lot of
+influential local community
+
+00:14:54.703 --> 00:14:58.525
+mailing lists, especially
+those for you know, parents,
+
+00:14:58.525 --> 00:15:02.276
+so those are places you
+might want to head up to.
+
+00:15:02.276 --> 00:15:03.297
+okay.
+
+00:15:03.297 --> 00:15:06.553
+So when you go to by the
+way, home joy,
+
+00:15:06.553 --> 00:15:09.000
+we actually tried all of
+these.
+
+00:15:09.000 --> 00:15:11.180
+So, we use it ourself, that
+was fine,
+
+00:15:11.180 --> 00:15:13.150
+I mean we were on a cleaner,
+so that was pretty easy.
+
+00:15:14.720 --> 00:15:16.660
+And then our parents lived
+in Milwaukee and
+
+00:15:16.660 --> 00:15:18.850
+so we were basically not
+used to that in the work.
+
+00:15:18.850 --> 00:15:20.570
+Friends and coworkers are
+kinda like in
+
+00:15:20.570 --> 00:15:22.540
+San Francisco and else
+where, so
+
+00:15:22.540 --> 00:15:24.520
+we didn&#39;t have too many of
+them use it.
+
+00:15:24.520 --> 00:15:27.500
+So we actually, if we ended
+up in a dead end
+
+00:15:27.500 --> 00:15:30.450
+of, not being about to
+convince many people to
+
+00:15:30.450 --> 00:15:32.200
+use this in the beginning.
+
+00:15:32.200 --> 00:15:34.240
+So what we did was because
+we are in Mountain View,
+
+00:15:34.240 --> 00:15:37.160
+some of you might know on
+Caster Street they have
+
+00:15:37.160 --> 00:15:39.180
+street fairs there during
+the summer time.
+
+00:15:40.180 --> 00:15:41.520
+And so we&#39;d go out and
+
+00:15:41.520 --> 00:15:42.730
+basically chase down people
+and
+
+00:15:42.730 --> 00:15:44.390
+try to get them to book a
+cleaning.
+
+00:15:44.390 --> 00:15:46.920
+And almost everyone would
+say no.
+
+00:15:46.920 --> 00:15:49.400
+Until one day, we just took
+advantage.
+
+00:15:49.400 --> 00:15:51.170
+You know, it was a very hot
+and humid day.
+
+00:15:52.250 --> 00:15:53.820
+And what we noticed was, you
+know, and
+
+00:15:53.820 --> 00:15:56.590
+this was like any, at any
+fair people you know,
+
+00:15:56.590 --> 00:15:58.480
+there might be arts and
+crafts and things like that.
+
+00:15:58.480 --> 00:16:00.240
+And random people will you
+know,
+
+00:16:00.240 --> 00:16:01.340
+gravitate towards that, but
+
+00:16:01.340 --> 00:16:03.780
+everybody gravitates towards
+the food and drink area.
+
+00:16:04.800 --> 00:16:06.430
+Especially on a hot day.
+
+00:16:06.430 --> 00:16:09.120
+So what we did was, okay, we
+figured we need to get in
+
+00:16:09.120 --> 00:16:11.200
+the middle of that, and by
+getting in the middle of
+
+00:16:11.200 --> 00:16:14.440
+that we just took water
+bottles, froze them and
+
+00:16:14.440 --> 00:16:18.490
+then we started handing out
+free bottles of water that
+
+00:16:18.490 --> 00:16:20.880
+were cold, and people just
+came to us.
+
+00:16:20.880 --> 00:16:24.000
+I think we just basically
+guilt tripped people
+
+00:16:24.000 --> 00:16:26.370
+into booking cleanings.
+
+00:16:26.370 --> 00:16:28.310
+But the proof in the pudding
+was that I figured most of
+
+00:16:28.310 --> 00:16:31.840
+those people were guilt
+tripped into doing it,
+
+00:16:31.840 --> 00:16:34.560
+but, when they went home
+they didn&#39;t cancel on us.
+
+00:16:34.560 --> 00:16:35.330
+Well, some of them did,
+
+00:16:35.330 --> 00:16:38.240
+but, a maj, majority of them
+did not.
+
+00:16:38.240 --> 00:16:40.660
+And, so, we felt, like, I, I
+thought, okay,
+
+00:16:40.660 --> 00:16:44.720
+that&#39;s good I gotta go clean
+their houses, but, at least,
+
+00:16:44.720 --> 00:16:47.488
+you know, there&#39;s something
+we&#39;re actually solving here.
+
+00:16:47.488 --> 00:16:53.470
+so, and, you know, I don&#39;t
+suggest,
+
+00:16:53.470 --> 00:16:57.090
+I think showing up the
+fares, or another start up
+
+00:16:57.090 --> 00:17:00.110
+in the last batch, I forgot
+their name right now,
+
+00:17:00.110 --> 00:17:03.990
+but they, they, they, they
+showed up,
+
+00:17:03.990 --> 00:17:07.092
+they, they were selling
+shipping type products.
+
+00:17:07.092 --> 00:17:09.150
+Or were trying to replace
+shipping products or
+
+00:17:09.150 --> 00:17:11.500
+the content and mailing
+stuff.
+
+00:17:11.500 --> 00:17:14.733
+And so they would show up to
+the U.S. Postal Office and
+
+00:17:14.733 --> 00:17:17.780
+find people who were trying
+to ship products.
+
+00:17:17.780 --> 00:17:18.980
+And just take them out of
+line.
+
+00:17:18.980 --> 00:17:20.220
+Try to get them to use your
+product.
+
+00:17:20.220 --> 00:17:22.600
+Have them ship it for you.
+
+00:17:22.600 --> 00:17:25.010
+So, you just have to go to
+places where people
+
+00:17:25.010 --> 00:17:27.040
+are going to really show up,
+and, you know,
+
+00:17:27.040 --> 00:17:29.090
+your conversion rate is
+gonna be really, really low,
+
+00:17:29.090 --> 00:17:32.580
+but to go from zero to one
+to three to four, these
+
+00:17:32.580 --> 00:17:35.790
+are the kind of things, you
+might have to do.
+
+00:17:35.790 --> 00:17:36.350
+Okay.
+
+00:17:36.350 --> 00:17:39.440
+So, you got some users using
+you.
+
+00:17:39.440 --> 00:17:42.900
+Now what do you do with all
+these users?
+
+00:17:46.520 --> 00:17:47.200
+Customer feedback.
+
+00:17:47.200 --> 00:17:49.900
+So, one, the first thing you
+should do
+
+00:17:49.900 --> 00:17:52.580
+is make sure there&#39;s a way
+for people to contact you.
+
+00:17:52.580 --> 00:17:55.150
+So, support@homejoy.com.
+
+00:17:55.150 --> 00:18:01.840
+Ideally there&#39;s a phone
+number, and if you hook up
+
+00:18:01.840 --> 00:18:05.880
+a phone number, one really
+good idea is to, make sure
+
+00:18:05.880 --> 00:18:09.480
+that, you have voice mail or
+something like that, so
+
+00:18:09.480 --> 00:18:11.210
+you don&#39;t have to be picking
+it up all the time.
+
+00:18:12.640 --> 00:18:15.540
+But in any case, a way for
+people to get inbound,
+
+00:18:15.540 --> 00:18:18.410
+to get inbound feedback is
+good, but really what you
+
+00:18:18.410 --> 00:18:20.480
+should be doing is going out
+to your users and
+
+00:18:20.480 --> 00:18:21.730
+talking with them, you know.
+
+00:18:21.730 --> 00:18:22.970
+Get away from your desk and
+
+00:18:22.970 --> 00:18:25.570
+just get out and do the
+work.
+
+00:18:25.570 --> 00:18:29.350
+It seems like a slog and
+it&#39;s going to be a slog, but
+
+00:18:29.350 --> 00:18:32.510
+this is where you&#39;re going
+to get the best feedback
+
+00:18:32.510 --> 00:18:33.280
+ever for your product.
+
+00:18:33.280 --> 00:18:36.830
+And this is gonna teach you
+on what features you need to
+
+00:18:36.830 --> 00:18:38.480
+completely change, get rid
+of,
+
+00:18:38.480 --> 00:18:40.720
+or what features you need to
+build.
+
+00:18:40.720 --> 00:18:45.360
+And so, one way to do this
+is to send out surveys, you
+
+00:18:45.360 --> 00:18:48.730
+know, to get reviews after
+they&#39;ve used the product.
+
+00:18:48.730 --> 00:18:51.450
+This is okay, but generally,
+you know, people are only
+
+00:18:51.450 --> 00:18:54.520
+gonna respond if they really
+love you or really hate you.
+
+00:18:54.520 --> 00:18:57.900
+And, you never get like the
+in between, So kind of
+
+00:18:57.900 --> 00:19:01.120
+get in between not get all
+the extremes is to go out
+
+00:19:01.120 --> 00:19:04.660
+an actually meet the person
+that is using your product.
+
+00:19:04.660 --> 00:19:10.470
+And, it&#39;s not a good idea
+to,
+
+00:19:10.470 --> 00:19:14.690
+you know, I&#39;ve seen people
+go out meet the user and
+
+00:19:14.690 --> 00:19:16.820
+they sit there and it&#39;s like
+a laboratory and
+
+00:19:16.820 --> 00:19:18.690
+it&#39;s like an inquisition
+almost?
+
+00:19:18.690 --> 00:19:20.450
+And you&#39;re kind of just like
+poking, and poking, and
+
+00:19:20.450 --> 00:19:21.360
+poking at them like why&#39;d
+you do that?
+
+00:19:21.360 --> 00:19:22.400
+Why&#39;d you do that?
+
+00:19:22.400 --> 00:19:24.150
+That&#39;s not going to give you
+the best results.
+
+00:19:24.150 --> 00:19:27.950
+What you should really do is
+make it into a conversation.
+
+00:19:27.950 --> 00:19:30.670
+Get to know them, get them
+to feel comfortable,
+
+00:19:30.670 --> 00:19:33.870
+because you want to get them
+at a level where they are,
+
+00:19:33.870 --> 00:19:35.162
+they feel like, you know,
+
+00:19:35.162 --> 00:19:37.770
+they should be honest with
+you to help you an, an,
+
+00:19:37.770 --> 00:19:40.490
+and improve, improve things
+for you.
+
+00:19:40.490 --> 00:19:42.480
+So I found that actually
+taking people out for
+
+00:19:42.480 --> 00:19:45.460
+drinks and stuff like that
+was a very good
+
+00:19:45.460 --> 00:19:46.780
+way to do that.
+
+00:19:46.780 --> 00:19:48.830
+I&#39;m not sure if all of you
+are old enough to do that,
+
+00:19:48.830 --> 00:19:50.000
+but you can take them for
+coffee.
+
+00:19:52.340 --> 00:19:53.330
+So another way,
+
+00:19:53.330 --> 00:19:56.070
+another thing you should be
+tracking is.
+
+00:19:56.070 --> 00:19:57.480
+How are you doing in
+general,
+
+00:19:57.480 --> 00:20:00.260
+like from like the macro
+perspective.
+
+00:20:00.260 --> 00:20:03.580
+And the best way to do that
+is by tracking
+
+00:20:03.580 --> 00:20:04.430
+customer retention.
+
+00:20:04.430 --> 00:20:06.410
+That is, the number of
+people that came in the door
+
+00:20:06.410 --> 00:20:08.720
+today, how many are coming
+back tomorrow, the next day,
+
+00:20:08.720 --> 00:20:09.580
+and so on and so forth.
+
+00:20:11.200 --> 00:20:13.822
+Usually over time you&#39;re
+kinda looking at,
+
+00:20:13.822 --> 00:20:16.750
+you know, monthly retention
+so.
+
+00:20:16.750 --> 00:20:18.857
+You know, people who came in
+the door today are they
+
+00:20:18.857 --> 00:20:20.900
+still using it next month
+and so and so forth.
+
+00:20:20.900 --> 00:20:23.760
+The problem with that
+metri,c is that it&#39;s you
+
+00:20:23.760 --> 00:20:25.940
+know, it takes forever to
+collect that data.
+
+00:20:25.940 --> 00:20:26.750
+And you don&#39;t have,
+
+00:20:26.750 --> 00:20:28.595
+sometimes you don&#39;t have a
+month or two months or
+
+00:20:28.595 --> 00:20:30.790
+three months to, you know,
+to figure that out.
+
+00:20:30.790 --> 00:20:34.477
+So good leading indicator is
+actually collecting reviews
+
+00:20:34.477 --> 00:20:37.620
+and ratings like five star,
+four star reviews.
+
+00:20:37.620 --> 00:20:38.730
+Are collecting some notion
+of
+
+00:20:38.730 --> 00:20:40.930
+NPS which is Net Promoter
+Score.
+
+00:20:40.930 --> 00:20:42.130
+So you&#39;re basically asking
+them
+
+00:20:42.130 --> 00:20:44.600
+from a rating from zero to
+ten,
+
+00:20:44.600 --> 00:20:47.690
+how likely are they to
+recommend you to a friend.
+
+00:20:47.690 --> 00:20:48.590
+And calculating the NPS.
+
+00:20:48.590 --> 00:20:50.940
+And so over time what you&#39;ll
+see is,
+
+00:20:50.940 --> 00:20:52.570
+as you&#39;re building a new
+feature, is you should be
+
+00:20:52.570 --> 00:20:55.560
+able to see that the reviews
+or the retention is going up
+
+00:20:55.560 --> 00:20:57.910
+over time which means you&#39;re
+doing a good job.
+
+00:20:57.910 --> 00:20:58.730
+If it&#39;s going down,
+
+00:20:58.730 --> 00:21:01.720
+you&#39;re doing a bad job, and
+if it&#39;s kind of staying
+
+00:21:01.720 --> 00:21:04.580
+the same that means you
+probably need to go out and
+
+00:21:04.580 --> 00:21:09.300
+figure out what new things
+you should be building.
+
+00:21:09.300 --> 00:21:11.120
+The other thing is,
+
+00:21:11.120 --> 00:21:14.310
+I&#39;ll get to the qualitative
+thing later, but
+
+00:21:14.310 --> 00:21:18.090
+the one thing you should be
+worried of is the honesty
+
+00:21:18.090 --> 00:21:23.010
+curve, which is some people
+will just lie to you.
+
+00:21:23.010 --> 00:21:30.490
+So, I mean, this is
+
+00:21:30.490 --> 00:21:34.790
+like degrees of separation
+from you, and
+
+00:21:34.790 --> 00:21:36.350
+this is like level of
+honesty.
+
+00:21:37.480 --> 00:21:40.900
+Like so here it&#39;s, here this
+is your mom.
+
+00:21:40.900 --> 00:21:44.248
+This is like your friends of
+friends and
+
+00:21:44.248 --> 00:21:47.180
+here&#39;s like random people.
+
+00:21:47.180 --> 00:21:51.580
+I don&#39;t know if you can all
+see this but, so
+
+00:21:51.580 --> 00:21:53.998
+you&#39;re mom is going to be
+you know.
+
+00:21:53.998 --> 00:21:56.640
+They, she should use your
+product, but
+
+00:21:56.640 --> 00:21:59.070
+she&#39;s going to be proud of
+you anyway, and so
+
+00:21:59.070 --> 00:22:01.760
+she&#39;ll maybe be honest like
+this much.
+
+00:22:01.760 --> 00:22:03.390
+And your friends will, you
+know,
+
+00:22:03.390 --> 00:22:04.561
+they&#39;ll be pretty honest
+with you and
+
+00:22:04.561 --> 00:22:05.940
+give you feedback because
+they care about you.
+
+00:22:05.940 --> 00:22:07.230
+By the way, this is assuming
+it&#39;s
+
+00:22:07.230 --> 00:22:09.537
+a free product that you&#39;re
+giving them.
+
+00:22:10.743 --> 00:22:11.660
+&gt;&gt; And.
+
+00:22:11.660 --> 00:22:13.740
+Then over time, like as you
+get more and more random,
+
+00:22:13.740 --> 00:22:16.790
+these people don&#39;t even know
+who you are, it doesn&#39;t go
+
+00:22:16.790 --> 00:22:18.670
+like this really, but it
+kind of goes like this.
+
+00:22:19.900 --> 00:22:22.270
+Where people don&#39;t care
+about giving you
+
+00:22:22.270 --> 00:22:24.670
+feedback they just like okay
+here&#39;s a survey, ta, ta, ta,
+
+00:22:24.670 --> 00:22:27.540
+tat and so you should take
+
+00:22:27.540 --> 00:22:30.460
+this into consideration when
+getting user feedback.
+
+00:22:30.460 --> 00:22:32.760
+Now let&#39;s say you make, you
+pay.
+
+00:22:32.760 --> 00:22:34.020
+It&#39;s a pay product, right?
+
+00:22:34.020 --> 00:22:35.928
+Well let&#39;s just do this in
+green.
+
+00:22:35.928 --> 00:22:38.040
+So, the paid, you know,
+
+00:22:38.040 --> 00:22:40.530
+your mom is gonna be like
+down here.
+
+00:22:40.530 --> 00:22:43.900
+Like, she&#39;s just gonna lie
+to you and say, you know,
+
+00:22:43.900 --> 00:22:44.800
+she&#39;s just gonna feel sorry
+and
+
+00:22:44.800 --> 00:22:46.610
+say, this is a great product
+of course.
+
+00:22:48.240 --> 00:22:51.160
+But then you, kind of goes
+like this, right?
+
+00:22:51.160 --> 00:22:54.220
+Which is to say that your
+friends are kinda gonna
+
+00:22:54.220 --> 00:22:57.340
+give you the right, they&#39;re,
+they wanna support you and
+
+00:22:57.340 --> 00:22:58.500
+give you the right feedback.
+
+00:22:58.500 --> 00:23:01.590
+But it&#39;s actually these
+random people up here that,
+
+00:23:01.590 --> 00:23:03.600
+you know, if they,
+
+00:23:03.600 --> 00:23:06.320
+if they really don&#39;t think
+what they paid for
+
+00:23:06.320 --> 00:23:09.370
+was worth it, they&#39;re gonna
+really tell you.
+
+00:23:09.370 --> 00:23:12.308
+Because you know, it&#39;s money
+out the door.
+
+00:23:12.308 --> 00:23:16.550
+And so, this is another way
+of saying you&#39;re going to
+
+00:23:16.550 --> 00:23:18.530
+get the best feedback.
+
+00:23:18.530 --> 00:23:22.110
+Obviously, down here, you&#39;re
+gonna get more feedback
+
+00:23:23.590 --> 00:23:25.850
+if you just make someone pay
+for it.
+
+00:23:25.850 --> 00:23:28.540
+That&#39;s not to say you
+should, you know, and
+
+00:23:28.540 --> 00:23:30.630
+the first time make out make
+people pay for it.
+
+00:23:30.630 --> 00:23:32.980
+That it is to say that you
+should, if you&#39;re going to
+
+00:23:32.980 --> 00:23:35.680
+build a product that you&#39;re
+going to eventually need to,
+
+00:23:35.680 --> 00:23:38.830
+you know, they&#39;re going to
+pay for the software or
+
+00:23:38.830 --> 00:23:40.860
+for the hardware, whatever,
+you should do that.
+
+00:23:40.860 --> 00:23:43.530
+Get to the point where you
+can do that very, very fast.
+
+00:23:43.530 --> 00:23:45.560
+Because then that&#39;s when you
+get
+
+00:23:45.560 --> 00:23:48.300
+the real meaty stuff to help
+you in the future of
+
+00:23:48.300 --> 00:23:50.320
+how you can get more paying
+users in the door.
+
+00:23:52.200 --> 00:23:56.420
+All right so, you&#39;re getting
+a lot of feedback and,
+
+00:23:57.620 --> 00:24:00.210
+what do you do before you
+laun,
+
+00:24:00.210 --> 00:24:02.050
+officially launch the
+product?
+
+00:24:04.000 --> 00:24:05.650
+So what you want to do is,
+
+00:24:05.650 --> 00:24:07.640
+you always want to be
+building fast, right?
+
+00:24:07.640 --> 00:24:09.250
+And you want to be
+optimizing for
+
+00:24:09.250 --> 00:24:11.000
+this stage of growth.
+
+00:24:11.000 --> 00:24:12.102
+That is you,
+
+00:24:12.102 --> 00:24:15.990
+you know, you might have ten
+users at this point.
+
+00:24:15.990 --> 00:24:19.360
+Don&#39;t, theres no point in
+trying to build features for
+
+00:24:19.360 --> 00:24:21.320
+the point when you have a
+million users.
+
+00:24:21.320 --> 00:24:23.210
+You want to optimize for the
+next stage of growth,
+
+00:24:23.210 --> 00:24:25.440
+which is gonna be ten to a
+hundred users.
+
+00:24:25.440 --> 00:24:26.720
+What are features you really
+need for
+
+00:24:26.720 --> 00:24:30.736
+that and just go with that.
+
+00:24:30.736 --> 00:24:32.223
+Some times.
+
+00:24:32.223 --> 00:24:35.790
+And basically on the slide
+is just many ways of
+
+00:24:35.790 --> 00:24:36.890
+stating that notion.
+
+00:24:36.890 --> 00:24:38.080
+Manual before automation.
+
+00:24:38.080 --> 00:24:40.930
+One of the things that I
+found when
+
+00:24:40.930 --> 00:24:43.210
+building a market place is
+that process is very,
+
+00:24:43.210 --> 00:24:46.460
+very important over time as
+you scale.
+
+00:24:46.460 --> 00:24:49.560
+But you need not try to
+automate everything and
+
+00:24:49.560 --> 00:24:53.070
+create software to just have
+robots just run everything.
+
+00:24:53.070 --> 00:24:54.920
+What you should really do to
+understand what you
+
+00:24:54.920 --> 00:24:57.190
+should really build, is to
+manually do it yourself.
+
+00:24:59.080 --> 00:25:04.880
+And an example of this is
+when we started taking
+
+00:25:04.880 --> 00:25:06.900
+on cleaning professionals
+onto our platform.
+
+00:25:08.310 --> 00:25:11.060
+We would have them,um,
+
+00:25:11.060 --> 00:25:13.490
+we would ask them a bunch of
+questions.
+
+00:25:13.490 --> 00:25:14.410
+Over the phone and
+
+00:25:14.410 --> 00:25:16.190
+then in person we ask them a
+bunch of questions too.
+
+00:25:16.190 --> 00:25:19.210
+And then they would go to a
+test clean and
+
+00:25:19.210 --> 00:25:24.100
+then they would get on
+boarded to our platform if
+
+00:25:24.100 --> 00:25:25.610
+they&#39;re good enough.
+
+00:25:25.610 --> 00:25:27.470
+And so this took a lot.
+
+00:25:27.470 --> 00:25:29.240
+During all this question
+askings for
+
+00:25:29.240 --> 00:25:30.440
+that many candidates.
+
+00:25:30.440 --> 00:25:35.150
+You know, we had about a 3
+to 5 % acceptance rate.
+
+00:25:35.150 --> 00:25:36.610
+And so you can imagine all
+the people we
+
+00:25:36.610 --> 00:25:39.140
+were talking to at the
+beginning of the funnel
+
+00:25:39.140 --> 00:25:41.570
+that never even made it onto
+the platform.
+
+00:25:41.570 --> 00:25:43.400
+But what happened over time
+was that
+
+00:25:43.400 --> 00:25:45.470
+we learned certain
+questions.
+
+00:25:45.470 --> 00:25:48.410
+That were asking, were, that
+were
+
+00:25:48.410 --> 00:25:51.470
+indicators of whether
+they&#39;re gonna be a good, or
+
+00:25:51.470 --> 00:25:53.970
+a bad, performer on the
+platform.
+
+00:25:53.970 --> 00:25:56.940
+We, threw just like data
+collection and
+
+00:25:56.940 --> 00:25:59.560
+just you know, looking at,
+looking at everything,
+
+00:25:59.560 --> 00:26:02.790
+we could just ask on an
+online forum.
+
+00:26:02.790 --> 00:26:05.500
+So that&#39;s when we put on,
+put in online application.
+
+00:26:05.500 --> 00:26:09.177
+They could apply and then we
+would ask them maybe several
+
+00:26:09.177 --> 00:26:13.206
+of the questions during the
+inter, personal interview.
+
+00:26:13.206 --> 00:26:15.850
+So it&#39;s, if you try to
+automate things too fast,
+
+00:26:15.850 --> 00:26:17.770
+then you run into this
+problem,
+
+00:26:17.770 --> 00:26:21.310
+potential problem of, you
+know, not being able to move
+
+00:26:21.310 --> 00:26:24.020
+quickly on trying to iterate
+you know with things like
+
+00:26:24.020 --> 00:26:27.620
+questions on an application
+and stuff like that.
+
+00:26:27.620 --> 00:26:30.210
+And the third point here is
+temporary brokenness is
+
+00:26:30.210 --> 00:26:32.780
+much better than permanent
+paralysis.
+
+00:26:32.780 --> 00:26:35.660
+By that, what I mean is you
+know
+
+00:26:35.660 --> 00:26:38.770
+perfection is irrelevant
+during this stage.
+
+00:26:38.770 --> 00:26:41.540
+You should, when you get to
+the next stage of growth,
+
+00:26:41.540 --> 00:26:44.800
+like what you&#39;re trying to
+maybe perfect in this one
+
+00:26:44.800 --> 00:26:48.030
+stage, is probably going to
+not matter anyway, and
+
+00:26:48.030 --> 00:26:51.960
+so do not worry about all
+the edge cases when you&#39;re
+
+00:26:51.960 --> 00:26:52.680
+building something.
+
+00:26:52.680 --> 00:26:55.720
+Just worry about the generic
+case of who your
+
+00:26:55.720 --> 00:26:58.580
+core user is gonna be, and
+then as you get bigger and
+
+00:26:58.580 --> 00:26:59.740
+bigger, bigger, the volume
+of
+
+00:26:59.740 --> 00:27:01.970
+those edge cases will
+increase over time.
+
+00:27:01.970 --> 00:27:03.910
+And you&#39;ll want to, you
+know, build for that.
+
+00:27:04.970 --> 00:27:07.880
+And lastly, beware of the
+frankenstein approach,
+
+00:27:07.880 --> 00:27:09.230
+which is great.
+
+00:27:09.230 --> 00:27:10.400
+You talk to all these users,
+
+00:27:10.400 --> 00:27:12.410
+they give you all these
+ideas, you know,
+
+00:27:12.410 --> 00:27:15.380
+the first thing your gonna
+wanna do is go build
+
+00:27:15.380 --> 00:27:16.420
+every single one of them,
+
+00:27:16.420 --> 00:27:21.110
+and go show them the next
+day and, make them happier.
+
+00:27:23.090 --> 00:27:25.320
+You should definitely listen
+to user feedback but
+
+00:27:25.320 --> 00:27:29.590
+when someone tells you to
+build a feature,
+
+00:27:29.590 --> 00:27:30.680
+you shouldn&#39;t go build that
+right away.
+
+00:27:30.680 --> 00:27:33.480
+What you should really do
+is, you know,
+
+00:27:33.480 --> 00:27:35.450
+get to the bottom of why
+they are asking you to
+
+00:27:35.450 --> 00:27:36.360
+build the feature.
+
+00:27:36.360 --> 00:27:38.050
+It&#39;s usually.
+
+00:27:38.050 --> 00:27:39.210
+Usually what they&#39;re
+suggesting is
+
+00:27:39.210 --> 00:27:40.180
+not the best idea.
+
+00:27:40.180 --> 00:27:41.540
+But what they&#39;re really
+suggesting is,
+
+00:27:41.540 --> 00:27:43.910
+I have this other problem
+that you either created for
+
+00:27:43.910 --> 00:27:45.460
+me while using the product.
+
+00:27:45.460 --> 00:27:47.630
+Or, you know, I really need
+this problem solved before
+
+00:27:47.630 --> 00:27:50.670
+I&#39;m ever going to pay to use
+this product, and so, figure
+
+00:27:50.670 --> 00:27:53.470
+that out first, instead of
+piling on a bunch of
+
+00:27:53.470 --> 00:27:56.636
+features, which then hides
+the problem altogether.
+
+00:27:56.636 --> 00:27:58.460
+So, you have, so
+
+00:27:58.460 --> 00:28:04.840
+you have a product, that
+you&#39;re ready to show, and.
+
+00:28:07.470 --> 00:28:11.010
+Some people at this point
+will continue building their
+
+00:28:11.010 --> 00:28:13.226
+product and not ship it at
+all.
+
+00:28:13.226 --> 00:28:19.690
+And, I think the whole idea
+of being stealth and
+
+00:28:19.690 --> 00:28:22.810
+perfecting the product to no
+end is.
+
+00:28:24.170 --> 00:28:32.270
+Is the idea that, you know,
+imitation is cheaper
+
+00:28:32.270 --> 00:28:36.660
+than innovation in terms of
+time and money and capital.
+
+00:28:37.710 --> 00:28:40.870
+And so, I think everyone
+should just always assume in
+
+00:28:40.870 --> 00:28:43.150
+general like, there&#39;s gonna
+be,
+
+00:28:43.150 --> 00:28:45.070
+if you have a really good
+idea.
+
+00:28:45.070 --> 00:28:46.350
+No matter when you launch.
+
+00:28:46.350 --> 00:28:49.150
+Someone&#39;s gonna, someone&#39;s
+gonna,be you know,
+
+00:28:49.150 --> 00:28:50.540
+someones gonna fast follow
+you.
+
+00:28:50.540 --> 00:28:52.520
+Someone&#39;s gonna execute,
+
+00:28:52.520 --> 00:28:54.300
+as hard as they possible can
+to catch up with you.
+
+00:28:54.300 --> 00:28:57.410
+And so, there&#39;s not point in
+holding out on all the user
+
+00:28:57.410 --> 00:29:00.710
+feed back that you can get
+by getting a lot of users.
+
+00:29:00.710 --> 00:29:04.005
+Because you feel like, you
+know, you feel paranoid that
+
+00:29:04.005 --> 00:29:05.070
+someones&#39; gonna do this to
+you.
+
+00:29:06.760 --> 00:29:08.210
+And I hate to keep harping
+on it,
+
+00:29:08.210 --> 00:29:11.210
+but this is things that I
+see today with founders,
+
+00:29:11.210 --> 00:29:12.810
+is something I went through
+as well.
+
+00:29:13.860 --> 00:29:17.890
+And I think unless you&#39;re,
+unless you&#39;re building
+
+00:29:17.890 --> 00:29:19.680
+something that requires
+hundr,
+
+00:29:19.680 --> 00:29:21.840
+like tens of millions of
+dollars just to start up,
+
+00:29:21.840 --> 00:29:23.510
+there, there&#39;s really no
+point in,
+
+00:29:23.510 --> 00:29:25.390
+in waiting around to launch
+your product.
+
+00:29:26.820 --> 00:29:30.000
+So say you have something
+that you feel ready to get
+
+00:29:30.000 --> 00:29:30.930
+lots of users on.
+
+00:29:30.930 --> 00:29:34.490
+So what do you do at this
+point?
+
+00:29:34.490 --> 00:29:36.050
+So I&#39;ll look at my time, so.
+
+00:29:36.050 --> 00:29:38.100
+&gt;&gt; 20 minutes.
+&gt;&gt; 20 minutes?
+
+00:29:38.100 --> 00:29:38.650
+Okay.
+
+00:29:38.650 --> 00:29:41.400
+So, I will go over,
+
+00:29:41.400 --> 00:29:45.032
+various types of growths in
+the next slides.
+
+00:29:45.032 --> 00:29:46.994
+But the one thing to note
+here,
+
+00:29:46.994 --> 00:29:49.560
+early on when you are trying
+to get,
+
+00:29:49.560 --> 00:29:52.353
+when it&#39;s just you and your
+co-founder and
+
+00:29:52.353 --> 00:29:56.507
+maybe, like, a couple other
+people building, you&#39;re not
+
+00:29:56.507 --> 00:29:59.931
+gonna be a, you know, create
+a team just for growth.
+
+00:29:59.931 --> 00:30:02.526
+It, it&#39;s gonna be one person
+and one person only.
+
+00:30:02.526 --> 00:30:05.209
+And so, you need to really
+focus and you need to,
+
+00:30:05.209 --> 00:30:08.154
+you should only, you&#39;re
+gonna be tempted to try like
+
+00:30:08.154 --> 00:30:10.800
+five different strategies at
+one time.
+
+00:30:10.800 --> 00:30:13.650
+But really, what you should
+do is take one channel and
+
+00:30:13.650 --> 00:30:16.120
+really execute on it for an
+entire week,
+
+00:30:16.120 --> 00:30:17.740
+and, and just focus on that.
+
+00:30:17.740 --> 00:30:19.040
+And then if that works,
+
+00:30:19.040 --> 00:30:21.520
+continue executing on it
+until it caps out.
+
+00:30:21.520 --> 00:30:23.770
+If it doesn&#39;t work, then
+just move on.
+
+00:30:23.770 --> 00:30:28.290
+By doing this, you will feel
+more certain that,
+
+00:30:30.170 --> 00:30:32.280
+that channel that you were
+working on,
+
+00:30:32.280 --> 00:30:34.428
+that initial hypothesis is
+wrong.
+
+00:30:34.428 --> 00:30:37.650
+You&#39;ll be, then if you tried
+only working a third of your
+
+00:30:37.650 --> 00:30:40.520
+time on it over the course
+of, three or four weeks.
+
+00:30:42.240 --> 00:30:44.750
+So, learn one channel at a
+time.
+
+00:30:44.750 --> 00:30:49.060
+Second is always be, when
+you find channels that work,
+
+00:30:49.060 --> 00:30:50.960
+you find strategies that
+work,
+
+00:30:50.960 --> 00:30:52.270
+always be iterating on it.
+
+00:30:52.270 --> 00:30:53.810
+You can potentially give it
+to some,
+
+00:30:53.810 --> 00:30:54.680
+like create a playbook and
+
+00:30:54.680 --> 00:30:56.230
+give it to somebody else to
+iterate on it.
+
+00:30:57.410 --> 00:30:59.850
+But these channels always
+change.
+
+00:30:59.850 --> 00:31:01.992
+You know, anything from
+Facebook ads to,
+
+00:31:01.992 --> 00:31:05.265
+even Google ads, to you
+know?
+
+00:31:05.265 --> 00:31:10.180
+But, the distribution
+channels the environments
+
+00:31:10.180 --> 00:31:11.670
+that you don&#39;t control,
+change all the time,
+
+00:31:11.670 --> 00:31:12.390
+and so you should be
+
+00:31:12.390 --> 00:31:13.690
+always iterating optimizing
+for that.
+
+00:31:13.690 --> 00:31:18.120
+And lastly, in the beginning
+you&#39;re probably,
+
+00:31:18.120 --> 00:31:20.220
+when you see a channel that
+fails you,
+
+00:31:20.220 --> 00:31:21.840
+just get rid of it and go on
+and move on.
+
+00:31:21.840 --> 00:31:23.380
+There&#39;s many other things to
+try.
+
+00:31:23.380 --> 00:31:24.390
+But over time,
+
+00:31:24.390 --> 00:31:27.970
+go back to those channels
+and look at it again.
+
+00:31:27.970 --> 00:31:30.260
+And so, what I mean by that
+is an example is,
+
+00:31:30.260 --> 00:31:34.180
+in the beginning at Homejoy,
+we had no money.
+
+00:31:34.180 --> 00:31:38.900
+When we tried to do, we
+tried to
+
+00:31:38.900 --> 00:31:43.410
+buy users from Merry Maid,
+not from Merry Maids,
+
+00:31:43.410 --> 00:31:45.240
+that&#39;s just an example of a
+competitor, but.
+
+00:31:45.240 --> 00:31:48.230
+We tried to buy Google ads
+to get users in
+
+00:31:48.230 --> 00:31:48.900
+the door quickly.
+
+00:31:48.900 --> 00:31:54.060
+And what we found was that
+Merry Maids,
+
+00:31:54.060 --> 00:31:56.240
+Molly Maids, all these other
+national companies,
+
+00:31:56.240 --> 00:31:57.680
+they had more money than us.
+
+00:31:57.680 --> 00:31:58.310
+They were making out
+
+00:31:58.310 --> 00:32:00.240
+a lot more money on the job
+than us.
+
+00:32:00.240 --> 00:32:02.910
+And so they were able to pay
+for users at a much higher
+
+00:32:04.300 --> 00:32:06.560
+at a much higher, at a much
+higher,they were able to
+
+00:32:06.560 --> 00:32:09.100
+acquire them at a much
+higher cost than us.
+
+00:32:09.100 --> 00:32:11.010
+And so, we couldn&#39;t afford
+that,
+
+00:32:11.010 --> 00:32:12.690
+and we had to go to another
+channel,
+
+00:32:12.690 --> 00:32:14.060
+which turned out to be
+something else.
+
+00:32:15.872 --> 00:32:18.700
+But today we make more money
+on the job.
+
+00:32:18.700 --> 00:32:20.210
+We&#39;re much better at certain
+things, and
+
+00:32:20.210 --> 00:32:23.350
+so we should probably
+revisit the idea of buying
+
+00:32:23.350 --> 00:32:26.853
+Google ads and buying, going
+to the S.D.M. Channel.
+
+00:32:26.853 --> 00:32:28.910
+And so what that&#39;s what I
+mean by that.
+
+00:32:28.910 --> 00:32:30.552
+And the key to all this is
+creativity.
+
+00:32:30.552 --> 00:32:33.900
+Performance marketing or
+marketing or
+
+00:32:33.900 --> 00:32:37.980
+growth in general can be
+very technical.
+
+00:32:37.980 --> 00:32:39.040
+But it&#39;s actually technical
+and
+
+00:32:39.040 --> 00:32:42.260
+you have to be creative
+because if it wasn&#39;t,
+
+00:32:42.260 --> 00:32:43.310
+if it was really easy and
+
+00:32:43.310 --> 00:32:45.570
+bland, like everyone would
+be growing right now.
+
+00:32:47.190 --> 00:32:48.860
+And so, you always have to
+find, like,
+
+00:32:48.860 --> 00:32:51.952
+that little thing that no
+one else is doing and
+
+00:32:51.952 --> 00:32:53.898
+do that to the extreme.
+
+00:32:53.898 --> 00:32:58.942
+So, here are three types of
+growth
+
+00:32:58.942 --> 00:33:04.290
+when yeah, three types of
+growth,
+
+00:33:05.550 --> 00:33:08.090
+sticky, viral and paid
+growth and hopefully,
+
+00:33:08.090 --> 00:33:09.910
+I&#39;ll get enough time to talk
+about all of this.
+
+00:33:11.600 --> 00:33:12.430
+So really, briefly,
+
+00:33:12.430 --> 00:33:15.700
+sticky growth is trying to
+get your existing users to
+
+00:33:16.830 --> 00:33:19.270
+come back and pay you more
+or use you more.
+
+00:33:21.310 --> 00:33:22.110
+Second is viral growth.
+
+00:33:22.110 --> 00:33:23.560
+So that&#39;s when people talk
+about you.
+
+00:33:24.810 --> 00:33:26.110
+So, you use a product, you
+really like it,
+
+00:33:26.110 --> 00:33:27.850
+then you tell ten other
+friends.
+
+00:33:27.850 --> 00:33:29.280
+They like it and that&#39;s
+viral growth.
+
+00:33:29.280 --> 00:33:30.280
+And the third is paid
+growth.
+
+00:33:30.280 --> 00:33:35.140
+So, if you happen to have
+money in the bank,
+
+00:33:35.140 --> 00:33:38.020
+you are going to be able to
+perhaps use part of that
+
+00:33:38.020 --> 00:33:39.009
+money to buy growth.
+
+00:33:41.000 --> 00:33:41.980
+And the central theme I&#39;m
+
+00:33:41.980 --> 00:33:43.610
+gonna go through is
+sustainability.
+
+00:33:43.610 --> 00:33:46.905
+There&#39;s a lot of, by
+sustainable growth I mean,
+
+00:33:46.905 --> 00:33:49.570
+you&#39;re basically not a leaky
+bucket.
+
+00:33:49.570 --> 00:33:50.590
+Money you put in or
+
+00:33:50.590 --> 00:33:54.340
+time you put in, has a good
+return on investment on it.
+
+00:33:55.690 --> 00:33:58.600
+So, sticky growth is like I
+said,
+
+00:33:58.600 --> 00:34:01.940
+getting existing users to
+keep buying stuff.
+
+00:34:03.770 --> 00:34:08.430
+So, the only thing that
+really matters here is that
+
+00:34:08.430 --> 00:34:10.750
+you deliver a good
+experience, right?
+
+00:34:10.750 --> 00:34:11.800
+If you deliver a good
+experience,
+
+00:34:11.800 --> 00:34:13.770
+people are gonna keep
+wanting to use you.
+
+00:34:13.770 --> 00:34:15.350
+If you deliver an addictive
+experience,
+
+00:34:15.350 --> 00:34:16.990
+people are gonna keep
+wanting to use you.
+
+00:34:19.030 --> 00:34:20.760
+And the way to measure this
+and
+
+00:34:20.760 --> 00:34:21.850
+to really look at this and
+
+00:34:21.850 --> 00:34:27.420
+how you&#39;re doing over time
+of whether you are providing
+
+00:34:27.420 --> 00:34:31.410
+good sticky growth is to
+look at the CLV&#39;s and
+
+00:34:31.410 --> 00:34:32.630
+retention cohort analysis.
+
+00:34:32.630 --> 00:34:36.280
+Now, does anyone not know
+what cohort analysis is,
+
+00:34:36.280 --> 00:34:37.430
+or should I go over it?
+
+00:34:37.430 --> 00:34:38.570
+&gt;&gt; Yeah.
+
+00:34:38.570 --> 00:34:39.690
+&gt;&gt; Okay.
+So I&#39;ll go over it.
+
+00:34:39.690 --> 00:34:40.300
+Okay.
+
+00:34:40.300 --> 00:34:43.760
+So CLV is some people call
+it LTV.
+
+00:34:43.760 --> 00:34:46.000
+It is called customer
+lifetime,
+
+00:34:46.000 --> 00:34:49.260
+which is, basically the
+amount of the net
+
+00:34:49.260 --> 00:34:51.650
+revenue that a customer
+brings in the door for
+
+00:34:51.650 --> 00:34:54.000
+you over a certain amount of
+period.
+
+00:34:54.000 --> 00:34:56.950
+So, a 12 month CLV is how
+much net revenue
+
+00:34:56.950 --> 00:35:00.370
+does a customer give you
+over 12 months.
+
+00:35:00.370 --> 00:35:02.470
+Sometimes people look at
+three months, six months,
+
+00:35:02.470 --> 00:35:04.040
+and so on and so forth.
+
+00:35:07.300 --> 00:35:11.200
+So, when I say cohort,
+basically,
+
+00:35:11.200 --> 00:35:15.220
+what you&#39;re looking at is,
+this is time.
+
+00:35:15.220 --> 00:35:18.450
+So, let&#39;s just call this,
+yeah, time.
+
+00:35:18.450 --> 00:35:23.260
+So, and this is percent of
+users coming back to you.
+
+00:35:23.260 --> 00:35:27.158
+So at time zero, right, a
+period zero,
+
+00:35:27.158 --> 00:35:29.231
+we&#39;re at a hundred.
+
+00:35:29.231 --> 00:35:36.301
+I&#39;m using 100%.
+
+00:35:36.301 --> 00:35:39.181
+So, cohort is another name
+also for
+
+00:35:39.181 --> 00:35:42.837
+like customer segments and
+stuff like that.
+
+00:35:42.837 --> 00:35:43.381
+So you can,
+
+00:35:43.381 --> 00:35:45.949
+like, you might look at the
+female versus male cohort.
+
+00:35:48.030 --> 00:35:51.119
+People in Atlanta Georgia
+verses people in
+
+00:35:51.119 --> 00:35:53.015
+Sacramento California.
+
+00:35:53.015 --> 00:35:58.518
+But, the most common one is
+by month.
+
+00:35:58.518 --> 00:36:02.850
+So, cohort equals month and
+lets just say for
+
+00:36:02.850 --> 00:36:07.524
+this exercise, we are
+looking at like March of,
+
+00:36:07.524 --> 00:36:10.158
+I don&#39;t know, 2012.
+
+00:36:10.158 --> 00:36:15.218
+So, March 2012, 100% of
+people, you&#39;ll have like,
+
+00:36:15.218 --> 00:36:18.041
+that means n equals 100
+people.
+
+00:36:18.041 --> 00:36:21.079
+So, 100% of the people,
+obviously, are using your
+
+00:36:21.079 --> 00:36:23.498
+product because, that&#39;s the
+definition.
+
+00:36:23.498 --> 00:36:28.234
+Now, one month later, you
+might have,
+
+00:36:28.234 --> 00:36:31.577
+this scale is not right, but
+
+00:36:31.577 --> 00:36:37.020
+50% might come back and so,
+you come here.
+
+00:36:37.020 --> 00:36:40.900
+Now, in the second month,
+how many people that came in
+
+00:36:40.900 --> 00:36:43.510
+March, come back two months
+later?
+
+00:36:43.510 --> 00:36:46.100
+And that might be down here.
+
+00:36:46.100 --> 00:36:47.560
+And, so, over time,
+
+00:36:47.560 --> 00:36:51.420
+you&#39;ll have a curve that
+looks like this.
+
+00:36:52.480 --> 00:36:54.190
+There&#39;s always some initial
+drop off, you know.
+
+00:36:54.190 --> 00:36:57.730
+The reasons why people don&#39;t
+stay after their first use
+
+00:36:57.730 --> 00:37:01.970
+is, it wasn&#39;t worth it, had
+a bad experience,
+
+00:37:01.970 --> 00:37:03.290
+stuff like that.
+
+00:37:03.290 --> 00:37:07.950
+And then, over time what you
+want is, you want this to
+
+00:37:07.950 --> 00:37:12.148
+flatten out over time, so
+that your turn basically
+
+00:37:12.148 --> 00:37:15.310
+goes to 0% that means you
+attrition out less, and
+
+00:37:15.310 --> 00:37:16.300
+less users over time.
+
+00:37:17.810 --> 00:37:21.480
+And these over here, kind of
+become your core customers,
+
+00:37:21.480 --> 00:37:24.720
+these are the ones that are
+like sort of staying
+
+00:37:24.720 --> 00:37:26.289
+with you for a long time.
+
+00:37:27.310 --> 00:37:31.800
+And now, court analysis or
+
+00:37:33.060 --> 00:37:35.260
+using this as a way to show
+if you have sticky growth or
+
+00:37:35.260 --> 00:37:42.270
+not is now, say you&#39;re, say
+we&#39;re one year later and
+
+00:37:42.270 --> 00:37:44.190
+you&#39;ve built a bunch of
+stuff right?
+
+00:37:45.580 --> 00:37:48.490
+You graph out the same thing
+and hopefully what you&#39;ll
+
+00:37:48.490 --> 00:37:51.920
+see is that you have a curve
+like this.
+
+00:37:53.720 --> 00:37:56.785
+That is in the first period
+even more people than
+
+00:37:56.785 --> 00:38:00.100
+50% came back to you and
+more and
+
+00:38:00.100 --> 00:38:01.290
+more people are sticking
+with you.
+
+00:38:02.760 --> 00:38:06.750
+A really bad, retention
+curve looks like this, which
+
+00:38:06.750 --> 00:38:09.290
+is like, after the first use
+they just hate you so
+
+00:38:09.290 --> 00:38:11.030
+much, no, like no one even
+comes back.
+
+00:38:11.030 --> 00:38:12.480
+It&#39;s just like zero, right.
+
+00:38:12.480 --> 00:38:14.180
+And, I don&#39;t know what kind
+of business that is.
+
+00:38:14.180 --> 00:38:16.025
+I mean it&#39;s obviously a
+shitty business, but
+
+00:38:16.025 --> 00:38:20.780
+like I can&#39;t explain a good
+business that has
+
+00:38:20.780 --> 00:38:21.660
+a retention curve like that.
+
+00:38:22.760 --> 00:38:26.050
+So anyway, so over time as
+you are thinking of
+
+00:38:26.050 --> 00:38:28.800
+strategies to increase this
+curve,
+
+00:38:28.800 --> 00:38:30.160
+like keep making it go up
+and up and
+
+00:38:30.160 --> 00:38:37.170
+up, you want to basically
+look at this analysis,
+
+00:38:37.170 --> 00:38:40.580
+over time to see if that
+strategy is working for you.
+
+00:38:41.750 --> 00:38:43.358
+Okay, does that make sense?
+
+00:38:43.358 --> 00:38:46.850
+Okay, cool.
+
+00:38:46.850 --> 00:38:51.188
+The second kind of growth is
+viral growth and like sticky
+
+00:38:51.188 --> 00:38:55.169
+growth you need to also
+deliver a good experience.
+
+00:38:55.169 --> 00:38:57.379
+But on top of that you need
+to deliver a really,
+
+00:38:57.379 --> 00:38:59.989
+really good experience,
+like, what&#39;s going to make
+
+00:38:59.989 --> 00:39:02.598
+these people shout out loud
+on Twitter, on Facebook or
+
+00:39:02.598 --> 00:39:04.470
+whatever and tell all their
+friends and
+
+00:39:04.470 --> 00:39:07.107
+email all their friends and
+family members about you.
+
+00:39:07.107 --> 00:39:08.980
+You have to really deliver a
+good experience.
+
+00:39:10.540 --> 00:39:13.120
+Combined with that is, u
+need to have really good
+
+00:39:13.120 --> 00:39:15.780
+mechanics for the referral
+program itself, like,
+
+00:39:15.780 --> 00:39:17.800
+you have a hundred customers
+who really wanna talk
+
+00:39:17.800 --> 00:39:19.950
+about you now, how are they
+going to talk about you?
+
+00:39:23.060 --> 00:39:24.960
+So, in that sense a viral
+growth,
+
+00:39:24.960 --> 00:39:27.090
+the viral growth strategy is
+all really about one
+
+00:39:27.090 --> 00:39:29.130
+building good experience,
+but if you have that,
+
+00:39:29.130 --> 00:39:30.900
+it&#39;s how do you build a good
+referral program.
+
+00:39:30.900 --> 00:39:34.390
+And so I&#39;ve listed the three
+main parts of that.
+
+00:39:34.390 --> 00:39:36.727
+One is the customer touch
+points, which is,
+
+00:39:36.727 --> 00:39:41.660
+where are people,
+
+00:39:41.660 --> 00:39:44.280
+learning that they can refer
+other people.
+
+00:39:44.280 --> 00:39:47.180
+So, that might be just,
+after they book, or
+
+00:39:47.180 --> 00:39:48.882
+after they sign up there is
+a,
+
+00:39:48.882 --> 00:39:51.600
+usually you see these like,
+right after you sign up for,
+
+00:39:51.600 --> 00:39:53.555
+for whatever reason most,
+for whatever reason most
+
+00:39:53.555 --> 00:39:55.900
+people just immediately tell
+you to invite other friends,
+
+00:39:55.900 --> 00:39:58.260
+even though you&#39;ve never
+used the product before.
+
+00:39:58.260 --> 00:39:59.571
+And so, but that&#39;s a
+customer touch point,
+
+00:39:59.571 --> 00:40:00.510
+is just right after you sign
+up.
+
+00:40:01.800 --> 00:40:03.660
+A better one is after they
+use the product after
+
+00:40:03.660 --> 00:40:05.280
+a while, and you see that
+they&#39;re highly engaged,
+
+00:40:05.280 --> 00:40:07.490
+then to show them that link
+and
+
+00:40:07.490 --> 00:40:09.630
+get them to send it out to
+everyone.
+
+00:40:09.630 --> 00:40:10.140
+Another one is if
+
+00:40:10.140 --> 00:40:12.780
+you&#39;re doing more of a
+platform type play like, for
+
+00:40:12.780 --> 00:40:15.870
+Homejoy we actually go
+inside their homes.
+
+00:40:15.870 --> 00:40:18.310
+So now, the customer touch
+point is when the cleaning
+
+00:40:18.310 --> 00:40:19.340
+professional is inside the
+home,
+
+00:40:19.340 --> 00:40:20.830
+they can have a leave
+behind,
+
+00:40:20.830 --> 00:40:23.220
+and, we can show them
+something there too as well.
+
+00:40:24.770 --> 00:40:28.930
+so, you wanna basically put
+the customer touch points
+
+00:40:28.930 --> 00:40:32.930
+and put the actual, link or
+whatever it is, how they&#39;re
+
+00:40:32.930 --> 00:40:35.320
+gonna refer all their
+friends at a point in time
+
+00:40:35.320 --> 00:40:38.440
+when they&#39;re highly engaged
+and they&#39;re loving you.
+
+00:40:39.800 --> 00:40:41.390
+Second is program mechanics.
+
+00:40:41.390 --> 00:40:44.290
+And so that&#39;s where, like,
+the most common thing that
+
+00:40:44.290 --> 00:40:47.558
+I&#39;ve seen is $10 for $10,
+that is, you get $10 if you
+
+00:40:47.558 --> 00:40:50.440
+invite your friend and they
+use it and they get $10.
+
+00:40:50.440 --> 00:40:53.050
+And so, you should try
+different types of
+
+00:40:53.050 --> 00:40:54.330
+mechanics in that sense and
+
+00:40:54.330 --> 00:40:57.010
+try to optimize for whatever
+works for you.
+
+00:40:57.010 --> 00:40:58.280
+You know, it could be 25 for
+25,
+
+00:40:58.280 --> 00:41:02.370
+it could be ten for zero, it
+could many of these things.
+
+00:41:02.370 --> 00:41:06.400
+And lastly it&#39;s when the,
+when your friend clicks on
+
+00:41:06.400 --> 00:41:10.680
+the link, on your referral
+link, when they come back to
+
+00:41:10.680 --> 00:41:13.720
+the site, it&#39;s very
+important to really optimize
+
+00:41:13.720 --> 00:41:17.110
+that conversion flow of how
+they&#39;re going to sign up.
+
+00:41:18.500 --> 00:41:20.390
+And so sometimes you need to
+just sell them in
+
+00:41:20.390 --> 00:41:24.390
+a different manner, or
+upsell that their friend has
+
+00:41:24.390 --> 00:41:26.560
+suggested they use this and
+so on and so forth.
+
+00:41:26.560 --> 00:41:31.790
+So, all these combined, you
+need to really play
+
+00:41:31.790 --> 00:41:35.470
+around with these on
+different dimensions and
+
+00:41:35.470 --> 00:41:36.640
+come up with a good referral
+program.
+
+00:41:37.770 --> 00:41:39.670
+And, lastly, it&#39;s paid
+growth, so,
+
+00:41:39.670 --> 00:41:42.990
+examples of paid growth is
+this right here.
+
+00:41:42.990 --> 00:41:45.580
+And these are the most
+obvious ones, but
+
+00:41:45.580 --> 00:41:47.860
+I&#39;m sure you guys can think
+of more.
+
+00:41:47.860 --> 00:41:48.890
+And paid growth is
+basically,
+
+00:41:48.890 --> 00:41:51.690
+you happen to have money,
+you can spend.
+
+00:41:51.690 --> 00:41:54.580
+You might have credit cards,
+whatever, but
+
+00:41:54.580 --> 00:41:56.789
+you can spend something to
+get users.
+
+00:41:58.560 --> 00:42:02.300
+So, the correct way to think
+about pay to growth is that,
+
+00:42:02.300 --> 00:42:03.240
+okay you&#39;re going to put
+money.
+
+00:42:03.240 --> 00:42:05.504
+You&#39;re gonna risk putting
+money out there,
+
+00:42:05.504 --> 00:42:07.920
+what are you gonna get in
+return?
+
+00:42:07.920 --> 00:42:10.930
+The simple way to think
+about it is, is your CLV,
+
+00:42:10.930 --> 00:42:13.670
+your customer lifetime, the
+amount of money,
+
+00:42:13.670 --> 00:42:16.750
+the net revenue, the amount
+of money that people,
+
+00:42:16.750 --> 00:42:19.120
+that your customer returns
+back to you,
+
+00:42:19.120 --> 00:42:20.790
+is it more than your CAC?
+
+00:42:20.790 --> 00:42:22.770
+And your CAC is an
+abbreviation for
+
+00:42:22.770 --> 00:42:24.100
+customer acquisition cost.
+
+00:42:26.370 --> 00:42:32.710
+So, an example is, you pay,
+actually the slide
+
+00:42:32.710 --> 00:42:35.260
+here has an example here, so
+say you run a bunch of ads.
+
+00:42:35.260 --> 00:42:36.950
+These are four ads.
+
+00:42:36.950 --> 00:42:41.280
+Over 12 months,
+
+00:42:41.280 --> 00:42:42.440
+the customer&#39;s worth $300 to
+you.
+
+00:42:42.440 --> 00:42:47.050
+Each one of these ads, when
+you click on it,
+
+00:42:47.050 --> 00:42:52.770
+the CPC costs different
+types of money.
+
+00:42:52.770 --> 00:42:55.370
+And then, when they click on
+the ad, then they have to
+
+00:42:55.370 --> 00:42:58.000
+come to your site and sign
+up or buy something, and
+
+00:42:58.000 --> 00:43:00.632
+the conversion rates are
+different for all these ads.
+
+00:43:00.632 --> 00:43:04.650
+And then, the CAC is
+calculated simply by
+
+00:43:04.650 --> 00:43:06.320
+the CPC divided by the
+conversion.
+
+00:43:06.320 --> 00:43:07.740
+And so, you see that there&#39;s
+
+00:43:07.740 --> 00:43:10.110
+different acquisition costs
+for different types of ads.
+
+00:43:11.590 --> 00:43:14.530
+And to determine whether,
+that is a good ad or
+
+00:43:14.530 --> 00:43:18.150
+a bad ad, all you have to do
+is, CLV minus CAC.
+
+00:43:18.150 --> 00:43:20.030
+Is it more than zero?
+
+00:43:20.030 --> 00:43:23.860
+If it&#39;s at zero then you&#39;ve,
+that&#39;s fine, but
+
+00:43:23.860 --> 00:43:24.790
+hopefully it&#39;s actually more
+
+00:43:24.790 --> 00:43:29.840
+than zero until you actually
+are earning a profit on it.
+
+00:43:29.840 --> 00:43:32.670
+So, we see that, despite the
+sales remaining the same and
+
+00:43:32.670 --> 00:43:34.670
+the conversions being higher
+and lower,
+
+00:43:34.670 --> 00:43:38.810
+there&#39;s sometimes, some ads
+that might seem good,
+
+00:43:38.810 --> 00:43:42.020
+actually don&#39;t seem so good
+at the end of the day.
+
+00:43:42.020 --> 00:43:45.380
+Now, the advanced way of
+looking at it is you can
+
+00:43:45.380 --> 00:43:48.790
+look at this for your whole
+entire customer base for
+
+00:43:48.790 --> 00:43:50.740
+aggregating all your
+customers together.
+
+00:43:50.740 --> 00:43:51.990
+But the better way of
+
+00:43:51.990 --> 00:43:54.955
+looking at it is to break it
+down by customer segments.
+
+00:43:54.955 --> 00:44:01.490
+So, if you have for example,
+if you&#39;re building
+
+00:44:01.490 --> 00:44:04.530
+a marketplace, I don&#39;t know,
+for country music,
+
+00:44:04.530 --> 00:44:07.550
+the CLV&#39;s of someone in
+Nashville Tennessee is going
+
+00:44:07.550 --> 00:44:10.478
+to be much larger than the
+CLV&#39;s and
+
+00:44:10.478 --> 00:44:13.820
+latent value of someone in
+Czechoslovakia.
+
+00:44:13.820 --> 00:44:17.000
+So, or, I just assume that&#39;s
+the case anyway.
+
+00:44:18.400 --> 00:44:22.680
+So, you&#39;ll need to, you want
+to make sure that when
+
+00:44:22.680 --> 00:44:26.740
+you&#39;re buying ads for these
+different types of cohorts,
+
+00:44:26.740 --> 00:44:28.610
+or these types of customer
+segments,
+
+00:44:28.610 --> 00:44:30.320
+that you know what the
+differences are.
+
+00:44:32.020 --> 00:44:35.210
+You don&#39;t wanna mix like,
+everything together.
+
+00:44:37.100 --> 00:44:40.880
+So, the last one on payback
+time is sustainability.
+
+00:44:42.050 --> 00:44:45.233
+I think a lot of businesses
+get in trouble, and
+
+00:44:45.233 --> 00:44:48.173
+it turns into a bad business
+when they start
+
+00:44:48.173 --> 00:44:50.307
+spending beyond their means.
+
+00:44:50.307 --> 00:44:54.303
+And it has a lot to do with
+risk tolerance, or
+
+00:44:54.303 --> 00:44:58.085
+how much risk you&#39;re willing
+to take on.
+
+00:44:58.085 --> 00:45:01.688
+So, when you look at CLV&#39;s
+of these.
+
+00:45:01.688 --> 00:45:05.626
+Let&#39;s just suppose you get a
+customer a customer who&#39;s
+
+00:45:05.626 --> 00:45:08.809
+worth $300 after 12 months,
+that is,
+
+00:45:08.809 --> 00:45:12.020
+in the first month they&#39;re
+worth $100.
+
+00:45:12.020 --> 00:45:14.800
+If you wait til the end of
+the 12 month period,
+
+00:45:14.800 --> 00:45:17.870
+then they give you the other
+$200.
+
+00:45:17.870 --> 00:45:21.615
+But if, in the first period
+you&#39;re actually paying
+
+00:45:21.615 --> 00:45:26.434
+$200 for them, then you&#39;re
+in the whole for
+
+00:45:26.434 --> 00:45:29.740
+$100 until the end of the 12
+month period.
+
+00:45:30.870 --> 00:45:34.180
+And that&#39;s when you start
+getting into
+
+00:45:34.180 --> 00:45:37.319
+potentially unsustainable
+growth, which is
+
+00:45:38.990 --> 00:45:43.320
+something could happen where
+at the end of the 12 months,
+
+00:45:43.320 --> 00:45:47.320
+you don&#39;t actually get the
+$200 from the customer, and
+
+00:45:47.320 --> 00:45:49.270
+you end up in a very bad
+situation and
+
+00:45:49.270 --> 00:45:51.080
+essentially just at the end
+of the day,
+
+00:45:51.080 --> 00:45:52.100
+you could be running out of
+money.
+
+00:45:52.100 --> 00:45:54.290
+And if you&#39;re doing this
+with credit cards,
+
+00:45:54.290 --> 00:45:58.930
+you will definitely find
+that you&#39;re gonna have to,
+
+00:45:58.930 --> 00:46:00.610
+you know, declare bankruptcy
+very soon.
+
+00:46:02.280 --> 00:46:06.990
+So again, payback time is
+very important, a safe one
+
+00:46:06.990 --> 00:46:10.810
+to go with is 3 months if
+you have very high risk,
+
+00:46:10.810 --> 00:46:14.780
+if you&#39;re very risk loving,
+maybe 12 months is better.
+
+00:46:14.780 --> 00:46:17.990
+Beyond 12 months is very
+much an unsafe territory.
+
+00:46:23.100 --> 00:46:24.068
+How much time do I have?
+
+00:46:24.068 --> 00:46:29.160
+A minute, okay.
+
+00:46:29.160 --> 00:46:35.210
+So, I&#39;ll just go into this,
+the art of pivoting.
+
+00:46:35.210 --> 00:46:38.150
+So a lot of people ask me,
+Homejoy went through,
+
+00:46:38.150 --> 00:46:41.460
+Homejoy in its current
+concept is
+
+00:46:42.520 --> 00:46:47.050
+literally the thirteenth
+idea we fully built out and
+
+00:46:47.050 --> 00:46:49.530
+try and execute on and try
+to get customers for.
+
+00:46:49.530 --> 00:46:50.740
+And so, a lot of the
+questions I get
+
+00:46:50.740 --> 00:46:54.300
+is how did you even, like,
+get to that thirteenth idea?
+
+00:46:54.300 --> 00:46:56.850
+And how&#39;d you decide when to
+move on.
+
+00:46:56.850 --> 00:47:00.850
+And so the best guidance I
+can give on that is,
+
+00:47:00.850 --> 00:47:04.570
+to kind of look at these
+three criteria, which is,
+
+00:47:04.570 --> 00:47:07.630
+once you realize you can&#39;t
+grow, or once you realize,
+
+00:47:07.630 --> 00:47:13.420
+you are despite building out
+all these great features and
+
+00:47:13.420 --> 00:47:15.190
+talking to all these users.
+
+00:47:15.190 --> 00:47:17.010
+None of them stick, or you
+don&#39;t
+
+00:47:17.010 --> 00:47:20.010
+have any good high retaining
+users, or the economics of
+
+00:47:20.010 --> 00:47:22.900
+the business just doesn&#39;t
+make sense, then once you
+
+00:47:22.900 --> 00:47:24.920
+make that realization, you
+just need to move on.
+
+00:47:26.090 --> 00:47:29.410
+And I think the trickiest
+one is probably the growth
+
+00:47:29.410 --> 00:47:31.760
+one, because there&#39;s so many
+stories out there
+
+00:47:31.760 --> 00:47:34.540
+where the founder stuck with
+the idea, and then,
+
+00:47:34.540 --> 00:47:38.610
+after three years, all of a
+sudden it started growing.
+
+00:47:38.610 --> 00:47:40.550
+So, the trick here is
+basically,
+
+00:47:40.550 --> 00:47:42.690
+what you really should do
+is,
+
+00:47:42.690 --> 00:47:45.932
+you should have a growth
+plan when you start out,
+
+00:47:45.932 --> 00:47:51.410
+which is you should ideally
+just have, what is
+
+00:47:51.410 --> 00:47:56.300
+an optimistic but realistic
+way to grow this business?
+
+00:47:56.300 --> 00:48:00.190
+And so, it might look
+something like this.
+
+00:48:00.190 --> 00:48:04.223
+And this is T and this is
+number of users.
+
+00:48:04.223 --> 00:48:11.870
+So, in week one you want,
+you just want one user.
+
+00:48:11.870 --> 00:48:14.680
+In week two you want maybe
+two users and
+
+00:48:14.680 --> 00:48:15.390
+so and so forth.
+
+00:48:15.390 --> 00:48:18.040
+And you can keep doubling up
+and up.
+
+00:48:19.520 --> 00:48:22.470
+So, in week one you should
+basically do
+
+00:48:22.470 --> 00:48:23.400
+as much as possible,
+
+00:48:23.400 --> 00:48:25.300
+build whatever you have to
+build to get that one user.
+
+00:48:25.300 --> 00:48:28.810
+And then in week two, so on,
+so forth, you build whatever
+
+00:48:28.810 --> 00:48:31.600
+you need to get two users,
+four users, eight users.
+
+00:48:31.600 --> 00:48:33.560
+In the beginning it should
+be fairly, if you
+
+00:48:33.560 --> 00:48:35.310
+have a product that people
+actually wan,t you should be
+
+00:48:35.310 --> 00:48:38.600
+able to maintain this growth
+curve pretty easily just by
+
+00:48:38.600 --> 00:48:41.210
+walking around and manually
+finding people.
+
+00:48:41.210 --> 00:48:43.840
+It&#39;s when you get to like,
+you need 100 users a week,
+
+00:48:43.840 --> 00:48:45.240
+or you need some of these
+more,
+
+00:48:45.240 --> 00:48:47.120
+you need the growth
+strategies to start working.
+
+00:48:48.810 --> 00:48:52.160
+And so, what I tell people
+is usually if you&#39;re fully
+
+00:48:52.160 --> 00:48:55.139
+executing on your product,
+and you&#39;re really
+
+00:48:55.139 --> 00:48:58.639
+working really, really hard,
+then, if you go three or
+
+00:48:58.639 --> 00:49:01.916
+four weeks in a row of no
+growth, backwards growth,
+
+00:49:01.916 --> 00:49:05.490
+then either, then it&#39;s time
+to maybe consider a pivot,
+
+00:49:05.490 --> 00:49:08.245
+in the sense that not
+starting over, like,
+
+00:49:08.245 --> 00:49:10.360
+completely come with a new
+idea.
+
+00:49:10.360 --> 00:49:11.831
+But you&#39;re probably
+fundamentally doing
+
+00:49:11.831 --> 00:49:13.584
+something wrong, because, in
+that early stage of
+
+00:49:13.584 --> 00:49:15.070
+a start up, you should
+always be growing.
+
+00:49:16.410 --> 00:49:18.170
+And, so, it&#39;s not.
+
+00:49:18.170 --> 00:49:21.320
+And this is optimistically
+what it looks like.
+
+00:49:21.320 --> 00:49:24.390
+And this is like, kind of
+the growth curve I set forth
+
+00:49:24.390 --> 00:49:26.730
+and put out when I started
+Home Joy.
+
+00:49:26.730 --> 00:49:29.520
+But really what it looks
+like is like this.
+
+00:49:31.780 --> 00:49:33.720
+And so you wanna make sure
+that when you&#39;re in
+
+00:49:33.720 --> 00:49:35.980
+a low like over here, that
+you don&#39;t just stop, right?
+
+00:49:35.980 --> 00:49:39.440
+And that&#39;s why you should
+wait two to three weeks,as
+
+00:49:39.440 --> 00:49:41.090
+long as you keep working
+hard, you&#39;ll eventually get
+
+00:49:41.090 --> 00:49:43.663
+back here and you&#39;ll see a
+trend like this over time.
+
+00:49:43.663 --> 00:49:50.741
+Cool, so that&#39;s pivoting
+
+00:49:50.741 --> 00:49:54.790
+and that&#39;s it.
+
+00:49:54.790 --> 00:49:56.528
+I can take questions at this
+point.
+
+00:49:56.528 --> 00:50:04.010
+&gt;&gt; Answer one question.
+
+00:50:04.010 --> 00:50:04.720
+&gt;&gt; Yeah.
+One question?
+
+00:50:04.720 --> 00:50:08.200
+&gt;&gt; So one question online
+was, if your users have a
+
+00:50:08.200 --> 00:50:10.110
+product that they&#39;re already
+somewhat comfortable with,
+
+00:50:10.110 --> 00:50:11.760
+how do you get them to
+switch to your&#39;s?
+
+00:50:11.760 --> 00:50:15.420
+&gt;&gt; Right so, there&#39;s a
+switch over costs.
+
+00:50:15.420 --> 00:50:17.850
+I&#39;ll tell you the example of
+Homejoy.
+
+00:50:17.850 --> 00:50:19.830
+So, Homejoy,
+
+00:50:19.830 --> 00:50:21.760
+we actually were creating a
+new market in the sense that
+
+00:50:21.760 --> 00:50:24.320
+a lot of our initial users
+never had cleaning before.
+
+00:50:24.320 --> 00:50:27.290
+So, it was pretty simple to
+get them on board.
+
+00:50:27.290 --> 00:50:30.860
+And a lot of people who have
+cleaners already,
+
+00:50:30.860 --> 00:50:33.660
+really trust their cleaner
+and they will.
+
+00:50:33.660 --> 00:50:38.670
+To get them to come and use
+something else is actually,
+
+00:50:38.670 --> 00:50:40.440
+probably the most difficult
+task in the world.
+
+00:50:42.220 --> 00:50:44.920
+And so, when you&#39;re billing
+things and trying to
+
+00:50:44.920 --> 00:50:46.860
+get people to switch over to
+you, what you really need to
+
+00:50:46.860 --> 00:50:50.260
+do is find the moments where
+your product or
+
+00:50:50.260 --> 00:50:52.590
+what your offering is much
+better or very
+
+00:50:52.590 --> 00:50:55.600
+much differentiated from the
+existing solution they have.
+
+00:50:55.600 --> 00:50:58.360
+So, an example is someone
+who had a regular cleaner
+
+00:50:59.480 --> 00:51:01.070
+and maybe they had a party
+one day and
+
+00:51:01.070 --> 00:51:02.770
+they needed a cleaning
+almost the next day.
+
+00:51:02.770 --> 00:51:04.250
+And because Homejoy,
+
+00:51:04.250 --> 00:51:06.140
+in most of the areas has
+next day availability,
+
+00:51:06.140 --> 00:51:08.010
+they would just come to
+Homejoy and use it, because
+
+00:51:08.010 --> 00:51:09.990
+they knew they couldn&#39;t get
+their regular cleaner.
+
+00:51:09.990 --> 00:51:12.880
+And once they start using
+the product,
+
+00:51:12.880 --> 00:51:16.230
+then that&#39;s when they start
+realizing the advantage,
+
+00:51:16.230 --> 00:51:18.740
+the little advantages of
+using Homejoy which adds up
+
+00:51:18.740 --> 00:51:19.460
+to a big advantage.
+
+00:51:19.460 --> 00:51:21.912
+So, a lot of things are,
+
+00:51:21.912 --> 00:51:26.250
+realizing that, leaving cash
+out, or
+
+00:51:26.250 --> 00:51:28.180
+leaving checks was really
+annoying, and so billing
+
+00:51:28.180 --> 00:51:30.180
+through online payments was
+more convenient.
+
+00:51:30.180 --> 00:51:32.930
+Being able to book, cancel,
+and reschedule, according to
+
+00:51:32.930 --> 00:51:35.990
+your own schedule was very
+convenient and so
+
+00:51:35.990 --> 00:51:36.526
+and so forth.
+
+00:51:36.526 --> 00:51:41.660
+And so, it&#39;s just, it&#39;s
+really hard to,
+
+00:51:41.660 --> 00:51:43.370
+a lot of people when they
+build the product,
+
+00:51:43.370 --> 00:51:46.910
+they&#39;re like, and these 50
+things are better than,
+
+00:51:46.910 --> 00:51:49.150
+a little bit better than,
+the existing solution.
+
+00:51:49.150 --> 00:51:52.510
+It&#39;s really hard, even if
+the benefits outweigh
+
+00:51:52.510 --> 00:51:53.500
+the switch-over costs.
+
+00:51:53.500 --> 00:51:58.190
+It&#39;s really hard to actually
+tell that to a user and
+
+00:51:58.190 --> 00:52:02.420
+try to get them to aggregate
+all those benefits over many
+
+00:52:02.420 --> 00:52:02.960
+little things.
+
+00:52:02.960 --> 00:52:05.000
+It&#39;s better to just have one
+or two things that clearly
+
+00:52:05.000 --> 00:52:08.380
+differentiate yourself from
+the product so.
+
+00:52:08.380 --> 00:52:10.270
+&gt;&gt; Thank you very much.
+
+00:52:10.270 --> 00:52:10.770
+&gt;&gt; Yeah.
+
+00:52:17.190 --> 00:52:18.155
+&gt;&gt; That was awesome.
+
+00:52:18.155 --> 00:52:18.745
+&gt;&gt; Yeah?
+
+00:52:18.745 --> 00:52:21.590
+Okay.
+
