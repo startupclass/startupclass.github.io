@@ -1,0 +1,4439 @@
+WEBVTT
+
+00:00:00.008 --> 00:00:04.040
+Can we keep playing, wait,
+okay good.
+
+00:00:07.942 --> 00:00:10.845
+Can we turn it up a little
+bit, so it&#39;s more pumped up?
+
+00:00:10.845 --> 00:00:11.846
+&gt;&gt; That&#39;s loud.
+
+00:00:11.846 --> 00:00:13.514
+&gt;&gt; Okay, here we go, okay.
+
+00:00:19.420 --> 00:00:20.774
+&gt;&gt; Okay, so we gotta find
+the beat and
+
+00:00:20.774 --> 00:00:21.999
+then we gotta clap to the
+beat.
+
+00:00:25.760 --> 00:00:26.594
+&gt;&gt; Okay.
+
+00:00:26.594 --> 00:00:27.361
+All right.
+
+00:00:30.464 --> 00:00:31.632
+Okay, that&#39;s pretty good
+guys.
+
+00:00:31.632 --> 00:00:32.333
+All right, we&#39;re good.
+
+00:00:32.333 --> 00:00:32.833
+We&#39;re good.
+
+00:00:32.833 --> 00:00:33.634
+Thank you.
+
+00:00:33.634 --> 00:00:34.869
+Okay, please stop.
+
+00:00:34.869 --> 00:00:36.303
+Okay, stop the music.
+
+00:00:36.303 --> 00:00:36.803
+Thank you.
+
+00:00:38.300 --> 00:00:39.049
+Okay, cool.
+Can you put on
+
+00:00:39.049 --> 00:00:40.141
+the presentation, thank you.
+
+00:00:42.243 --> 00:00:43.508
+&gt;&gt; That&#39;ll be the most
+pumped up
+
+00:00:43.508 --> 00:00:45.734
+thing that ever happens in
+enterprise software, so
+
+00:00:45.734 --> 00:00:48.223
+the rest is sort of downhill
+from here.
+
+00:00:48.223 --> 00:00:51.870
+&gt;&gt; So, thank you for that
+intro,
+
+00:00:51.870 --> 00:00:53.320
+that well-rehearsed intro,
+thank you.
+
+00:00:54.555 --> 00:00:57.381
+&gt;&gt; Confirming the facts as
+you&#39;re saying them,
+
+00:00:57.381 --> 00:00:58.600
+very good.
+
+00:00:58.600 --> 00:01:01.744
+So I&#39;m Aaron Levie, CEO and
+co-founder of Box.
+
+00:01:01.744 --> 00:01:06.078
+Welcome to this edition of
+how to
+
+00:01:06.078 --> 00:01:11.570
+build an enterprise software
+company.
+
+00:01:11.570 --> 00:01:13.350
+That&#39;s my understanding.
+This is the course that
+
+00:01:13.350 --> 00:01:16.110
+you&#39;re taking, right, is
+that correct?
+
+00:01:16.110 --> 00:01:17.378
+&gt;&gt; No, okay, so.
+
+00:01:18.946 --> 00:01:20.750
+&gt;&gt; Here&#39;s my job today.
+
+00:01:20.750 --> 00:01:21.820
+My job is to try and
+
+00:01:21.820 --> 00:01:25.210
+convince you that everybody
+else who speaks throughout
+
+00:01:25.210 --> 00:01:28.040
+this whole class is wrong
+and that you
+
+00:01:28.040 --> 00:01:30.060
+actually wanna build an
+enterprise software company.
+
+00:01:30.060 --> 00:01:31.620
+And so hopefully we&#39;ll be
+able to
+
+00:01:31.620 --> 00:01:33.900
+kinda work through this, and
+you&#39;ll have a good sense of
+
+00:01:33.900 --> 00:01:37.740
+why it&#39;s super cool to be in
+the enterprise.
+
+00:01:37.740 --> 00:01:40.570
+And why a lot of the
+perceptions of
+
+00:01:40.570 --> 00:01:42.710
+going into the whole
+consumer space, where it&#39;s,
+
+00:01:42.710 --> 00:01:44.300
+you know, so much fun and
+everything.
+
+00:01:44.300 --> 00:01:45.520
+Why that&#39;s wrong and
+
+00:01:45.520 --> 00:01:47.000
+why you wanna do enterprise
+software.
+
+00:01:47.000 --> 00:01:49.260
+Who wants to build an
+enterprise software company?
+
+00:01:49.260 --> 00:01:50.230
+Good, all right.
+
+00:01:50.230 --> 00:01:51.420
+Thank you very much.
+
+00:01:51.420 --> 00:01:53.782
+Hopefully we&#39;ll do a vote at
+the end and
+
+00:01:53.782 --> 00:01:56.740
+hopefully that will not have
+shrunk.
+
+00:01:56.740 --> 00:01:59.890
+So that&#39;s really actually
+the only goal I
+
+00:01:59.890 --> 00:02:01.070
+have at this point.
+
+00:02:01.070 --> 00:02:04.380
+So, we&#39;re gonna talk about
+three things today.
+
+00:02:04.380 --> 00:02:07.780
+The first is the quick
+background and
+
+00:02:07.780 --> 00:02:08.980
+history of Box.
+
+00:02:08.980 --> 00:02:10.980
+Cuz when we started the
+company, we didn&#39;t know that
+
+00:02:10.980 --> 00:02:13.960
+we wanted to do enterprise
+software and so I wanna kind
+
+00:02:13.960 --> 00:02:16.310
+of get through a little bit
+about why we decided to
+
+00:02:16.310 --> 00:02:18.880
+go after the enterprise and
+what we do today.
+
+00:02:18.880 --> 00:02:20.350
+And then I&#39;m gonna talk a
+little bit
+
+00:02:20.350 --> 00:02:22.050
+about what are the major
+kind of factors that
+
+00:02:22.050 --> 00:02:26.600
+have changed in enterprise
+software that make it
+
+00:02:26.600 --> 00:02:28.880
+possible to do a start up
+today in this category.
+
+00:02:28.880 --> 00:02:30.360
+And then finally we&#39;ll talk
+a little
+
+00:02:30.360 --> 00:02:34.420
+about some patterns that you
+can kind of exploit and
+
+00:02:34.420 --> 00:02:37.770
+some ways to recognize and
+ways to actually go
+
+00:02:37.770 --> 00:02:39.860
+build an enterprise software
+company yourself and
+
+00:02:41.410 --> 00:02:44.760
+hopefully that&#39;ll be some
+practical, useful advice.
+
+00:02:44.760 --> 00:02:46.890
+Just as a forewarning, my
+voice,
+
+00:02:46.890 --> 00:02:48.848
+as I&#39;ve been speaking a lot
+the past couple days.
+
+00:02:48.848 --> 00:02:51.600
+So hopefully, I&#39;ll be able
+to get to that third part of
+
+00:02:51.600 --> 00:02:55.120
+the advice and actually be
+able to talk, so we&#39;ll see
+
+00:02:55.120 --> 00:02:57.520
+how we make it but I&#39;m gonna
+be downing a lot of water so
+
+00:02:57.520 --> 00:02:59.300
+I apologize for that.
+
+00:02:59.300 --> 00:03:01.420
+So building for the
+enterprise.
+
+00:03:01.420 --> 00:03:03.020
+This is what we&#39;re gonna
+talk about.
+
+00:03:03.020 --> 00:03:05.668
+So just quick kinda high
+level stats about Box.
+
+00:03:05.668 --> 00:03:07.884
+We&#39;ve about 240,000
+businesses that use
+
+00:03:07.884 --> 00:03:09.080
+the product.
+
+00:03:09.080 --> 00:03:12.402
+There are over 27 million
+users that have brought Box
+
+00:03:12.402 --> 00:03:15.723
+into their organization and
+used it as individuals and
+
+00:03:15.723 --> 00:03:18.550
+we&#39;re in about 99% of the
+Fortune 500.
+
+00:03:18.550 --> 00:03:21.340
+Unfortunately that last 1%
+is really just Microsoft.
+
+00:03:21.340 --> 00:03:23.539
+And they don&#39;t seem to wanna
+buy from us.
+
+00:03:23.539 --> 00:03:24.930
+So.
+
+00:03:24.930 --> 00:03:27.452
+&gt;&gt; We have to work on that a
+little bit.
+
+00:03:27.452 --> 00:03:30.630
+But certainly, a decent
+amount of scale,
+
+00:03:30.630 --> 00:03:33.050
+a lot of users that have
+brought Box into
+
+00:03:33.050 --> 00:03:34.870
+enterprise environments,
+these are some of
+
+00:03:34.870 --> 00:03:38.120
+the large organizations that
+are using the product.
+
+00:03:38.120 --> 00:03:41.980
+So, a very wide range of
+industries, everything from
+
+00:03:41.980 --> 00:03:45.290
+manufacturing and consumer
+products to companies like
+
+00:03:45.290 --> 00:03:45.910
+General Electric.
+
+00:03:46.940 --> 00:03:49.960
+Stanford Healthcare actually
+uses the product for
+
+00:03:49.960 --> 00:03:52.370
+collaboration within the
+hospital environments and
+
+00:03:52.370 --> 00:03:53.600
+the research.
+
+00:03:53.600 --> 00:03:57.510
+But between healthcare,
+media, manufacturing.
+
+00:03:57.510 --> 00:03:58.740
+These are the sort of the
+range of
+
+00:03:58.740 --> 00:03:59.997
+industries that we serve.
+
+00:03:59.997 --> 00:04:02.660
+So, the question&#39;s how did
+we get here?
+
+00:04:02.660 --> 00:04:04.902
+Cuz we didn&#39;t really start
+the company to try and
+
+00:04:04.902 --> 00:04:06.982
+go build an enterprise
+software company even
+
+00:04:06.982 --> 00:04:09.780
+though that is how things
+ended up happening.
+
+00:04:09.780 --> 00:04:12.430
+So when we started the
+product, so
+
+00:04:12.430 --> 00:04:14.070
+we launched the company in
+2005.
+
+00:04:14.070 --> 00:04:17.740
+We got the idea actually in
+college back in 2004.
+
+00:04:17.740 --> 00:04:21.760
+And so, was anybody using
+the internet back in 2004?
+
+00:04:21.760 --> 00:04:22.260
+Okay great.
+
+00:04:23.910 --> 00:04:25.440
+So basically, I don&#39;t know
+if
+
+00:04:26.550 --> 00:04:29.750
+millennials use the internet
+back then.
+
+00:04:29.750 --> 00:04:30.260
+Sorry.
+
+00:04:30.260 --> 00:04:30.971
+Okay, no more age jokes.
+
+00:04:30.971 --> 00:04:31.772
+All right, here&#39;s the point.
+
+00:04:31.772 --> 00:04:34.959
+So, back in 2004, you might
+remember that there wasn&#39;t
+
+00:04:34.959 --> 00:04:36.377
+a lot to do on the internet.
+
+00:04:36.377 --> 00:04:37.629
+It was actually kind of
+boring right?
+
+00:04:38.650 --> 00:04:40.160
+This is before Facebook.
+
+00:04:40.160 --> 00:04:42.220
+This is certainly before
+Snapchat.
+
+00:04:42.220 --> 00:04:43.680
+So not a lot of things that
+you could go to,
+
+00:04:43.680 --> 00:04:46.230
+you couldn&#39;t send people 15
+second messages and
+
+00:04:46.230 --> 00:04:47.220
+photos that disappeared,
+
+00:04:47.220 --> 00:04:49.090
+cuz you didn&#39;t even have a
+phone to send them photos.
+
+00:04:50.660 --> 00:04:53.470
+So in the internet in 2004,
+there wasn&#39;t a lot going on.
+
+00:04:53.470 --> 00:04:56.090
+This was basically what the
+internet looked like.
+
+00:04:56.090 --> 00:04:59.240
+Sort of a barren, deserted
+landscape and
+
+00:04:59.240 --> 00:05:01.770
+this was the internet and
+just to clarify,
+
+00:05:01.770 --> 00:05:05.049
+the happy camel&#39;s Google and
+the sad camel&#39;s Yahoo!
+
+00:05:05.049 --> 00:05:07.677
+&gt;&gt; And that was effectively
+the internet and
+
+00:05:07.677 --> 00:05:11.115
+this is accurate, this is
+the internet in 2004.
+
+00:05:11.115 --> 00:05:13.240
+Yahoo has done a lot better
+since then but,
+
+00:05:13.240 --> 00:05:14.300
+but back in the middle 2000s
+
+00:05:14.300 --> 00:05:16.360
+they were certainly trying
+to find their way and
+
+00:05:16.360 --> 00:05:19.500
+Google was sort of taking
+over the world but
+
+00:05:19.500 --> 00:05:22.300
+this was the entire, this
+was the extent of the world.
+
+00:05:22.300 --> 00:05:25.403
+So, what we noticed in 2004
+in college was that it was,
+
+00:05:25.403 --> 00:05:27.263
+for some reason, and this
+isn&#39;t so
+
+00:05:27.263 --> 00:05:28.441
+much the case today but
+
+00:05:28.441 --> 00:05:31.530
+back in 2004 it was like,
+really hard to share files.
+
+00:05:31.530 --> 00:05:35.960
+And as simple of an idea as
+that is now, you go back
+
+00:05:35.960 --> 00:05:39.730
+ten years and it was either
+really expensive or
+
+00:05:39.730 --> 00:05:40.390
+it was really hard to
+
+00:05:40.390 --> 00:05:42.755
+move data through different
+corporate networks.
+
+00:05:42.755 --> 00:05:44.870
+So I had an internship at
+the time,
+
+00:05:44.870 --> 00:05:49.380
+and in the internship, most
+of my job using data was
+
+00:05:49.380 --> 00:05:53.080
+actually just to copy
+printed out pages and
+
+00:05:53.080 --> 00:05:54.160
+then put them in cabinets.
+
+00:05:55.570 --> 00:05:56.550
+That&#39;s what you do
+
+00:05:56.550 --> 00:05:59.990
+as an intern if you&#39;re not a
+computer science student.
+
+00:06:01.410 --> 00:06:03.595
+So I was really, really good
+at copying paper.
+
+00:06:03.595 --> 00:06:06.640
+And unfortunately not a
+skill that has
+
+00:06:06.640 --> 00:06:08.045
+really been useful today.
+
+00:06:08.045 --> 00:06:10.060
+But, it was really hard to
+share files and
+
+00:06:10.060 --> 00:06:11.980
+then in classroom
+environments you
+
+00:06:11.980 --> 00:06:13.950
+were constantly working with
+lots of other people and
+
+00:06:13.950 --> 00:06:15.370
+it was also hard to share
+files.
+
+00:06:17.550 --> 00:06:18.860
+I went to USC.
+
+00:06:18.860 --> 00:06:22.560
+And USC gave you 50
+megabytes of online storage
+
+00:06:22.560 --> 00:06:24.010
+space in your email account.
+
+00:06:24.010 --> 00:06:24.920
+50 megabytes.
+
+00:06:24.920 --> 00:06:27.760
+So you can basically store
+about one file and
+
+00:06:27.760 --> 00:06:30.210
+then it would auto-delete
+every six months.
+
+00:06:32.030 --> 00:06:34.390
+I don&#39;t know who was running
+IT at the time but
+
+00:06:34.390 --> 00:06:36.520
+they certainly didn&#39;t buy
+hard drives.
+
+00:06:36.520 --> 00:06:39.320
+So, there was just really,
+really hard to store and
+
+00:06:39.320 --> 00:06:39.880
+share files.
+
+00:06:39.880 --> 00:06:41.260
+And so we said, well,
+
+00:06:41.260 --> 00:06:43.380
+why don&#39;t we make it really
+easy to store and
+
+00:06:43.380 --> 00:06:44.320
+share files from anywhere?
+
+00:06:44.320 --> 00:06:46.100
+And so we got this idea for,
+
+00:06:46.100 --> 00:06:48.230
+at the time it was called
+box.net.
+
+00:06:48.230 --> 00:06:51.380
+And what we noticed was
+there were a bunch of
+
+00:06:51.380 --> 00:06:55.040
+factors that had changed in
+the software world.
+
+00:06:55.040 --> 00:06:57.720
+The first was that the cost
+of storage was sort of
+
+00:06:57.720 --> 00:06:59.010
+dropping dramatically.
+
+00:06:59.010 --> 00:07:02.490
+So, in our business,
+basically every year or
+
+00:07:02.490 --> 00:07:05.450
+two, you can double the
+amount of data and
+
+00:07:05.450 --> 00:07:07.122
+storage that goes in to a
+hard drive.
+
+00:07:07.122 --> 00:07:12.390
+So, what was uneconomical
+two or three years ago,
+
+00:07:12.390 --> 00:07:15.040
+all of the sudden becomes
+feasible because the cost of
+
+00:07:15.040 --> 00:07:16.580
+computing and the cost of
+storage has dropped.
+
+00:07:18.150 --> 00:07:21.076
+We had more powerful
+browsers and networks so
+
+00:07:21.076 --> 00:07:24.618
+Firefox was just emerging,
+people were using the much
+
+00:07:24.618 --> 00:07:27.159
+faster internet in both
+their homes and
+
+00:07:27.159 --> 00:07:28.840
+in the classroom.
+
+00:07:28.840 --> 00:07:30.810
+And then people had more
+locations that they
+
+00:07:30.810 --> 00:07:32.400
+wanted to store and share
+information from.
+
+00:07:32.400 --> 00:07:34.740
+And so we had these sort of
+three factors that all of
+
+00:07:34.740 --> 00:07:36.300
+a sudden were emerging.
+
+00:07:36.300 --> 00:07:38.490
+And I&#39;m gonna sort of pull
+these factors back
+
+00:07:38.490 --> 00:07:40.850
+later when I give some sort
+of tactical advice but
+
+00:07:40.850 --> 00:07:44.210
+sort of the first point to
+remember is, always look for
+
+00:07:44.210 --> 00:07:46.180
+these changing technology
+factors.
+
+00:07:46.180 --> 00:07:48.823
+Cuz any market that has a
+significant change in
+
+00:07:48.823 --> 00:07:51.196
+the underlying, either raw
+materials or
+
+00:07:51.196 --> 00:07:54.180
+enabling factors is an
+environment that&#39;s about to
+
+00:07:54.180 --> 00:07:56.167
+change in a very significant
+way.
+
+00:07:56.167 --> 00:07:59.553
+And so we were very
+fortunate that basically
+
+00:07:59.553 --> 00:08:02.846
+the need for data in the
+cloud was growing in
+
+00:08:02.846 --> 00:08:05.133
+importance, and the cost and
+
+00:08:05.133 --> 00:08:09.560
+the feasibility of doing it
+was also improving rapidly.
+
+00:08:09.560 --> 00:08:11.918
+And so we decided to put
+together this really quick
+
+00:08:11.918 --> 00:08:14.219
+version of Box, we launched
+it as box.net, and
+
+00:08:14.219 --> 00:08:17.800
+the idea was, let&#39;s make it
+really easy to share files.
+
+00:08:17.800 --> 00:08:20.380
+And it turned out that the
+idea clicked.
+
+00:08:20.380 --> 00:08:22.320
+We got angel funding from
+this guy named Mark Cuban.
+
+00:08:23.670 --> 00:08:25.110
+And this was before Shark
+Tank, but
+
+00:08:25.110 --> 00:08:26.520
+it was very similar.
+
+00:08:26.520 --> 00:08:29.120
+And so, we got this funding,
+and we decided that, okay.
+
+00:08:29.120 --> 00:08:30.790
+This is gonna be super
+exciting.
+
+00:08:30.790 --> 00:08:33.060
+We are going to drop out of
+college.
+
+00:08:33.060 --> 00:08:34.450
+We&#39;re gonna move to the Bay
+Area, and
+
+00:08:34.450 --> 00:08:35.510
+it&#39;s gonna be totally
+awesome.
+
+00:08:36.780 --> 00:08:38.460
+And when you drop out of
+college.
+
+00:08:38.460 --> 00:08:40.130
+Anybody drop out of college
+yet?
+
+00:08:40.130 --> 00:08:41.565
+Okay, good, stay in school.
+
+00:08:41.565 --> 00:08:44.340
+So when you drop out of
+college, like everyone sort
+
+00:08:44.340 --> 00:08:46.090
+of pictures it, it&#39;s just
+gonna be, you know,
+
+00:08:46.090 --> 00:08:48.750
+incredible, like Bill Gates
+dropped out of college.
+
+00:08:48.750 --> 00:08:50.012
+It will be like Bill Gates,
+or
+
+00:08:50.012 --> 00:08:51.676
+Michael Dell dropped out of
+college and
+
+00:08:51.676 --> 00:08:53.695
+it&#39;ll be super exciting like
+Michael Dell, or
+
+00:08:53.695 --> 00:08:55.309
+Steve Jobs dropped out of
+college, so
+
+00:08:55.309 --> 00:08:56.970
+this is what people imagine.
+
+00:08:56.970 --> 00:08:59.270
+But nobody ever remembers
+that this guy dropped out of
+
+00:08:59.270 --> 00:08:59.890
+college also.
+
+00:09:01.840 --> 00:09:05.160
+&gt;&gt; And, so it&#39;s not really a
+guarantee obviously that
+
+00:09:05.160 --> 00:09:06.085
+it&#39;s gonna be successful.
+
+00:09:06.085 --> 00:09:09.290
+But, it&#39;s what you do, and
+actually, funny,
+
+00:09:09.290 --> 00:09:11.130
+I don&#39;t even know if this
+guy dropped out of college.
+
+00:09:12.710 --> 00:09:14.510
+&gt;&gt; It just sort of looks
+like he had to.
+
+00:09:18.400 --> 00:09:19.787
+&gt;&gt; I apologize if anyone&#39;s
+related to him,
+
+00:09:19.787 --> 00:09:21.261
+it&#39;s just a funny picture on
+the internet.
+
+00:09:21.261 --> 00:09:22.629
+So.
+
+00:09:22.629 --> 00:09:24.744
+&gt;&gt; So basically we decided
+we would drop out of
+
+00:09:24.744 --> 00:09:25.280
+college.
+
+00:09:25.280 --> 00:09:27.670
+We moved up to first Berkley
+and
+
+00:09:27.670 --> 00:09:30.245
+then we moved to Palo Alto a
+little bit thereafter.
+
+00:09:30.245 --> 00:09:33.427
+And we decided that we were
+gonna open up the product
+
+00:09:33.427 --> 00:09:34.100
+for free.
+
+00:09:34.100 --> 00:09:36.920
+We got hundreds of thousands
+of people that would sign up
+
+00:09:36.920 --> 00:09:39.470
+for the product every single
+month.
+
+00:09:39.470 --> 00:09:42.533
+So, we had a free version of
+the product called,
+
+00:09:42.533 --> 00:09:45.893
+if you went to box.net, you
+got a free one gigabyte of
+
+00:09:45.893 --> 00:09:47.986
+file storage space, which
+was,
+
+00:09:47.986 --> 00:09:51.224
+again, quite a bit back in
+2006 at this point.
+
+00:09:51.224 --> 00:09:53.097
+But we were getting so many
+users and
+
+00:09:53.097 --> 00:09:56.099
+we were trying to figure out
+what to do.
+
+00:09:56.099 --> 00:09:59.195
+And what we ran into was a
+common problem that really
+
+00:09:59.195 --> 00:10:02.220
+any startup runs into but
+was really pronounced by
+
+00:10:02.220 --> 00:10:05.534
+our business model, which
+was that for consumers, we
+
+00:10:05.534 --> 00:10:09.690
+had built a very robust, a
+very comprehensive product.
+
+00:10:09.690 --> 00:10:11.175
+And for enterprises,
+
+00:10:11.175 --> 00:10:14.940
+we had actually built too
+insignificant of a product.
+
+00:10:14.940 --> 00:10:18.800
+So, for consumers, what we
+were running into was, we
+
+00:10:18.800 --> 00:10:22.030
+had all these features that
+you could pay for but a lot
+
+00:10:22.030 --> 00:10:24.070
+of the consumers didn&#39;t need
+all of those features.
+
+00:10:24.070 --> 00:10:25.020
+And for enterprises,
+
+00:10:25.020 --> 00:10:27.500
+we didn&#39;t really have
+enough, security.
+
+00:10:27.500 --> 00:10:30.310
+And we didn&#39;t have enough
+capabilities around how
+
+00:10:30.310 --> 00:10:32.220
+enterprises wanted to use
+their data.
+
+00:10:32.220 --> 00:10:34.330
+So we basically had more
+functionality than what
+
+00:10:34.330 --> 00:10:37.080
+a consumer wanted and less
+than what enterprise wanted.
+
+00:10:37.080 --> 00:10:39.420
+And so we found ourselves at
+this juncture.
+
+00:10:39.420 --> 00:10:42.380
+And we found ourselves
+basically in this
+
+00:10:42.380 --> 00:10:45.090
+period where it&#39;s very
+difficult to figure out what
+
+00:10:45.090 --> 00:10:46.820
+we wanted to go do with the
+business, so
+
+00:10:46.820 --> 00:10:47.890
+we had to make a choice,
+right?
+
+00:10:47.890 --> 00:10:52.360
+And so we were at this path
+where basically,
+
+00:10:52.360 --> 00:10:53.380
+we&#39;re at a juncture where we
+had to
+
+00:10:53.380 --> 00:10:55.090
+choose which path do go
+down.
+
+00:10:55.090 --> 00:11:00.760
+And this was back in early,
+mid 2006, up to late 2006,
+
+00:11:00.760 --> 00:11:02.970
+so I was, I think, 23 at the
+time.
+
+00:11:02.970 --> 00:11:04.150
+The co-founder was, was 22.
+
+00:11:04.150 --> 00:11:07.625
+Our founding team was even
+younger.
+
+00:11:07.625 --> 00:11:09.540
+When we all dropped out of
+college.
+
+00:11:09.540 --> 00:11:14.365
+And so back in 2006, 2007,
+we imagined these two
+
+00:11:14.365 --> 00:11:18.580
+paths and the worlds were
+very, very different.
+
+00:11:18.580 --> 00:11:21.150
+Like when you do a consumer
+start up,
+
+00:11:21.150 --> 00:11:23.280
+it&#39;s basically just lots of
+fun.
+
+00:11:23.280 --> 00:11:24.050
+And, you know?
+
+00:11:24.050 --> 00:11:25.770
+You have parties all the
+time.
+
+00:11:25.770 --> 00:11:27.902
+And it&#39;s just super
+exciting.
+
+00:11:27.902 --> 00:11:29.330
+And then the enterprise,
+
+00:11:29.330 --> 00:11:32.900
+you basically are battling
+these just large incumbents.
+
+00:11:32.900 --> 00:11:34.700
+It&#39;s a fairly thankless, you
+know?
+
+00:11:34.700 --> 00:11:35.730
+Model because you know?
+
+00:11:35.730 --> 00:11:38.330
+People just generally hate
+enterprise software.
+
+00:11:38.330 --> 00:11:40.805
+So that was sort of how we
+imagined that the two
+
+00:11:40.805 --> 00:11:43.260
+paths was, we had to choose,
+you know,
+
+00:11:43.260 --> 00:11:44.340
+one of these two worlds.
+
+00:11:45.440 --> 00:11:46.340
+And so we looked at that and
+
+00:11:46.340 --> 00:11:48.170
+we said okay, well consumer
+looks really fun,
+
+00:11:48.170 --> 00:11:49.450
+enterprise looks really hard
+and,
+
+00:11:49.450 --> 00:11:50.900
+and there&#39;s a lot of
+competition.
+
+00:11:50.900 --> 00:11:53.970
+At the same time, in the
+consumer space,
+
+00:11:55.000 --> 00:11:57.440
+you are always fighting this
+issue of,
+
+00:11:57.440 --> 00:11:58.410
+how do you monetize?
+
+00:11:58.410 --> 00:11:59.160
+How do you, how
+
+00:11:59.160 --> 00:12:01.760
+do you actually get people
+to pay for products?
+
+00:12:01.760 --> 00:12:04.570
+And in the consumer space,
+there&#39;s really only two sort
+
+00:12:04.570 --> 00:12:05.960
+of business models that you
+can do.
+
+00:12:05.960 --> 00:12:08.250
+You can have people pay for
+your application.
+
+00:12:08.250 --> 00:12:11.410
+Or you can provide
+advertising on
+
+00:12:11.410 --> 00:12:12.150
+the application.
+
+00:12:12.150 --> 00:12:13.820
+And so just to give you a
+little bit of perspective,
+
+00:12:13.820 --> 00:12:15.000
+these are today&#39;s numbers.
+
+00:12:15.000 --> 00:12:16.936
+Just to give you a little
+bit of a sense of
+
+00:12:16.936 --> 00:12:19.285
+the scale difference, in the
+consumer world,
+
+00:12:19.285 --> 00:12:21.225
+there&#39;s about $35 billion
+spent on
+
+00:12:21.225 --> 00:12:23.902
+mobile apps every year,
+pretty big number, right?
+
+00:12:23.902 --> 00:12:25.030
+$35 billion that&#39;s,
+
+00:12:25.030 --> 00:12:26.840
+that&#39;s a lot of money being
+spent on mobile apps today.
+
+00:12:28.100 --> 00:12:31.750
+For advertising, the global
+digital advertising market
+
+00:12:31.750 --> 00:12:34.140
+is $135 billion.
+
+00:12:34.140 --> 00:12:36.230
+So, you know, basically
+combined
+
+00:12:36.230 --> 00:12:38.930
+most consumer companies are
+going after, if you&#39;re not
+
+00:12:38.930 --> 00:12:42.180
+doing e-commerce, about $170
+billion of
+
+00:12:42.180 --> 00:12:46.580
+either sort of purchasing
+power on applications or
+
+00:12:46.580 --> 00:12:49.340
+global advertising around
+these kinds of services.
+
+00:12:49.340 --> 00:12:53.165
+So, big numbers, lot of
+opportunity there, however,
+
+00:12:53.165 --> 00:12:57.232
+in enterprise, there&#39;s
+actually $3.7 trillion spent
+
+00:12:57.232 --> 00:13:00.130
+on enterprise IT every
+single year.
+
+00:13:00.130 --> 00:13:02.880
+So these are the servers,
+the infrastructure,
+
+00:13:02.880 --> 00:13:06.250
+the software, the
+networking, the services.
+
+00:13:06.250 --> 00:13:08.930
+All of that stack of
+technology equates to
+
+00:13:08.930 --> 00:13:11.160
+a few trillion dollars spent
+every single year.
+
+00:13:12.880 --> 00:13:14.510
+And so what we realized was,
+okay,
+
+00:13:14.510 --> 00:13:17.130
+there&#39;s a pretty wide delta
+between these two markets.
+
+00:13:17.130 --> 00:13:18.640
+We are gonna be fighting
+over trying to
+
+00:13:18.640 --> 00:13:21.360
+get consumers to pay a few
+dollars a month.
+
+00:13:21.360 --> 00:13:25.350
+And Google and Microsoft and
+Apple will probably try and
+
+00:13:25.350 --> 00:13:26.980
+make this product be free
+over time.
+
+00:13:26.980 --> 00:13:29.310
+And there were sort of
+rumors that Google Drive was
+
+00:13:29.310 --> 00:13:30.710
+coming out and these kind of
+products that
+
+00:13:30.710 --> 00:13:32.540
+eventually happened were
+going to come out.
+
+00:13:32.540 --> 00:13:37.160
+But in the enterprise, it&#39;s
+not so much about that they
+
+00:13:37.160 --> 00:13:38.820
+are trying to always save
+money on IT.
+
+00:13:38.820 --> 00:13:41.090
+They&#39;re actually trying to
+increase productivity.
+
+00:13:41.090 --> 00:13:41.820
+They&#39;re trying to
+
+00:13:41.820 --> 00:13:43.680
+get higher performance from
+their businesses.
+
+00:13:43.680 --> 00:13:45.605
+So the value equation is
+very different right?
+
+00:13:45.605 --> 00:13:47.650
+In consumer, we have a
+limited amount of money that
+
+00:13:47.650 --> 00:13:51.030
+we want to actually make
+sure that we conserve for
+
+00:13:51.030 --> 00:13:53.210
+as few things as possible
+that we&#39;re gonna spend.
+
+00:13:53.210 --> 00:13:54.190
+In the enterprise,
+
+00:13:54.190 --> 00:13:55.410
+it&#39;s a little bit of a
+different shift,
+
+00:13:55.410 --> 00:13:56.950
+where you&#39;re trying to think
+about actually,
+
+00:13:56.950 --> 00:13:58.750
+what can I get out of
+technology, and
+
+00:13:58.750 --> 00:14:00.890
+how much value is that for
+me.
+
+00:14:00.890 --> 00:14:03.070
+So, that was a really
+important data point.
+
+00:14:03.070 --> 00:14:06.860
+However, the problem was
+that enterprise software
+
+00:14:06.860 --> 00:14:08.170
+was really, really unsexy.
+
+00:14:08.170 --> 00:14:10.360
+Right?
+So again, very competitive,
+
+00:14:10.360 --> 00:14:11.750
+very difficult to build a
+business.
+
+00:14:11.750 --> 00:14:13.530
+It wasn&#39;t something that
+really you should have
+
+00:14:13.530 --> 00:14:15.190
+shot out of bed in the
+morning and said, okay, I&#39;m
+
+00:14:15.190 --> 00:14:17.810
+super excited to build an
+enterprise software company.
+
+00:14:17.810 --> 00:14:18.510
+And the reason for
+
+00:14:18.510 --> 00:14:22.600
+that was actually pretty
+straightforward at the time.
+
+00:14:22.600 --> 00:14:24.665
+The way that you built
+software was very slow.
+
+00:14:24.665 --> 00:14:27.710
+So you had to be very slow
+because
+
+00:14:27.710 --> 00:14:29.730
+you couldn&#39;t break anything
+for customers.
+
+00:14:29.730 --> 00:14:32.878
+The sales process was very
+slow because customers take
+
+00:14:32.878 --> 00:14:35.008
+a long time to purchase
+technology.
+
+00:14:35.008 --> 00:14:37.364
+So I think everyone&#39;s sort
+of used to this concept that
+
+00:14:37.364 --> 00:14:39.617
+usually when you try and
+sell enterprise software to
+
+00:14:39.617 --> 00:14:41.662
+a company, it can take up to
+a couple of years for
+
+00:14:41.662 --> 00:14:43.424
+them to actually just buy
+the software.
+
+00:14:43.424 --> 00:14:45.883
+And then they can take a
+couple more years for
+
+00:14:45.883 --> 00:14:48.145
+them to even implement the
+technology in
+
+00:14:48.145 --> 00:14:51.070
+the first place, so a lot of
+companies are around for
+
+00:14:51.070 --> 00:14:54.064
+a few years without having
+their technology even used
+
+00:14:54.064 --> 00:14:55.216
+in the enterprise.
+
+00:14:55.216 --> 00:14:57.087
+That felt like a huge
+problem.
+
+00:14:57.087 --> 00:14:59.527
+And not like something we
+wanted to be a part of.
+
+00:14:59.527 --> 00:15:02.268
+The technology itself is
+fairly complex.
+
+00:15:02.268 --> 00:15:04.514
+So the user experience, I
+don&#39;t know how many
+
+00:15:04.514 --> 00:15:07.107
+people have had to use most
+enterprise software, but
+
+00:15:07.107 --> 00:15:09.920
+it&#39;s generally really
+complicated.
+
+00:15:09.920 --> 00:15:14.010
+You find yourself asking why
+in God&#39;s name did
+
+00:15:14.010 --> 00:15:18.000
+the designer try to put 47
+buttons on the page.
+
+00:15:18.000 --> 00:15:20.294
+And you just can&#39;t even
+understand it, and
+
+00:15:20.294 --> 00:15:23.027
+the reason is something
+we&#39;ll get into in a second.
+
+00:15:23.027 --> 00:15:25.195
+But basically, there&#39;s just
+no love or
+
+00:15:25.195 --> 00:15:27.427
+care for the design and user
+experience,
+
+00:15:27.427 --> 00:15:29.870
+the software&#39;s just really
+complex.
+
+00:15:29.870 --> 00:15:32.108
+And then, finally, if that
+wasn&#39;t bad enough,
+
+00:15:32.108 --> 00:15:33.500
+all of a sudden you had to
+
+00:15:33.500 --> 00:15:35.590
+think about how do actually
+sell the software.
+
+00:15:35.590 --> 00:15:38.200
+And, for anybody who loves
+the power of the internet.
+
+00:15:38.200 --> 00:15:41.460
+This notion of having a
+sorta sales intermediary, to
+
+00:15:41.460 --> 00:15:44.460
+get to your customer, seemed
+like, really unappealing.
+
+00:15:44.460 --> 00:15:46.779
+Like, you&#39;re gonna have to
+go hire a bunch of people
+
+00:15:46.779 --> 00:15:49.110
+that, that are gonna be
+everywhere in the country.
+
+00:15:49.110 --> 00:15:51.500
+And they&#39;re gonna be the
+only interface,
+
+00:15:51.500 --> 00:15:52.620
+you have to your customer.
+
+00:15:52.620 --> 00:15:54.259
+You&#39;re gonna have to hire
+these guys named Chuck.
+
+00:15:55.780 --> 00:15:58.700
+And Chuck&#39;s gonna roll in
+with a briefcase, and
+
+00:15:58.700 --> 00:15:59.700
+he&#39;s gonna just try and
+
+00:15:59.700 --> 00:16:02.620
+sell, lots of enterprise
+software to the customer.
+
+00:16:02.620 --> 00:16:04.450
+Just so we&#39;re clear, this is
+what Chuck looks like.
+
+00:16:05.752 --> 00:16:09.480
+And that was the sales
+process that you, in
+
+00:16:09.480 --> 00:16:12.585
+the enterprise, that we at
+least imagined in our heads.
+
+00:16:12.585 --> 00:16:15.760
+And I mean, Chuck looks like
+a happy guy, but
+
+00:16:15.760 --> 00:16:18.970
+he&#39;s still an intermediary
+to getting your software.
+
+00:16:18.970 --> 00:16:20.150
+And we were saying, well,
+
+00:16:20.150 --> 00:16:22.120
+why can&#39;t we take the power
+of the Internet and
+
+00:16:22.120 --> 00:16:25.760
+actually, get our technology
+out to people directly?
+
+00:16:25.760 --> 00:16:27.822
+Why should we have to go
+through this
+
+00:16:27.822 --> 00:16:30.515
+sales intermediary as we
+scale the business?
+
+00:16:30.515 --> 00:16:32.677
+Now, I&#39;ll get into, in, in a
+minute,
+
+00:16:32.677 --> 00:16:35.159
+why we were wrong about, the
+sales process but
+
+00:16:35.159 --> 00:16:38.150
+this was the sort of fear
+that we had at the time.
+
+00:16:38.150 --> 00:16:40.233
+And then, if that wasn&#39;t
+hard enough we
+
+00:16:40.233 --> 00:16:42.626
+had investors in 2007 saying
+basically,
+
+00:16:42.626 --> 00:16:46.560
+there&#39;s no way you&#39;re gonna
+make it in the enterprise.
+
+00:16:46.560 --> 00:16:48.250
+You basically are again,
+
+00:16:48.250 --> 00:16:51.290
+a founding team of, of early
+20 year olds.
+
+00:16:51.290 --> 00:16:52.950
+You don&#39;t have anybody on
+your team that has been in
+
+00:16:52.950 --> 00:16:54.260
+the enterprise.
+
+00:16:54.260 --> 00:16:57.330
+The Microsoft and Google and
+all these things are, or
+
+00:16:57.330 --> 00:16:59.310
+not Google, but Microsoft,
+EMC, Oracle, IBM.
+
+00:16:59.310 --> 00:17:01.190
+These kinds of companies are
+gonna stomp on you and
+
+00:17:01.190 --> 00:17:03.880
+it&#39;s gonna be very, very
+hard to actually achieve.
+
+00:17:03.880 --> 00:17:05.460
+And to be fair they were
+
+00:17:05.460 --> 00:17:06.940
+right on a number of areas,
+right?
+
+00:17:06.940 --> 00:17:08.952
+So we were a very
+inexperienced team.
+
+00:17:08.952 --> 00:17:10.770
+This is this was a,
+
+00:17:10.770 --> 00:17:13.160
+in a stage where it is still
+early in our careers.
+
+00:17:13.160 --> 00:17:14.018
+My co-founder, for
+
+00:17:14.018 --> 00:17:15.910
+instance, looked like he was
+13 years old.
+
+00:17:15.910 --> 00:17:18.656
+So just not really, just to
+be clear.
+
+00:17:18.656 --> 00:17:19.610
+This is what he looked like.
+
+00:17:19.610 --> 00:17:22.792
+So So it, it sorta made
+sense.
+
+00:17:22.792 --> 00:17:23.670
+Right?
+
+00:17:23.670 --> 00:17:25.531
+This is, this is him as our
+CFO at,
+
+00:17:25.531 --> 00:17:27.036
+I think this is him at 29.
+
+00:17:27.036 --> 00:17:30.820
+But it looked like we were
+gonna go run
+
+00:17:30.820 --> 00:17:32.680
+off with the money and go to
+Disneyland.
+
+00:17:34.230 --> 00:17:37.050
+So I can totally appreciate
+why they didn&#39;t think we
+
+00:17:37.050 --> 00:17:38.080
+would be able to pull it
+off.
+
+00:17:39.270 --> 00:17:40.750
+I can&#39;t imagine giving him
+money.
+
+00:17:43.140 --> 00:17:46.750
+So basically, we decided
+okay well we still have to
+
+00:17:46.750 --> 00:17:49.080
+go do it, we have to just
+give it our best shot.
+
+00:17:49.080 --> 00:17:50.933
+We&#39;re gonna take the sorta
+scale,
+
+00:17:50.933 --> 00:17:53.603
+the consumer experience, the
+DNA of our company.
+
+00:17:53.603 --> 00:17:55.313
+We&#39;re gonna see if we can
+bring this,
+
+00:17:55.313 --> 00:17:57.131
+into the enterprise and then
+we were very
+
+00:17:57.131 --> 00:17:59.429
+fortunate where actually we
+had an investor who was
+
+00:17:59.429 --> 00:18:01.580
+equally early in his career
+and made a bet on us.
+
+00:18:01.580 --> 00:18:04.240
+Because sorta with the
+belief that there was
+
+00:18:04.240 --> 00:18:05.550
+something fundamentally
+changing about the
+
+00:18:05.550 --> 00:18:07.890
+enterprise that we would be
+able to take advantage of.
+
+00:18:07.890 --> 00:18:09.757
+And so, we decided that if
+we&#39;re gonna do the
+
+00:18:09.757 --> 00:18:12.350
+enterprise, if we&#39;re gonna
+go after the enterprise.
+
+00:18:12.350 --> 00:18:13.140
+That we would have to
+
+00:18:13.140 --> 00:18:14.955
+play by a very different set
+of rules.
+
+00:18:14.955 --> 00:18:19.230
+So, what about the
+complexity of
+
+00:18:19.230 --> 00:18:21.430
+software can change in this
+new era?
+
+00:18:21.430 --> 00:18:24.600
+What about the fact that the
+sales process is very slow,
+
+00:18:24.600 --> 00:18:26.590
+can change in this new area,
+era?
+
+00:18:26.590 --> 00:18:29.650
+How do we move and go
+directly to the user and
+
+00:18:29.650 --> 00:18:30.350
+to the customer.
+
+00:18:30.350 --> 00:18:33.500
+As opposed to having this
+very, sorta indirect process
+
+00:18:33.500 --> 00:18:35.030
+of getting our technology
+out there?
+
+00:18:35.030 --> 00:18:39.270
+How do we build, in design
+for that user as opposed to,
+
+00:18:39.270 --> 00:18:42.700
+just for the sale and sorta
+for the RFP process that
+
+00:18:42.700 --> 00:18:43.820
+a customer is going to go
+through.
+
+00:18:43.820 --> 00:18:46.010
+And so we looked at all of
+the factors,
+
+00:18:46.010 --> 00:18:47.080
+that were true of the
+enterprise.
+
+00:18:47.080 --> 00:18:49.770
+And we said, we&#39;re gonna do,
+maybe not in all cases,
+
+00:18:49.770 --> 00:18:52.620
+the opposite, but we&#39;re
+gonna find what is changed
+
+00:18:52.620 --> 00:18:54.010
+about the technology world.
+
+00:18:54.010 --> 00:18:57.280
+Where we can take advantage
+of that shift and build a,
+
+00:18:57.280 --> 00:18:59.300
+a better and a newer
+enterprise software company.
+
+00:18:59.300 --> 00:19:00.120
+And so,
+
+00:19:00.120 --> 00:19:01.880
+that was the decision that
+we embarked on.
+
+00:19:01.880 --> 00:19:02.970
+This is the path that we
+embarked on
+
+00:19:02.970 --> 00:19:04.240
+about eight years ago.
+
+00:19:04.240 --> 00:19:06.990
+And that is why, we&#39;ve been
+focusing on the enterprise.
+
+00:19:06.990 --> 00:19:09.970
+And so today, again, we have
+about 240,000 businesses
+
+00:19:09.970 --> 00:19:10.940
+that use the product.
+
+00:19:10.940 --> 00:19:15.140
+And the reason is, we
+architected the business
+
+00:19:15.140 --> 00:19:16.730
+model, we architected the
+software.
+
+00:19:16.730 --> 00:19:19.475
+We architected the solution,
+to
+
+00:19:19.475 --> 00:19:23.920
+work in sorta one specific
+version of the world.
+
+00:19:23.920 --> 00:19:26.970
+And it turned out that that
+version ended up being,
+
+00:19:26.970 --> 00:19:29.320
+the sort of, the one that
+happened.
+
+00:19:29.320 --> 00:19:31.020
+And I&#39;ll go into a little
+bit
+
+00:19:31.020 --> 00:19:32.597
+about what has changed about
+the world.
+
+00:19:32.597 --> 00:19:34.472
+That we sorta built out
+company around.
+
+00:19:34.472 --> 00:19:36.260
+And what, I would highly
+recommend you,
+
+00:19:36.260 --> 00:19:38.400
+if your building an
+enterprise software company,
+
+00:19:38.400 --> 00:19:41.190
+make sure to orient to your
+technology and
+
+00:19:41.190 --> 00:19:42.850
+solution around.
+
+00:19:42.850 --> 00:19:45.090
+So, that was, sort of, why
+we made the decision,
+
+00:19:45.090 --> 00:19:48.260
+and kind of how we started
+to take on the problem.
+
+00:19:48.260 --> 00:19:50.130
+Now I&#39;d talk, like to talk a
+little bit about.
+
+00:19:50.130 --> 00:19:52.140
+What has changed about the
+enterprise,
+
+00:19:52.140 --> 00:19:55.830
+that makes it sort of so
+possible to enter it today,
+
+00:19:55.830 --> 00:19:58.370
+better and more seamlessly
+than ever before.
+
+00:19:58.370 --> 00:20:02.410
+So, everything about the
+enterprise and then
+
+00:20:02.410 --> 00:20:05.180
+by definition the software
+that an enterprise uses,
+
+00:20:05.180 --> 00:20:07.420
+has changed just in the past
+five years.
+
+00:20:07.420 --> 00:20:09.790
+This is probably the most
+magical time.
+
+00:20:09.790 --> 00:20:11.230
+If there could have ever
+been a magical time to
+
+00:20:11.230 --> 00:20:13.060
+build an enterprise software
+company now is
+
+00:20:13.060 --> 00:20:13.920
+absolutely that time.
+
+00:20:13.920 --> 00:20:17.430
+Just in terms of how much
+change is going on
+
+00:20:17.430 --> 00:20:18.630
+within organizations.
+
+00:20:18.630 --> 00:20:20.160
+So let&#39;s just go through a
+couple of these things.
+
+00:20:22.020 --> 00:20:26.520
+So, the first is that most
+application categories
+
+00:20:26.520 --> 00:20:27.660
+are moving to the cloud.
+
+00:20:27.660 --> 00:20:30.670
+And the big difference is
+this idea that if you were
+
+00:20:30.670 --> 00:20:33.410
+going to start a customer
+relationship management
+
+00:20:33.410 --> 00:20:34.800
+software company, or
+
+00:20:34.800 --> 00:20:36.780
+a business intelligence
+software company.
+
+00:20:36.780 --> 00:20:40.120
+Or even a content management
+company ten, 15 years
+
+00:20:40.120 --> 00:20:43.020
+ago, you basically had to go
+have your technology be
+
+00:20:43.020 --> 00:20:47.400
+implemented, in every single
+customer location.
+
+00:20:47.400 --> 00:20:49.360
+No matter how many customers
+you sold to,
+
+00:20:49.360 --> 00:20:51.790
+no matter what regions
+they&#39;re in, every single
+
+00:20:51.790 --> 00:20:53.600
+customer had to put that in
+their data center.
+
+00:20:53.600 --> 00:20:55.440
+And that was the flaw with
+on-premise computing,
+
+00:20:55.440 --> 00:20:58.510
+was you were repeating all
+of this work.
+
+00:20:58.510 --> 00:21:00.540
+You were, creating so much
+redundancy.
+
+00:21:00.540 --> 00:21:01.480
+And it was, it was
+
+00:21:01.480 --> 00:21:04.740
+then slowing down the entire
+process of delivering and
+
+00:21:04.740 --> 00:21:06.560
+building software for the
+enterprise.
+
+00:21:06.560 --> 00:21:08.850
+And then all of the sudden
+the cloud came around.
+
+00:21:08.850 --> 00:21:10.830
+Things like Salesforce.com,
+things like
+
+00:21:10.830 --> 00:21:13.500
+Amazon Web Services that
+basically said.
+
+00:21:13.500 --> 00:21:15.920
+Why is it that, that every
+customer,
+
+00:21:15.920 --> 00:21:18.230
+that wants to just implement
+a couple servers,
+
+00:21:18.230 --> 00:21:20.450
+has to go procure the
+servers.
+
+00:21:20.450 --> 00:21:24.000
+Put them in their data
+center put all the security,
+
+00:21:24.000 --> 00:21:25.770
+all the networking around
+those servers.
+
+00:21:25.770 --> 00:21:26.270
+And then, and
+
+00:21:26.270 --> 00:21:28.060
+then, six months later they
+go live and
+
+00:21:28.060 --> 00:21:30.490
+then a developer can use
+them in the organization, or
+
+00:21:30.490 --> 00:21:32.220
+same thing with an
+application.
+
+00:21:32.220 --> 00:21:35.110
+Amazon said why does that
+make any sense today?
+
+00:21:35.110 --> 00:21:37.970
+When we could just, put
+together thousands,
+
+00:21:37.970 --> 00:21:40.200
+tens of thousands, hundreds
+of thousands of servers and
+
+00:21:40.200 --> 00:21:41.640
+make them available on
+demand.
+
+00:21:41.640 --> 00:21:43.520
+And you just use what you
+want when you need that.
+
+00:21:43.520 --> 00:21:45.280
+And that was, that&#39;s
+obviously a definition of
+
+00:21:45.280 --> 00:21:46.330
+cloud computing.
+
+00:21:46.330 --> 00:21:49.660
+What is happening, though,
+is finally CIOs in large
+
+00:21:49.660 --> 00:21:51.670
+enterprises are taking
+advantage of this.
+
+00:21:51.670 --> 00:21:52.750
+So it&#39;s, it seems obvious
+for
+
+00:21:52.750 --> 00:21:54.130
+everyone in this room
+because you would
+
+00:21:54.130 --> 00:21:57.020
+never build, a company by
+buying your own servers.
+
+00:21:57.020 --> 00:21:58.850
+You would start it on
+Amazon, or, or
+
+00:21:58.850 --> 00:22:01.720
+Google or Azure or whatever.
+
+00:22:01.720 --> 00:22:02.990
+But to an enterprise,
+
+00:22:02.990 --> 00:22:06.540
+there are decades, literally
+decades of investment in
+
+00:22:06.540 --> 00:22:08.950
+infrastructure, that now has
+to move to the cloud.
+
+00:22:08.950 --> 00:22:11.610
+And so that&#39;s obviously a
+massive shift that is
+
+00:22:11.610 --> 00:22:13.060
+finally happening.
+
+00:22:13.060 --> 00:22:17.120
+We are moving to a world of
+cheaper, low cost, on demand
+
+00:22:17.120 --> 00:22:19.730
+computing, from a world of
+expensive computing.
+
+00:22:19.730 --> 00:22:21.320
+The benefit to building a
+start up,
+
+00:22:21.320 --> 00:22:23.800
+is that customers don&#39;t have
+the same kinda friction.
+
+00:22:23.800 --> 00:22:26.250
+When they&#39;re gonna go adopt
+new technology, right?
+
+00:22:26.250 --> 00:22:28.910
+As soon as the computing, is
+so much cheaper,
+
+00:22:28.910 --> 00:22:31.050
+it becomes easier to adopt
+new solutions.
+
+00:22:31.050 --> 00:22:33.130
+Which means, that their
+barrier for
+
+00:22:33.130 --> 00:22:34.350
+having a conversation.
+
+00:22:34.350 --> 00:22:36.190
+Their barrier for
+introducing you then,
+
+00:22:36.190 --> 00:22:38.710
+into their enterprise, is a
+lot lower,
+
+00:22:38.710 --> 00:22:40.840
+which creates a massive
+opportunity for start-ups.
+
+00:22:40.840 --> 00:22:42.840
+We&#39;re going from a world of
+customized software,
+
+00:22:42.840 --> 00:22:44.860
+to really standardized
+platforms.
+
+00:22:44.860 --> 00:22:45.720
+So it used to be that you
+had to
+
+00:22:45.720 --> 00:22:47.940
+build custom integration&#39;s
+and all of
+
+00:22:47.940 --> 00:22:50.580
+the custom experiences on
+top of the software itself.
+
+00:22:50.580 --> 00:22:52.860
+And now, customers are
+realizing that actually they
+
+00:22:52.860 --> 00:22:55.530
+want, open platforms and
+they can customize at
+
+00:22:55.530 --> 00:22:57.380
+the layer above the, the
+product.
+
+00:22:58.430 --> 00:23:00.000
+It used to be that when you
+were building enterprise
+
+00:23:00.000 --> 00:23:02.145
+software company you could
+only really sell to,
+
+00:23:02.145 --> 00:23:05.230
+the top five or 10,000
+companies in the world.
+
+00:23:05.230 --> 00:23:06.890
+Because only those
+companies,
+
+00:23:06.890 --> 00:23:09.120
+had the where with all, the
+talent,
+
+00:23:09.120 --> 00:23:11.740
+the infrastructure and the
+budget to deploy your
+
+00:23:11.740 --> 00:23:13.470
+technology into the
+enterprise.
+
+00:23:13.470 --> 00:23:16.350
+Today, literally a two
+person company can sign up
+
+00:23:16.350 --> 00:23:19.870
+for box, as well as we work
+with General Electric which
+
+00:23:19.870 --> 00:23:21.830
+has over 300,000 employees.
+
+00:23:21.830 --> 00:23:24.860
+So, the fact that you can
+now serve a small
+
+00:23:24.860 --> 00:23:26.700
+business anywhere in the
+world.
+
+00:23:26.700 --> 00:23:28.130
+As well as some of the
+largest companies on
+
+00:23:28.130 --> 00:23:29.480
+the planet, mean that
+
+00:23:29.480 --> 00:23:32.070
+there&#39;s much larger markets
+that you can go after.
+
+00:23:32.070 --> 00:23:34.970
+Which makes it, obviously,
+even a better economic
+
+00:23:34.970 --> 00:23:38.380
+proposition to go after the
+enterprise.
+
+00:23:38.380 --> 00:23:40.450
+The platforms themselves are
+becoming more global.
+
+00:23:40.450 --> 00:23:42.730
+So our customers were
+international literally
+
+00:23:42.730 --> 00:23:44.310
+within the first couple of
+weeks,
+
+00:23:44.310 --> 00:23:45.540
+of starting the company.
+
+00:23:45.540 --> 00:23:47.950
+It would have been, usually
+if you had done enterprise
+
+00:23:47.950 --> 00:23:50.320
+software the traditional way
+that would have taken years,
+
+00:23:50.320 --> 00:23:52.130
+to actually be able to go
+international.
+
+00:23:52.130 --> 00:23:53.490
+And then finally and
+
+00:23:53.490 --> 00:23:55.280
+probably the most profound
+shift of all.
+
+00:23:55.280 --> 00:23:57.820
+Is that because of mobile
+devices, you know,
+
+00:23:57.820 --> 00:24:02.170
+iPhone&#39;s, iPad&#39;s, tablets
+Android devices, the IT
+
+00:24:02.170 --> 00:24:05.340
+model of the enterprise has
+become a lot more user led.
+
+00:24:05.340 --> 00:24:07.580
+And, that&#39;s fundamentally
+important because,
+
+00:24:07.580 --> 00:24:11.260
+in an IT led world,
+incumbents generally win.
+
+00:24:11.260 --> 00:24:12.480
+Because, they have the
+existing
+
+00:24:12.480 --> 00:24:15.680
+relationship with the IT
+organization, with the CIO,
+
+00:24:15.680 --> 00:24:18.520
+with the spending power
+within that company.
+
+00:24:18.520 --> 00:24:21.350
+In a user led model, users
+are bringing in,
+
+00:24:21.350 --> 00:24:22.700
+their own technology.
+
+00:24:22.700 --> 00:24:24.690
+They&#39;re bringing it in on
+the sales team,
+
+00:24:24.690 --> 00:24:27.060
+they&#39;re bringing it in, in
+the marketing team,
+
+00:24:27.060 --> 00:24:29.000
+they&#39;re bringing it in in
+finance.
+
+00:24:29.000 --> 00:24:31.330
+And you can build software
+then around the user.
+
+00:24:31.330 --> 00:24:33.540
+Which means that they can
+bring the technology in.
+
+00:24:33.540 --> 00:24:35.430
+Then you can sell to the
+enterprise when they
+
+00:24:35.430 --> 00:24:36.460
+wanna have better control,
+
+00:24:36.460 --> 00:24:38.360
+better security, better
+scalability.
+
+00:24:38.360 --> 00:24:39.893
+So you still have the same
+business model,
+
+00:24:39.893 --> 00:24:41.650
+as a traditional enterprise
+software company.
+
+00:24:41.650 --> 00:24:43.785
+But the way to get into the
+company is now,
+
+00:24:43.785 --> 00:24:44.950
+through the end user.
+
+00:24:47.390 --> 00:24:50.160
+Okay, so those are
+qualitative factor changes.
+
+00:24:50.160 --> 00:24:52.192
+Just a couple quantitative
+factor changes.
+
+00:24:52.192 --> 00:24:52.882
+There&#39;s over,
+
+00:24:52.882 --> 00:24:55.192
+nearly 2 billion smart
+phones on the planet.
+
+00:24:55.192 --> 00:25:00.010
+That changes, every single
+IT model, on the planet,
+
+00:25:00.010 --> 00:25:01.720
+because it used to be, ten
+years ago, if you
+
+00:25:01.720 --> 00:25:03.860
+were managing technology for
+an enterprise.
+
+00:25:03.860 --> 00:25:06.590
+You just had to manage the
+computers and
+
+00:25:06.590 --> 00:25:09.560
+the network that were inside
+of your building.
+
+00:25:09.560 --> 00:25:11.830
+But now with billions of
+mobile phones,
+
+00:25:11.830 --> 00:25:12.920
+you fundamentally have to be
+able to
+
+00:25:12.920 --> 00:25:14.240
+manage the network and the
+computing.
+
+00:25:14.240 --> 00:25:16.950
+That is gonna be anywhere at
+anytime on a network.
+
+00:25:16.950 --> 00:25:18.925
+And that creates massive
+opportunity for
+
+00:25:18.925 --> 00:25:19.998
+software companies,
+
+00:25:19.998 --> 00:25:22.880
+because no incumbent has
+built the technology stack.
+
+00:25:22.880 --> 00:25:25.130
+Sorry for my voice breaking
+again,
+
+00:25:25.130 --> 00:25:28.450
+so no incumbent has built a
+technology stack.
+
+00:25:28.450 --> 00:25:32.170
+That powers this next
+generation of work, and
+
+00:25:32.170 --> 00:25:33.830
+how enterprises are using
+their data.
+
+00:25:33.830 --> 00:25:35.789
+So that creates a massive
+start up opportunity.
+
+00:25:35.789 --> 00:25:38.490
+There&#39;s nearly 3 billion
+people online.
+
+00:25:38.490 --> 00:25:41.230
+What that means is that
+every single enterprise is
+
+00:25:41.230 --> 00:25:44.310
+equally changing how they&#39;re
+gonna get their own products
+
+00:25:44.310 --> 00:25:45.700
+to their customers.
+
+00:25:45.700 --> 00:25:48.090
+Which means, that every
+industry changes.
+
+00:25:48.090 --> 00:25:50.450
+And so, there are really
+only two times,
+
+00:25:50.450 --> 00:25:52.420
+there are only two moments
+of opportunity.
+
+00:25:52.420 --> 00:25:55.510
+Where a technology
+revolution will happen in
+
+00:25:55.510 --> 00:25:56.160
+the enterprise.
+
+00:25:56.160 --> 00:25:59.410
+The first is if the raw
+materials change.
+
+00:25:59.410 --> 00:26:02.430
+So, cost of computing goes
+down and then it&#39;s better to
+
+00:26:02.430 --> 00:26:05.710
+centralize, and then let
+people use it on demand.
+
+00:26:05.710 --> 00:26:09.520
+The second major change is
+that the very customers that
+
+00:26:09.520 --> 00:26:12.580
+these enterprises have to go
+after, need new
+
+00:26:12.580 --> 00:26:16.180
+experiences of working with
+those enterprises&#39; products.
+
+00:26:16.180 --> 00:26:17.330
+Let me give you an example.
+
+00:26:17.330 --> 00:26:20.430
+If, you know, when you go
+out off campus, you
+
+00:26:20.430 --> 00:26:22.860
+probably use something like
+Uber or Lyft, as an example.
+
+00:26:24.900 --> 00:26:27.180
+The if you were in the
+transportation business.
+
+00:26:27.180 --> 00:26:28.143
+If you&#39;re in the shipping
+business,
+
+00:26:28.143 --> 00:26:30.200
+if you&#39;re in the logistic
+business,
+
+00:26:30.200 --> 00:26:34.420
+Uber represents a massive
+change to your industry.
+
+00:26:34.420 --> 00:26:36.720
+So you can&#39;t just let Uber
+exist and
+
+00:26:36.720 --> 00:26:38.600
+do its own thing without
+understanding.
+
+00:26:38.600 --> 00:26:39.920
+What are the implications of
+Uber?
+
+00:26:39.920 --> 00:26:41.330
+What are the implications of
+InstaCart?
+
+00:26:41.330 --> 00:26:44.380
+What are the implications of
+Lyft to my business model?
+
+00:26:44.380 --> 00:26:45.800
+And so, in a world where,
+
+00:26:45.800 --> 00:26:48.470
+enterprises are dealing with
+that kind of change.
+
+00:26:48.470 --> 00:26:50.260
+They&#39;re gonna need new
+technology,
+
+00:26:50.260 --> 00:26:52.980
+to help them evolve their
+business models, and
+
+00:26:52.980 --> 00:26:54.900
+how they adapt to this
+disruption.
+
+00:26:54.900 --> 00:26:56.370
+And so in every industry,
+and
+
+00:26:56.370 --> 00:26:59.820
+this is why it&#39;s an amazing
+time to even build vertical
+
+00:26:59.820 --> 00:27:02.030
+software companies for
+industries.
+
+00:27:02.030 --> 00:27:05.460
+Right now, every single
+industry is going through
+
+00:27:05.460 --> 00:27:07.270
+a major business model and
+
+00:27:07.270 --> 00:27:09.810
+technology oriented
+disruption.
+
+00:27:09.810 --> 00:27:11.080
+Which means that they&#39;re
+going to need
+
+00:27:11.080 --> 00:27:14.110
+technology from startups to
+help them work through this.
+
+00:27:14.110 --> 00:27:15.200
+I&#39;ll give you a couple of
+examples.
+
+00:27:17.170 --> 00:27:19.770
+So, in the retail industry.
+
+00:27:19.770 --> 00:27:21.882
+There&#39;s this notion of sort
+of omni-channel or
+
+00:27:21.882 --> 00:27:23.450
+multi-channel commerce.
+
+00:27:23.450 --> 00:27:24.330
+You&#39;re gonna shop online,
+
+00:27:24.330 --> 00:27:25.540
+you&#39;re gonna shop on your
+phone,
+
+00:27:25.540 --> 00:27:27.390
+you&#39;re gonna shop in a
+store, and
+
+00:27:27.390 --> 00:27:29.500
+you want things to be
+delivered to you as well.
+
+00:27:29.500 --> 00:27:32.410
+So most of the incumbent
+technology in the retail
+
+00:27:32.410 --> 00:27:35.690
+industry, doesn&#39;t power
+multi-channel commerce.
+
+00:27:35.690 --> 00:27:37.540
+No, nobody is prepared for
+
+00:27:37.540 --> 00:27:40.890
+what does it mean when
+consumers wanna go actually
+
+00:27:40.890 --> 00:27:43.450
+buy goods at anytime from
+anywhere.
+
+00:27:43.450 --> 00:27:45.410
+With better information and
+better intelligence.
+
+00:27:45.410 --> 00:27:48.100
+So every retailer in the
+world, is gonna need a new
+
+00:27:48.100 --> 00:27:51.760
+technology stack to power
+their retail experiences.
+
+00:27:51.760 --> 00:27:55.100
+In the health care space,
+every single health care
+
+00:27:55.100 --> 00:27:58.160
+institution is trying to
+find ways of building a more
+
+00:27:58.160 --> 00:28:01.860
+personalized experiences,
+more predictive experiences.
+
+00:28:01.860 --> 00:28:06.580
+They wanna have medicine be
+adapted to the individual.
+
+00:28:06.580 --> 00:28:07.630
+As the business model of
+
+00:28:07.630 --> 00:28:11.100
+health care changes from
+being about charging for
+
+00:28:11.100 --> 00:28:13.342
+the surgery, charging for
+the checkup.
+
+00:28:13.342 --> 00:28:16.200
+And instead where the
+customer pays for
+
+00:28:16.200 --> 00:28:18.100
+wellness and staying
+healthy.
+
+00:28:18.100 --> 00:28:20.600
+Then all the sudden every
+healthcare institution,
+
+00:28:20.600 --> 00:28:22.940
+needs better technology to
+deliver health care
+
+00:28:22.940 --> 00:28:23.840
+experiences.
+
+00:28:23.840 --> 00:28:25.668
+They&#39;re gonna wanna deliver
+telemedicine.
+
+00:28:25.668 --> 00:28:27.800
+They&#39;re gonna wanna deliver
+healthcare in more
+
+00:28:27.800 --> 00:28:29.310
+regional locations as
+opposed to
+
+00:28:29.310 --> 00:28:32.150
+just in the monolithic
+hospital environment.
+
+00:28:32.150 --> 00:28:34.050
+There&#39;s going to be new use
+cases around.
+
+00:28:34.050 --> 00:28:36.550
+How do our electronic health
+records get connected to
+
+00:28:36.550 --> 00:28:39.610
+one another so doctors can
+make far better decisions.
+
+00:28:39.610 --> 00:28:42.820
+All of these things are
+gonna require new enterprise
+
+00:28:42.820 --> 00:28:45.600
+software to power these
+businesses and
+
+00:28:45.600 --> 00:28:46.960
+these industries.
+
+00:28:46.960 --> 00:28:49.370
+In the media space as an
+example.
+
+00:28:49.370 --> 00:28:51.070
+You know, you have a world
+where an industry is
+
+00:28:51.070 --> 00:28:53.820
+going from really linear
+programming.
+
+00:28:53.820 --> 00:28:54.880
+So whether that&#39;s
+television, or
+
+00:28:54.880 --> 00:28:57.360
+that&#39;s music, or whether
+that&#39;s movies, there&#39;s sorta
+
+00:28:57.360 --> 00:29:00.140
+very linear supply chain
+oriented business model.
+
+00:29:00.140 --> 00:29:02.280
+Where a film gets made,
+
+00:29:02.280 --> 00:29:04.320
+it goes to the movie theater
+for three months and
+
+00:29:04.320 --> 00:29:05.800
+then afterwards it goes to
+iTunes and
+
+00:29:05.800 --> 00:29:07.070
+these other platforms.
+
+00:29:07.070 --> 00:29:09.360
+To a world where people want
+experiences on demand.
+
+00:29:09.360 --> 00:29:10.910
+So that&#39;s gonna change,
+
+00:29:10.910 --> 00:29:13.850
+how distribution works on
+the scale of 3 billion
+
+00:29:13.850 --> 00:29:15.210
+people that are on the
+internet.
+
+00:29:15.210 --> 00:29:17.850
+And again, no media company
+has a platform.
+
+00:29:17.850 --> 00:29:19.750
+That is gonna be able to
+actually power,
+
+00:29:19.750 --> 00:29:21.480
+how content and data and
+
+00:29:21.480 --> 00:29:24.430
+information moves through
+the system at scale.
+
+00:29:24.430 --> 00:29:25.010
+We were just,
+
+00:29:25.010 --> 00:29:27.410
+I was just in LA yesterday
+meeting with a media
+
+00:29:27.410 --> 00:29:30.760
+company that has basically
+done predictive analytics.
+
+00:29:30.760 --> 00:29:34.074
+To find their potential
+movie goers in
+
+00:29:34.074 --> 00:29:38.132
+the population of 3 billion
+internet users.
+
+00:29:38.132 --> 00:29:41.122
+They wanna be hyper targeted
+on how they get to the very,
+
+00:29:41.122 --> 00:29:44.280
+the sorta specific 30
+million people that are fans
+
+00:29:44.280 --> 00:29:46.660
+of different kinds of film
+types.
+
+00:29:46.660 --> 00:29:49.230
+And so all of a sudden, you
+have a movie company,
+
+00:29:49.230 --> 00:29:50.872
+that actually needs big
+data.
+
+00:29:50.872 --> 00:29:52.686
+And they need business
+intelligence and
+
+00:29:52.686 --> 00:29:54.241
+they need marketing
+automation.
+
+00:29:54.241 --> 00:29:56.176
+To go power how they&#39;re
+gonna go market and
+
+00:29:56.176 --> 00:29:57.372
+distribute their movie.
+
+00:29:57.372 --> 00:29:58.191
+So again.
+
+00:29:58.191 --> 00:30:00.270
+Totally unpredictable
+mash-up of two
+
+00:30:00.270 --> 00:30:03.042
+industries coming together,
+where all new kinds of
+
+00:30:03.042 --> 00:30:05.050
+software is gonna be
+necessary.
+
+00:30:05.050 --> 00:30:08.080
+So, every industry is going
+through some form of
+
+00:30:08.080 --> 00:30:09.060
+this change.
+
+00:30:09.060 --> 00:30:11.530
+You can pick any industry
+you want, and take and
+
+00:30:11.530 --> 00:30:14.230
+sort of zoom into it and
+say, what are the underlying
+
+00:30:14.230 --> 00:30:16.900
+technology factors that are
+gonna change the business
+
+00:30:16.900 --> 00:30:19.540
+model of this industry in
+the next couple of years?
+
+00:30:19.540 --> 00:30:21.960
+And then there&#39;s gonna need
+to be software that goes and
+
+00:30:21.960 --> 00:30:24.170
+powers those experiences.
+
+00:30:24.170 --> 00:30:26.880
+Cool, are we all on the same
+page, great.
+
+00:30:26.880 --> 00:30:27.770
+I just need a drink water,
+so
+
+00:30:27.770 --> 00:30:31.058
+if you could say something
+that would be great.
+
+00:30:32.330 --> 00:30:34.640
+&gt;&gt; Can we also edit out my
+water drinking, so
+
+00:30:34.640 --> 00:30:35.560
+it doesn&#39;t make it look like
+I
+
+00:30:35.560 --> 00:30:37.030
+have some weird water
+problem?
+
+00:30:37.030 --> 00:30:40.478
+Okay, cool.
+
+00:30:40.478 --> 00:30:42.740
+I mean, think about the
+future of water.
+
+00:30:42.740 --> 00:30:44.620
+Who&#39;s gonna power that,
+right?
+
+00:30:44.620 --> 00:30:46.955
+&gt;&gt; Gonna need, that&#39;s gonna
+need software, I&#39;m sure, so.
+
+00:30:50.370 --> 00:30:54.325
+&gt;&gt; So basically, every
+company in the world.
+
+00:30:54.325 --> 00:30:57.345
+We think of, you know, the
+good fortune of being in
+
+00:30:57.345 --> 00:31:00.084
+Palo Alto, being at Stanford
+is, is we&#39;re so
+
+00:31:00.084 --> 00:31:02.080
+hyper-focused on technology.
+
+00:31:02.080 --> 00:31:05.480
+And we think of the
+technology industry as
+
+00:31:05.480 --> 00:31:07.470
+an industry, but in reality
+what is
+
+00:31:07.470 --> 00:31:10.410
+happening is every company,
+every industry is gonna have
+
+00:31:10.410 --> 00:31:12.840
+a technology component of
+what they do.
+
+00:31:12.840 --> 00:31:14.643
+You won&#39;t be able to survive
+in the future,
+
+00:31:14.643 --> 00:31:16.886
+enterprises will not be able
+to survive in the future,
+
+00:31:16.886 --> 00:31:18.514
+if they don&#39;t get good at
+technology.
+
+00:31:18.514 --> 00:31:20.300
+If they don&#39;t have a
+competency in
+
+00:31:20.300 --> 00:31:23.080
+leveraging data and using
+these new tools.
+
+00:31:23.080 --> 00:31:26.780
+But they&#39;re gonna do that
+through working with
+
+00:31:26.780 --> 00:31:29.010
+what we consider the
+technology industry,
+
+00:31:29.010 --> 00:31:31.250
+as opposed to everybody
+building up these pockets of
+
+00:31:31.250 --> 00:31:32.290
+expertise themselves.
+
+00:31:32.290 --> 00:31:34.540
+So there&#39;s gonna be a lot of
+partnership over the next
+
+00:31:34.540 --> 00:31:37.900
+five to ten years, where
+companies are gonna need to
+
+00:31:37.900 --> 00:31:40.910
+use technology to work
+smarter, to work faster.
+
+00:31:40.910 --> 00:31:42.630
+They&#39;re gonna need to do
+this more securely, and
+
+00:31:42.630 --> 00:31:45.630
+this is gonna change, not
+only how individuals work in
+
+00:31:45.630 --> 00:31:47.310
+these environments, but
+ultimately change
+
+00:31:47.310 --> 00:31:49.118
+the business models of these
+companies.
+
+00:31:49.118 --> 00:31:53.090
+So that was chapter two of
+this.
+
+00:31:53.090 --> 00:31:54.410
+That&#39;s all the things that
+have been changed.
+
+00:31:54.410 --> 00:31:56.534
+Now some practical advice,
+
+00:31:56.534 --> 00:31:59.370
+where to kind of help you
+get started.
+
+00:32:01.870 --> 00:32:05.010
+And to be fair, most of this
+advice is
+
+00:32:05.010 --> 00:32:08.890
+looking through the sort of
+lens of retrospect, which
+
+00:32:08.890 --> 00:32:12.130
+means that, that this is not
+always how things happen.
+
+00:32:12.130 --> 00:32:13.940
+But I can look back in time
+and say,
+
+00:32:13.940 --> 00:32:16.090
+these are things that led
+certain things to be true.
+
+00:32:16.090 --> 00:32:18.990
+So it&#39;s hard to be super
+deterministic about building
+
+00:32:18.990 --> 00:32:22.110
+a company, and you might not
+have all of these things
+
+00:32:22.110 --> 00:32:22.943
+totally figured out.
+
+00:32:22.943 --> 00:32:24.330
+But these will give you a
+sense of some of
+
+00:32:24.330 --> 00:32:27.270
+the patterns to recognize
+and
+
+00:32:27.270 --> 00:32:29.670
+opportunities to exploit as
+you&#39;re building, or
+
+00:32:29.670 --> 00:32:31.805
+thinking about building, an
+enterprise software company.
+
+00:32:31.805 --> 00:32:35.890
+So the first is, spot
+technology disruptions.
+
+00:32:35.890 --> 00:32:36.540
+And this is gonna be
+
+00:32:36.540 --> 00:32:38.950
+true whether you&#39;re building
+consumer or enterprise.
+
+00:32:38.950 --> 00:32:40.260
+The rest are more enterprise
+oriented, but
+
+00:32:40.260 --> 00:32:43.010
+this is just fundamental to
+entrepreneurship,
+
+00:32:43.010 --> 00:32:44.610
+if you&#39;re gonna build a tech
+company.
+
+00:32:44.610 --> 00:32:48.612
+So you have to look for new
+enabling technologies or
+
+00:32:48.612 --> 00:32:52.337
+major trends, like
+fundamental trends, that
+
+00:32:52.337 --> 00:32:56.432
+create a wide gap between
+how things have been done,
+
+00:32:56.432 --> 00:32:58.990
+and how they can be done.
+
+00:32:58.990 --> 00:33:02.670
+And so, looking back in time
+at our business, the gap was
+
+00:33:02.670 --> 00:33:06.260
+basically, storage is
+getting cheaper, internet
+
+00:33:06.260 --> 00:33:08.520
+was getting faster, browsers
+were getting better.
+
+00:33:08.520 --> 00:33:10.840
+Yet we&#39;re still sharing
+files through this
+
+00:33:10.840 --> 00:33:13.990
+very complicated, very
+esoteric, very slow and
+
+00:33:13.990 --> 00:33:15.200
+cumbersome means.
+
+00:33:15.200 --> 00:33:20.000
+So any time where the delta
+between what is possible and
+
+00:33:20.000 --> 00:33:22.480
+how things work today is at
+its widest,
+
+00:33:22.480 --> 00:33:25.550
+that is an opportunity to go
+build new technology to go
+
+00:33:25.550 --> 00:33:26.940
+solve a problem.
+
+00:33:26.940 --> 00:33:29.170
+And so as you&#39;re looking at
+the enterprise,
+
+00:33:29.170 --> 00:33:32.230
+the question is, what about
+the cost of computing
+
+00:33:32.230 --> 00:33:35.680
+dropping so rapidly changes
+what enterprises can
+
+00:33:35.680 --> 00:33:36.300
+do with their data?
+
+00:33:36.300 --> 00:33:38.030
+What does it change about
+what you
+
+00:33:38.030 --> 00:33:40.390
+can do from a business model
+standpoint?
+
+00:33:40.390 --> 00:33:44.150
+What was impossible, because
+of either
+
+00:33:44.150 --> 00:33:47.660
+economic feasibility or
+technical feasibility 10 or
+
+00:33:47.660 --> 00:33:50.890
+15 years ago, that now all
+of a sudden is possible.
+
+00:33:50.890 --> 00:33:52.440
+And a fun thing you can do
+sometime is,
+
+00:33:52.440 --> 00:33:57.140
+if you go look at articles
+from like the 1990&#39;s or
+
+00:33:57.140 --> 00:33:59.810
+even the 1980&#39;s, business
+articles about technology.
+
+00:34:01.070 --> 00:34:03.580
+All we&#39;re really doing is
+repeating a lot of
+
+00:34:03.580 --> 00:34:07.300
+the technologies that were
+tried 10, 20, 30 years ago.
+
+00:34:07.300 --> 00:34:09.200
+It&#39;s just, it was too
+expensive,
+
+00:34:09.200 --> 00:34:10.740
+it was too unusable, and we
+didn&#39;t have
+
+00:34:10.740 --> 00:34:13.460
+the enabling technologies to
+make it possible.
+
+00:34:13.460 --> 00:34:16.280
+So you can kind of see this
+pattern emerge constantly
+
+00:34:16.280 --> 00:34:18.420
+where something that was
+impossible five or 10 years
+
+00:34:18.420 --> 00:34:21.030
+ago, all of a sudden becomes
+very practical.
+
+00:34:21.030 --> 00:34:22.720
+So I&#39;ll give you an example.
+
+00:34:22.720 --> 00:34:23.790
+There&#39;s a company called
+PlanGrid.
+
+00:34:23.790 --> 00:34:26.140
+Does anybody know what
+PlanGrid does?
+
+00:34:26.140 --> 00:34:26.660
+Okay.
+Cool.
+
+00:34:26.660 --> 00:34:28.530
+Are you in the construction
+industry?
+
+00:34:28.530 --> 00:34:29.660
+You are?
+
+00:34:29.660 --> 00:34:30.250
+&gt;&gt; Yes, I am.
+
+00:34:30.250 --> 00:34:32.040
+&gt;&gt; Oh, my god.
+What does that even mean?
+
+00:34:32.040 --> 00:34:34.030
+&gt;&gt; In terms of PlanGrid or
+like in construction?
+
+00:34:34.030 --> 00:34:34.530
+&gt;&gt; Construction.
+
+00:34:35.850 --> 00:34:37.140
+&gt;&gt; I work at a job site.
+
+00:34:37.140 --> 00:34:38.470
+We build buildings.
+
+00:34:38.470 --> 00:34:40.107
+&gt;&gt; Holy crap, that&#39;s great.
+
+00:34:40.107 --> 00:34:41.641
+&gt;&gt; Okay, so.
+
+00:34:41.641 --> 00:34:42.938
+Thank you.
+
+00:34:42.938 --> 00:34:48.817
+So basically PlanGrid is a
+mobile application that
+
+00:34:48.817 --> 00:34:53.610
+lets you manage construction
+projects.
+
+00:34:53.610 --> 00:34:55.988
+Lets you get access to your
+blueprints, lets you manage
+
+00:34:55.988 --> 00:34:58.320
+all of the data around a
+construction process.
+
+00:34:58.320 --> 00:35:03.230
+And what this team realized
+was that $4 billion,
+
+00:35:03.230 --> 00:35:06.270
+I believe, are spent every
+year printing out blueprints
+
+00:35:06.270 --> 00:35:08.010
+and making all of the
+prints, and
+
+00:35:08.010 --> 00:35:09.896
+updates to those blueprints
+any time there&#39;s a change.
+
+00:35:09.896 --> 00:35:11.190
+And then that has to ripple
+and
+
+00:35:11.190 --> 00:35:14.830
+cascade through a very wide
+network of contractors and
+
+00:35:14.830 --> 00:35:16.170
+construction people every
+time that
+
+00:35:16.170 --> 00:35:18.208
+there&#39;s even just one
+slight, minute change.
+
+00:35:18.208 --> 00:35:20.646
+And they realized that, you
+know, with the iPad,
+
+00:35:20.646 --> 00:35:23.138
+all of a sudden, we have the
+perfect form vector to be
+
+00:35:23.138 --> 00:35:25.424
+able to load up blueprints
+and load up content.
+
+00:35:25.424 --> 00:35:26.568
+And this is something that
+
+00:35:26.568 --> 00:35:28.804
+could ripple through the
+construction industry,
+
+00:35:28.804 --> 00:35:30.936
+which isn&#39;t necessarily
+notoriously known for
+
+00:35:30.936 --> 00:35:33.510
+high technology, except for
+on the design side.
+
+00:35:33.510 --> 00:35:34.980
+How could they build
+technology that would
+
+00:35:34.980 --> 00:35:38.580
+make the data access, the
+data collaboration problem
+
+00:35:38.580 --> 00:35:42.050
+really, really seamless and
+easy to do, in a very,
+
+00:35:42.050 --> 00:35:43.330
+you know, traditional
+industry that
+
+00:35:43.330 --> 00:35:46.590
+hasn&#39;t quite changed for a
+while.
+
+00:35:46.590 --> 00:35:50.800
+So it was a sort of perfect,
+sort of discovery of
+
+00:35:50.800 --> 00:35:53.280
+a technology change in a
+market and
+
+00:35:53.280 --> 00:35:55.780
+figuring out how do those
+two things converge.
+
+00:35:55.780 --> 00:35:58.100
+And then this team built a
+great startup out of it that
+
+00:35:58.100 --> 00:36:01.830
+is doing incredibly well,
+and totally taking over
+
+00:36:01.830 --> 00:36:04.576
+the construction industry as
+proven by this individual.
+
+00:36:04.576 --> 00:36:06.400
+Thank you.
+
+00:36:08.458 --> 00:36:11.230
+&gt;&gt; So the next thing is, in
+the enterprise you want to
+
+00:36:11.230 --> 00:36:12.880
+start intentionally small.
+
+00:36:13.890 --> 00:36:17.060
+What I mean by that is, you
+want to find, and
+
+00:36:17.060 --> 00:36:18.740
+this is again, true of a lot
+of companies, but
+
+00:36:18.740 --> 00:36:20.230
+even more true in
+enterprise,
+
+00:36:20.230 --> 00:36:22.150
+in a user-led paradigm.
+
+00:36:22.150 --> 00:36:25.640
+You want to find the wedge
+that is sort of the very
+
+00:36:25.640 --> 00:36:29.000
+natural place where you can
+create a product that will
+
+00:36:29.000 --> 00:36:32.420
+slip in between the gaps of
+other existing products.
+
+00:36:32.420 --> 00:36:33.340
+But is something that you
+
+00:36:33.340 --> 00:36:35.190
+think over time expands to
+become
+
+00:36:35.190 --> 00:36:38.140
+a more important part of the
+enterprise architecture.
+
+00:36:38.140 --> 00:36:41.140
+So, what you want to start
+to do is to say,
+
+00:36:41.140 --> 00:36:43.510
+we&#39;re gonna take this sliver
+of a problem,
+
+00:36:43.510 --> 00:36:46.680
+we&#39;re going to totally make
+the user experience on
+
+00:36:46.680 --> 00:36:48.010
+that incredible.
+
+00:36:48.010 --> 00:36:49.990
+We&#39;re gonna either change
+the business model.
+
+00:36:49.990 --> 00:36:52.360
+We&#39;re gonna create new
+technology that makes this
+
+00:36:52.360 --> 00:36:55.210
+previously difficult problem
+really, really simple.
+
+00:36:55.210 --> 00:36:57.570
+And it might feel small at
+first.
+
+00:36:57.570 --> 00:36:59.170
+Maybe you&#39;re going after
+small businesses and
+
+00:36:59.170 --> 00:37:00.620
+then you&#39;re gonna move
+upmarket.
+
+00:37:00.620 --> 00:37:02.210
+Maybe you&#39;re starting it
+just a sliver of
+
+00:37:02.210 --> 00:37:04.170
+the use case and then you&#39;re
+gonna expand out.
+
+00:37:04.170 --> 00:37:06.500
+But you intentionally start
+small because you
+
+00:37:06.500 --> 00:37:08.550
+will not be able to compete
+with an incumbent.
+
+00:37:08.550 --> 00:37:10.190
+Because the incumbent is
+gonna always go for
+
+00:37:10.190 --> 00:37:11.320
+the full solution.
+
+00:37:11.320 --> 00:37:13.280
+So you have to find what are
+the gaps in
+
+00:37:13.280 --> 00:37:16.600
+the full solution that are
+significant enough
+
+00:37:16.600 --> 00:37:17.620
+where a customer is going to
+
+00:37:17.620 --> 00:37:20.810
+want to solve the problem
+with a discreet technology.
+
+00:37:20.810 --> 00:37:23.260
+But that over time you&#39;re
+gonna be able to expand,
+
+00:37:23.260 --> 00:37:25.435
+again either to larger
+customers or
+
+00:37:25.435 --> 00:37:27.600
+to more use cases over time.
+
+00:37:27.600 --> 00:37:29.130
+Great example is zenpayroll.
+
+00:37:29.130 --> 00:37:32.119
+So zenpayroll, started by a
+Stanford graduate or
+
+00:37:32.119 --> 00:37:35.580
+Stanford graduates, couple
+of years ago.
+
+00:37:35.580 --> 00:37:40.620
+Basically discovered that
+the payroll process in small
+
+00:37:40.620 --> 00:37:44.190
+businesses is an incredibly
+complicated and annoying and
+
+00:37:44.190 --> 00:37:45.370
+cumbersome process.
+
+00:37:45.370 --> 00:37:47.710
+And that&#39;s because we use
+the same vendors that we&#39;ve
+
+00:37:47.710 --> 00:37:49.470
+been using for decades to do
+that.
+
+00:37:49.470 --> 00:37:51.630
+And they weren&#39;t sort of
+digitally oriented.
+
+00:37:51.630 --> 00:37:55.750
+You didn&#39;t get your payments
+as a receipt, over email.
+
+00:37:55.750 --> 00:37:56.880
+It was a very complicated.
+
+00:37:56.880 --> 00:38:00.970
+You didn&#39;t really get to see
+graphs of your salaries.
+
+00:38:00.970 --> 00:38:03.040
+There was no real good data
+around this.
+
+00:38:03.040 --> 00:38:04.530
+And they said, we&#39;re just
+gonna take
+
+00:38:04.530 --> 00:38:07.920
+off the slice that is most
+painful to startups around
+
+00:38:07.920 --> 00:38:10.820
+hiring people and around
+paying people,
+
+00:38:10.820 --> 00:38:12.840
+which is just that payroll
+management process.
+
+00:38:12.840 --> 00:38:14.160
+We&#39;re going to plug into a
+lot of
+
+00:38:14.160 --> 00:38:15.540
+existing infrastructure, but
+
+00:38:15.540 --> 00:38:17.710
+we&#39;re going to make it dead
+simple to go do this.
+
+00:38:17.710 --> 00:38:20.630
+And now they&#39;re able to move
+both up market over time
+
+00:38:20.630 --> 00:38:22.890
+as well as deliver new
+services over time.
+
+00:38:22.890 --> 00:38:25.640
+And what happens is the
+incumbents in
+
+00:38:25.640 --> 00:38:28.110
+this market initially look
+at something like this and
+
+00:38:28.110 --> 00:38:29.810
+payroll and they say, well,
+that&#39;s small.
+
+00:38:29.810 --> 00:38:30.980
+It&#39;s only for small
+businesses.
+
+00:38:30.980 --> 00:38:32.450
+It&#39;s not gonna be very
+powerful.
+
+00:38:32.450 --> 00:38:33.900
+But that&#39;s just the start.
+
+00:38:33.900 --> 00:38:35.540
+Because as they get that
+wedge and
+
+00:38:35.540 --> 00:38:37.020
+as they fit into the market,
+
+00:38:37.020 --> 00:38:38.840
+they&#39;re gonna be able to
+expand again over time,
+
+00:38:38.840 --> 00:38:41.410
+build out more services and
+more capabilities.
+
+00:38:41.410 --> 00:38:44.330
+But they found just the
+exact right opening to build
+
+00:38:44.330 --> 00:38:46.149
+a new company and have that
+emerge.
+
+00:38:48.290 --> 00:38:51.550
+The next is you really want
+to find asymmetries.
+
+00:38:51.550 --> 00:38:54.710
+You want to find, my God,
+okay, so can we
+
+00:38:54.710 --> 00:38:58.660
+do like some auto like some
+tuning of a voice later so
+
+00:38:58.660 --> 00:39:00.490
+at least it&#39;ll sound like
+I&#39;m doing rap.
+
+00:39:01.800 --> 00:39:03.001
+{do things that incumbents
+can&#39;t or
+
+00:39:03.001 --> 00:39:04.692
+won&#39;t do because it&#39;s
+economically or technically
+
+00:39:04.692 --> 00:39:06.417
+infeasible} Okay, so you
+want to be able to, you want
+
+00:39:06.417 --> 00:39:08.460
+to do things that incumbents
+can&#39;t or won&#39;t do.
+
+00:39:08.460 --> 00:39:10.280
+Because, either the
+economics don&#39;t make
+
+00:39:10.280 --> 00:39:11.170
+sense for them.
+
+00:39:11.170 --> 00:39:12.640
+Or the economics are so
+different, or
+
+00:39:12.640 --> 00:39:16.400
+so unusual or because
+technically they can&#39;t.
+
+00:39:16.400 --> 00:39:17.850
+I&#39;ll give you two examples.
+
+00:39:17.850 --> 00:39:21.071
+So, if you&#39;re gonna build
+software today for
+
+00:39:21.071 --> 00:39:24.788
+the enterprise that goes
+after an incumbent category
+
+00:39:24.788 --> 00:39:27.854
+that has more of a sweet
+oriented approach.
+
+00:39:27.854 --> 00:39:30.063
+Then what you wanna go do,
+is you wanna build
+
+00:39:30.063 --> 00:39:32.960
+technology that&#39;s gonna be
+platform agnostic.
+
+00:39:32.960 --> 00:39:35.210
+Because what sweet players
+will do, is they
+
+00:39:35.210 --> 00:39:38.460
+want everything to be
+integrated with itself and
+
+00:39:38.460 --> 00:39:41.330
+that there&#39;s more value with
+that vertical integration.
+
+00:39:41.330 --> 00:39:44.550
+But you wanna go after a
+different access, which is,
+
+00:39:44.550 --> 00:39:46.480
+you want your technology to
+work across all of
+
+00:39:46.480 --> 00:39:47.670
+the platforms.
+
+00:39:47.670 --> 00:39:49.610
+So that way, you can work
+with so
+
+00:39:49.610 --> 00:39:51.330
+many different kinds of
+customers, and
+
+00:39:51.330 --> 00:39:52.810
+you can be an ally to so
+
+00:39:52.810 --> 00:39:54.370
+many different kinds of
+platforms,
+
+00:39:54.370 --> 00:39:56.250
+which a traditional
+incumbent is not able to do.
+
+00:39:56.250 --> 00:39:57.460
+So that&#39;s something that is
+
+00:39:57.460 --> 00:40:00.810
+usually technically
+infeasible, because of
+
+00:40:00.810 --> 00:40:02.550
+how either something has
+been architected.
+
+00:40:02.550 --> 00:40:04.430
+Or because the fundamental
+component of
+
+00:40:04.430 --> 00:40:07.030
+the business model to not do
+that as the incumbent.
+
+00:40:08.080 --> 00:40:09.800
+But, the other thing is try
+and
+
+00:40:09.800 --> 00:40:11.230
+do things that are
+economically infeasible.
+
+00:40:12.520 --> 00:40:14.620
+You can look at the cost
+structure of
+
+00:40:14.620 --> 00:40:17.630
+an incumbent company and
+discover where are they
+
+00:40:17.630 --> 00:40:20.010
+not going to be able to drop
+their prices.
+
+00:40:20.010 --> 00:40:22.370
+Because that business model
+is fundamental to
+
+00:40:22.370 --> 00:40:24.300
+the existence of the
+company.
+
+00:40:24.300 --> 00:40:28.180
+Or where can you find ways
+of monetizing the customer
+
+00:40:28.180 --> 00:40:29.802
+that are unusual or
+
+00:40:29.802 --> 00:40:33.312
+unique, that no one has
+discovered before.
+
+00:40:33.312 --> 00:40:35.500
+And thus is really not
+practical for
+
+00:40:35.500 --> 00:40:36.800
+anyone else to do.
+
+00:40:36.800 --> 00:40:40.110
+That&#39;s a company called
+Zenefits, where they have
+
+00:40:40.110 --> 00:40:43.010
+an HR management software
+company that helps you,
+
+00:40:43.010 --> 00:40:44.220
+as a small startup,
+
+00:40:44.220 --> 00:40:46.940
+manage all of your benefits,
+all of your HR information.
+
+00:40:46.940 --> 00:40:49.830
+And instead of charging the
+startup, which might not
+
+00:40:49.830 --> 00:40:52.530
+value that software at the
+stage that they&#39;re at.
+
+00:40:52.530 --> 00:40:53.820
+They realized that they
+could get
+
+00:40:53.820 --> 00:40:56.690
+commission from the
+insurance companies.
+
+00:40:56.690 --> 00:40:58.710
+And that basically pays for
+
+00:40:58.710 --> 00:41:00.450
+the ability to use their
+software.
+
+00:41:00.450 --> 00:41:02.030
+So, the customer itself is
+not paying for
+
+00:41:02.030 --> 00:41:04.900
+Zenefits, the Zenefits
+platform is being paid for
+
+00:41:04.900 --> 00:41:06.815
+by the insurance company.
+
+00:41:06.815 --> 00:41:08.874
+And they&#39;ve thus invented a
+business model,
+
+00:41:08.874 --> 00:41:10.932
+that no other software
+company has been able to
+
+00:41:10.932 --> 00:41:11.848
+think of or attack.
+
+00:41:11.848 --> 00:41:13.653
+And they&#39;re equally going
+and
+
+00:41:13.653 --> 00:41:16.431
+disrupting a category that
+hasn&#39;t seen a lot of
+
+00:41:16.431 --> 00:41:19.279
+innovation previously, which
+is the health and
+
+00:41:19.279 --> 00:41:22.137
+benefit space within small
+businesses.
+
+00:41:22.137 --> 00:41:25.504
+The next is you wanna find
+the really crazy but, but
+
+00:41:25.504 --> 00:41:28.873
+sort of still somewhat
+reasonable outliers within
+
+00:41:28.873 --> 00:41:31.070
+the customer ecosystem.
+
+00:41:31.070 --> 00:41:34.180
+So you need to find the
+customers that are sort of
+
+00:41:34.180 --> 00:41:35.730
+at the edge of their
+business, or
+
+00:41:35.730 --> 00:41:37.690
+at their business model, or
+of their industry.
+
+00:41:37.690 --> 00:41:39.770
+And find the unique
+characteristics about those
+
+00:41:39.770 --> 00:41:43.020
+customers, and leverage them
+as your early adopters.
+
+00:41:43.020 --> 00:41:45.810
+So Paul Graham has a great
+article, where he
+
+00:41:45.810 --> 00:41:49.000
+talks about living in the
+future and building for
+
+00:41:49.000 --> 00:41:51.460
+what is missing when you&#39;re
+living in the future.
+
+00:41:51.460 --> 00:41:54.050
+So that&#39;s a sort of easy way
+to spot trends and
+
+00:41:54.050 --> 00:41:56.750
+patterns about disruption
+that&#39;s playing out.
+
+00:41:56.750 --> 00:41:58.920
+The same is true in the work
+place.
+
+00:41:58.920 --> 00:42:01.990
+If you find customers that
+are working in the future,
+
+00:42:01.990 --> 00:42:04.040
+you will be able to work
+with them to find what is
+
+00:42:04.040 --> 00:42:06.480
+missing when you&#39;re working
+in the future.
+
+00:42:06.480 --> 00:42:09.310
+And how we build technology
+that supports all these new
+
+00:42:09.310 --> 00:42:11.410
+use cases that are going to
+emerge.
+
+00:42:11.410 --> 00:42:13.170
+There&#39;s a company called
+Skycatch,
+
+00:42:13.170 --> 00:42:15.710
+which does enterprise
+drones.
+
+00:42:15.710 --> 00:42:19.500
+And at first it seems kind
+of weird, but
+
+00:42:19.500 --> 00:42:22.260
+in the construction space,
+in farming, in oil and
+
+00:42:22.260 --> 00:42:25.990
+gas, they&#39;re using drones
+now for data capture, and
+
+00:42:25.990 --> 00:42:27.910
+the ability to do modeling
+of,
+
+00:42:27.910 --> 00:42:29.300
+of different environments.
+
+00:42:29.300 --> 00:42:32.147
+And so, this company is able
+to find all of the companies
+
+00:42:32.147 --> 00:42:34.873
+that are at the bleeding
+edge of their industry, what
+
+00:42:34.873 --> 00:42:37.797
+is unique or new about how
+those organizations operate.
+
+00:42:37.797 --> 00:42:40.721
+And they built and worked
+with a lot of those early
+
+00:42:40.721 --> 00:42:44.144
+adopters to establish their
+platform, which is again,
+
+00:42:44.144 --> 00:42:47.370
+really one of the first
+enterprise drone companies.
+
+00:42:47.370 --> 00:42:50.050
+So the idea is go look at
+your market.
+
+00:42:50.050 --> 00:42:52.684
+Find the customers that are
+at the bleeding edge of
+
+00:42:52.684 --> 00:42:55.317
+the market, who use
+technology to get ahead, and
+
+00:42:55.317 --> 00:42:58.027
+that use technology for
+performance advantages.
+
+00:42:58.027 --> 00:43:01.153
+And then go work with them
+to discover how your product
+
+00:43:01.153 --> 00:43:02.220
+can evolve.
+
+00:43:02.220 --> 00:43:04.280
+Two minutes.
+
+00:43:04.280 --> 00:43:04.880
+Okay.
+
+00:43:04.880 --> 00:43:05.769
+Good.
+Right, so.
+
+00:43:07.675 --> 00:43:08.207
+The next one is.
+And
+
+00:43:08.207 --> 00:43:10.867
+then there&#39;s a part two in
+five minutes from now, or
+
+00:43:10.867 --> 00:43:12.360
+is that not the case?
+
+00:43:12.360 --> 00:43:14.540
+Okay, so, listen to your
+customers, but
+
+00:43:14.540 --> 00:43:16.720
+don&#39;t always build exactly
+what they&#39;re telling you.
+
+00:43:16.720 --> 00:43:17.590
+This is a really key
+
+00:43:17.590 --> 00:43:20.390
+distinction around building
+enterprise software.
+
+00:43:20.390 --> 00:43:22.700
+Your customers are gonna
+have a large number of
+
+00:43:22.700 --> 00:43:23.510
+requests.
+
+00:43:23.510 --> 00:43:26.520
+Your job is to distill those
+requests down
+
+00:43:26.520 --> 00:43:28.940
+into the ultimate product.
+
+00:43:28.940 --> 00:43:30.430
+That does not mean that
+you&#39;re going to
+
+00:43:30.430 --> 00:43:32.500
+build exactly what they tell
+you to build.
+
+00:43:32.500 --> 00:43:35.150
+It is your job to listen to
+their problems, but
+
+00:43:35.150 --> 00:43:38.190
+actually translate those
+into what is going to build
+
+00:43:38.190 --> 00:43:41.360
+the best and simplest
+solution to those problems.
+
+00:43:41.360 --> 00:43:44.570
+It&#39;s really your job, and
+Palantir does this,
+
+00:43:44.570 --> 00:43:47.180
+as an example, with very,
+very complex issues.
+
+00:43:47.180 --> 00:43:50.410
+And then they distill those
+down into simple solutions
+
+00:43:50.410 --> 00:43:51.430
+for very, very,
+
+00:43:51.430 --> 00:43:54.120
+complex problems that the
+customer otherwise would not
+
+00:43:54.120 --> 00:43:55.830
+have known how to ask for
+
+00:43:55.830 --> 00:43:58.530
+You want to modularize, not
+customize.
+
+00:43:58.530 --> 00:44:01.459
+So build a platform, as
+opposed to building all of
+
+00:44:01.459 --> 00:44:04.742
+the custom technology and
+custom vertical experiences
+
+00:44:04.742 --> 00:44:07.188
+directly in the software
+itself.
+
+00:44:07.188 --> 00:44:09.080
+Make sure that you really
+think about openness in
+
+00:44:09.080 --> 00:44:12.120
+APIs as a way of delivering
+vertical or
+
+00:44:12.120 --> 00:44:13.320
+custom experiences.
+
+00:44:13.320 --> 00:44:15.500
+Don&#39;t build that directly
+into the product.
+
+00:44:15.500 --> 00:44:17.420
+Focus on the user always.
+
+00:44:17.420 --> 00:44:18.616
+So, again, the magical thing
+
+00:44:18.616 --> 00:44:21.388
+about building an enterprise
+software company right now.
+
+00:44:21.388 --> 00:44:23.790
+Is you can keep consumer DNA
+at the center of
+
+00:44:23.790 --> 00:44:25.010
+the product.
+
+00:44:25.010 --> 00:44:27.512
+That will always mean that
+adoption is easier.
+
+00:44:27.512 --> 00:44:29.160
+Your product has a much
+higher chance of
+
+00:44:29.160 --> 00:44:30.200
+going viral.
+
+00:44:30.200 --> 00:44:32.590
+It becomes easier to sell
+into the organization.
+
+00:44:32.590 --> 00:44:35.600
+So always make sure you
+bring consumer DNA
+
+00:44:35.600 --> 00:44:37.550
+into the product development
+process.
+
+00:44:37.550 --> 00:44:39.373
+And your product should sell
+itself, but
+
+00:44:39.373 --> 00:44:41.980
+that does not mean you don&#39;t
+need sales people.
+
+00:44:41.980 --> 00:44:43.950
+So this is a really
+important distinction.
+
+00:44:43.950 --> 00:44:46.050
+Leverage everything about
+the internet, leverage
+
+00:44:46.050 --> 00:44:49.210
+everything about users to
+get to your customers.
+
+00:44:49.210 --> 00:44:52.120
+But you still will likely
+need sales as a way to
+
+00:44:52.120 --> 00:44:54.400
+help your customers navigate
+your product.
+
+00:44:54.400 --> 00:44:55.730
+Help your customers navigate
+
+00:44:55.730 --> 00:44:58.400
+the competitive landscape
+and the ecosystem.
+
+00:44:58.400 --> 00:45:01.464
+So you&#39;re going to want
+consultative, very,
+
+00:45:01.464 --> 00:45:04.376
+very domain-oriented sales
+individuals,
+
+00:45:04.376 --> 00:45:07.669
+that are gonna be able to be
+helpful in your customer
+
+00:45:07.669 --> 00:45:11.136
+being deployed and enabled
+in these organizations.
+
+00:45:11.136 --> 00:45:13.380
+But don&#39;t make that be a
+substitute.
+
+00:45:13.380 --> 00:45:15.924
+Do not make that be a
+handicap for
+
+00:45:15.924 --> 00:45:18.380
+not building a great
+product.
+
+00:45:18.380 --> 00:45:19.200
+So you fundamentally have to
+
+00:45:19.200 --> 00:45:20.710
+keep the product at the
+center of that.
+
+00:45:20.710 --> 00:45:22.420
+Company called Mixed Panel
+comes in through
+
+00:45:22.420 --> 00:45:24.670
+the developer, and then over
+time is able to sell to that
+
+00:45:24.670 --> 00:45:27.700
+organization with a more
+inside sales-led process.
+
+00:45:27.700 --> 00:45:29.425
+Also read these three books.
+
+00:45:29.425 --> 00:45:32.930
+So Crossing the Chasm,
+Innovators Dilemma, and
+
+00:45:32.930 --> 00:45:33.970
+Behind the Cloud.
+
+00:45:33.970 --> 00:45:36.220
+These three combined,
+especially if you read,
+
+00:45:36.220 --> 00:45:38.510
+if you binge and you just
+read them all.
+
+00:45:38.510 --> 00:45:39.260
+You&#39;ll definitely come out
+
+00:45:39.260 --> 00:45:41.370
+the other end with a massive
+software company.
+
+00:45:42.714 --> 00:45:45.802
+And so, in closing today.
+
+00:45:45.802 --> 00:45:48.850
+Right now,when you leave
+this room, is an amazing
+
+00:45:48.850 --> 00:45:51.730
+time to go start an
+enterprise software company.
+
+00:45:51.730 --> 00:45:53.340
+So I wish you the best of
+luck.
+
+00:45:53.340 --> 00:45:55.490
+And of course, if it doesn&#39;t
+work, we are hiring.
+
+00:45:57.546 --> 00:45:59.540
+So, and then the only other
+caveat is please do
+
+00:45:59.540 --> 00:46:00.630
+not compete with me.
+
+00:46:00.630 --> 00:46:02.560
+Because I have a lot of
+competition already.
+
+00:46:02.560 --> 00:46:05.280
+So ideally either come work
+for us, or
+
+00:46:05.280 --> 00:46:06.540
+build your own company.
+
+00:46:06.540 --> 00:46:07.510
+So thank you very much.
+
