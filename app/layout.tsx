@@ -35,7 +35,13 @@ export default function RootLayout({
       <body className="flex flex-col min-h-full">
         {/* Header */}
         <header className="container flex flex-col gap-2 items-start sm:flex-row justify-between sm:items-end mx-auto p-4">
-          <h1 className="text-4xl">How to Start a Startup</h1>
+          <div>
+            <h1 className="text-4xl">How to Start a Startup</h1>
+            <p className="my-2">
+              Everything we know about how to start a startup, for free, from some of the world
+              experts.
+            </p>
+          </div>
           <GitHubBtn />
         </header>
 
